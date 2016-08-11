@@ -1,11 +1,11 @@
 
 === States, Cities, and Places for Woocommerce ===
 Contributors: chitezh
-Donate link: http://hydromars.com
-Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, nigeria, locations
+Donate link: https://hydromars.com
+Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, nigeria
 Requires at least: 4.0
 Tested up to: 4.5.2
-Stable tag: 1.0.2
+Stable tag: 1.0.1
 WC requires at least: 2.2
 WC tested up to: 2.6.0
 License: GPLv2 or later
@@ -51,13 +51,13 @@ If on the off-chance you do encounter issues with the shop/category pages after 
 == Frequently Asked Questions ==
 
 = How do I report bugs? =
-Kindly create an issue stating the bug and how you caught it [here](https://github.com/chitezh/woocommerce_states_places/issues/new).
+Kindly create an issue stating the bug and how you caught it [https://github.com/chitezh/woocommerce_states_places/issues/new](https://github.com/chitezh/woocommerce_states_places/issues/new)
 
 = Can I suggest a new place or location? =
-Yes, you can always suggest or request new locations by creating an issue [here](https://github.com/chitezh/woocommerce_states_places/
+Yes, you can always suggest or request new locations by creating an issue [https://github.com/chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places).
 
 = How do I contribute to the project? =
-You extend the plugin to cover countries, states and places. we accept pull requests.
+You extend the plugin to cover countries, states and places. we accept pull requests. Fork the repo and make changes to /trunk. Consider reading [wordpress faq](https://wordpress.org/plugins/about/faq/) to further understand wordpress svn file structure.
 
 	Pull Requests
 
