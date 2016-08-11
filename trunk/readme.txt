@@ -79,6 +79,8 @@ You extend the plugin to cover countries, states and places. we accept pull requ
 
 == Changelog ==
 = 1.0 =
-* 15/07/2016 First release.
+* 10/08/2016 First release.
 = 1.0.1 =
 * 10/08/2016 Update readme.
+= 1.0.1 =
+* 10/08/2016 Change author name.

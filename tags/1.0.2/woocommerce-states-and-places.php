@@ -4,7 +4,7 @@
  * Plugin URI: https://hydromars.com/plugins/wc-nigerian-places
  * Description: Woocommerce plugin for listing states, cities, places, local government areas and towns in all countries of the world.
  * Version: 1.0.2
- * Author: HydroMars
+ * Author: Kingsley Ochu
  * Author URI: https://hydromars.com
  * Developer: Kingsley Ochu
  * Developer URI: https://ng.linkedin.com/in/kingsleyochu/
@@ -16,7 +16,7 @@
 /**
  * Die if accessed directly
  */
-defined( 'ABSPATH' ) or die( 'Abeg, no try am!' );
+defined( 'ABSPATH' ) or die( 'You can not access this file directly!' );
 
 /**
  * Check if WooCommerce is active
