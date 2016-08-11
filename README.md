@@ -5,7 +5,7 @@ Donate link: https://hydromars.com
 Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, nigeria
 Requires at least: 4.0
 Tested up to: 4.5.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 WC requires at least: 2.2
 WC tested up to: 2.6.0
 License: GPLv2 or later
@@ -89,3 +89,5 @@ You extend the plugin to cover countries, states and places. we accept pull requ
 * 15/07/2016 First release.
 = 1.0.1 =
 * 10/08/2016 Update readme.
+= 1.0.2 =
+* 10/08/2016 Update structure.
