@@ -16,7 +16,7 @@
 /**
  * Die if accessed directly
  */
-defined( 'ABSPATH' ) or die( 'Abeg, no try am!' );
+defined( 'ABSPATH' ) or die( 'You can not access this file directly!' );
 
 /**
  * Check if WooCommerce is active
