@@ -1,7 +1,7 @@
 
 === States, Cities, and Places for Woocommerce ===
 Contributors: chitezh
-Donate link: http://hydromars.com
+Donate link: https://hydromars.com
 Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, nigeria
 Requires at least: 4.0
 Tested up to: 4.5.2
