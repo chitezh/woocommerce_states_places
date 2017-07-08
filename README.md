@@ -1,4 +1,4 @@
-#States, Cities, and Places for Woocommerce
+# States, Cities, and Places for Woocommerce
 
 Wordpress plugin that shows dropdowns for State and City Select for woocomerce
 
