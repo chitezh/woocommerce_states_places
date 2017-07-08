@@ -1,6 +1,6 @@
 
 === States, Cities, and Places for Woocommerce ===
-Contributors: chitezh
+Contributors: chitezh, luisurrutiaf
 Donate link: https://hydromars.com
 Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, nigeria
 Requires at least: 4.0
@@ -20,6 +20,7 @@ This WooCommerce plugin transforms the text input for states, the city or town. 
 This will be shown in checkout pages, edit addresses pages, shipping calculator, etc.
 
 = Supported Countries =
+ * Chile
  * Nigeria
 
 == Installation ==
