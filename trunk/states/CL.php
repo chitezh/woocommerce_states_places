@@ -22,7 +22,7 @@ $states ['CL' ] = array (
 	'IX'   => 'IX Región: La Araucanía',
 	'XIV'  => 'XIV Región: Los Ríos',
 	'X'    => 'X Región: Los Lagos',
-	'XI'   => 'VI Región: Aisén del General Carlos Ibáñez del Campo',
+	'XI'   => 'XI Región: Aisén del General Carlos Ibáñez del Campo',
 	'XII'  => 'XII Región: Magallanes y Antártica Chilena',
 	'RM'   => 'RM Región: Metropolitana de Santiago'
 );
