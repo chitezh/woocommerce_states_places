@@ -3,9 +3,9 @@
  * Plugin Name: States, Cities, and Places for Woocommerce
  * Plugin URI: https://hydromars.com/plugins/wc-nigerian-places
  * Description: Woocommerce plugin for listing states, cities, places, local government areas and towns in all countries of the world.
- * Version: 1.0.2
+ * Version: 1.1.0
  * Author: Kingsley Ochu
- * Author URI: https://hydromars.com
+ * Author URI: https://github.com/chitezh
  * Developer: Kingsley Ochu
  * Developer URI: https://ng.linkedin.com/in/kingsleyochu/
  * Text Domain: woocommerce-extension
@@ -285,9 +285,18 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 
 			return $this->plugin_url = plugin_dir_url( __FILE__ );
 		}
+<<<<<<< HEAD
 	}
 	/**
 	 * Instantiate class
 	 */
 	$GLOBALS['wc_states_places'] = new WC_States_Places();
 };
+=======
+    }
+    /**
+    * Instantiate class
+    */
+    $GLOBALS['wc_states_places'] = new WC_States_Places();
+};
+>>>>>>> Update readme 1.1.0

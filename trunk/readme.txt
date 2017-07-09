@@ -1,13 +1,13 @@
 
 === States, Cities, and Places for Woocommerce ===
 Contributors: chitezh, luisurrutiaf
-Donate link: https://hydromars.com
-Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, nigeria
+Donate link: https://github.com/chitezh
+Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, Nigeria, Chile
 Requires at least: 4.0
-Tested up to: 4.5.2
-Stable tag: 1.0.2
+Tested up to: 4.8
+Stable tag: 1.1.0
 WC requires at least: 2.2
-WC tested up to: 2.6.0
+WC tested up to: 3.1.0
 License: GPLv2 or later
 License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -83,5 +83,7 @@ You extend the plugin to cover countries, states and places. we accept pull requ
 * 10/08/2016 First release.
 = 1.0.1 =
 * 10/08/2016 Update readme.
-= 1.0.1 =
+= 1.0.2 =
 * 10/08/2016 Change author name.
+= 1.0.2 =
+* 09/07/2017 Add Chilean states.

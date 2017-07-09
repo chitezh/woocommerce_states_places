@@ -7,8 +7,9 @@ This WooCommerce plugin transforms the text input for states, the city or town. 
 This will be shown in checkout pages, edit addresses pages, shipping calculator, etc.
 
 ## Supported Countries
+ * Chile
  * Nigeria
- 
+
 ## Requirements
 * WordPress 4.0  or greater
 * Woocommerce 2.2 or greater
@@ -17,7 +18,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Installation
 ### Automatic
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser. 
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser.
 
 To do an automatic install of WooCommerce, log in to your WordPress dashboard, navigate to the Plugins menu and click `Add New`.
 
@@ -42,7 +43,7 @@ Kindly create an issue stating the bug and how you caught it [chitezh/woocommerc
 Yes, you can always suggest or request new locations by creating an issue [chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places/issues/new).
 
 ### How do I contribute to the project?
-You extend the plugin to cover countries, states and places. we accept pull requests. 
+You extend the plugin to cover countries, states and places. we accept pull requests.
 
 Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](https://wordpress.org/plugins/about/faq/) to further understand wordpress svn file structure.
 
@@ -73,12 +74,15 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
 
 ## Contributors
 Kingsley Ochu - [chitezh](https://github.com/chitezh)
+Luis Sebastian Urrutia Fuentes - [LuisUrrutia](https://github.com/LuisUrrutia)
 
 
 ## Changelog
-
-* 1.0.1
+* 1.1.0
+    * 09/07/2017 Add Chilean states
+* 1.0.2
     * 10/08/2016 Change author name.
+* 1.0.1
     * 10/08/2016 Update readme.
 * 1.0.0
     * 15/07/2016 First release.
