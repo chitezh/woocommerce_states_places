@@ -73,8 +73,8 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
  	[![Screen 4](https://github.com/chitezh/woocommerce_states_places/blob/master/assets/screenshot-4.png)]()
 
 ## Contributors
-Kingsley Ochu - [chitezh](https://github.com/chitezh)
-Luis Sebastian Urrutia Fuentes - [LuisUrrutia](https://github.com/LuisUrrutia)
+- Kingsley Ochu - [chitezh](https://github.com/chitezh)
+- Luis Sebastian Urrutia Fuentes - [LuisUrrutia](https://github.com/LuisUrrutia)
 
 
 ## Changelog
