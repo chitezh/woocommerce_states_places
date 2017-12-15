@@ -285,18 +285,9 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 
 			return $this->plugin_url = plugin_dir_url( __FILE__ );
 		}
-<<<<<<< HEAD
 	}
 	/**
 	 * Instantiate class
 	 */
 	$GLOBALS['wc_states_places'] = new WC_States_Places();
 };
-=======
-    }
-    /**
-    * Instantiate class
-    */
-    $GLOBALS['wc_states_places'] = new WC_States_Places();
-};
->>>>>>> Update readme 1.1.0
