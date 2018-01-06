@@ -1,4 +1,15 @@
-$cities['DK'] = array(
+<?php
+/**
+ * Danish cities
+ *
+ * @author   Kingsley Ochu <ochu.kc@gmail.com>
+ * @version  1.0.0
+ * @license http://opensource.org/licenses/gpl-license.php GNU Public License
+ * Credits: Jonas Skafte - jonasskafte
+ */
+
+global $states;
+
 	'Aabenraa',
 	'Aabybro',
 	'Aakirkeby',
