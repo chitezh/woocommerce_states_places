@@ -30,30 +30,30 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 		private $places;
 
 		/**
-		 * Construct class
-		 */
+		* Construct class
+		*/
 		public function __construct() {
-			add_action( 'plugins_loaded', array( $this, 'init') );
+			 add_action( 'plugins_loaded', array( $this, 'init') );
 		}
 
 		/**
-		 * WC init
-		 */
+		* WC init
+		*/
 		public function init() {
 			$this->init_states();
-			$this-> init_places();
+			$this->	init_places();
 		}
 
 		/**
-		 * WC States init
-		 */
+		* WC States init
+		*/
 		public function init_states() {
 			add_filter('woocommerce_states', array($this, 'wc_states'));
 		}
 
 		/**
-		 * WC States init
-		 */
+		* WC States init
+		*/
 		public function init_places() {
 			add_filter( 'woocommerce_billing_fields', array( $this, 'wc_billing_fields' ), 10, 2 );
 			add_filter( 'woocommerce_shipping_fields', array( $this, 'wc_shipping_fields' ), 10, 2 );
@@ -63,43 +63,43 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 		}
 
 		/**
-		 * Implement WC States
-		 * @param mixed $states
-		 * @return mixed
-		 */
-		public function  wc_states($states) {
-			//get countries allowed by store owner
-			$allowed = $this->get_store_allowed_countries();
+	    * Implement WC States
+	    * @param mixed $states
+	    * @return mixed
+	    */
+        public function  wc_states($states) {
+        	//get countries allowed by store owner
+            $allowed = $this->get_store_allowed_countries();
 
-			if (!empty( $allowed ) ) {
-				foreach ($allowed as $code => $country) {
-					if (! isset( $states[$code] ) && file_exists($this->get_plugin_path() . '/states/' . $code . '.php')) {
-						include($this->get_plugin_path() . '/states/' . $code . '.php');
-					}
-				}
-			}
+            if (!empty( $allowed ) ) {
+                foreach ($allowed as $code => $country) {
+                    if (! isset( $states[$code] ) && file_exists($this->get_plugin_path() . '/states/' . $code . '.php')) {
+                        include($this->get_plugin_path() . '/states/' . $code . '.php');
+                    }
+                }
+            }
 
-			return $states;
-		}
+            return $states;
+        }
 
-		/**
-		 * Modify billing field
-		 * @param mixed $fields
-		 * @param mixed $country
-		 * @return mixed
-		 */
-		public function wc_billing_fields( $fields, $country ) {
+        /**
+	    * Modify billing field
+	    * @param mixed $fields
+	    * @param mixed $country
+	    * @return mixed
+	    */
+        public function wc_billing_fields( $fields, $country ) {
 			$fields['billing_city']['type'] = 'city';
 
 			return $fields;
 		}
 
 		/**
-		 * Modify shipping field
-		 * @param mixed $fields
-		 * @param mixed $country
-		 * @return mixed
-		 */
+	    * Modify shipping field
+	    * @param mixed $fields
+	    * @param mixed $country
+	    * @return mixed
+	    */
 		public function wc_shipping_fields( $fields, $country ) {
 			$fields['shipping_city']['type'] = 'city';
 
@@ -107,13 +107,13 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 		}
 
 		/**
-		 * Implement places/city field
-		 * @param mixed $field
-		 * @param string $key
-		 * @param mixed $args
-		 * @param string $value
-		 * @return mixed
-		 */
+	    * Implement places/city field
+	    * @param mixed $field
+	    * @param string $key
+	    * @param mixed $args
+	    * @param string $value
+	    * @return mixed
+	    */
 		public function wc_form_field_city($field, $key, $args, $value ) {
 			// Do we need a clear div?
 			if ( ( ! empty( $args['clear'] ) ) ) {
@@ -168,7 +168,7 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 
 				$field .= '<option value="">'. __( 'Select an option&hellip;', 'woocommerce' ) .'</option>';
 
-				if ( $current_sc && array_key_exists( $current_sc, $places ) ) {
+				if ( $current_sc ) {
 					$dropdown_places = $places[ $current_sc ];
 				} else if ( is_array($places) &&  isset($places[0])) {
 					$dropdown_places = array_reduce( $places, 'array_merge', array() );
@@ -177,10 +177,10 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 					$dropdown_places = $places;
 				}
 
-				foreach ( $dropdown_places as $city_name ) {
-					if(!is_array($city_name)) {
+	        	foreach ( $dropdown_places as $city_name ) {
+	        		if(!is_array($city_name)) {
 						$field .= '<option value="' . esc_attr( $city_name ) . '" '.selected( $value, $city_name, false ) . '>' . $city_name .'</option>';
-					}
+	        		}
 				}
 
 				$field .= '</select>';
@@ -199,11 +199,11 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 
 			return $field;
 		}
-		/**
-		 * Get places
-		 * @param string $p_code(default:)
-		 * @return mixed
-		 */
+ 		/**
+	    * Get places
+	    * @param string $p_code(default:)
+	    * @return mixed
+	    */
 		public function get_places( $p_code = null ) {
 			if ( empty( $this->places ) ) {
 				$this->load_country_places();
@@ -216,9 +216,9 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 			}
 		}
 		/**
-		 * Get country places
-		 * @return mixed
-		 */
+	    * Get country places
+	    * @return mixed
+	    */
 		public function load_country_places() {
 			global $places;
 
@@ -236,8 +236,8 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 		}
 
 		/**
-		 * Load scripts
-		 */
+	    * Load scripts
+	    */
 		public function load_scripts() {
 			if ( is_cart() || is_checkout() || is_wc_endpoint_url( 'edit-address' ) ) {
 
@@ -252,32 +252,32 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 			}
 		}
 
-		/**
-		 * Get plugin root path
-		 * @return mixed
-		 */
-		private function get_plugin_path() {
-			if (isset($this->plugin_path)) {
+        /**
+        * Get plugin root path
+	    * @return mixed
+        */
+        private function get_plugin_path() {
+            if (isset($this->plugin_path)) {
 				return $this->plugin_path;
 			}
 			$path = $this->plugin_path = plugin_dir_path( __FILE__ );
 
 			return untrailingslashit($path);
-		}
+        }
 
-		/**
-		 * Get Store allowed countries
-		 * @return mixed
-		 */
-		private function get_store_allowed_countries() {
-			return array_merge( WC()->countries->get_allowed_countries(), WC()->countries->get_shipping_countries() );
-		}
+        /**
+        * Get Store allowed countries
+	    * @return mixed
+        */
+        private function get_store_allowed_countries() {
+            return array_merge( WC()->countries->get_allowed_countries(), WC()->countries->get_shipping_countries() );
+        }
 
-		/**
-		 * Get plugin url
-		 * @return mixed
-		 */
-		public function get_plugin_url() {
+        /**
+        * Get plugin url
+	    * @return mixed
+        */
+        public function get_plugin_url() {
 
 			if (isset($this->plugin_url)) {
 				return $this->plugin_url;
@@ -285,9 +285,9 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 
 			return $this->plugin_url = plugin_dir_url( __FILE__ );
 		}
-	}
-	/**
-	 * Instantiate class
-	 */
-	$GLOBALS['wc_states_places'] = new WC_States_Places();
+    }
+    /**
+    * Instantiate class
+    */
+    $GLOBALS['wc_states_places'] = new WC_States_Places();
 };
