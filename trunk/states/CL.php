@@ -2,27 +2,28 @@
 /**
  * Chilean states
  *
- * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me>
- * @version 1.0.0
+ * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me> | * @version 1.0.0
+ * @update  Elias Rabah <www.hazmeunapagina.cl> | * @version 1.0.1 (16 Regiones sin numerales / Agosto 2018)
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
 
 global $states;
 
 $states ['CL' ] = array (
-	'XV'   => 'XV Región: Arica y Parinacota',
-	'I'    => 'I Región: Tarapacá',
-	'II'   => 'II Región: Antofagasta',
-	'III'  => 'III Región: Atacama',
-	'IV'   => 'IV Región: Coquimbo',
-	'V'    => 'V Región: Valparíso',
-	'VI'   => 'VI Región: Libertador General Bernardo O\'Higgins',
-	'VII'  => 'VII Región: Maule',
-	'VIII' => 'VIII Región: Bíobío',
-	'IX'   => 'IX Región: La Araucanía',
-	'XIV'  => 'XIV Región: Los Ríos',
-	'X'    => 'X Región: Los Lagos',
-	'XI'   => 'XI Región: Aisén del General Carlos Ibáñez del Campo',
-	'XII'  => 'XII Región: Magallanes y Antártica Chilena',
-	'RM'   => 'RM Región: Metropolitana de Santiago'
+	'ARI'   => 'Región: Arica y Parinacota',
+	'TAR'   => 'Región: Tarapacá',
+	'ANT'   => 'Región: Antofagasta',
+	'ATA'   => 'Región: Atacama',
+	'COQ'   => 'Región: Coquimbo',
+	'VAL'   => 'Región: Valparaíso',
+	'MET'   => 'Región: Metropolitana de Santiago',
+	'LIB'   => 'Región: Libertador General Bernardo OHiggins',
+	'MAU'   => 'Región: Maule',
+	'NUB'   => 'Región: Ñuble',
+	'BIO'   => 'Región: Bíobío',
+	'ARA'   => 'Región: La Araucanía',
+	'RIO'   => 'Región: Los Ríos',
+	'LAG'   => 'Región: Los Lagos',
+	'AYS'   => 'Región: Aysén del General Carlos Ibáñez del Campo',
+	'MAG'   => 'Región: Magallanes y Antártica Chilena',
 );
