@@ -176,8 +176,7 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 				} else {
 					$dropdown_places = $places;
 				}
-
-	        	foreach ( $dropdown_places as $city_name ) {
+	        	  foreach ( $dropdown_places as $city_name ) {
 	        		if(!is_array($city_name)) {
 						$field .= '<option value="' . esc_attr( $city_name ) . '" '.selected( $value, $city_name, false ) . '>' . $city_name .'</option>';
 	        		}
