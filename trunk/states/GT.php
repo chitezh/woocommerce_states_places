@@ -3,7 +3,7 @@
 /**
  * Guatemalan departments
  *
- * @author  Ronald Montenegro <rodmontgt@gmail.com>
+ * @author  Ronald Montenegro <rodmontgt@gmail.com> http://espaciogt.wordpress.com
  * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
