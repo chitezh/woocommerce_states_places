@@ -4,10 +4,10 @@ Contributors: chitezh, luisurrutiaf
 Donate link: https://github.com/chitezh
 Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, Nigeria, Chile
 Requires at least: 4.0
-Tested up to: 4.9.8
+Tested up to: 5.0.3
 Stable tag: 1.1.1
 WC requires at least: 2.2
-WC tested up to: 3.4.4
+WC tested up to: 3.5.4
 License: GPLv2 or later
 License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -21,6 +21,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 = Supported Countries =
  * Chile
+ * Guatemala
  * Nigeria
 
 == Installation ==
@@ -89,3 +90,5 @@ You extend the plugin to cover countries, states and places. we accept pull requ
 * 09/07/2017 Add Chilean states.
 = 1.1.1 =
 * 28/08/2018 Update Chilean states and cities (16 states, no numbers).
+= 1.2.0 =
+* 07/02/2019 Add Guatemala
