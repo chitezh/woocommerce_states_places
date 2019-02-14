@@ -8,7 +8,7 @@
  */
 global $places;
 $places['GT'] = array(
-    'GT-AV' => array(
+	'GT-AV' => array(
         'Cahabón',
         'Chahal',
         'Chisec',
@@ -26,9 +26,9 @@ $places['GT'] = array(
         'Tactic',
         'Tamahú',
         'Tucurú'
-    ),
-    'GT-BV' => array(
-        'Cubulco',
+	),
+	'GT-BV' => array(
+		'Cubulco',
         'Granados',
         'Purulhá',
         'Rabinal',
@@ -36,9 +36,9 @@ $places['GT'] = array(
         'San Jerónimo',
         'San Miguel Chicaj',
         'Santa Cruz el Chol'
-    ),
-    'GT-CM' => array(
-        'Cubulco',
+	),
+	'GT-CM' => array(
+		'Cubulco',
         'Granados',
         'Purulhá',
         'Rabinal',
@@ -46,9 +46,9 @@ $places['GT'] = array(
         'San Jerónimo',
         'San Miguel Chicaj',
         'Santa Cruz el Chol'
-    ),
-    'GT-CQ' => array(
-        'Camotán',
+	),
+	'GT-CQ' => array(
+		'Camotán',
         'Chiquimula',
         'Concepción Las Minas',
         'Esquipulas',
@@ -59,9 +59,9 @@ $places['GT'] = array(
         'San Jacinto',
         'San José La Arada',
         'San Juan Ermita'
-    ),
-    'GT-PR' => array(
-        'El Jícaro',
+	),
+	'GT-PR' => array(
+		'El Jícaro',
         'Guastatoya',
         'Morazán',
         'San Agustín Acasaguastlán',
@@ -69,9 +69,9 @@ $places['GT'] = array(
         'San Cristóbal Acasaguastlán',
         'Sanarate',
         'Sansare'
-    ),
-    'GT-ES' => array(
-        'Escuintla',
+	),
+	'GT-ES' => array(
+		'Escuintla',
         'Guanagazapa',
         'Iztapa',
         'La Democracia',
@@ -84,8 +84,8 @@ $places['GT'] = array(
         'Santa Lucía Cotzumalguapa',
         'Siquinalá',
         'Tiquisate'
-    ),
-    'GT-GU' => array(
+	),
+	'GT-GU' => array(
         'Amatitlán',
         'Chinautla',
         'Chuarrancho',
@@ -103,8 +103,8 @@ $places['GT'] = array(
         'Santa Catarina Pinula',
         'Villa Canales',
         'Villa Nueva'
-    ),
-    'GT-HU' => array(
+	),
+	'GT-HU' => array(
         'Aguacatán',
         'Chiantla',
         'Colotenango',
@@ -137,15 +137,15 @@ $places['GT'] = array(
         'Tectitán',
         'Todos Santos Cuchumatán',
         'Unión Cantinil'
-    ),
-    'GT-IZ' => array(
+	),
+	'GT-IZ' => array(
         'El Estor',
         'Livingston',
         'Los Amates',
         'Morales',
         'Puerto Barrios'
-    ),
-    'GT-JA' => array(
+	),
+	'GT-JA' => array(
         'Jalapa',
         'Mataquescuintla',
         'Monjas',
@@ -153,8 +153,8 @@ $places['GT'] = array(
         'San Luis Jilotepeque',
         'San Manuel Chaparrón',
         'San Pedro Pinula'
-    ),
-    'GT-JU' => array(
+	),
+	'GT-JU' => array(
         'Agua Blanca',
         'Asunción Mita',
         'Atescatempa',
@@ -172,8 +172,8 @@ $places['GT'] = array(
         'Santa Catarina Mita',
         'Yupiltepeque',
         'Zapotitlán'
-    ),
-    'GT-PE' => array(
+	),
+	'GT-PE' => array(
         'Dolores',
         'Flores',
         'La Libertad',
@@ -188,7 +188,7 @@ $places['GT'] = array(
         'Sayaxché'
     ),
     'GT-QZ' => array(
-        'Almolonga',
+	    'Almolonga',
         'Cabricán',
         'Cajolá',
         'Cantel',
@@ -213,7 +213,7 @@ $places['GT'] = array(
         'Sibilia',
         'Zunil'
     ),
-    'GT-QC' => array(
+	'GT-QC' => array(
         'Canillá',
         'Chajul',
         'Chicamán',
@@ -235,8 +235,8 @@ $places['GT'] = array(
         'Santa Cruz del Quiché',
         'Uspantán',
         'Zacualpa'
-    ),
-    'GT-RE' => array(
+	),
+	'GT-RE' => array(
         'Champerico',
         'El Asintal',
         'Nuevo San Carlos',
@@ -246,8 +246,8 @@ $places['GT'] = array(
         'San Martín Zapotitlán',
         'San Sebastián',
         'Santa Cruz Muluá'
-    ),
-    'GT-SA' => array(
+	),
+	'GT-SA' => array(
         'Alotenango',
         'Antigua Guatemala',
         'Ciudad Vieja',
@@ -264,7 +264,7 @@ $places['GT'] = array(
         'Santiago Sacatepéquez',
         'Santo Domingo Xenacoj',
         'Sumpango'
-    ),
+	),
     'GT-SM' => array(
         'Ayutla',
         'Catarina',

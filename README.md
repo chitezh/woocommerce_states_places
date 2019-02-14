@@ -8,7 +8,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Supported Countries
  * Chile
- * Guatemala
+ * Nigeria
  * Nigeria
 
 ## Requirements
@@ -79,8 +79,6 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
 
 
 ## Changelog
-* 1.2.0
-    * 07/02/2019 Add Guatemala
 * 1.1.0
     * 09/07/2017 Add Chilean states
 * 1.0.2

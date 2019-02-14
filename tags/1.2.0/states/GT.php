@@ -32,4 +32,4 @@ $states ['GT' ] = array (
     'GT-SU' => 'Suchitepéquez',
     'GT-TO' => 'Totonicapán',
     'GT-ZA' => 'Zacapa',
-  );
+);
