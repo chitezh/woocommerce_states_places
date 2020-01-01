@@ -1,6 +1,6 @@
 
 === States, Cities, and Places for Woocommerce ===
-Contributors: chitezh, luisurrutiaf
+Contributors: chitezh, luisurrutiaf , anouarbensaad
 Donate link: https://github.com/chitezh
 Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, Nigeria, Chile
 Requires at least: 4.0
@@ -23,6 +23,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * Chile
  * Guatemala
  * Nigeria
+ * Tunisia
 
 == Installation ==
 
