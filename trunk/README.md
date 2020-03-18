@@ -1,13 +1,13 @@
-
 === States, Cities, and Places for Woocommerce ===
-Contributors: chitezh, luisurrutiaf
+Contributors: chitezh, luisurrutiaf, yordansoares
 Donate link: https://github.com/chitezh
 Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, Nigeria, Chile
-Requires at least: 4.0
-Tested up to: 5.0.3
-Stable tag: 1.2.0
-WC requires at least: 2.2
-WC tested up to: 3.5.4
+Requires at least: 4.7.14
+Tested up to: 5.4
+Requires PHP: 7.0
+Stable tag: 1.2.1
+WC requires at least: 3.0.x
+WC tested up to: 4.0.0
 License: GPLv2 or later
 License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
@@ -23,6 +23,8 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * Chile
  * Guatemala
  * Nigeria
+ * Panama
+ * Venezuela
 
 == Installation ==
 
@@ -44,7 +46,6 @@ Search for `States, Cities, and Places for Woocommerce`, install and activate
 [See wordpress codex](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation)
 
 = Updating =
-
 
 Automatic updates should work like a charm; as is the best practice, back up should be undertaken before updates.
 
@@ -76,19 +77,24 @@ You extend the plugin to cover countries, states and places. we accept pull requ
 == Screenshots ==
 1. States dropdown.
 2. States dropdown on search.
-3. Cities dropdown on search
+3. Cities dropdown on search.
 4. Selected state and city.
 
 == Changelog ==
-= 1.0 =
-* 10/08/2016 First release.
-= 1.0.1 =
-* 10/08/2016 Update readme.
-= 1.0.2 =
-* 10/08/2016 Change author name.
-= 1.1.0 =
-* 09/07/2017 Add Chilean states.
-= 1.1.1 =
-* 28/08/2018 Update Chilean states and cities (16 states, no numbers).
+= 1.2.1 =
+* Add two new countries places: Panama (PA) and Venezuela (VE).
+* Invert the order of State and City fields to have more sense with the steps of form.
+* Fix text domain in plugin header comment (states-cities-and-places-for-woocommerce).
+* Fix some typos and strings without translation functions.
 = 1.2.0 =
 * 07/02/2019 Add Guatemala
+= 1.1.1 =
+* 28/08/2018 Update Chilean states and cities (16 states, no numbers).
+= 1.1.0 =
+* 09/07/2017 Add Chilean states.
+= 1.0.2 =
+* 10/08/2016 Change author name.
+= 1.0.1 =
+* 10/08/2016 Update readme.
+= 1.0 =
+* 10/08/2016 First release.
