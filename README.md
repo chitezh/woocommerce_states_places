@@ -1,6 +1,6 @@
 # States, Cities, and Places for Woocommerce
 
-Wordpress plugin that shows dropdowns for State and City Select for woocomerce
+Wordpress plugin that shows dropdowns for State and City Select for woocomerce.
 
 This WooCommerce plugin transforms the text input for states, the city or town. With this plugin you can provide a list of states and cities to be shown as a select dropdown.
 
@@ -8,8 +8,10 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Supported Countries
  * Chile
+ * Guatemala
  * Nigeria
- * Nigeria
+ * Panama
+ * Venezuela
 
 ## Requirements
 * WordPress 4.0  or greater
@@ -19,7 +21,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Installation
 ### Automatic
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don’t need to leave your web browser.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser.
 
 To do an automatic install of WooCommerce, log in to your WordPress dashboard, navigate to the Plugins menu and click `Add New`.
 
@@ -76,14 +78,24 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
 ## Contributors
 - Kingsley Ochu - [chitezh](https://github.com/chitezh)
 - Luis Sebastian Urrutia Fuentes - [LuisUrrutia](https://github.com/LuisUrrutia)
+- Yordan Soares - [YordanSoares](https://github.com/YordanSoares)
 
 
 ## Changelog
+* 1.2.1
+  * Add two new countries places: Panama (PA) and Venezuela (VE).
+  * Invert the order of State and City fields to have more sense with the steps of form.
+  * Fix text domain in plugin header comment (states-cities-and-places-for-woocommerce).
+  * Fix some typos and strings without translation functions.
+* 1.2.0
+  * 07/02/2019 Add Guatemala
+* 1.1.1
+  * 28/08/2018 Update Chilean states and cities (16 states, no numbers).
 * 1.1.0
-    * 09/07/2017 Add Chilean states
+  * 09/07/2017 Add Chilean states
 * 1.0.2
-    * 10/08/2016 Change author name.
+  * 10/08/2016 Change author name.
 * 1.0.1
-    * 10/08/2016 Update readme.
+  * 10/08/2016 Update readme.
 * 1.0.0
-    * 15/07/2016 First release.
+  * 15/07/2016 First release.
