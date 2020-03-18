@@ -1,12 +1,13 @@
 <?php
 
 /**
- * Chilean places
+ * Chilean Places
  *
  * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me> | * @version 1.0.0
  * @update  Elias Rabah <www.hazmeunapagina.cl> | * @version 1.0.1 (16 Regiones sin numerales / Agosto 2018)
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
+
 global $places;
 
 $places['CL'] = array(
@@ -246,7 +247,7 @@ $places['CL'] = array(
 		'Ñiquén',
 		'San Carlos',
 		'San Fabián',
-		'San Nicolás',		
+		'San Nicolás',
 	),
 	'BIO' => array(
 		'Alto Biobío',

@@ -1,22 +1,28 @@
 <?php
+
 /**
  * Plugin Name: States, Cities, and Places for Woocommerce
  * Plugin URI: https://github.com/chitezh/woocommerce_states_places
  * Description: Woocommerce plugin for listing states, cities, places, local government areas and towns in all countries of the world.
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author: Kingsley Ochu
  * Author URI: https://github.com/chitezh
  * Developer: Kingsley Ochu
  * Developer URI: https://ng.linkedin.com/in/kingsleyochu/
- * Text Domain: woocommerce-extension
+ * Contributors: luisurrutiaf, yordansoares
+ * Text Domain: states-cities-and-places-for-woocommerce
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Requires at least: 4.0 +
+ * Tested up to: 5.4
+ * WC requires at least: 3.0.x
+ * WC tested up to: 4.0.0
  */
 
 /**
  * Die if accessed directly
  */
-defined( 'ABSPATH' ) or die( 'You can not access this file directly!' );
+defined( 'ABSPATH' ) or die( __('You can not access this file directly!', 'states-cities-and-places-for-woocommerce') );
 
 /**
  * Check if WooCommerce is active
@@ -40,8 +46,16 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
          * WC init
          */
         public function init() {
+            $this->init_fields();
             $this->init_states();
-            $this-> init_places();
+            $this->init_places();
+        }
+
+        /**
+         * WC Fields init
+         */
+        public function init_fields() {
+            add_filter('woocommerce_default_address_fields', array($this, 'wc_change_state_and_city_order'));
         }
 
         /**
@@ -52,15 +66,28 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
         }
 
         /**
-         * WC States init
+         * WC Places init
          */
         public function init_places() {
             add_filter( 'woocommerce_billing_fields', array( $this, 'wc_billing_fields' ), 10, 2 );
             add_filter( 'woocommerce_shipping_fields', array( $this, 'wc_shipping_fields' ), 10, 2 );
             add_filter( 'woocommerce_form_field_city', array( $this, 'wc_form_field_city' ), 10, 4 );
 
-            add_action( 'wp_enqueue_scripts', array( $this, 'load_scripts' ) );
+            add_action( 'wp_enqueue_scripts', array( $this, 'load_scripts' ) );            
         }
+
+        /**
+         * Change the order of State and City fields to have more sense with the steps of form
+         * @param mixed $fields
+         * @return mixed
+         */         
+        public function wc_change_state_and_city_order($fields) {
+            $fields['state']['priority'] = 70;            
+            $fields['city']['priority'] = 80;            
+
+            return $fields;
+        }
+            
 
         /**
          * Implement WC States
