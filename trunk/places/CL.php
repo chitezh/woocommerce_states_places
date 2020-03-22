@@ -1,13 +1,12 @@
 <?php
 
 /**
- * Chilean Places
+ * Chilean places
  *
  * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me>
  * @author  Elias Rabah
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
-
 global $places;
 
 $places['CL'] = array(

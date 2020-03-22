@@ -1,7 +1,11 @@
 <?php
 
 /**
- * Venezuelan Municipalities
+ * Venezuelan Municipalities:
+ * - 335 municipalities and their capitals
+ * 
+ * Source:
+ * - https://es.wikipedia.org/wiki/Anexo:Municipios_de_Venezuela
  *
  * @author  Yordan Soares <contacto@yordansoar.es> | https://yordansoar.es
  * @version 1.0.0

@@ -1,9 +1,16 @@
 <?php
 
 /**
- * Algerian departments (Wilaya)
- *
- * @author  Walid Yacine MAZED <w.mazed@mindscom.net> http://espaciogt.wordpress.com
+ * Algerian Provinces (Wilayas)
+ * - 48 provinces
+ * 
+ * Source:
+ * - https://en.wikipedia.org/wiki/Provinces_of_Algeria
+ * 
+ * Updated: March 22, 2020
+ * By Yordan Soares <contact@yordansoar.es> | https://yordansoar.es
+ * 
+ * @author  Walid Yacine MAZED <w.mazed@mindscom.net>
  * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */

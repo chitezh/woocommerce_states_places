@@ -2,7 +2,11 @@
 
 /**
  * Provinces of Panama
- * List of 10 Provinces and 3 Comarcas of Panama
+ * - 10 Provinces
+ * - 3 Comarcas (provincial-level indigenous regions)
+ * 
+ * Source:
+ * - https://es.wikipedia.org/wiki/Anexo:Provincias_y_comarcas_ind%C3%ADgenas_de_Panam%C3%A1
  *
  * @author  Yordan Soares <contacto@yordansoar.es> | https://yordansoar.es
  * @version 1.0.0

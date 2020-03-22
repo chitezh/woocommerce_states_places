@@ -1,11 +1,19 @@
 <?php
 
 /**
- * Guatemalan Townships
+ * Guatemalan Municipalities
+ * - 339 municipalities are listed
  *
+ * Source:
+ * - https://es.wikipedia.org/wiki/Anexo:Municipios_de_Guatemala
+ * 
+ * Updated: March 22, 2020
+ * By Yordan Soares <contact@yordansoar.es> | https://yordansoar.es
+ * 
  * @author  Ronald Montenegro <rodmontgt@gmail.com> | http://espaciogt.wordpress.com
  * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
+ * 
  */
 
 global $places;
@@ -28,7 +36,7 @@ $places['GT'] = array(
 		'Senahú',
 		'Tactic',
 		'Tamahú',
-		'Tucurú'
+		'Tucurú',
 	),
 	'GT-BV' => array(
 		'Cubulco',
@@ -38,17 +46,25 @@ $places['GT'] = array(
 		'Salamá',
 		'San Jerónimo',
 		'San Miguel Chicaj',
-		'Santa Cruz el Chol'
+		'Santa Cruz el Chol',
 	),
 	'GT-CM' => array(
-		'Cubulco',
-		'Granados',
-		'Purulhá',
-		'Rabinal',
-		'Salamá',
-		'San Jerónimo',
-		'San Miguel Chicaj',
-		'Santa Cruz el Chol'
+		'Acatenango',
+		'Chimaltenango',
+		'El Tejar',
+		'Parramos',
+		'Patzicía',
+		'Patzún',
+		'Pochuta',
+		'San Andrés Itzapa',
+		'San José Poaquíl',
+		'San Juan Comalapa',
+		'San Martín Jilotepeque',
+		'San Pedro Yepocapa',
+		'Santa Apolonia',
+		'Santa Cruz Balanyá',
+		'Tecpán Guatemala',
+		'Zaragoza',
 	),
 	'GT-CQ' => array(
 		'Camotán',
@@ -71,7 +87,7 @@ $places['GT'] = array(
 		'San Antonio La Paz',
 		'San Cristóbal Acasaguastlán',
 		'Sanarate',
-		'Sansare'
+		'Sansare',
 	),
 	'GT-ES' => array(
 		'Escuintla',
@@ -82,11 +98,11 @@ $places['GT'] = array(
 		'Masagua',
 		'Nueva Concepción',
 		'Palín',
-		'Puerto San José',
+		'San José',
 		'San Vicente Pacaya',
 		'Santa Lucía Cotzumalguapa',
-		'Siquinalá',
-		'Tiquisate'
+		'Sipacate',
+		'Siquinaláe',
 	),
 	'GT-GU' => array(
 		'Amatitlán',
@@ -98,14 +114,14 @@ $places['GT'] = array(
 		'Palencia',
 		'San José del Golfo',
 		'San José Pinula',
-		'San Juan Sacatepéquez',
+		'San Juan Sacatepequéz',
 		'San Miguel Petapa',
 		'San Pedro Ayampuc',
-		'San Pedro Sacatepéquez',
+		'San Pedro Sacatepequéz',
 		'San Raymundo',
-		'Santa Catarina Pinula',
+		'Santa Catalina Pinula',
 		'Villa Canales',
-		'Villa Nueva'
+		'Villa Nueva',
 	),
 	'GT-HU' => array(
 		'Aguacatán',
@@ -119,6 +135,7 @@ $places['GT'] = array(
 		'La Libertad',
 		'Malacatancito',
 		'Nentón',
+		'Petatán',
 		'San Antonio Huista',
 		'San Gaspar Ixchil',
 		'San Ildefonso Ixtahuacán',
@@ -139,14 +156,14 @@ $places['GT'] = array(
 		'Santiago Chimaltenango',
 		'Tectitán',
 		'Todos Santos Cuchumatán',
-		'Unión Cantinil'
+		'Unión Cantinil',
 	),
 	'GT-IZ' => array(
 		'El Estor',
 		'Livingston',
 		'Los Amates',
 		'Morales',
-		'Puerto Barrios'
+		'Puerto Barrios',
 	),
 	'GT-JA' => array(
 		'Jalapa',
@@ -155,7 +172,7 @@ $places['GT'] = array(
 		'San Carlos Alzatate',
 		'San Luis Jilotepeque',
 		'San Manuel Chaparrón',
-		'San Pedro Pinula'
+		'San Pedro Pinula',
 	),
 	'GT-JU' => array(
 		'Agua Blanca',
@@ -174,7 +191,7 @@ $places['GT'] = array(
 		'San José Acatempa',
 		'Santa Catarina Mita',
 		'Yupiltepeque',
-		'Zapotitlán'
+		'Zapotitlán',
 	),
 	'GT-PE' => array(
 		'Dolores',
@@ -188,7 +205,9 @@ $places['GT'] = array(
 		'San José',
 		'San Luis',
 		'Santa Ana',
-		'Sayaxché'
+		'Sayaxché',
+		'Las Cruces',
+		'El Chal',
 	),
 	'GT-QZ' => array(
 		'Almolonga',
@@ -212,9 +231,9 @@ $places['GT'] = array(
 		'San Juan Ostuncalco',
 		'San Martín Sacatepéquez',
 		'San Mateo',
-		'San Miguel Siguilá',
+		'San Miguel Sigüilá',
 		'Sibilia',
-		'Zunil'
+		'Zunil',
 	),
 	'GT-QC' => array(
 		'Canillá',
@@ -237,7 +256,7 @@ $places['GT'] = array(
 		'San Pedro Jocopilas',
 		'Santa Cruz del Quiché',
 		'Uspantán',
-		'Zacualpa'
+		'Zacualpa',
 	),
 	'GT-RE' => array(
 		'Champerico',
@@ -248,7 +267,7 @@ $places['GT'] = array(
 		'San Felipe',
 		'San Martín Zapotitlán',
 		'San Sebastián',
-		'Santa Cruz Muluá'
+		'Santa Cruz Muluá',
 	),
 	'GT-SA' => array(
 		'Alotenango',
@@ -266,7 +285,7 @@ $places['GT'] = array(
 		'Santa María de Jesús',
 		'Santiago Sacatepéquez',
 		'Santo Domingo Xenacoj',
-		'Sumpango'
+		'Sumpango',
 	),
 	'GT-SM' => array(
 		'Ayutla',
@@ -278,6 +297,7 @@ $places['GT'] = array(
 		'El Tumbador',
 		'Esquipulas Palo Gordo',
 		'Ixchiguán',
+		'La Blanca',
 		'La Reforma',
 		'Malacatán',
 		'Nuevo Progreso',
@@ -292,12 +312,12 @@ $places['GT'] = array(
 		'San Miguel Ixtahuacán',
 		'San Pablo',
 		'San Pedro Sacatepéquez',
-		'San Rafaél Pie de La Cuesta',
+		'San Rafael Pie de la Cuesta',
 		'Sibinal',
 		'Sipacapa',
 		'Tacaná',
 		'Tajumulco',
-		'Tejutla'
+		'Tejutla',
 	),
 	'GT-SR' => array(
 		'Barberena',
@@ -313,7 +333,7 @@ $places['GT'] = array(
 		'Santa Cruz Naranjo',
 		'Santa María Ixhuatán',
 		'Santa Rosa de Lima',
-		'Taxisco'
+		'Taxisco',
 	),
 	'GT-SO' => array(
 		'Concepción',
@@ -327,13 +347,14 @@ $places['GT'] = array(
 		'San Marcos La Laguna',
 		'San Pablo La Laguna',
 		'San Pedro La Laguna',
-		'Santa Catarina Ixtahuacan',
+		'Santa Catarina Ixtahuacán',
 		'Santa Catarina Palopó',
 		'Santa Clara La Laguna',
 		'Santa Cruz La Laguna',
 		'Santa Lucía Utatlán',
 		'Santa María Visitación',
-		'Santiago Atitlán'
+		'Santiago Atitlán',
+		'Sololá',
 	),
 	'GT-SU' => array(
 		'Chicacao',
@@ -348,14 +369,15 @@ $places['GT'] = array(
 		'San Francisco Zapotitlán',
 		'San Gabriel',
 		'San José El Ídolo',
+		'San José La Máquina',
 		'San Juan Bautista',
 		'San Lorenzo',
 		'San Miguel Panán',
 		'San Pablo Jocopilas',
-		'Santa Barbara',
-		'Santo Domingo Suchitepequez',
-		'Santo Tomas La Unión',
-		'Zunilito'
+		'Santa Bárbara',
+		'Santo Domingo Suchitepéquez',
+		'Santo Tomás La Unión',
+		'Zunilito',
 	),
 	'GT-TO' => array(
 		'Momostenango',
@@ -375,8 +397,9 @@ $places['GT'] = array(
 		'La Unión',
 		'Río Hondo',
 		'San Diego',
+		'San Jorge',
 		'Teculután',
 		'Usumatlán',
-		'Zacapa'
+		'Zacapa',
 	),
 );

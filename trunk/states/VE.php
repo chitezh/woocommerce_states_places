@@ -2,6 +2,12 @@
 
 /**
  * Venezuelan States
+ * - 1 Capital District
+ * - 23 States
+ * 
+ * Sources:
+ * - https://es.wikipedia.org/wiki/Anexo:Estados_federales_de_Venezuela
+ * - https://es.wikipedia.org/wiki/Distrito_Capital_(Venezuela)
  *
  * @author  Yordan Soares <contacto@yordansoar.es> | https://yordansoar.es
  * @version 1.0.0
