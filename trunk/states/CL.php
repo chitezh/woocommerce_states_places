@@ -2,28 +2,28 @@
 /**
  * Chilean states
  *
- * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me> | * @version 1.0.0
- * @update  Elias Rabah <www.hazmeunapagina.cl> | * @version 1.0.1 (16 Regiones sin numerales / Agosto 2018)
+ * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me>
+ * @author  Elias Rabah
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
 
 global $states;
 
 $states ['CL' ] = array (
-	'ARI'   => 'Región: Arica y Parinacota',
-	'TAR'   => 'Región: Tarapacá',
-	'ANT'   => 'Región: Antofagasta',
-	'ATA'   => 'Región: Atacama',
-	'COQ'   => 'Región: Coquimbo',
-	'VAL'   => 'Región: Valparaíso',
-	'MET'   => 'Región: Metropolitana de Santiago',
-	'LIB'   => 'Región: Libertador General Bernardo OHiggins',
-	'MAU'   => 'Región: Maule',
-	'NUB'   => 'Región: Ñuble',
-	'BIO'   => 'Región: Bíobío',
-	'ARA'   => 'Región: La Araucanía',
-	'RIO'   => 'Región: Los Ríos',
-	'LAG'   => 'Región: Los Lagos',
-	'AYS'   => 'Región: Aysén del General Carlos Ibáñez del Campo',
-	'MAG'   => 'Región: Magallanes y Antártica Chilena',
+	'CL-AP'   => 'Región: Arica y Parinacota',
+	'CL-TA'   => 'Región: Tarapacá',
+	'CL-AN'   => 'Región: Antofagasta',
+	'CL-AT'   => 'Región: Atacama',
+	'CL-CO'   => 'Región: Coquimbo',
+	'CL-VS'   => 'Región: Valparaíso',
+	'CL-RM'   => 'Región: Metropolitana de Santiago',
+	'CL-LI'   => 'Región: Libertador General Bernardo OHiggins',
+	'CL-ML'   => 'Región: Maule',
+	'CL-NB'   => 'Región: Ñuble',
+	'CL-BI'   => 'Región: Bíobío',
+	'CL-AR'   => 'Región: La Araucanía',
+	'CL-LR'   => 'Región: Los Ríos',
+	'CL-LL'   => 'Región: Los Lagos',
+	'CL-AI'   => 'Región: Aysén del General Carlos Ibáñez del Campo',
+	'CL-MA'   => 'Región: Magallanes y Antártica Chilena',
 );
