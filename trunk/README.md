@@ -94,7 +94,7 @@ You extend the plugin to cover countries, states and places. we accept pull requ
     * Nicaragua (NI): Departments and Cities (thanks to [ahc505](https://github.com/ahc505))
     * Russia (RU): States and Cities (thanks to [Sarge Madovsky](https://github.com/SargeMadovsky))
     * Spain (ES): Provinces and Municipalities (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
-    * Tunisia (TN): Governorates (thanks to [Anouar Ben Saad](https://github.com/anouarbensaad))
+    * Tunisia (TN): Governorates and Districts (thanks to [Anouar Ben Saad](https://github.com/anouarbensaad))
   * Updated 2 countries:  
     * Chile (CL): states codes (thanks to [Luis Urrutia](https://github.com/LuisUrrutia))
     * Guatemala (GT): missing municipalities (thanks to [macnomo](https://github.com/macnomo))    

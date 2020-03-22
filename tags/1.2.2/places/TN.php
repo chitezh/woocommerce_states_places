@@ -8,6 +8,7 @@
  * 
  * Updated: March 22, 2020
  * By Yordan Soares <contact@yordansoar.es> | https://yordansoar.es
+ * 
  * @author   anouarbensaad <bensaad.tig@gmail.com>
  * @version  1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
