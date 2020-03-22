@@ -1,6 +1,6 @@
 # States, Cities, and Places for Woocommerce
 
-Wordpress plugin that shows dropdowns for State and City Select for woocomerce.
+Wordpress plugin that shows dropdowns for State and City Select for WooCommerce.
 
 This WooCommerce plugin transforms the text input for states, the city or town. With this plugin you can provide a list of states and cities to be shown as a select dropdown.
 
@@ -19,29 +19,43 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * Tunisia
  * Venezuela
 
+## Languages availables
+
+* English (US)
+* Spanish ([Spain](https://translate.wordpress.org/locale/es/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Mexico](https://translate.wordpress.org/locale/es-mx/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Venezuela](https://translate.wordpress.org/locale/es-ve/default/wp-plugins/states-cities-and-places-for-woocommerce/))
+* *Do you want to see your language here?*
+[Help us translating the plugin to your language](https://translate.wordpress.org/projects/wp-plugins/states-cities-and-places-for-woocommerce/).
+
 ## Requirements
 * WordPress 4.0  or greater
-* Woocommerce 2.2 or greater
+* WooCommerce 2.2 or greater
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
 
 ## Installation
-### Automatic
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser.
 
-To do an automatic install of WooCommerce, log in to your WordPress dashboard, navigate to the Plugins menu and click `Add New`.
+### Automatic installation
+1. Go to your **Dashboard » Plugins » Add new**
+2. In the search form write **"States, Cities, and Places for Woocommerce"**
+3. When the search return the result, click on the **Install Now** button
+4. Finally, click on the **Activate** button
+5. Enjoy the plugin!
 
-Search for `States, Cities, and Places for Woocommerce`, install and activate.
+### Manual Installation
+1. Download the plugin from this page clicking on the **Download** button
+2. Go to your **Dashboard » Plugins » Add new**
+3. Now select **Upload Plugin** button
+4. Click on **Select file** button and select the file you just download
+5. Click on **Install Now** button and the **Activate Plugin**
+6. Enjoy the plugin!
 
-### Manual
-[See wordpress codex](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation)
-
-
-## Updating
-
-Automatic updates should work like a charm; as is the best practice, back up should be undertaken before updates.
-
-If on the off-chance you do encounter issues with the shop/category pages after an update you simply need to flush the permalinks by going to WordPress > Settings > Permalinks and hitting 'save'. That should return things to normal.
+### FTP Installation
+1. Download the plugin from this page clicking on the **Download** button
+2. Decompress the file in your desktop
+3. Run your FTP client software and conect to your WordPress installation
+4. Copy to [root folder]/wp-content/plugins/ the plugin directory you just descompress
+5. Go to your Dashboard » Plugins » Find the plugin and click on **Activate** option
+6. Enjoy the plugin!
 
 
 ## Frequently Asked Questions
@@ -52,9 +66,7 @@ Kindly create an issue stating the bug and how you caught it [chitezh/woocommerc
 Yes, you can always suggest or request new locations by creating an issue in [chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places/issues/new). Please refer to the [Country Codes](https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php) using by WooCommerce.
 
 ### How do I contribute to the project?
-You extend the plugin to cover countries, states and places. we accept pull requests.
-
-Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](https://wordpress.org/plugins/about/faq/) to further understand wordpress svn file structure.
+You extend the plugin to cover countries, states and places. we accept pull requests. Fork the repo and make changes to `/trunk`. Consider reading [Wordpress F.A.Q.](https://wordpress.org/plugins/about/faq/) to further understand wordpress SVN file structure.
 
 	Pull Requests
 
@@ -82,11 +94,14 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
  	[![Screen 4](https://github.com/chitezh/woocommerce_states_places/blob/master/assets/screenshot-4.png)]()
 
 ## Contributors
-- Kingsley Ochu - [chitezh](https://github.com/chitezh)
-- Luis Sebastian Urrutia Fuentes - [LuisUrrutia](https://github.com/LuisUrrutia)
-- Yordan Soares - [YordanSoares](https://github.com/YordanSoares)
+- **Kingsley Ochu** - (GitHub: [chitezh](https://github.com/chitezh) / WP.: [chitezh](https://profiles.wordpress.org/chitezh/))
+- **Luis Urrutia** - (GitHub: [LuisUrrutia](https://github.com/LuisUrrutia) / WP.: [luisurrutiaf](https://profiles.wordpress.org/luisurrutiaf/))
+- **Javier Esteban** - (GitHub: [NobNob](https://github.com/NobNob) / WP.: [NobNob](https://profiles.wordpress.org/nobnob/))
+- **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP.: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.3 - March 22, 2020
+  * Added localization to "State" and "City" field labels  
 * 1.2.2 - March 22, 2020
   * Added six new countries:
     * Algeria (DZ): Departments (Wilaya) and Municipalities (Baladiyahs) (thanks to [Walid Yacine MAZED](https://github.com/w-mazed))
@@ -94,11 +109,10 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
     * Nicaragua (NI): Departments and Cities (thanks to [ahc505](https://github.com/ahc505))
     * Russia (RU): States and Cities (thanks to [Sarge Madovsky](https://github.com/SargeMadovsky))
     * Spain (ES): Provinces and Municipalities (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
-    * Tunisia (TN): Governorates (thanks to [Anouar Ben Saad](https://github.com/anouarbensaad))
+    * Tunisia (TN): Governorates and Districts (thanks to [Anouar Ben Saad](https://github.com/anouarbensaad))
   * Updated 2 countries:  
     * Chile (CL): states codes (thanks to [Luis Urrutia](https://github.com/LuisUrrutia))
     * Guatemala (GT): missing municipalities (thanks to [macnomo](https://github.com/macnomo))    
-  * Added localization to "State" and "City" field labels
   * Tested up to WooCommerce 4.0.1
 * 1.2.1 - March 18, 2020
   * Added two new countries: 
