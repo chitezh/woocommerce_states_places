@@ -7,10 +7,15 @@ This WooCommerce plugin transforms the text input for states, the city or town. 
 This will be shown in checkout pages, edit addresses pages, shipping calculator, etc.
 
 ## Supported Countries
+ * Algeria
+ * Brasil
  * Chile
  * Guatemala
+ * Nicaragua
  * Nigeria
  * Panama
+ * Russia
+ * Tunisia
  * Venezuela
 
 ## Requirements
@@ -43,7 +48,7 @@ If on the off-chance you do encounter issues with the shop/category pages after 
 Kindly create an issue stating the bug and how you caught it [chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places/issues/new)
 
 ### Can I suggest a new place or location?
-Yes, you can always suggest or request new locations by creating an issue [chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places/issues/new).
+Yes, you can always suggest or request new locations by creating an issue in [chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places/issues/new). Please refer to the [Country Codes](https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php) using by WooCommerce.
 
 ### How do I contribute to the project?
 You extend the plugin to cover countries, states and places. we accept pull requests.
@@ -80,19 +85,32 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
 - Luis Sebastian Urrutia Fuentes - [LuisUrrutia](https://github.com/LuisUrrutia)
 - Yordan Soares - [YordanSoares](https://github.com/YordanSoares)
 
-
 ## Changelog
+* 1.2.2
+  * Add six new countries:
+    * Algeria (DZ): Departments (Wilaya) and Municipalities (Baladiyahs) (thanks to [Walid Yacine MAZED](https://github.com/w-mazed))
+    * Brazil (BR): States and Municipalities ([country request](https://github.com/chitezh/woocommerce_states_places/issues/35) - issue #35)
+    * Nicaragua (NI): Departments and Cities (thanks to [ahc505](https://github.com/ahc505))
+    * Russia (RU): States and Cities (thanks to [Sarge Madovsky](https://github.com/SargeMadovsky))
+    * Spain (ES): 
+    * Tunisia (TN): Governorates (thanks to [Anouar Ben Saad](https://github.com/anouarbensaad))
+  * Updated 2 countries:  
+    * Chile (CL): states codes (thanks to [Luis Urrutia](https://github.com/LuisUrrutia))
+    * Guatemala (GT): missing municipalities (thanks to [macnomo](https://github.com/macnomo))
+  * Added localization to "States" and "City" field labels
 * 1.2.1
-  * Add two new countries places: Panama (PA) and Venezuela (VE).
+  * Add two new countries: 
+    * Panama (PA): Provinces, Districts and Corregimientos
+    * Venezuela (VE): States and Municipalities (with their capitals)
   * Invert the order of State and City fields to have more sense with the steps of form.
   * Fix text domain in plugin header comment (states-cities-and-places-for-woocommerce).
   * Fix some typos and strings without translation functions.
 * 1.2.0
-  * 07/02/2019 Add Guatemala
+  * 07/02/2019 Add new country: Guatemala (GT).
 * 1.1.1
-  * 28/08/2018 Update Chilean states and cities (16 states, no numbers).
+  * 28/08/2018 Update Chilean (CL) states and cities (16 states, no numbers).
 * 1.1.0
-  * 09/07/2017 Add Chilean states
+  * 09/07/2017 Add Chilean (CL) states.
 * 1.0.2
   * 10/08/2016 Change author name.
 * 1.0.1

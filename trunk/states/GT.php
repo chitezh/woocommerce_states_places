@@ -2,6 +2,13 @@
 
 /**
  * Guatemalan Departments
+ * - 22 departments
+ * 
+ * Source:
+ * - https://es.wikipedia.org/wiki/Departamentos_de_Guatemala
+ * 
+ * Updated: March 22, 2020
+ * By Yordan Soares <contact@yordansoar.es> | https://yordansoar.es
  *
  * @author  Ronald Montenegro <rodmontgt@gmail.com> | http://espaciogt.wordpress.com
  * @version 1.0.0
@@ -32,5 +39,5 @@ $states['GT'] = array (
 	'GT-SO' => 'Sololá',
 	'GT-SU' => 'Suchitepéquez',
 	'GT-TO' => 'Totonicapán',
-	'GT-ZA' => 'Zacapa',
+	'GT-ZA' => 'Zacapa'
 );

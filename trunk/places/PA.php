@@ -1,8 +1,14 @@
 <?php
 
 /**
- * Venezuelan Municipalities
- *
+ * Panama Districs and Corregimientos
+ * - 81 Districts
+ * - 679 Corregimientos
+ * 
+ * Sources:
+ * https://es.wikipedia.org/wiki/Anexo:Distritos_de_Panam%C3%A1
+ * https://es.wikipedia.org/wiki/Anexo:Corregimientos_de_Panam%C3%A1
+ * 
  * @author  Yordan Soares <contacto@yordansoar.es> | https://yordansoar.es
  * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License

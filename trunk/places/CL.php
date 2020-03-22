@@ -1,32 +1,31 @@
 <?php
 
 /**
- * Chilean Places
+ * Chilean places
  *
- * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me> | * @version 1.0.0
- * @update  Elias Rabah <www.hazmeunapagina.cl> | * @version 1.0.1 (16 Regiones sin numerales / Agosto 2018)
+ * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me>
+ * @author  Elias Rabah
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
-
 global $places;
 
 $places['CL'] = array(
-	'ARI' => array(
+	'CL-AP' => array(
 		'Arica',
 		'Camarones',
 		'General Lagos',
-		'Putre'
+		'Putre',
 	),
-	'TAR' => array(
+	'CL-TA' => array(
 		'Alto Hospicio',
 		'Camiña',
 		'Colchane',
 		'Huara',
 		'Iquique',
 		'Pica',
-		'Pozo almonte'
+		'Pozo almonte',
 	),
-	'ANT' => array(
+	'CL-AN' => array(
 		'Antofagasta',
 		'Calama',
 		'María Elena',
@@ -35,9 +34,9 @@ $places['CL'] = array(
 		'San Pedro De Atacama',
 		'Sierra Gorda',
 		'Taltal',
-		'Tocopilla'
+		'Tocopilla',
 	),
-	'ATA' => array(
+	'CL-AT' => array(
 		'Alto Del Carmen',
 		'Caldera',
 		'Chañaral',
@@ -46,9 +45,9 @@ $places['CL'] = array(
 		'Freirina',
 		'Huasco',
 		'Tierra Amarilla',
-		'Vallenar'
+		'Vallenar',
 	),
-	'COQ' => array(
+	'CL-CO' => array(
 		'Andacollo',
 		'Canela',
 		'Combarbalá',
@@ -63,9 +62,9 @@ $places['CL'] = array(
 		'Punitaqui',
 		'Río Hurtado',
 		'Salamanca',
-		'Vicuña'
+		'Vicuña',
 	),
-	'VAL' => array(
+	'CL-VS' => array(
 		'Algarrobo',
 		'Cabildo',
 		'Calera',
@@ -103,9 +102,9 @@ $places['CL'] = array(
 		'Valparaíso',
 		'Villa Alemana',
 		'Viña Del Mar',
-		'Zapallar'
+		'Zapallar',
 	),
-	'RM' => array(
+	'CL-RM' => array(
 		'Alhué',
 		'Buin',
 		'Calera de Tango',
@@ -157,9 +156,9 @@ $places['CL'] = array(
 		'Santiago',
 		'Talagante',
 		'Tiltil',
-		'Vitacura'
+		'Vitacura',
 	),
-	'LIB' => array(
+	'CL-LI' => array(
 		'Chépica',
 		'Chimbarongo',
 		'Codegua',
@@ -192,9 +191,9 @@ $places['CL'] = array(
 		'Requínoa',
 		'San Fernando',
 		'San Vicente',
-		'Santa Cruz'
+		'Santa Cruz',
 	),
-	'MAU' => array(
+	'CL-ML' => array(
 		'Cauquenes',
 		'Chanco',
 		'Colbún',
@@ -224,9 +223,9 @@ $places['CL'] = array(
 		'Teno',
 		'Vichuquén',
 		'Villa Alegre',
-		'Yerbas Buenas'
+		'Yerbas Buenas',
 	),
-	'NUB' => array(
+	'CL-NB' => array(
 		'Cobquecura',
 		'Coelemu',
 		'Ninhue',
@@ -249,7 +248,7 @@ $places['CL'] = array(
 		'San Fabián',
 		'San Nicolás',
 	),
-	'BIO' => array(
+	'CL-BI' => array(
 		'Alto Biobío',
 		'Antuco',
 		'Arauco',
@@ -284,7 +283,7 @@ $places['CL'] = array(
 		'Tucapel',
 		'Yumbel',
 	),
-	'ARA' => array(
+	'CL-AR' => array(
 		'Angol',
 		'Carahue',
 		'Cholchol',
@@ -316,9 +315,9 @@ $places['CL'] = array(
 		'Traiguén',
 		'Victoria',
 		'Vilcún',
-		'Villarrica'
+		'Villarrica',
 	),
-	'RIO' => array(
+	'CL-LR' => array(
 		'Corral',
 		'Futrono',
 		'La Unión',
@@ -330,9 +329,9 @@ $places['CL'] = array(
 		'Paillaco',
 		'Panguipulli',
 		'Río Bueno',
-		'Valdivia'
+		'Valdivia',
 	),
-	'LAG' => array(
+	'CL-LL' => array(
 		'Ancud',
 		'Calbuco',
 		'Castro',
@@ -362,9 +361,9 @@ $places['CL'] = array(
 		'Quinchao',
 		'Río Negro',
 		'San Juan de la Costa',
-		'San Pablo'
+		'San Pablo',
 	),
-	'AYS' => array(
+	'CL-AI' => array(
 		'Aisén',
 		'Chile Chico',
 		'Cisnes',
@@ -374,9 +373,9 @@ $places['CL'] = array(
 		'Lago Verde',
 		'O\'Higgins',
 		'Río Ibáñez',
-		'Tortel'
+		'Tortel',
 	),
-	'MAG' => array(
+	'CL-MA' => array(
 		'Antártica',
 		'Cabo de Hornos (Ex-Navarino)',
 		'Laguna Blanca',
@@ -387,7 +386,6 @@ $places['CL'] = array(
 		'Río Verde',
 		'San Gregorio',
 		'Timaukel',
-		'Torres Del Paine'
-
+		'Torres Del Paine',
 	),
 );
