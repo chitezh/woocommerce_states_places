@@ -15,6 +15,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * Nigeria
  * Panama
  * Russia
+ * Spain
  * Tunisia
  * Venezuela
 
@@ -86,34 +87,35 @@ Fork the repo and make changes to /trunk. Consider reading [Wordpress F.A.Q.](ht
 - Yordan Soares - [YordanSoares](https://github.com/YordanSoares)
 
 ## Changelog
-* 1.2.2
-  * Add six new countries:
+* 1.2.2 - March 22, 2020
+  * Added six new countries:
     * Algeria (DZ): Departments (Wilaya) and Municipalities (Baladiyahs) (thanks to [Walid Yacine MAZED](https://github.com/w-mazed))
     * Brazil (BR): States and Municipalities ([country request](https://github.com/chitezh/woocommerce_states_places/issues/35) - issue #35)
     * Nicaragua (NI): Departments and Cities (thanks to [ahc505](https://github.com/ahc505))
     * Russia (RU): States and Cities (thanks to [Sarge Madovsky](https://github.com/SargeMadovsky))
-    * Spain (ES): 
+    * Spain (ES): Provinces and Municipalities (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
     * Tunisia (TN): Governorates (thanks to [Anouar Ben Saad](https://github.com/anouarbensaad))
   * Updated 2 countries:  
     * Chile (CL): states codes (thanks to [Luis Urrutia](https://github.com/LuisUrrutia))
-    * Guatemala (GT): missing municipalities (thanks to [macnomo](https://github.com/macnomo))
-  * Added localization to "States" and "City" field labels
-* 1.2.1
-  * Add two new countries: 
+    * Guatemala (GT): missing municipalities (thanks to [macnomo](https://github.com/macnomo))    
+  * Added localization to "State" and "City" field labels
+  * Tested up to WooCommerce 4.0.1
+* 1.2.1 - March 18, 2020
+  * Added two new countries: 
     * Panama (PA): Provinces, Districts and Corregimientos
     * Venezuela (VE): States and Municipalities (with their capitals)
   * Invert the order of State and City fields to have more sense with the steps of form.
   * Fix text domain in plugin header comment (states-cities-and-places-for-woocommerce).
   * Fix some typos and strings without translation functions.
-* 1.2.0
-  * 07/02/2019 Add new country: Guatemala (GT).
-* 1.1.1
-  * 28/08/2018 Update Chilean (CL) states and cities (16 states, no numbers).
-* 1.1.0
-  * 09/07/2017 Add Chilean (CL) states.
-* 1.0.2
-  * 10/08/2016 Change author name.
-* 1.0.1
-  * 10/08/2016 Update readme.
-* 1.0.0
-  * 15/07/2016 First release.
+* 1.2.0 - February 07, 2019
+  * Added a new country: Guatemala (GT)
+* 1.1.1 - August 28, 2018
+  * Updated Chilean states and cities (16 states, no numbers).
+* 1.1.0 - July 09, 2017
+  * Added a new country: Chile (CL)
+* 1.0.2 - August 11, 2016
+  * Change author name.
+* 1.0.1 - August 10, 2016
+  * Updated README file.
+* 1.0 - August 10, 2016
+  * First release.
