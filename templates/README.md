@@ -4,7 +4,7 @@ If you want to add a new country that is not yet in the list of [Supported Count
 
 ## Getting started
 
-1. Fork the [plugin repository](https://github.com/chitezh/woocommerce_states_places/issues/new) on your GitHub account.
+1. Fork the [plugin repository](https://github.com/chitezh/woocommerce_states_places/) on your GitHub account.
 2. Refer to [WooCommerce country codes](https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php) to find the code related to your country. E.g. `'NG'` for Nigeria, `'ES'` for Spain, `'VE'` for Venezuela.
 3. Duplicate the `XX.php` file you'll find inside `template/states/` and `template/places/`, rename them with the code of your country you found in the previous step (E.g. `NG.php`, `ES.php`, `VE.php`) and move them to `trunk/states` and `trunk/places/` respectively.
 

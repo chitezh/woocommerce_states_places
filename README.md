@@ -18,15 +18,13 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * Spain
  * Tunisia
  * Venezuela
- * *Do you want to add your country here?*
-[Help us extending this country list adding your country](https://github.com/chitezh/woocommerce_states_places/templates).
+ * *Do you want to add your country here?*<br>[Help us extending this country list adding your country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates).
 
 ## Languages availables
 
 * English (US)
 * Spanish ([Spain](https://translate.wordpress.org/locale/es/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Mexico](https://translate.wordpress.org/locale/es-mx/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Venezuela](https://translate.wordpress.org/locale/es-ve/default/wp-plugins/states-cities-and-places-for-woocommerce/))
-* *Do you want to see your language here?*
-[Help us translating the plugin to your language](https://translate.wordpress.org/projects/wp-plugins/states-cities-and-places-for-woocommerce/).
+* *Do you want to see your language here?*<br>[Help us translating the plugin to your language](https://translate.wordpress.org/projects/wp-plugins/states-cities-and-places-for-woocommerce/).
 
 ## Requirements
 * WordPress 4.0  or greater
