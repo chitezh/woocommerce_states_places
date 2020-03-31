@@ -60,7 +60,7 @@ $places['VE'] = array(
   ),
   'AR' => array(
     $municipality . ' Bolívar (San Mateo)',
-    $municipality . ' Camatagua(Camatagua)',
+    $municipality . ' Camatagua (Camatagua)',
     $municipality . ' Francisco Linares Alcántara (Santa Rita)',
     $municipality . ' Girardot (Maracay)',
     $municipality . ' José Ángel Lamas (Santa Cruz)',

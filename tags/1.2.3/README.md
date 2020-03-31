@@ -1,11 +1,11 @@
-=== States, Cities, and Places for Woocommerce ===
+=== States, Cities, and Places for WooCommerce ===
 Contributors: chitezh, luisurrutiaf, yordansoares, nobnob
 Donate link: https://github.com/chitezh
 Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, Nigeria, Chile
 Requires at least: 4.7.14
 Tested up to: 5.4
 Requires PHP: 7.0
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 WC requires at least: 3.0.x
 WC tested up to: 4.0.1
 License: GPLv2 or later
@@ -45,14 +45,14 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 = Minimum Requirements =
 
 * WordPress 4.0  or greater
-* Woocommerce 2.2 or greater
+* WooCommerce 2.2 or greater
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
 
 = Automatic installation =
 
 1. Go to your **Dashboard » Plugins » Add new**
-2. In the search form write **"States, Cities, and Places for Woocommerce"**
+2. In the search form write **"States, Cities, and Places for WooCommerce"**
 3. When the search return the result, click on the **Install Now** button
 4. Finally, click on the **Activate** button
 5. Enjoy the plugin!

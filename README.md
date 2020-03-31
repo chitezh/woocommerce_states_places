@@ -1,4 +1,4 @@
-# States, Cities, and Places for Woocommerce
+# States, Cities, and Places for WooCommerce
 
 Wordpress plugin that shows dropdowns for State and City Select for WooCommerce.
 
@@ -18,6 +18,8 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * Spain
  * Tunisia
  * Venezuela
+ * *Do you want to add your country here?*
+[Help us extending this country list adding your country](https://github.com/chitezh/woocommerce_states_places/templates).
 
 ## Languages availables
 
@@ -100,6 +102,8 @@ You extend the plugin to cover countries, states and places. we accept pull requ
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP.: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.4 - March 30, 2020
+  * Fix an issue with a country (Algeria)
 * 1.2.3 - March 22, 2020
   * Added localization to "State" and "City" field labels  
 * 1.2.2 - March 22, 2020
