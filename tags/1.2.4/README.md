@@ -9,7 +9,7 @@ Stable tag: 1.2.4
 WC requires at least: 3.0.x
 WC tested up to: 4.0.1
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
 Wordpress plugin that shows dropdowns for State and City Select for WooCommerce.
 
