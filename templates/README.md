@@ -82,7 +82,7 @@ If you completed the steps above, you're ready to send a **pull request**. Thank
 
 If your don't know or don't want to use GitHub workflow, please follow the following steps to add your country to the plugin:
 
-1. [Click here](https://github.com/chitezh/woocommerce_states_places/blob/master/templates/wc-states-places-country-templates.zip) to download the [`wc-states-places-country-templates.zip`](https://github.com/chitezh/woocommerce_states_places/blob/master/templates/wc-states-places-country-templates.zip) file. 
+1. [Click here](https://github.com/chitezh/woocommerce_states_places/raw/master/templates/wc-states-places-country-templates.zip) to download the [`wc-states-places-country-templates.zip`](https://github.com/chitezh/woocommerce_states_places/raw/master/templates/wc-states-places-country-templates.zip) file. 
 2. Uncompress and edit both [`template/states/XX.po`](https://github.com/chitezh/woocommerce_states_places/blob/master/templates/states/XX.php) and [`template/places/XX.po`](https://github.com/chitezh/woocommerce_states_places/blob/master/templates/places/XX.php), adding the location data for your country.
 3. Send the files to this email: **contacto@yordansoar.es**.
 4. Thanks in advance for your contribution to improve this plugin.
