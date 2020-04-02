@@ -46,9 +46,17 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
          * WC init
          */
         public function init() {
+            $this->init_textdomain();
             $this->init_fields();
             $this->init_states();
             $this->init_places();
+        }
+
+        /**
+         * Load text domain for internationalitation         
+         */
+        public function init_textdomain() {
+            load_plugin_textdomain('states-cities-and-places-for-woocommerce', FALSE,	dirname(plugin_basename(__FILE__)) . '/languages' );
         }
 
         /**
