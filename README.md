@@ -1,4 +1,4 @@
-![Plugin banner](https://github.com/chitezh/woocommerce_states_places/raw/master/assets/banner-1544x500.png)
+<a href="#!"><img src="https://github.com/chitezh/woocommerce_states_places/raw/master/assets/banner-1544x500.png" alt="Plugin banner" title="States, Cities, and Places for WooCommerce"/></a>
 
 # States, Cities, and Places for WooCommerce
 
@@ -38,8 +38,9 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 * MySQL version 5.0 or greater
 
 ## Screenshots
-In this screenshot you can see the plugin in action:
-  	![Plugin in activo](https://github.com/chitezh/woocommerce_states_places/raw/master/assets/screenshot-1.gif)
+* In this screenshot you can see the plugin in action:  
+
+<a href="#!"><img src="https://github.com/chitezh/woocommerce_states_places/raw/master/assets/screenshot-1.gif" alt="Plugin in action" title="Plugin in action"/></a>
 
 ## Installation
 
