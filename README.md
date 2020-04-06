@@ -1,3 +1,5 @@
+![Plugin banner](https://github.com/chitezh/woocommerce_states_places/raw/master/assets/banner-1544x500.png)
+
 # States, Cities, and Places for WooCommerce
 
 Wordpress plugin that shows dropdowns for State and City Select for WooCommerce.
@@ -8,17 +10,20 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Supported Countries
  * Algeria
- * Brasil
+ * Brazil
  * Chile
+ * Colombia
  * Guatemala
  * Nicaragua
  * Nigeria
  * Panama
  * Russia
+ * Saudi Arabia
  * Spain
  * Tunisia
+ * Uruguay
  * Venezuela
- * *Do you want to add your country here?*<br>[Help us extending this country list adding your country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates).
+ * *Do you want to add your country here?*<br>[Help us extending this list adding your country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates).
 
 ## Languages availables
 
@@ -27,10 +32,14 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 * *Do you want to see your language here?*<br>[Help us translating the plugin to your language](https://translate.wordpress.org/projects/wp-plugins/states-cities-and-places-for-woocommerce/).
 
 ## Requirements
-* WordPress 4.0  or greater
-* WooCommerce 2.2 or greater
-* PHP version 5.2.4 or greater
+* WordPress 4.7.14 or greater
+* WooCommerce 3.0.x or greater
+* PHP version 5.6.20 or greater
 * MySQL version 5.0 or greater
+
+## Screenshots
+In this screenshot you can see the plugin in action:
+  	![Plugin in activo](https://github.com/chitezh/woocommerce_states_places/raw/master/assets/screenshot-1.gif)
 
 ## Installation
 
@@ -60,46 +69,27 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Frequently Asked Questions
 ### How do I report bugs?
-Kindly create an issue stating the bug and how you caught it [chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places/issues/new)
+Kindly create an issue stating the bug and how you caught it: [Create new issue](https://github.com/chitezh/woocommerce_states_places/issues/new).
 
 ### Can I suggest a new place or location?
-Yes, you can always suggest or request new locations by creating an issue in [chitezh/woocommerce_states_places](https://github.com/chitezh/woocommerce_states_places/issues/new). Please refer to the [Country Codes](https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php) using by WooCommerce.
-
-### How do I contribute to the project?
-You extend the plugin to cover countries, states and places. we accept pull requests. Fork the repo and make changes to `/trunk`. Consider reading [Wordpress F.A.Q.](https://wordpress.org/plugins/about/faq/) to further understand wordpress SVN file structure.
-
-	Pull Requests
-
-	Document any change in behaviour - Make sure the README.md and any other relevant documentation are kept up-to-date.
-
-	Consider our release cycle - We try to follow SemVer v2.0.0. Randomly breaking public APIs is not an option.
-
-	Create feature branches - Don't ask us to pull from your master branch.
-
-	One pull request per feature - If you want to do more than one thing, send multiple pull requests.
-
-	Send coherent history - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please squash them before submitting.
-
-## Screenshots
-1. States dropdown.
-  	[![Screen 1](https://github.com/chitezh/woocommerce_states_places/blob/master/assets/screenshot-1.png)]()
-
-2. States dropdown on search.
- 	[![Screen 2](https://github.com/chitezh/woocommerce_states_places/blob/master/assets/screenshot-2.png)]()
-
-3. Cities dropdown on search
-	[![Screen 3](https://github.com/chitezh/woocommerce_states_places/blob/master/assets/screenshot-3.png)]()
-
-4. Selected state and city.
- 	[![Screen 4](https://github.com/chitezh/woocommerce_states_places/blob/master/assets/screenshot-4.png)]()
+Yes, you can always suggest or request new locations by creating an issue in the [plugin repository](https://github.com/chitezh/woocommerce_states_places/issues/new) in GitHub. Please refer to the [Adding a new country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates) instructions to get more details.
 
 ## Contributors
-- **Kingsley Ochu** - (GitHub: [chitezh](https://github.com/chitezh) / WP.: [chitezh](https://profiles.wordpress.org/chitezh/))
-- **Luis Urrutia** - (GitHub: [LuisUrrutia](https://github.com/LuisUrrutia) / WP.: [luisurrutiaf](https://profiles.wordpress.org/luisurrutiaf/))
-- **Javier Esteban** - (GitHub: [NobNob](https://github.com/NobNob) / WP.: [NobNob](https://profiles.wordpress.org/nobnob/))
-- **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP.: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
+- **Kingsley Ochu** - (GitHub: [chitezh](https://github.com/chitezh) / WP: [chitezh](https://profiles.wordpress.org/chitezh/))
+- **Luis Urrutia** - (GitHub: [LuisUrrutia](https://github.com/LuisUrrutia) / WP: [luisurrutiaf](https://profiles.wordpress.org/luisurrutiaf/))
+- **Javier Esteban** - (GitHub: [NobNob](https://github.com/NobNob) / WP: [NobNob](https://profiles.wordpress.org/nobnob/))
+- **José Ayrám** - (GitHub: [joseayram](https://github.com/joseayram) / WP: [joseayram](https://profiles.wordpress.org/joseayram/))
+- **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.5 - April 06, 2020
+  * Added three new countries:
+    * Colombia (CO): Departments and Cities (thanks to [José Ayrám](https://profiles.wordpress.org/joseayram/))
+    * Saudi Arabia (SA): Regions and Governorates.
+    * Uruguay (UY): Departments and Cities (thanks to [Alfonso Frachelle](https://www.idearius.com/es/))
+  * Added support translation feature for location names of Algeria and Saudi Arabia.
+  * Added plugin page banner and icon. Thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/)!
+  * Updated screenshot.
 * 1.2.4 - March 30, 2020
   * Fix an issue with a country (Algeria)
 * 1.2.3 - March 22, 2020
