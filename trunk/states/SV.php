@@ -7,7 +7,6 @@
  * Source:
  * - https://en.wikipedia.org/wiki/Departments_of_El_Salvador
  *
- *
  * @author  Guillermo Contreras <guillermojcontreras@gmail.com> | https://binario.com.sv
  * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
@@ -15,7 +14,7 @@
 
 global $states;
 
-$states['SV'] = array (
+$states['SV'] = array(
 	'SV-AH' => 'Ahuachapan',
 	'SV-CA' => 'Cabañas',
 	'SV-CH' => 'Chalatenango',
@@ -29,5 +28,5 @@ $states['SV'] = array (
 	'SV-SV' => 'San Vicente',
 	'SV-SA' => 'Santa Ana',
 	'SV-SO' => 'Sonsonate',
-	'SV-UD' => 'Usulutan'
+	'SV-US' => 'Usulutan'
 );
