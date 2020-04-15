@@ -769,7 +769,7 @@ $places['NG'] = array(
 		'Port-Harcourt',
 		'Tai'
 	),
-	'SK' => array(
+	'SO' => array(
 		'Binji',
 		'Bodinga',
 		'Dange-shnsi',
