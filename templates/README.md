@@ -12,7 +12,7 @@ If you want to add a new country that is not yet in the list of [Supported Count
 
 1. Go to the [`states/`](https://github.com/chitezh/woocommerce_states_places/tree/master/trunk/states) directory and open the file you just move from [`template/states/`](https://github.com/chitezh/woocommerce_states_places/tree/master/templates/states) with your favourite code editor.
 2. Find the `$states['XX']` (line 19) and replace `'XX'` with your country code.
-3. Begin adding your Country States: Add a Code to each State using a logic sense (E.g. `'FA' => 'Florida'`). This code will be used to map the Places beloging this State. You can use any standar like ISO, ANSI, etc. There is no an mandatory standar or system and you can use your own. Please see the [U.S. state abbreviations](https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations) to see an example.
+3. Begin adding your Country States: Add a Code to each State using a logic sense (E.g. `'FA' => 'Florida'`). This code will be used to map the Places beloging this State. You can use any standar like [ISO](https://www.iso.org/obp/ui/#search/code), ANSI, etc. There is no an mandatory standar or system and you can use your own. Please see the [U.S. state abbreviations](https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations) to see an example.
 5. Edit the header comment with your credits and the source(s) link(s) where you got the info of Places. We'll check the list before accept your pull request. You should also remove all the comments after line 17 (that is a resume of this guide to ease the job).
 
 Your code should look like this:

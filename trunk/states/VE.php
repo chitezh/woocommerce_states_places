@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Venezuelan States
+ *  States of Venezuela
  * - 1 Capital District
  * - 23 States
  * 
