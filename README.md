@@ -10,13 +10,17 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Supported Countries
  * 🇩🇿 Algeria
+ * 🇧🇧 Barbados
  * 🇧🇷 Brazil
  * 🇨🇱 Chile
  * 🇨🇴 Colombia
+ * 🇸🇻 El Salvador
  * 🇬🇹 Guatemala
+ * 🇮🇹 Italy
  * 🇳🇮 Nicaragua
  * 🇳🇬 Nigeria
  * 🇵🇦 Panama
+ * 🇵🇹 Portugal
  * 🇷🇺 Russia
  * 🇸🇦 Saudi Arabia
  * 🇪🇸 Spain
@@ -83,6 +87,16 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.6 - April 16, 2020
+  * Added four new countries:
+    * 🇧🇧 Barbados (BB): Parishes and Places (thanks to [Damien Alleyne](https://github.com/d-alleyne))
+    * 🇸🇻 El Salvador (SV): Departments and Municipalities (thanks to [ChronHeart](https://github.com/lastcron))
+    * 🇮🇹 Italy (IT): Provinces and Municipalities (thanks to [Claudio Tegazzini](https://www.claudiotegazzini.it))
+    * 🇵🇹 Portugal (PT): Districts, Autonomous Regions and Municipalities (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
+  * Fixed some issues with 🇳🇬 Nigeria (thanks to [Ibrahim Nasir](https://github.com/kh4l33l))
+  * Added two experimental filter hooks to Algeria ([How to use](https://wordpress.org/support/topic/show-a-specific-state/)):
+    * `scpwoo_custom_states_dz` - handles Provinces of Algeria
+    * `scpwoo_custom_places_dz` - handles Communes of Algeria
 * 1.2.5 - April 06, 2020
   * Added three new countries:
     * 🇨🇴 Colombia (CO): Departments and Cities (thanks to [José Ayrám](https://profiles.wordpress.org/joseayram/))
@@ -115,7 +129,8 @@ Yes, you can always suggest or request new locations by creating an issue in the
   * Fix text domain in plugin header comment (states-cities-and-places-for-woocommerce).
   * Fix some typos and strings without translation functions.
 * 1.2.0 - February 07, 2019
-  * Added a new country: 🇬🇹 Guatemala (GT)
+  * Added a new country: 
+    * 🇬🇹 Guatemala (GT)
 * 1.1.1 - August 28, 2018
   * Updated Chilean states and cities (16 states, no numbers).
 * 1.1.0 - July 09, 2017
