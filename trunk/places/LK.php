@@ -1515,4 +1515,10 @@ $places['LK'] = array(
     'Warunagama',
     'Wedikumbura',
   ),
+  'KH-LK' => array(
+    'Kandavalai',
+    'Kilinochchi',
+    'Pallai',
+    'Poonakary',
+  ),
 );
