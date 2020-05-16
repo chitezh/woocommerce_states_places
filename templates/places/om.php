@@ -1,11 +1,11 @@
 <?php
 
 /**
- * $country places/cities/municipalities/districts
- * - $count places/cities/municipalities/districts
+ * Provinces of Oman
+ * - 61 provinces wilayat
  * 
  * Source: 
- * - [Please add the source(s) link(s) to check the list of places]
+ * - https://en.wikipedia.org/wiki/Provinces_of_Oman
  * 
  * @author  iAlwardi <alwardiamur@gmail.com> 
  * @version 1.0.0
@@ -14,7 +14,6 @@
 
 global $places;
 
-
 $places['OM'] = array(
   'MC' => array(
     'السيب (Alseeb)',
@@ -22,13 +21,13 @@ $places['OM'] = array(
     'مطرح (Matrah)',
     'مسقط (Muscat)',
     'قريات (Quraiat)',
-	 'العامرات (Alamerat)',
+    'العامرات (Alamerat)',
   ),
   'MN' => array(
     'خصب (Kasab)',
     'مدحا (Madha)',
     'دبا (Daba)',
-	'بخا (Buka)',
+    'بخا (Buka)',
   ),
   'BN' => array(
     'صحار (Sohar)',
@@ -44,12 +43,12 @@ $places['OM'] = array(
     'نخل (Nakal)',
     'المصنعة (Almusina)',
     'بركاء (Barka)',
-	'العوابي (Alawabi)',
+    'العوابي (Alawabi)',
   ),
   'BU' => array(
     'البريمي (Alburimi)',
     'محضة (Mahadha)',
-	'السنينة (Alsininah)',
+    'السنينة (Alsininah)',
   ),
   'DH' => array(
     'عبري (Ibri)',
@@ -64,8 +63,9 @@ $places['OM'] = array(
     'منح (Manah)',
     'إزكي (Izki)',
     'أدم (Adam)',
+    'بدبد‎ (Bidbid)',
   ),
-    'NS' => array(
+  'SN' => array(
     'إبراء (Ibra)',
     'المضيبي (Almudhibi)',
     'دماء والطائين (Dama Wataien)',
@@ -73,24 +73,29 @@ $places['OM'] = array(
     'بدية (Bidiah)',
     'القابل (Alqabil)',
   ),
-    'SS' => array(
+  'SS' => array(
     'صور (Sur)',
     'جعلان بني بو علي (Jalan Banibu Ali)',
     'جعلان بني بو حسن (Jalan Banibu Hasan)',
     'مصيرة (Musirah)',
     'الكامل والوافي (Alkamil Walwafi)',
   ),
-    'WS' => array(
+  'WS' => array(
     'هيماء (Hima)',
     'محوت (Mahoot)',
     'الدقم (Alduqum)',
     'الجازر (Aljazer)',
   ),
-    'DO' => array(
+  'DO' => array(
     'صلالة (Salalah)',
     'طاقة (Taqa)',
     'مرباط (Marbat)',
     'مقشن (Maqshan)',
     'ثمريت (Thamrait)',
+    'سدح‎ (Sadah)',
+    'رخيوت‎ (Rakhyut)',
+    'ضلكوت (Dhalkut)',
+    'ضلكوت (Shalim)',
+    'المزيونة (Al-Mazyona)',
   ),
 );
