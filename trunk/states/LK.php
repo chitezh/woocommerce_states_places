@@ -37,4 +37,5 @@ $states['LK'] = array(
   'HB-LK' => 'Hambantota',
   'BD-LK' => 'Badulla',
   'MJ-LK' => 'Monaragala',
+  'KH-LK' => 'Kilinochchi',
 );
