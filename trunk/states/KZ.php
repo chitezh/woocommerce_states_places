@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Kazakhstan states
+ * Regions of Kazakhstan
  *
  * @author  Iminov Anvar <rubikjann@gmail.com> | * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License

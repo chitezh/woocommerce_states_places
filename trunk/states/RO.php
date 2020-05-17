@@ -1,13 +1,13 @@
 <?php
 
 /**
-* Counties of Romania
-* - 43 administrative regions
-*
-* @author  Razvan Farte <razvan@razvanfarte.ro> https://razvanfarte.ro/
-* @version 1.0.0
-* @license http://www.gnu.org/licenses/gpl-2.0.html
-*/
+ * Counties of Romania
+ * - 41 counties (județe) and municipality of Bucharest (București) 
+ *
+ * @author  Razvan Farte <razvan@razvanfarte.ro> https://razvanfarte.ro/
+ * @version 1.0.0
+ * @license http://www.gnu.org/licenses/gpl-2.0.html
+ */
 
 global $states;
 

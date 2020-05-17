@@ -1,8 +1,8 @@
 <?php
 
 /**
- * $country places/cities/municipalities/districts
- * - $count places/cities/municipalities/districts
+ * Cantons of Ecuador
+ * - 216 cantons
  *
  * Source:
  * - http://www.statoids.com/yec.html

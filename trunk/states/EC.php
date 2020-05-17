@@ -1,8 +1,8 @@
 <?php
 
 /**
- * $country states/provinces/regions
- * - $count states/provinces/regions
+ * Provinces of Ecuador
+ * - 24 provinces
  *
  * Source:
  * - http://www.statoids.com/uec.html
