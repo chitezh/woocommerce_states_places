@@ -101,7 +101,7 @@ Yes, you can always suggest or request new locations by creating an issue in the
   * 🇮🇹 Italy (IT): Provinces and Municipalities (thanks to [Claudio Tegazzini](https://www.claudiotegazzini.it))
   * 🇵🇹 Portugal (PT): Districts, Autonomous Regions and Municipalities (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
 * Fixed some issues with 🇳🇬 Nigeria (thanks to [Ibrahim Nasir](https://github.com/kh4l33l))
-* Added two experimental filter hooks to Algeria ([How to use](https://wordpress.org/support/topic/show-a-specific-state/)):
+* Added two experimental filter hooks to Algeria ([How to use](https://wordpress.org/support/topic/show-a-specific-state/#post-12681489)):
   * `scpwoo_custom_states_dz` - handles Provinces of Algeria
   * `scpwoo_custom_places_dz` - handles Communes of Algeria
 = 1.2.5 - April 06, 2020 =
