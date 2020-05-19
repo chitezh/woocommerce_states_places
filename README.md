@@ -2,6 +2,15 @@
 
 # States, Cities, and Places for WooCommerce
 
+* Stable tag: 1.2.7
+* Requires at least: 4.0
+* Tested up to: 5.4.1
+* Requires PHP: 7.0
+* WC requires at least: 3.0.x
+* WC tested up to: 4.1.0
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 Wordpress plugin that shows dropdowns for State and City Select for WooCommerce.
 
 This WooCommerce plugin transforms the text input for states, the city or town. With this plugin you can provide a list of states and cities to be shown as a select dropdown.
@@ -14,16 +23,21 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * 🇧🇷 Brazil
  * 🇨🇱 Chile
  * 🇨🇴 Colombia
+ * 🇪🇨 Ecuador
  * 🇸🇻 El Salvador
  * 🇬🇹 Guatemala
  * 🇮🇹 Italy
+ * 🇰🇿 Kazakhstan
  * 🇳🇮 Nicaragua
  * 🇳🇬 Nigeria
+ * 🇴🇲 Oman
  * 🇵🇦 Panama
  * 🇵🇹 Portugal
+ * 🇷🇴 Romania
  * 🇷🇺 Russia
  * 🇸🇦 Saudi Arabia
  * 🇪🇸 Spain
+ * 🇱🇰 Sri Lanka
  * 🇹🇳 Tunisia
  * 🇺🇾 Uruguay
  * 🇻🇪 Venezuela
@@ -87,6 +101,15 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.7 - May 17, 2020
+  * Added five new countries:
+    * 🇪🇨 Ecuador: Provinces and Cantons (thanks to [Franklin Lucero](https://github.com/Alercard))
+    * 🇰🇿 Kazakhstan: Regions and Districts (thanks to Iminov Anvar)
+    * 🇴🇲 Oman: Governorates and Provinces (thanks to [iAlwardi](https://github.com/ialwardi))
+    * 🇷🇴 Romania: Counties and Cities (thanks to [Razvan Farte](https://razvanfarte.ro/))
+    * 🇱🇰 Sri Lanka: Districts and Cities (thanks to [Pasindu Perera](https://github.com/maddagepasindu))
+  * Updated 1 country:
+    * 🇨🇱 Chile (CL): removed "Región:" in State names (thanks to [CLobo96](https://github.com/CLobo96))
 * 1.2.6 - April 16, 2020
   * Added four new countries:
     * 🇧🇧 Barbados (BB): Parishes and Places (thanks to [Damien Alleyne](https://github.com/d-alleyne))
@@ -94,7 +117,7 @@ Yes, you can always suggest or request new locations by creating an issue in the
     * 🇮🇹 Italy (IT): Provinces and Municipalities (thanks to [Claudio Tegazzini](https://www.claudiotegazzini.it))
     * 🇵🇹 Portugal (PT): Districts, Autonomous Regions and Municipalities (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
   * Fixed some issues with 🇳🇬 Nigeria (thanks to [Ibrahim Nasir](https://github.com/kh4l33l))
-  * Added two experimental filter hooks to Algeria ([How to use](https://wordpress.org/support/topic/show-a-specific-state/)):
+  * Added two experimental filter hooks to Algeria ([How to use](https://wordpress.org/support/topic/show-a-specific-state/#post-12681489)):
     * `scpwoo_custom_states_dz` - handles Provinces of Algeria
     * `scpwoo_custom_places_dz` - handles Communes of Algeria
 * 1.2.5 - April 06, 2020
