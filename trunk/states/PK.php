@@ -1,11 +1,11 @@
 <?php
 /**
- * Nigerian states
+ * Pakistan States/Provinces
  *
- * @author   Kingsley Ochu <ochu.kc@gmail.com>
+ * @author   Faisal Basra <faisal.basra@outlook.com>
  * @version  1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
- * Credits: alexasomba
+ * Credits: faisalbasra
  */
 
 global $states;
