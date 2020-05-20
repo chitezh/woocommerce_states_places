@@ -5,7 +5,7 @@
  * @author   Faisal Basra <faisal.basra@outlook.com>
  * @version  1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
- * Credits: faisalbasra
+ * Credits: https://faisalbasra.blogspot.com/2013/11/cities-list-of-pakistan-in-excel-csv.html
  */
 
 global $states;
