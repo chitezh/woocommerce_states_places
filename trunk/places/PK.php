@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Nigerian places
+ * Pakistan Cities/Places
  *
- * @author   Kingsley Ochu <ochu.kc@gmail.com>
+ * @author   Faisal Basra <faisal.basra@outlook.com>
  * @version  1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Credits: https://donjajo.com/ngstateslga-nigerian-36-states-local-government-areas-php-class/
