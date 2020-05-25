@@ -6,7 +6,7 @@
  * 
  * Source: 
  * - https://en.wikipedia.org/wiki/Provinces_of_Oman
- * 
+ * @author  iAlwardi <alwardiamur@gmail.com>
  * @author  Moayid Al Subhi <moayidalsubhi@gmail.com> 
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
