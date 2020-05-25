@@ -12,7 +12,6 @@ global $states;
 
 $states ['PK' ] = array (
 	'JK' => 'Azad Kashmir' ,
-	'TA' => 'FATA' ,
 	'GB' => 'Gilgit Baltistan' ,
 	'KP' => 'Khyber Pakhtunkhwa' ,
 	'SD' => 'Sindh',
