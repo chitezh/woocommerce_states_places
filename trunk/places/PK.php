@@ -3,8 +3,8 @@
 /**
  * Pakistan Cities/Places
  *
- * @author   Faisal Basra <faisal.basra@outlook.com>
- * @version  1.0.0
+ * @author   Faisal Basra <hello@faisalbasra.me>
+ * @version  1.0.1
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Credits: https://faisalbasra.blogspot.com/2013/11/cities-list-of-pakistan-in-excel-csv.html
  */
@@ -152,22 +152,10 @@ $places['PK'] = array(
 			'Skardu',
 			'Shangrila',
 			'Shandur'
-		),
-		'TA' => array(
-				'Bajaur',
-				'Hangu',
-				'Malakand',
-				'Miram Shah',
-				'Mohmand',
-				'Khyber',
-				'Kurram',
-				'North Waziristan',
-				'South Waziristan',
-				'Wana'
-		),
-		
+		),		
 		'KP' => array(
 				'Abbottabad',
+				'Bajaur',
 				'Ayubia',
 				'Adezai',
 				'Banda Daud Shah',
@@ -185,11 +173,14 @@ $places['PK'] = array(
 				'Drosh',
 				'Hangu',
 				'Haripur',
+				'Hangu',
 				'Kalam',
 				'Karak',
 				'Khanaspur',
 				'Kohat',
 				'Kohistan',
+				'Kurram Agency',
+				'Khyber Agency',
 				'Lakki Marwat',
 				'Latamber',
 				'Lower Dir',
@@ -197,9 +188,12 @@ $places['PK'] = array(
 				'Malakand',
 				'Mansehra',
 				'Mardan',
+				'Miram Shah',
+				'Mohmand',
 				'Mastuj',
 				'Mongora',
 				'Nowshera',
+				'North Waziristan',
 				'Paharpur',
 				'Peshawar',
 				'Saidu Sharif',
@@ -207,12 +201,13 @@ $places['PK'] = array(
 				'Sakesar',
 				'Swabi',
 				'Swat',
+				'South Waziristan',
 				'Tangi',
 				'Tank',
 				'Thall',
 				'Tordher',
-				'Upper Dir'
-
+				'Upper Dir',
+				'Wana'
 		),
 		
 		'SD' => array(
