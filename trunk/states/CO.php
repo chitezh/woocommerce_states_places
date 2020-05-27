@@ -10,9 +10,7 @@
  *
  * @author  José Ayram <ayramj@gmail.com>
  * @author  José Ayram
- * @license http://opensource.org/licenses/gpl-license.php GNU Public License
-
- https://www.iso.org/obp/ui/#iso:code:3166:CO
+ * @license http://opensource.org/licenses/gpl-license.php GNU Public License 
  */
 
 global $states;
