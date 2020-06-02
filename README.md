@@ -2,7 +2,7 @@
 
 # States, Cities, and Places for WooCommerce
 
-* Stable tag: 1.2.7
+* Stable tag: 1.2.8
 * Requires at least: 4.0
 * Tested up to: 5.4.1
 * Requires PHP: 7.0
@@ -23,15 +23,18 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * 🇧🇷 Brazil
  * 🇨🇱 Chile
  * 🇨🇴 Colombia
+ * 🇩🇰 Denmark
  * 🇪🇨 Ecuador
  * 🇸🇻 El Salvador
  * 🇬🇹 Guatemala
+ * 🇭🇳 Honduras
  * 🇮🇹 Italy
  * 🇰🇿 Kazakhstan
  * 🇳🇮 Nicaragua
  * 🇳🇬 Nigeria
  * 🇴🇲 Oman
  * 🇵🇦 Panama
+ * 🇵🇰 Pakistan
  * 🇵🇹 Portugal
  * 🇷🇴 Romania
  * 🇷🇺 Russia
@@ -101,6 +104,13 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.8 - Jun 01, 2020
+  * Added three new countries:
+    * 🇩🇰 Denmark: Regions and Municipalities (thanks to [jonasskafte](https://github.com/jonasskafte) for testing this country)
+    * 🇭🇳 Honduras: Departments and Municipalities (thanks to [jbermudez00](https://github.com/jbermudez00))
+    * 🇵🇰 Pakistan: Provinces, Territories and Districts (thanks to [Faisal Basra](https://github.com/faisalbasra))
+  * Updated 1 country:
+    * 🇴🇲 Oman (CL): Added translation support for location names (thanks to [Moayid](https://github.com/Moayid))
 * 1.2.7 - May 17, 2020
   * Added five new countries:
     * 🇪🇨 Ecuador: Provinces and Cantons (thanks to [Franklin Lucero](https://github.com/Alercard))
