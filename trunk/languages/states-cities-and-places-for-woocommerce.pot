@@ -1,18 +1,17 @@
 # Copyright (C) 2020 Kingsley Ochu
 # This file is distributed under the same license as the States, Cities, and Places for WooCommerce plugin.
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: States, Cities, and Places for WooCommerce 1.2.4\n"
+"Project-Id-Version: States, Cities, and Places for WooCommerce 1.2.7\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2020-04-01 21:27-0400\n"
+"POT-Creation-Date: 2020-06-01T22:24:51-04:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: WP-CLI 2.3.0\n"
 "X-Domain: states-cities-and-places-for-woocommerce\n"
 
 #. Plugin Name of the plugin
@@ -115,7 +114,8 @@ msgctxt "Algerian Communes"
 msgid "Tinerkouk"
 msgstr ""
 
-#: places/DZ.php:38 places/DZ.php:692
+#: places/DZ.php:38
+#: places/DZ.php:692
 msgctxt "Algerian Communes"
 msgid "Deldoul"
 msgstr ""
@@ -165,7 +165,8 @@ msgctxt "Algerian Communes"
 msgid "Sbaa"
 msgstr ""
 
-#: places/DZ.php:48 places/DZ.php:1307
+#: places/DZ.php:48
+#: places/DZ.php:1307
 msgctxt "Algerian Communes"
 msgid "Ouled Aissa"
 msgstr ""
@@ -285,7 +286,8 @@ msgctxt "Algerian Communes"
 msgid "Abou El Hassen"
 msgstr ""
 
-#: places/DZ.php:74 places/DZ.php:849
+#: places/DZ.php:74
+#: places/DZ.php:849
 msgctxt "Algerian Communes"
 msgid "El Marsa"
 msgstr ""
@@ -295,7 +297,8 @@ msgctxt "Algerian Communes"
 msgid "Chettia"
 msgstr ""
 
-#: places/DZ.php:76 places/DZ.php:529
+#: places/DZ.php:76
+#: places/DZ.php:529
 msgctxt "Algerian Communes"
 msgid "Sidi Abderrahmane"
 msgstr ""
@@ -475,7 +478,8 @@ msgctxt "Algerian Communes"
 msgid "Oum El Bouaghi"
 msgstr ""
 
-#: places/DZ.php:116 places/DZ.php:1169
+#: places/DZ.php:116
+#: places/DZ.php:1169
 msgctxt "Algerian Communes"
 msgid "Ain Beida"
 msgstr ""
@@ -895,7 +899,8 @@ msgctxt "Algerian Communes"
 msgid "Ouled Ammar"
 msgstr ""
 
-#: places/DZ.php:202 places/DZ.php:1651
+#: places/DZ.php:202
+#: places/DZ.php:1651
 msgctxt "Algerian Communes"
 msgid "El Hassi"
 msgstr ""
@@ -915,7 +920,9 @@ msgctxt "Algerian Communes"
 msgid "Boulhilat"
 msgstr ""
 
-#: places/DZ.php:206 places/DZ.php:337 places/DZ.php:1366
+#: places/DZ.php:206
+#: places/DZ.php:337
+#: places/DZ.php:1366
 msgctxt "Algerian Communes"
 msgid "Larbaa"
 msgstr ""
@@ -955,7 +962,8 @@ msgctxt "Algerian Communes"
 msgid "Timzrit"
 msgstr ""
 
-#: places/DZ.php:216 places/DZ.php:592
+#: places/DZ.php:216
+#: places/DZ.php:592
 msgctxt "Algerian Communes"
 msgid "Souk El Thenine"
 msgstr ""
@@ -1210,12 +1218,14 @@ msgctxt "Algerian Communes"
 msgid "Ras El Miaad"
 msgstr ""
 
-#: places/DZ.php:269 places/DZ.php:1336
+#: places/DZ.php:269
+#: places/DZ.php:1336
 msgctxt "Algerian Communes"
 msgid "Besbes"
 msgstr ""
 
-#: places/DZ.php:270 places/DZ.php:878
+#: places/DZ.php:270
+#: places/DZ.php:878
 msgctxt "Algerian Communes"
 msgid "Sidi Khaled"
 msgstr ""
@@ -1550,7 +1560,8 @@ msgctxt "Algerian Communes"
 msgid "Beni Mered"
 msgstr ""
 
-#: places/DZ.php:342 places/DZ.php:531
+#: places/DZ.php:342
+#: places/DZ.php:531
 msgctxt "Algerian Communes"
 msgid "Bougara"
 msgstr ""
@@ -1585,7 +1596,8 @@ msgctxt "Algerian Communes"
 msgid "Guerrouma"
 msgstr ""
 
-#: places/DZ.php:351 places/DZ.php:484
+#: places/DZ.php:351
+#: places/DZ.php:484
 msgctxt "Algerian Communes"
 msgid "Souk El Khemis"
 msgstr ""
@@ -1610,7 +1622,8 @@ msgctxt "Algerian Communes"
 msgid "Ait Laaziz"
 msgstr ""
 
-#: places/DZ.php:356 places/DZ.php:1384
+#: places/DZ.php:356
+#: places/DZ.php:1384
 msgctxt "Algerian Communes"
 msgid "Taghzout"
 msgstr ""
@@ -1650,7 +1663,8 @@ msgctxt "Algerian Communes"
 msgid "Aomar"
 msgstr ""
 
-#: places/DZ.php:364 places/DZ.php:1161
+#: places/DZ.php:364
+#: places/DZ.php:1161
 msgctxt "Algerian Communes"
 msgid "Chorfa"
 msgstr ""
@@ -1690,7 +1704,8 @@ msgctxt "Algerian Communes"
 msgid "Zbarbar"
 msgstr ""
 
-#: places/DZ.php:372 places/DZ.php:796
+#: places/DZ.php:372
+#: places/DZ.php:796
 msgctxt "Algerian Communes"
 msgid "Ain El Hadjar"
 msgstr ""
@@ -1710,7 +1725,8 @@ msgctxt "Algerian Communes"
 msgid "Taguedit"
 msgstr ""
 
-#: places/DZ.php:376 places/DZ.php:1199
+#: places/DZ.php:376
+#: places/DZ.php:1199
 msgctxt "Algerian Communes"
 msgid "Ain Turk"
 msgstr ""
@@ -1760,7 +1776,8 @@ msgctxt "Algerian Communes"
 msgid "Sour El Ghozlane"
 msgstr ""
 
-#: places/DZ.php:386 places/DZ.php:804
+#: places/DZ.php:386
+#: places/DZ.php:804
 msgctxt "Algerian Communes"
 msgid "Maamora"
 msgstr ""
@@ -1905,7 +1922,8 @@ msgctxt "Algerian Communes"
 msgid "Morsott"
 msgstr ""
 
-#: places/DZ.php:419 places/DZ.php:1399
+#: places/DZ.php:419
+#: places/DZ.php:1399
 msgctxt "Algerian Communes"
 msgid "El Ogla"
 msgstr ""
@@ -2230,7 +2248,8 @@ msgctxt "Algerian Communes"
 msgid "Chetouane"
 msgstr ""
 
-#: places/DZ.php:487 places/DZ.php:1058
+#: places/DZ.php:487
+#: places/DZ.php:1058
 msgctxt "Algerian Communes"
 msgid "Mansourah"
 msgstr ""
@@ -2465,7 +2484,8 @@ msgctxt "Algerian Communes"
 msgid "Freha"
 msgstr ""
 
-#: places/DZ.php:540 places/DZ.php:1109
+#: places/DZ.php:540
+#: places/DZ.php:1109
 msgctxt "Algerian Communes"
 msgid "Souamaa"
 msgstr ""
@@ -2730,7 +2750,8 @@ msgctxt "Algerian Communes"
 msgid "Ait Khelil"
 msgstr ""
 
-#: places/DZ.php:594 places/DZ.php:995
+#: places/DZ.php:594
+#: places/DZ.php:995
 msgctxt "Algerian Communes"
 msgid "Sidi Naamane"
 msgstr ""
@@ -2780,7 +2801,8 @@ msgctxt "Algerian Communes"
 msgid "Alger Centre"
 msgstr ""
 
-#: places/DZ.php:606 places/DZ.php:1107
+#: places/DZ.php:606
+#: places/DZ.php:1107
 msgctxt "Algerian Communes"
 msgid "Sidi Mhamed"
 msgstr ""
@@ -2915,7 +2937,8 @@ msgctxt "Algerian Communes"
 msgid "Hydra"
 msgstr ""
 
-#: places/DZ.php:633 places/DZ.php:1149
+#: places/DZ.php:633
+#: places/DZ.php:1149
 msgctxt "Algerian Communes"
 msgid "Mohammadia"
 msgstr ""
@@ -2990,7 +3013,8 @@ msgctxt "Algerian Communes"
 msgid "Reghaia"
 msgstr ""
 
-#: places/DZ.php:648 places/DZ.php:1547
+#: places/DZ.php:648
+#: places/DZ.php:1547
 msgctxt "Algerian Communes"
 msgid "Ain Benian"
 msgstr ""
@@ -3665,7 +3689,8 @@ msgctxt "Algerian Communes"
 msgid "Taya"
 msgstr ""
 
-#: places/DZ.php:790 places/DZ.php:1654
+#: places/DZ.php:790
+#: places/DZ.php:1654
 msgctxt "Algerian Communes"
 msgid "El Ouldja"
 msgstr ""
@@ -3705,7 +3730,8 @@ msgctxt "Algerian Communes"
 msgid "Hounet"
 msgstr ""
 
-#: places/DZ.php:801 places/DZ.php:1466
+#: places/DZ.php:801
+#: places/DZ.php:1466
 msgctxt "Algerian Communes"
 msgid "Sidi Amar"
 msgstr ""
@@ -3730,7 +3756,8 @@ msgctxt "Algerian Communes"
 msgid "Ain Sekhouna"
 msgstr ""
 
-#: places/DZ.php:807 places/DZ.php:981
+#: places/DZ.php:807
+#: places/DZ.php:981
 msgctxt "Algerian Communes"
 msgid "Ouled Brahim"
 msgstr ""
@@ -3740,7 +3767,9 @@ msgctxt "Algerian Communes"
 msgid "Tircine"
 msgstr ""
 
-#: places/DZ.php:809 places/DZ.php:1447 places/DZ.php:1541
+#: places/DZ.php:809
+#: places/DZ.php:1447
+#: places/DZ.php:1541
 msgctxt "Algerian Communes"
 msgid "Ain Soltane"
 msgstr ""
@@ -3815,7 +3844,8 @@ msgctxt "Algerian Communes"
 msgid "Oued Zehour"
 msgstr ""
 
-#: places/DZ.php:826 places/DZ.php:1340
+#: places/DZ.php:826
+#: places/DZ.php:1340
 msgctxt "Algerian Communes"
 msgid "Zitouna"
 msgstr ""
@@ -4860,7 +4890,8 @@ msgctxt "Algerian Communes"
 msgid "Nekmaria"
 msgstr ""
 
-#: places/DZ.php:1051 places/DZ.php:1545
+#: places/DZ.php:1051
+#: places/DZ.php:1545
 msgctxt "Algerian Communes"
 msgid "Sidi Lakhdar"
 msgstr ""
@@ -5040,12 +5071,14 @@ msgctxt "Algerian Communes"
 msgid "Bou Saada"
 msgstr ""
 
-#: places/DZ.php:1090 places/DZ.php:1273
+#: places/DZ.php:1090
+#: places/DZ.php:1273
 msgctxt "Algerian Communes"
 msgid "Ouled Sidi Brahim"
 msgstr ""
 
-#: places/DZ.php:1091 places/DZ.php:1236
+#: places/DZ.php:1091
+#: places/DZ.php:1236
 msgctxt "Algerian Communes"
 msgid "Sidi Ameur"
 msgstr ""
@@ -5120,7 +5153,8 @@ msgctxt "Algerian Communes"
 msgid "Bir Foda"
 msgstr ""
 
-#: places/DZ.php:1106 places/DZ.php:1142
+#: places/DZ.php:1106
+#: places/DZ.php:1142
 msgctxt "Algerian Communes"
 msgid "Ain Fares"
 msgstr ""
@@ -5425,7 +5459,9 @@ msgctxt "Algerian Communes"
 msgid "Zaouia El Abidia"
 msgstr ""
 
-#: places/DZ.php:1177 places/DZ.php:1239 places/DZ.php:1370
+#: places/DZ.php:1177
+#: places/DZ.php:1239
+#: places/DZ.php:1370
 msgctxt "Algerian Communes"
 msgid "Sidi Slimane"
 msgstr ""
@@ -5600,7 +5636,8 @@ msgctxt "Algerian Communes"
 msgid "Boutlelis"
 msgstr ""
 
-#: places/DZ.php:1215 places/DZ.php:1341
+#: places/DZ.php:1215
+#: places/DZ.php:1341
 msgctxt "Algerian Communes"
 msgid "Ain Kerma"
 msgstr ""
@@ -5755,7 +5792,8 @@ msgctxt "Algerian Communes"
 msgid "Bordj Zemoura"
 msgstr ""
 
-#: places/DZ.php:1254 places/DZ.php:1616
+#: places/DZ.php:1254
+#: places/DZ.php:1616
 msgctxt "Algerian Communes"
 msgid "Mansoura"
 msgstr ""
@@ -6225,7 +6263,8 @@ msgctxt "Algerian Communes"
 msgid "Layoune"
 msgstr ""
 
-#: places/DZ.php:1361 places/DZ.php:1463
+#: places/DZ.php:1361
+#: places/DZ.php:1463
 msgctxt "Algerian Communes"
 msgid "Khemisti"
 msgstr ""
@@ -7540,6 +7579,311 @@ msgctxt "Algerian Communes"
 msgid "Ouled Sidi Mihoub"
 msgstr ""
 
+#: places/OM.php:19
+msgctxt "Omani Wilayah"
+msgid "Al Seeb"
+msgstr ""
+
+#: places/OM.php:20
+msgctxt "Omani Wilayah"
+msgid "Al Amarat"
+msgstr ""
+
+#: places/OM.php:21
+msgctxt "Omani Wilayah"
+msgid "Bawshar"
+msgstr ""
+
+#: places/OM.php:22
+msgctxt "Omani Wilayah"
+msgid "Muscat"
+msgstr ""
+
+#: places/OM.php:23
+msgctxt "Omani Wilayah"
+msgid "Muttrah"
+msgstr ""
+
+#: places/OM.php:24
+msgctxt "Omani Wilayah"
+msgid "Qurayyat"
+msgstr ""
+
+#: places/OM.php:27
+msgctxt "Omani Wilayah"
+msgid "Nizwa"
+msgstr ""
+
+#: places/OM.php:28
+msgctxt "Omani Wilayah"
+msgid "Samail"
+msgstr ""
+
+#: places/OM.php:29
+msgctxt "Omani Wilayah"
+msgid "Bahla"
+msgstr ""
+
+#: places/OM.php:30
+msgctxt "Omani Wilayah"
+msgid "Adam"
+msgstr ""
+
+#: places/OM.php:31
+msgctxt "Omani Wilayah"
+msgid "Al Hamra"
+msgstr ""
+
+#: places/OM.php:32
+msgctxt "Omani Wilayah"
+msgid "Manah"
+msgstr ""
+
+#: places/OM.php:33
+msgctxt "Omani Wilayah"
+msgid "Izki"
+msgstr ""
+
+#: places/OM.php:34
+msgctxt "Omani Wilayah"
+msgid "Bid Bid"
+msgstr ""
+
+#: places/OM.php:37
+msgctxt "Omani Wilayah"
+msgid "Sohar"
+msgstr ""
+
+#: places/OM.php:38
+msgctxt "Omani Wilayah"
+msgid "Shinas"
+msgstr ""
+
+#: places/OM.php:39
+msgctxt "Omani Wilayah"
+msgid "Liwa"
+msgstr ""
+
+#: places/OM.php:40
+msgctxt "Omani Wilayah"
+msgid "Saham"
+msgstr ""
+
+#: places/OM.php:41
+msgctxt "Omani Wilayah"
+msgid "Al Khaboura"
+msgstr ""
+
+#: places/OM.php:42
+msgctxt "Omani Wilayah"
+msgid "Suwayq"
+msgstr ""
+
+#: places/OM.php:46
+msgctxt "Omani Wilayah"
+msgid "Rustaq"
+msgstr ""
+
+#: places/OM.php:47
+msgctxt "Omani Wilayah"
+msgid "Al Awabi"
+msgstr ""
+
+#: places/OM.php:48
+msgctxt "Omani Wilayah"
+msgid "Nakhal"
+msgstr ""
+
+#: places/OM.php:49
+msgctxt "Omani Wilayah"
+msgid "Wadi al Maawil"
+msgstr ""
+
+#: places/OM.php:50
+msgctxt "Omani Wilayah"
+msgid "Barka"
+msgstr ""
+
+#: places/OM.php:51
+msgctxt "Omani Wilayah"
+msgid "Al-Musannah"
+msgstr ""
+
+#: places/OM.php:54
+msgctxt "Omani Wilayah"
+msgid "Al Buraimi"
+msgstr ""
+
+#: places/OM.php:55
+msgctxt "Omani Wilayah"
+msgid "Mahadha"
+msgstr ""
+
+#: places/OM.php:56
+msgctxt "Omani Wilayah"
+msgid "Al Sininah"
+msgstr ""
+
+#: places/OM.php:59
+msgctxt "Omani Wilayah"
+msgid "Ibri"
+msgstr ""
+
+#: places/OM.php:60
+msgctxt "Omani Wilayah"
+msgid "Yanqul"
+msgstr ""
+
+#: places/OM.php:61
+msgctxt "Omani Wilayah"
+msgid "Dhank"
+msgstr ""
+
+#: places/OM.php:64
+msgctxt "Omani Wilayah"
+msgid "Haima"
+msgstr ""
+
+#: places/OM.php:65
+msgctxt "Omani Wilayah"
+msgid "Duqm"
+msgstr ""
+
+#: places/OM.php:66
+msgctxt "Omani Wilayah"
+msgid "Mahout"
+msgstr ""
+
+#: places/OM.php:67
+msgctxt "Omani Wilayah"
+msgid "Al Jazer"
+msgstr ""
+
+#: places/OM.php:70
+msgctxt "Omani Wilayah"
+msgid "Khasab"
+msgstr ""
+
+#: places/OM.php:71
+msgctxt "Omani Wilayah"
+msgid "Bukha"
+msgstr ""
+
+#: places/OM.php:72
+msgctxt "Omani Wilayah"
+msgid "Dibba Al-Bayah"
+msgstr ""
+
+#: places/OM.php:73
+msgctxt "Omani Wilayah"
+msgid "Madha"
+msgstr ""
+
+#: places/OM.php:76
+msgctxt "Omani Wilayah"
+msgid "Al-Qabil"
+msgstr ""
+
+#: places/OM.php:77
+msgctxt "Omani Wilayah"
+msgid "Al-Mudhaibi"
+msgstr ""
+
+#: places/OM.php:78
+msgctxt "Omani Wilayah"
+msgid "Bidiya"
+msgstr ""
+
+#: places/OM.php:79
+msgctxt "Omani Wilayah"
+msgid "Dema Wa Thaieen"
+msgstr ""
+
+#: places/OM.php:80
+msgctxt "Omani Wilayah"
+msgid "Ibra"
+msgstr ""
+
+#: places/OM.php:81
+msgctxt "Omani Wilayah"
+msgid "Wadi Bani Khalid"
+msgstr ""
+
+#: places/OM.php:84
+msgctxt "Omani Wilayah"
+msgid "Sur"
+msgstr ""
+
+#: places/OM.php:85
+msgctxt "Omani Wilayah"
+msgid "Al-Kamil and Al-Wafi"
+msgstr ""
+
+#: places/OM.php:86
+msgctxt "Omani Wilayah"
+msgid "Jalan Bani Bu Hassan"
+msgstr ""
+
+#: places/OM.php:87
+msgctxt "Omani Wilayah"
+msgid "Jalan Bani Bu Ali"
+msgstr ""
+
+#: places/OM.php:88
+msgctxt "Omani Wilayah"
+msgid "Masirah"
+msgstr ""
+
+#: places/OM.php:91
+msgctxt "Omani Wilayah"
+msgid "Al-Mazyunah"
+msgstr ""
+
+#: places/OM.php:92
+msgctxt "Omani Wilayah"
+msgid "Ḍalkut"
+msgstr ""
+
+#: places/OM.php:93
+msgctxt "Omani Wilayah"
+msgid "Mirbat"
+msgstr ""
+
+#: places/OM.php:94
+msgctxt "Omani Wilayah"
+msgid "Muqshin"
+msgstr ""
+
+#: places/OM.php:95
+msgctxt "Omani Wilayah"
+msgid "Rakhyut"
+msgstr ""
+
+#: places/OM.php:96
+msgctxt "Omani Wilayah"
+msgid "Sadah"
+msgstr ""
+
+#: places/OM.php:97
+msgctxt "Omani Wilayah"
+msgid "Salalah"
+msgstr ""
+
+#: places/OM.php:98
+msgctxt "Omani Wilayah"
+msgid "Shalim and the Hallaniyat Islands"
+msgstr ""
+
+#: places/OM.php:99
+msgctxt "Omani Wilayah"
+msgid "Taqah"
+msgstr ""
+
+#: places/OM.php:100
+msgctxt "Omani Wilayah"
+msgid "Thumrait"
+msgstr ""
+
 #: places/SA.php:21
 msgctxt "Governorates of Saudi Arabia"
 msgid "Afif"
@@ -8386,6 +8730,61 @@ msgstr ""
 #: states/DZ.php:68
 msgctxt "Algerian Provinces"
 msgid "Relizane"
+msgstr ""
+
+#: states/OM.php:18
+msgctxt "Governorates of Oman"
+msgid "Muscat"
+msgstr ""
+
+#: states/OM.php:19
+msgctxt "Governorates of Oman"
+msgid "Ad Dakhiliyah"
+msgstr ""
+
+#: states/OM.php:20
+msgctxt "Governorates of Oman"
+msgid "Al Batinah North"
+msgstr ""
+
+#: states/OM.php:21
+msgctxt "Governorates of Oman"
+msgid "Al Batinah South"
+msgstr ""
+
+#: states/OM.php:22
+msgctxt "Governorates of Oman"
+msgid "Al Buraymi"
+msgstr ""
+
+#: states/OM.php:23
+msgctxt "Governorates of Oman"
+msgid "Ad Dhahirah"
+msgstr ""
+
+#: states/OM.php:24
+msgctxt "Governorates of Oman"
+msgid "Al Wusta"
+msgstr ""
+
+#: states/OM.php:25
+msgctxt "Governorates of Oman"
+msgid "Musandam"
+msgstr ""
+
+#: states/OM.php:26
+msgctxt "Governorates of Oman"
+msgid "Ash Sharqiyah North"
+msgstr ""
+
+#: states/OM.php:27
+msgctxt "Governorates of Oman"
+msgid "Ash Sharqiyah South"
+msgstr ""
+
+#: states/OM.php:28
+msgctxt "Governorates of Oman"
+msgid "Dhofar"
 msgstr ""
 
 #: states/SA.php:19

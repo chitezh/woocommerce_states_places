@@ -4,39 +4,41 @@ msgid ""
 msgstr ""
 "Project-Id-Version: States, Cities, and Places for WooCommerce 1.2.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
-"POT-Creation-Date: 2020-04-01T20:42:30-04:00\n"
-"PO-Revision-Date: 2020-04-01 20:56-0400\n"
+"POT-Creation-Date: 2020-06-01T22:24:51-04:00\n"
+"PO-Revision-Date: 2020-06-01 23:07-0400\n"
 "Last-Translator: Yordan Soares <contacto@yordansoar.es>\n"
 "Language-Team: Yordan Soares <contacto@yordansoar.es\n"
 "Language: ar_DZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Domain: states-cities-and-places-for-woocommerce\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Plugin Name of the plugin
 msgid "States, Cities, and Places for WooCommerce"
-msgstr ""
+msgstr "المحافظات، المدن، والأماكن لـ WooCommerce"
 
 #. Plugin URI of the plugin
 msgid "https://github.com/chitezh/woocommerce_states_places"
-msgstr ""
+msgstr "https://github.com/chitezh/woocommerce_states_places"
 
 #. Description of the plugin
 msgid ""
 "WooCommerce plugin for listing states, cities, places, local government "
 "areas and towns in all countries of the world."
 msgstr ""
+"الإضافة الملحقة لإضافة WooCommerce لإدراج الولايات، المناطق، المحافظات "
+"والمدن، الأماكن والمناطق الحكومية المحلية والبلدات في جميع دول العالم."
 
 #. Author of the plugin
 msgid "Kingsley Ochu"
-msgstr ""
+msgstr "Kingsley Ochu"
 
 #. Author URI of the plugin
 msgid "https://github.com/chitezh"
-msgstr ""
+msgstr "https://github.com/chitezh"
 
 #: places/DZ.php:22
 msgctxt "Algerian Communes"
@@ -7543,613 +7545,918 @@ msgctxt "Algerian Communes"
 msgid "Ouled Sidi Mihoub"
 msgstr ""
 
+#: places/OM.php:19
+msgctxt "Omani Wilayah"
+msgid "Al Seeb"
+msgstr "السيب"
+
+#: places/OM.php:20
+msgctxt "Omani Wilayah"
+msgid "Al Amarat"
+msgstr "العامرات"
+
+#: places/OM.php:21
+msgctxt "Omani Wilayah"
+msgid "Bawshar"
+msgstr "بوشر"
+
+#: places/OM.php:22
+msgctxt "Omani Wilayah"
+msgid "Muscat"
+msgstr "مسقط"
+
+#: places/OM.php:23
+msgctxt "Omani Wilayah"
+msgid "Muttrah"
+msgstr "مطرح"
+
+#: places/OM.php:24
+msgctxt "Omani Wilayah"
+msgid "Qurayyat"
+msgstr "قريات"
+
+#: places/OM.php:27
+msgctxt "Omani Wilayah"
+msgid "Nizwa"
+msgstr "نزوى"
+
+#: places/OM.php:28
+msgctxt "Omani Wilayah"
+msgid "Samail"
+msgstr "سمائل"
+
+#: places/OM.php:29
+msgctxt "Omani Wilayah"
+msgid "Bahla"
+msgstr "بهلا"
+
+#: places/OM.php:30
+msgctxt "Omani Wilayah"
+msgid "Adam"
+msgstr "ادم"
+
+#: places/OM.php:31
+msgctxt "Omani Wilayah"
+msgid "Al Hamra"
+msgstr "الحمراء"
+
+#: places/OM.php:32
+msgctxt "Omani Wilayah"
+msgid "Manah"
+msgstr "منح"
+
+#: places/OM.php:33
+msgctxt "Omani Wilayah"
+msgid "Izki"
+msgstr "ازكي"
+
+#: places/OM.php:34
+msgctxt "Omani Wilayah"
+msgid "Bid Bid"
+msgstr "بدبد"
+
+#: places/OM.php:37
+msgctxt "Omani Wilayah"
+msgid "Sohar"
+msgstr "صحار"
+
+#: places/OM.php:38
+msgctxt "Omani Wilayah"
+msgid "Shinas"
+msgstr "شناص"
+
+#: places/OM.php:39
+msgctxt "Omani Wilayah"
+msgid "Liwa"
+msgstr "لوى"
+
+#: places/OM.php:40
+msgctxt "Omani Wilayah"
+msgid "Saham"
+msgstr "صحم"
+
+#: places/OM.php:41
+msgctxt "Omani Wilayah"
+msgid "Al Khaboura"
+msgstr "الخابورة"
+
+#: places/OM.php:42
+msgctxt "Omani Wilayah"
+msgid "Suwayq"
+msgstr "السويق"
+
+#: places/OM.php:46
+msgctxt "Omani Wilayah"
+msgid "Rustaq"
+msgstr "الرستاق"
+
+#: places/OM.php:47
+msgctxt "Omani Wilayah"
+msgid "Al Awabi"
+msgstr "العوابي"
+
+#: places/OM.php:48
+msgctxt "Omani Wilayah"
+msgid "Nakhal"
+msgstr "نخل"
+
+#: places/OM.php:49
+msgctxt "Omani Wilayah"
+msgid "Wadi al Maawil"
+msgstr "وادي المعاول"
+
+#: places/OM.php:50
+msgctxt "Omani Wilayah"
+msgid "Barka"
+msgstr "بركا"
+
+#: places/OM.php:51
+msgctxt "Omani Wilayah"
+msgid "Al-Musannah"
+msgstr "المصنعة"
+
+#: places/OM.php:54
+msgctxt "Omani Wilayah"
+msgid "Al Buraimi"
+msgstr "البريمي"
+
+#: places/OM.php:55
+msgctxt "Omani Wilayah"
+msgid "Mahadha"
+msgstr "محضة"
+
+#: places/OM.php:56
+msgctxt "Omani Wilayah"
+msgid "Al Sininah"
+msgstr "السنينة"
+
+#: places/OM.php:59
+msgctxt "Omani Wilayah"
+msgid "Ibri"
+msgstr "عبري"
+
+#: places/OM.php:60
+msgctxt "Omani Wilayah"
+msgid "Yanqul"
+msgstr "ينقل"
+
+#: places/OM.php:61
+msgctxt "Omani Wilayah"
+msgid "Dhank"
+msgstr "ضنك"
+
+#: places/OM.php:64
+msgctxt "Omani Wilayah"
+msgid "Haima"
+msgstr "هيما"
+
+#: places/OM.php:65
+msgctxt "Omani Wilayah"
+msgid "Duqm"
+msgstr "الدقم"
+
+#: places/OM.php:66
+msgctxt "Omani Wilayah"
+msgid "Mahout"
+msgstr "محوت"
+
+#: places/OM.php:67
+msgctxt "Omani Wilayah"
+msgid "Al Jazer"
+msgstr "الجازر"
+
+#: places/OM.php:70
+msgctxt "Omani Wilayah"
+msgid "Khasab"
+msgstr "خصب"
+
+#: places/OM.php:71
+msgctxt "Omani Wilayah"
+msgid "Bukha"
+msgstr "بخا"
+
+#: places/OM.php:72
+msgctxt "Omani Wilayah"
+msgid "Dibba Al-Bayah"
+msgstr "دبا البيعة"
+
+#: places/OM.php:73
+msgctxt "Omani Wilayah"
+msgid "Madha"
+msgstr "مدحا"
+
+#: places/OM.php:76
+msgctxt "Omani Wilayah"
+msgid "Al-Qabil"
+msgstr "القابل"
+
+#: places/OM.php:77
+msgctxt "Omani Wilayah"
+msgid "Al-Mudhaibi"
+msgstr "المضيبي"
+
+#: places/OM.php:78
+msgctxt "Omani Wilayah"
+msgid "Bidiya"
+msgstr "بدية"
+
+#: places/OM.php:79
+msgctxt "Omani Wilayah"
+msgid "Dema Wa Thaieen"
+msgstr "دماء والطائين"
+
+#: places/OM.php:80
+msgctxt "Omani Wilayah"
+msgid "Ibra"
+msgstr "ابراء"
+
+#: places/OM.php:81
+msgctxt "Omani Wilayah"
+msgid "Wadi Bani Khalid"
+msgstr "وادي بني خالد"
+
+#: places/OM.php:84
+msgctxt "Omani Wilayah"
+msgid "Sur"
+msgstr "صور"
+
+#: places/OM.php:85
+msgctxt "Omani Wilayah"
+msgid "Al-Kamil and Al-Wafi"
+msgstr "الكامل والوافي"
+
+#: places/OM.php:86
+msgctxt "Omani Wilayah"
+msgid "Jalan Bani Bu Hassan"
+msgstr "جعلان بني بو حسن"
+
+#: places/OM.php:87
+msgctxt "Omani Wilayah"
+msgid "Jalan Bani Bu Ali"
+msgstr "جعلان بني بو علي"
+
+#: places/OM.php:88
+msgctxt "Omani Wilayah"
+msgid "Masirah"
+msgstr "مصيرة"
+
+#: places/OM.php:91
+msgctxt "Omani Wilayah"
+msgid "Al-Mazyunah"
+msgstr "المزيونة"
+
+#: places/OM.php:92
+msgctxt "Omani Wilayah"
+msgid "Ḍalkut"
+msgstr "ضلكوت"
+
+#: places/OM.php:93
+msgctxt "Omani Wilayah"
+msgid "Mirbat"
+msgstr "مرباط"
+
+#: places/OM.php:94
+msgctxt "Omani Wilayah"
+msgid "Muqshin"
+msgstr "مقشن"
+
+#: places/OM.php:95
+msgctxt "Omani Wilayah"
+msgid "Rakhyut"
+msgstr "رخيوت"
+
+#: places/OM.php:96
+msgctxt "Omani Wilayah"
+msgid "Sadah"
+msgstr "سدح"
+
+#: places/OM.php:97
+msgctxt "Omani Wilayah"
+msgid "Salalah"
+msgstr "صلالة"
+
+#: places/OM.php:98
+msgctxt "Omani Wilayah"
+msgid "Shalim and the Hallaniyat Islands"
+msgstr "شليم والحلانيات"
+
+#: places/OM.php:99
+msgctxt "Omani Wilayah"
+msgid "Taqah"
+msgstr "طاقة"
+
+#: places/OM.php:100
+msgctxt "Omani Wilayah"
+msgid "Thumrait"
+msgstr "ثمريت"
+
 #: places/SA.php:21
 msgctxt "Governorates of Saudi Arabia"
 msgid "Afif"
-msgstr ""
+msgstr "عفيف"
 
 #: places/SA.php:22
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Aflaj"
-msgstr ""
+msgstr "الأفلاج"
 
 #: places/SA.php:23
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Hariq"
-msgstr ""
+msgstr "الحريق"
 
 #: places/SA.php:24
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Majma'ah"
-msgstr ""
+msgstr "المجمعة"
 
 #: places/SA.php:25
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Zulfi"
-msgstr ""
+msgstr "الزلفي"
 
 #: places/SA.php:26
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al-Ghat"
-msgstr ""
+msgstr "الغاط"
 
 #: places/SA.php:27
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al-Kharj"
-msgstr ""
+msgstr "الخرج"
 
 #: places/SA.php:28
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al-Muzahmiyya"
-msgstr ""
+msgstr "المزاحمية"
 
 #: places/SA.php:29
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al-Quway'iyah"
-msgstr ""
+msgstr "القويعية"
 
 #: places/SA.php:30
 msgctxt "Governorates of Saudi Arabia"
 msgid "As Sulayyil"
-msgstr ""
+msgstr "السليل"
 
 #: places/SA.php:31
 msgctxt "Governorates of Saudi Arabia"
 msgid "Dawadmi"
-msgstr ""
+msgstr "الدوادمي"
 
 #: places/SA.php:32
 msgctxt "Governorates of Saudi Arabia"
 msgid "Dhurma"
-msgstr ""
+msgstr "ضرما"
 
 #: places/SA.php:33
 msgctxt "Governorates of Saudi Arabia"
 msgid "Diriyah"
-msgstr ""
+msgstr "الدرعية"
 
 #: places/SA.php:34
 msgctxt "Governorates of Saudi Arabia"
 msgid "Hotat Bani Tamim"
-msgstr ""
+msgstr "حوطة بني تميم"
 
 #: places/SA.php:35
 msgctxt "Governorates of Saudi Arabia"
 msgid "Huraymila"
-msgstr ""
+msgstr "حريملاء"
 
 #: places/SA.php:36
 msgctxt "Governorates of Saudi Arabia"
 msgid "Riyadh"
-msgstr ""
+msgstr "الرياض"
 
 #: places/SA.php:37
 msgctxt "Governorates of Saudi Arabia"
 msgid "Rumah"
-msgstr ""
+msgstr "رماح"
 
 #: places/SA.php:38
 msgctxt "Governorates of Saudi Arabia"
 msgid "Shuqrah"
-msgstr ""
+msgstr "شقرة"
 
 #: places/SA.php:39
 msgctxt "Governorates of Saudi Arabia"
 msgid "Thadig"
-msgstr ""
+msgstr "ثادق"
 
 #: places/SA.php:40
 msgctxt "Governorates of Saudi Arabia"
 msgid "Wadi ad-Dawasir"
-msgstr ""
+msgstr "وادي الدواسر"
 
 #: places/SA.php:44
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Jumum"
-msgstr ""
+msgstr "الجموم"
 
 #: places/SA.php:45
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Kamil"
-msgstr ""
+msgstr "الكامل"
 
 #: places/SA.php:46
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Khurmah"
-msgstr ""
+msgstr "الخرمة"
 
 #: places/SA.php:47
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Lith"
-msgstr ""
+msgstr "الليث"
 
 #: places/SA.php:48
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Qunfudhah"
-msgstr ""
+msgstr "القنفذة"
 
 #: places/SA.php:49
 msgctxt "Governorates of Saudi Arabia"
 msgid "Jeddah"
-msgstr ""
+msgstr "جدة"
 
 #: places/SA.php:50
 msgctxt "Governorates of Saudi Arabia"
 msgid "Khulays"
-msgstr ""
+msgstr "خليص"
 
 #: places/SA.php:51
 msgctxt "Governorates of Saudi Arabia"
 msgid "Mecca"
-msgstr ""
+msgstr "مكة المكرمة"
 
 #: places/SA.php:52
 msgctxt "Governorates of Saudi Arabia"
 msgid "Rabigh"
-msgstr ""
+msgstr "رابغ"
 
 #: places/SA.php:53
 msgctxt "Governorates of Saudi Arabia"
 msgid "Ranyah"
-msgstr ""
+msgstr "رنية"
 
 #: places/SA.php:54
 msgctxt "Governorates of Saudi Arabia"
 msgid "Ta'if"
-msgstr ""
+msgstr "الطائف"
 
 #: places/SA.php:55
 msgctxt "Governorates of Saudi Arabia"
 msgid "Turubah"
-msgstr ""
+msgstr "تربة"
 
 #: places/SA.php:59
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Hinakiyah"
-msgstr ""
+msgstr "الحناكية"
 
 #: places/SA.php:60
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al-ʿUla"
-msgstr ""
+msgstr "العلا"
 
 #: places/SA.php:61
 msgctxt "Governorates of Saudi Arabia"
 msgid "Badr"
-msgstr ""
+msgstr "بدر"
 
 #: places/SA.php:62
 msgctxt "Governorates of Saudi Arabia"
 msgid "Khaybar"
-msgstr ""
+msgstr "خيبر"
 
 #: places/SA.php:63
 msgctxt "Governorates of Saudi Arabia"
 msgid "Mahd adh Dhahab"
-msgstr ""
+msgstr "مهد الذهب"
 
 #: places/SA.php:64
 msgctxt "Governorates of Saudi Arabia"
 msgid "Medina"
-msgstr ""
+msgstr "المدينة المنورة"
 
 #: places/SA.php:65
 msgctxt "Governorates of Saudi Arabia"
 msgid "Yanbu"
-msgstr ""
+msgstr "ينبع"
 
 #: places/SA.php:69
 msgctxt "Governorates of Saudi Arabia"
 msgid "Abqaiq"
-msgstr ""
+msgstr "بقيق"
 
 #: places/SA.php:70
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Ahsa"
-msgstr ""
+msgstr "الأحساء"
 
 #: places/SA.php:71
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Nairyah"
-msgstr ""
+msgstr "النعيرية"
 
 #: places/SA.php:72
 msgctxt "Governorates of Saudi Arabia"
 msgid "Dammam"
-msgstr ""
+msgstr "الدمام"
 
 #: places/SA.php:73
 msgctxt "Governorates of Saudi Arabia"
 msgid "Hafar Al-Batin"
-msgstr ""
+msgstr "حفر الباطن"
 
 #: places/SA.php:74
 msgctxt "Governorates of Saudi Arabia"
 msgid "Jubail"
-msgstr ""
+msgstr "الجبيل"
 
 #: places/SA.php:75
 msgctxt "Governorates of Saudi Arabia"
 msgid "Khafji"
-msgstr ""
+msgstr "الخفجي"
 
 #: places/SA.php:76
 msgctxt "Governorates of Saudi Arabia"
 msgid "Khobar"
-msgstr ""
+msgstr "الخبر"
 
 #: places/SA.php:77
 msgctxt "Governorates of Saudi Arabia"
 msgid "Qaryat al-Ulya"
-msgstr ""
+msgstr "قرية العليا"
 
 #: places/SA.php:78
 msgctxt "Governorates of Saudi Arabia"
 msgid "Qatif"
-msgstr ""
+msgstr "القطيف"
 
 #: places/SA.php:79
 msgctxt "Governorates of Saudi Arabia"
 msgid "Ras Tanura"
-msgstr ""
+msgstr "رأس تنورة"
 
 #: places/SA.php:83
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Badayea"
-msgstr ""
+msgstr "البدائع"
 
 #: places/SA.php:84
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Bukayriyah"
-msgstr ""
+msgstr "البكيرية"
 
 #: places/SA.php:85
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Mithnab"
-msgstr ""
+msgstr "المذنب"
 
 #: places/SA.php:86
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Nabhaniyah"
-msgstr ""
+msgstr "النبهانية"
 
 #: places/SA.php:87
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Shimasiyah"
-msgstr ""
+msgstr "الشماسية"
 
 #: places/SA.php:88
 msgctxt "Governorates of Saudi Arabia"
 msgid "Ar Rass"
-msgstr ""
+msgstr "الرس"
 
 #: places/SA.php:89
 msgctxt "Governorates of Saudi Arabia"
 msgid "Asyah"
-msgstr ""
+msgstr "الاسياح"
 
 #: places/SA.php:90
 msgctxt "Governorates of Saudi Arabia"
 msgid "Buraidah"
-msgstr ""
+msgstr "بريدة"
 
 #: places/SA.php:91
 msgctxt "Governorates of Saudi Arabia"
 msgid "Riyadh Al Khabra"
-msgstr ""
+msgstr "رياض الخبراء"
 
 #: places/SA.php:92
 msgctxt "Governorates of Saudi Arabia"
 msgid "Unaizah"
-msgstr ""
+msgstr "عنيزة"
 
 #: places/SA.php:93
 msgctxt "Governorates of Saudi Arabia"
 msgid "Uyun AlJiwa"
-msgstr ""
+msgstr "عيون الجواء"
 
 #: places/SA.php:97
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Khazaiah"
-msgstr ""
+msgstr "الخزيعة"
 
 #: places/SA.php:98
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Shinan"
-msgstr ""
+msgstr "الشنان"
 
 #: places/SA.php:99
 msgctxt "Governorates of Saudi Arabia"
 msgid "Baqaa"
-msgstr ""
+msgstr "بقيق"
 
 #: places/SA.php:100
 msgctxt "Governorates of Saudi Arabia"
 msgid "Ha'il"
-msgstr ""
+msgstr "حائل"
 
 #: places/SA.php:104
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Wajh"
-msgstr ""
+msgstr "الوجة"
 
 #: places/SA.php:105
 msgctxt "Governorates of Saudi Arabia"
 msgid "Duba"
-msgstr ""
+msgstr "ضباء"
 
 #: places/SA.php:106
 msgctxt "Governorates of Saudi Arabia"
 msgid "Haql"
-msgstr ""
+msgstr "حقل"
 
 #: places/SA.php:107
 msgctxt "Governorates of Saudi Arabia"
 msgid "Tabuk"
-msgstr ""
+msgstr "تبوك"
 
 #: places/SA.php:108
 msgctxt "Governorates of Saudi Arabia"
 msgid "Tayma"
-msgstr ""
+msgstr "تيما"
 
 #: places/SA.php:109
 msgctxt "Governorates of Saudi Arabia"
 msgid "Umluj"
-msgstr ""
+msgstr "أملج"
 
 #: places/SA.php:113
 msgctxt "Governorates of Saudi Arabia"
 msgid "Arar"
-msgstr ""
+msgstr "عرعر"
 
 #: places/SA.php:114
 msgctxt "Governorates of Saudi Arabia"
 msgid "Rafha"
-msgstr ""
+msgstr "رفحا"
 
 #: places/SA.php:115
 msgctxt "Governorates of Saudi Arabia"
 msgid "Turaif"
-msgstr ""
+msgstr "طريف"
 
 #: places/SA.php:119
 msgctxt "Governorates of Saudi Arabia"
 msgid "Abu `Arish"
-msgstr ""
+msgstr "ابو عريش"
 
 #: places/SA.php:120
 msgctxt "Governorates of Saudi Arabia"
 msgid "Ahad al Masarihah"
-msgstr ""
+msgstr "أحد المسارحة"
 
 #: places/SA.php:121
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Aridhah"
-msgstr ""
+msgstr "العارضة"
 
 #: places/SA.php:122
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Darb"
-msgstr ""
+msgstr "الدرب"
 
 #: places/SA.php:123
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Dayer"
-msgstr ""
+msgstr "الداير"
 
 #: places/SA.php:124
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Edabi"
-msgstr ""
+msgstr "العيدابي"
 
 #: places/SA.php:125
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Harth"
-msgstr ""
+msgstr "الحارث"
 
 #: places/SA.php:126
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Reeth"
-msgstr ""
+msgstr "الريث"
 
 #: places/SA.php:127
 msgctxt "Governorates of Saudi Arabia"
 msgid "Baish"
-msgstr ""
+msgstr "بيش"
 
 #: places/SA.php:128
 msgctxt "Governorates of Saudi Arabia"
 msgid "Damad"
-msgstr ""
+msgstr "ضمد"
 
 #: places/SA.php:129
 msgctxt "Governorates of Saudi Arabia"
 msgid "Farasan"
-msgstr ""
+msgstr "فرسان"
 
 #: places/SA.php:130
 msgctxt "Governorates of Saudi Arabia"
 msgid "Jizan"
-msgstr ""
+msgstr "جازان"
 
 #: places/SA.php:131
 msgctxt "Governorates of Saudi Arabia"
 msgid "Sabya"
-msgstr ""
+msgstr "صبيا"
 
 #: places/SA.php:132
 msgctxt "Governorates of Saudi Arabia"
 msgid "Samtah"
-msgstr ""
+msgstr "صامطة"
 
 #: places/SA.php:136
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Kharkhir"
-msgstr ""
+msgstr "الخرخير"
 
 #: places/SA.php:137
 msgctxt "Governorates of Saudi Arabia"
 msgid "Badr Al Janub"
-msgstr ""
+msgstr "بدر الجنوب"
 
 #: places/SA.php:138
 msgctxt "Governorates of Saudi Arabia"
 msgid "Hubuna"
-msgstr ""
+msgstr "حبونا"
 
 #: places/SA.php:139
 msgctxt "Governorates of Saudi Arabia"
 msgid "Khubash"
-msgstr ""
+msgstr "خباش"
 
 #: places/SA.php:140
 msgctxt "Governorates of Saudi Arabia"
 msgid "Najran"
-msgstr ""
+msgstr "نجران"
 
 #: places/SA.php:141
 msgctxt "Governorates of Saudi Arabia"
 msgid "Sharurah"
-msgstr ""
+msgstr "شرورة"
 
 #: places/SA.php:142
 msgctxt "Governorates of Saudi Arabia"
 msgid "Thar"
-msgstr ""
+msgstr "ثار"
 
 #: places/SA.php:143
 msgctxt "Governorates of Saudi Arabia"
 msgid "Yadamah"
-msgstr ""
+msgstr "يدمة"
 
 #: places/SA.php:147
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Aqiq"
-msgstr ""
+msgstr "العقيق"
 
 #: places/SA.php:148
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Bahah"
-msgstr ""
+msgstr "الباحة"
 
 #: places/SA.php:149
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Makhwah"
-msgstr ""
+msgstr "المخواة"
 
 #: places/SA.php:150
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Mandaq"
-msgstr ""
+msgstr "المندق"
 
 #: places/SA.php:151
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Qara"
-msgstr ""
+msgstr "القارة"
 
 #: places/SA.php:152
 msgctxt "Governorates of Saudi Arabia"
 msgid "Baljurashi"
-msgstr ""
+msgstr "بلجرشي"
 
 #: places/SA.php:153
 msgctxt "Governorates of Saudi Arabia"
 msgid "Qilwah"
-msgstr ""
+msgstr "قلوة"
 
 #: places/SA.php:157
 msgctxt "Governorates of Saudi Arabia"
 msgid "Dumat al-Jandal"
-msgstr ""
+msgstr "دومة الجندل"
 
 #: places/SA.php:158
 msgctxt "Governorates of Saudi Arabia"
 msgid "Qurayyat"
-msgstr ""
+msgstr "قريات"
 
 #: places/SA.php:159
 msgctxt "Governorates of Saudi Arabia"
 msgid "Sakakah"
-msgstr ""
+msgstr "سكاكا"
 
 #: places/SA.php:163
 msgctxt "Governorates of Saudi Arabia"
 msgid "Abha"
-msgstr ""
+msgstr "أبها"
 
 #: places/SA.php:164
 msgctxt "Governorates of Saudi Arabia"
 msgid "Ahad Rafidah"
-msgstr ""
+msgstr "أحد رفيدة"
 
 #: places/SA.php:165
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al Majaridah"
-msgstr ""
+msgstr "المجاردة"
 
 #: places/SA.php:166
 msgctxt "Governorates of Saudi Arabia"
 msgid "Al-Namas"
-msgstr ""
+msgstr "النماص"
 
 #: places/SA.php:167
 msgctxt "Governorates of Saudi Arabia"
 msgid "Balqarn"
-msgstr ""
+msgstr "بلقرن"
 
 #: places/SA.php:168
 msgctxt "Governorates of Saudi Arabia"
 msgid "Bisha"
-msgstr ""
+msgstr "بيشة"
 
 #: places/SA.php:169
 msgctxt "Governorates of Saudi Arabia"
 msgid "Dhahran Al Janub"
-msgstr ""
+msgstr "ظهران الجنوب"
 
 #: places/SA.php:170
 msgctxt "Governorates of Saudi Arabia"
 msgid "Khamis Mushait"
-msgstr ""
+msgstr "خميس مشيط"
 
 #: places/SA.php:171
 msgctxt "Governorates of Saudi Arabia"
 msgid "Muhayil"
-msgstr ""
+msgstr "محايل"
 
 #: places/SA.php:172
 msgctxt "Governorates of Saudi Arabia"
 msgid "Rojal"
-msgstr ""
+msgstr "رجال ألمع"
 
 #: places/SA.php:173
 msgctxt "Governorates of Saudi Arabia"
 msgid "Sarat Abidah"
-msgstr ""
+msgstr "سراة عبيدة"
 
 #: places/SA.php:174
 msgctxt "Governorates of Saudi Arabia"
 msgid "Tathlith"
-msgstr ""
+msgstr "تثليث"
 
 #: places/VE.php:17
 msgid "Municipality"
-msgstr ""
+msgstr "البلدية"
 
 #: states-cities-and-places-for-woocommerce.php:25
 msgid "You can not access this file directly!"
-msgstr ""
+msgstr "ليس بإمكانك الوصول إلى هذا الملف مباشرة!"
 
 #. translators: Translate it to the name of the State level territory division, e.g. "State", "Province",  "Department"
 #: states-cities-and-places-for-woocommerce.php:96
 msgid "State"
-msgstr ""
+msgstr "المحافظة"
 
 #. translators: Translate it to the name of the City level territory division, e.g. "City, "Municipality", "District"
 #: states-cities-and-places-for-woocommerce.php:98
 msgid "City"
-msgstr ""
+msgstr "المدينة"
 
 #: states/DZ.php:21
 msgctxt "Algerian Provinces"
@@ -8391,67 +8698,122 @@ msgctxt "Algerian Provinces"
 msgid "Relizane"
 msgstr ""
 
+#: states/OM.php:18
+msgctxt "Governorates of Oman"
+msgid "Muscat"
+msgstr "مسقط"
+
+#: states/OM.php:19
+msgctxt "Governorates of Oman"
+msgid "Ad Dakhiliyah"
+msgstr "الداخلية"
+
+#: states/OM.php:20
+msgctxt "Governorates of Oman"
+msgid "Al Batinah North"
+msgstr "شمال الباطنة"
+
+#: states/OM.php:21
+msgctxt "Governorates of Oman"
+msgid "Al Batinah South"
+msgstr "جنوب الباطنة"
+
+#: states/OM.php:22
+msgctxt "Governorates of Oman"
+msgid "Al Buraymi"
+msgstr "البريمي"
+
+#: states/OM.php:23
+msgctxt "Governorates of Oman"
+msgid "Ad Dhahirah"
+msgstr "الظاهرة"
+
+#: states/OM.php:24
+msgctxt "Governorates of Oman"
+msgid "Al Wusta"
+msgstr "الوسطى"
+
+#: states/OM.php:25
+msgctxt "Governorates of Oman"
+msgid "Musandam"
+msgstr "مسندم"
+
+#: states/OM.php:26
+msgctxt "Governorates of Oman"
+msgid "Ash Sharqiyah North"
+msgstr "شمال الشرقية"
+
+#: states/OM.php:27
+msgctxt "Governorates of Oman"
+msgid "Ash Sharqiyah South"
+msgstr "جنوب الشرقية"
+
+#: states/OM.php:28
+msgctxt "Governorates of Oman"
+msgid "Dhofar"
+msgstr "ظفار"
+
 #: states/SA.php:19
 msgctxt "Regions of Saudi Arabia"
 msgid "Riyadh"
-msgstr ""
+msgstr "الرياض"
 
 #: states/SA.php:20
 msgctxt "Regions of Saudi Arabia"
 msgid "Makkah"
-msgstr ""
+msgstr "مكة المكرمة"
 
 #: states/SA.php:21
 msgctxt "Regions of Saudi Arabia"
 msgid "Al Madinah"
-msgstr ""
+msgstr "المدينة المنورة"
 
 #: states/SA.php:22
 msgctxt "Regions of Saudi Arabia"
 msgid "Eastern Province"
-msgstr ""
+msgstr "المنطقة الشرقية"
 
 #: states/SA.php:23
 msgctxt "Regions of Saudi Arabia"
 msgid "Al-Qassim"
-msgstr ""
+msgstr "القصيم"
 
 #: states/SA.php:24
 msgctxt "Regions of Saudi Arabia"
 msgid "Ha'il"
-msgstr ""
+msgstr "حائل"
 
 #: states/SA.php:25
 msgctxt "Regions of Saudi Arabia"
 msgid "Tabuk"
-msgstr ""
+msgstr "تبوك"
 
 #: states/SA.php:26
 msgctxt "Regions of Saudi Arabia"
 msgid "Northern Borders"
-msgstr ""
+msgstr "الحدود الشمالية"
 
 #: states/SA.php:27
 msgctxt "Regions of Saudi Arabia"
 msgid "Jazan"
-msgstr ""
+msgstr "جازان"
 
 #: states/SA.php:28
 msgctxt "Regions of Saudi Arabia"
 msgid "Najran"
-msgstr ""
+msgstr "نجران"
 
 #: states/SA.php:29
 msgctxt "Regions of Saudi Arabia"
 msgid "Al-Bahah Region"
-msgstr ""
+msgstr "منطقة الباحة"
 
 #: states/SA.php:30
 msgctxt "Regions of Saudi Arabia"
 msgid "Al-Jawf"
-msgstr ""
+msgstr "الجوف"
 
 #: states/SA.php:31
 msgctxt "Regions of Saudi Arabia"
 msgid "'Asir"
-msgstr ""
+msgstr "عسير"

@@ -1,42 +1,44 @@
-# Copyright (C) 2020 Kingsley Ochu
-# This file is distributed under the same license as the States, Cities, and Places for WooCommerce plugin.
+# Translation of Plugins - States, Cities, and Places for WooCommerce - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - States, Cities, and Places for WooCommerce - Development (trunk) package.
 msgid ""
 msgstr ""
-"Project-Id-Version: States, Cities, and Places for WooCommerce 1.2.4\n"
+"Project-Id-Version: Plugins - States, Cities, and Places for WooCommerce - "
+"Development (trunk)\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
 "POT-Creation-Date: 2020-06-01T22:24:51-04:00\n"
-"PO-Revision-Date: 2020-06-01 22:26-0400\n"
+"PO-Revision-Date: 2020-06-01 22:48-0400\n"
 "Last-Translator: Yordan Soares <contacto@yordansoar.es>\n"
-"Language-Team: Yordan Soares <contacto@yordansoar.es\n"
-"Language: en_NG\n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Poedit 2.3.1\n"
-"X-Domain: states-cities-and-places-for-woocommerce\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Plugin Name of the plugin
 msgid "States, Cities, and Places for WooCommerce"
-msgstr ""
+msgstr "États, villes et lieux pour WooCommerce"
 
 #. Plugin URI of the plugin
 msgid "https://github.com/chitezh/woocommerce_states_places"
-msgstr ""
+msgstr "https://github.com/chitezh/woocommerce_states_places"
 
 #. Description of the plugin
 msgid ""
 "WooCommerce plugin for listing states, cities, places, local government "
 "areas and towns in all countries of the world."
 msgstr ""
+"Plugin WooCommerce pour répertorier les États, les villes, les lieux et les "
+"collectivités locales de tous les pays du monde."
 
 #. Author of the plugin
 msgid "Kingsley Ochu"
-msgstr ""
+msgstr "Kingsley Ochu"
 
 #. Author URI of the plugin
 msgid "https://github.com/chitezh"
-msgstr ""
+msgstr "https://github.com/chitezh"
 
 #: places/DZ.php:22
 msgctxt "Algerian Communes"
@@ -8440,21 +8442,21 @@ msgstr ""
 
 #: places/VE.php:17
 msgid "Municipality"
-msgstr ""
+msgstr "Municipalité"
 
 #: states-cities-and-places-for-woocommerce.php:25
 msgid "You can not access this file directly!"
-msgstr ""
+msgstr "Vous ne pouvez pas accéder directement à ce fichier !"
 
 #. translators: Translate it to the name of the State level territory division, e.g. "State", "Province",  "Department"
 #: states-cities-and-places-for-woocommerce.php:96
 msgid "State"
-msgstr ""
+msgstr "Région"
 
 #. translators: Translate it to the name of the City level territory division, e.g. "City, "Municipality", "District"
 #: states-cities-and-places-for-woocommerce.php:98
 msgid "City"
-msgstr ""
+msgstr "Ville"
 
 #: states/DZ.php:21
 msgctxt "Algerian Provinces"
@@ -8815,3 +8817,9 @@ msgstr ""
 msgctxt "Regions of Saudi Arabia"
 msgid "'Asir"
 msgstr ""
+
+#~ msgid "Select an option&hellip;"
+#~ msgstr "Sélectionner une option…"
+
+#~ msgid "required"
+#~ msgstr "requis"
