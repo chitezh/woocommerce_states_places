@@ -1,0 +1,8 @@
+$states['LB'] = array(
+    'BA' => 'Beirut',
+    'AS' => 'North Lebanon,
+    'JL' => 'Mont-Liban',
+    'JA' => 'South Lebanon',
+    'NA' => 'Nabatieh',
+    'BI' => 'Bekaa'
+);
