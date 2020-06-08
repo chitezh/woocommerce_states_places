@@ -1,10 +1,10 @@
 === States, Cities, and Places for WooCommerce ===
 Contributors: chitezh, luisurrutiaf, yordansoares, nobnob, joseayram
 Donate link: https://github.com/chitezh
-Tags: woocommerce, states, cities, local government, dropdown, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities, Nigeria, Chile
+Tags: woocommerce, locations, states, cities, provinces, regions, departments, municipalities, districs, governorates, counties, cantons
 Stable tag: 1.2.8
 Requires at least: 4.0
-Tested up to: 5.4.1
+Tested up to: 5.4
 Requires PHP: 7.0
 WC requires at least: 3.0.x
 WC tested up to: 4.1.0
