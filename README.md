@@ -11,7 +11,7 @@
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Wordpress plugin that shows dropdowns for State and City Select for WooCommerce.
+WordPress plugin that shows dropdowns for State and City Select for WooCommerce.
 
 This WooCommerce plugin transforms the text input for states, the city or town. With this plugin you can provide a list of states and cities to be shown as a select dropdown.
 
