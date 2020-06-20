@@ -106,8 +106,8 @@ Yes, you can always suggest or request new locations by creating an issue in the
 == Changelog ==
 = 1.2.9 - Jun 20, 2020 =
 * Added two new countries:
-  * 🇧🇴 Bolivia: Departments and Municipalities (thanks to [jonasskafte](https://github.com/jonasskafte) for testing this country)
-  * 🇩🇴 Dominican Republic: Provinces and Municipalities (thanks to [jbermudez00](https://github.com/jbermudez00))
+  * 🇧🇴 Bolivia: Departments and Municipalities (thanks to [ionixcorp](https://github.com/ionixcorp))
+  * 🇩🇴 Dominican Republic: Provinces and Municipalities (thanks to [Javier Molina](https://forways.com.do))
 * Fixed: Algeria did not display the cities (thanks to [@yas-se](https://wordpress.org/support/topic/problem-in-sync-cities-according-to-the-choosen-state/) for reporting)
 = 1.2.8 - Jun 01, 2020 =
 * Added three new countries:
