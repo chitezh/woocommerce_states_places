@@ -2,12 +2,12 @@
 
 # States, Cities, and Places for WooCommerce
 
-* Stable tag: 1.2.8
+* Stable tag: 1.2.9
 * Requires at least: 4.0
-* Tested up to: 5.4.1
+* Tested up to: 5.4
 * Requires PHP: 7.0
 * WC requires at least: 3.0.x
-* WC tested up to: 4.1.0
+* WC tested up to: 4.2
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,10 +20,12 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 ## Supported Countries
  * 🇩🇿 Algeria
  * 🇧🇧 Barbados
+ * 🇧🇴 Bolivia
  * 🇧🇷 Brazil
  * 🇨🇱 Chile
  * 🇨🇴 Colombia
  * 🇩🇰 Denmark
+ * 🇩🇴 Dominican Republic
  * 🇪🇨 Ecuador
  * 🇸🇻 El Salvador
  * 🇬🇹 Guatemala
@@ -104,6 +106,11 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.9 - Jun 20, 2020
+  * Added two new countries:
+    * 🇧🇴 Bolivia: Departments and Municipalities (thanks to [ionixcorp](https://github.com/ionixcorp))
+    * 🇩🇴 Dominican Republic: Provinces and Municipalities (thanks to [Javier Molina](https://forways.com.do))
+  * Fixed: Algeria did not display the cities (thanks to [@yas-se](https://wordpress.org/support/topic/problem-in-sync-cities-according-to-the-choosen-state/) for reporting)
 * 1.2.8 - Jun 01, 2020
   * Added three new countries:
     * 🇩🇰 Denmark: Regions and Municipalities (thanks to [jonasskafte](https://github.com/jonasskafte) for testing this country)

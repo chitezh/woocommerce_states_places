@@ -11,7 +11,7 @@ WC tested up to: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WordPress plugin that shows dropdowns for State and City Select for WooCommerce.
+Wordpress plugin that shows dropdowns for State and City Select for WooCommerce.
 
 == Description ==
 
@@ -52,7 +52,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 * *Do you want to add your country here?*
 [Help us extending this list adding your country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates).
 
-== Languages available  ==
+== Languages availables  ==
 
 * English (US)
 * Spanish ([Spain](https://translate.wordpress.org/locale/es/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Mexico](https://translate.wordpress.org/locale/es-mx/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Venezuela](https://translate.wordpress.org/locale/es-ve/default/wp-plugins/states-cities-and-places-for-woocommerce/))
