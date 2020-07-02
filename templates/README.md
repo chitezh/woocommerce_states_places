@@ -6,7 +6,14 @@ If you want to add a new country that is not yet in the list of [Supported Count
 
 1. Fork the [plugin repository](https://github.com/chitezh/woocommerce_states_places/) on your GitHub account.
 2. Refer to [WooCommerce country codes](https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php) to find the code related to your country. E.g. `'NG'` for Nigeria, `'ES'` for Spain, `'VE'` for Venezuela.
-3. Duplicate the `XX.php` file you'll find inside [`template/states/`](https://github.com/chitezh/woocommerce_states_places/tree/master/templates/states) and [`template/places/`](https://github.com/chitezh/woocommerce_states_places/tree/master/templates/places), rename them with the code of your country you found in the previous step (E.g. `NG.php`, `ES.php`, `VE.php`) and move them to [`trunk/states`](https://github.com/chitezh/woocommerce_states_places/tree/master/trunk/states) and [`trunk/places/`](https://github.com/chitezh/woocommerce_states_places/tree/master/trunk/places) respectively.
+3. Duplicate (**DO NOT EDIT DIRECTLY!**) the `XX.php` file you'll find inside [`template/states/`](https://github.com/chitezh/woocommerce_states_places/tree/master/templates/states) and [`template/places/`](https://github.com/chitezh/woocommerce_states_places/tree/master/templates/places), rename them with the code of your country you found in the previous step (E.g. `NG.php`, `ES.php`, `VE.php`) and move them to [`trunk/states`](https://github.com/chitezh/woocommerce_states_places/tree/master/trunk/states) and [`trunk/places/`](https://github.com/chitezh/woocommerce_states_places/tree/master/trunk/places) respectively.
+
+```diff
+# Please remember:
+- Do not edit the templates files directly: 
++ Duplicate them in their respective folder (trunk/states/ & trunk/places/) and then update the country code.
+```
+
 
 ## Setting up the States
 
