@@ -4,7 +4,7 @@
 * Cities Of EGYPT
 *
 * Source:
-* https://www.citypopulation.de/en/egypt/cities/
+* https://github.com/Tech-Labs/egypt-governorates-and-cities-db
 *
 * @author  Heba Fareed
 * @version 1.0.0
