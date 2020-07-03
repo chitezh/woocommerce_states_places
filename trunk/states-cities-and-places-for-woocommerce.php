@@ -4,7 +4,7 @@
  * Plugin Name: States, Cities, and Places for WooCommerce
  * Plugin URI: https://github.com/chitezh/woocommerce_states_places
  * Description: WooCommerce plugin for listing states, cities, places, local government areas and towns in all countries of the world.
- * Version: 1.2.9
+ * Version: 1.2.8
  * Author: Kingsley Ochu
  * Author URI: https://github.com/chitezh
  * Developer: Kingsley Ochu
@@ -14,9 +14,9 @@
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 4.0
- * Tested up to: 5.4
+ * Tested up to: 5.4.1
  * WC requires at least: 3.0.x
- * WC tested up to: 4.2
+ * WC tested up to: 4.1
  */
 
 /**
@@ -106,11 +106,9 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
          * @param mixed $states
          * @return mixed
          */
-        public function  wc_states() {
+        public function  wc_states($states) {
             //get countries allowed by store owner
             $allowed = $this->get_store_allowed_countries();
-
-            $states = array();
 
             if (!empty( $allowed ) ) {
                 foreach ($allowed as $code => $country) {
