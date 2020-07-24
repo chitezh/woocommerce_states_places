@@ -211,8 +211,8 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 
                 if ( $current_sc && array_key_exists( $current_sc, $places ) ) {
                     $dropdown_places = $places[ $current_sc ];
-                } else if ( is_array($places) &&  isset($places[0])) {
-                    $dropdown_places = array_reduce( $places, 'array_merge', array() );
+                } else if ( is_array($places) && isset($places[0])) {
+                    $dropdown_places = $places;
                     sort( $dropdown_places );
                 } else {
                     $dropdown_places = $places;
