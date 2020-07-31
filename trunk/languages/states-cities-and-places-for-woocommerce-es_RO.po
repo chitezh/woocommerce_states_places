@@ -4,15 +4,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: States, Cities, and Places for WooCommerce 1.2.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
-"POT-Creation-Date: 2020-06-01T22:24:51-04:00\n"
-"PO-Revision-Date: 2020-06-01 22:26-0400\n"
+"POT-Creation-Date: 2020-07-31T07:48:41-04:00\n"
+"PO-Revision-Date: 2020-07-31 07:51-0400\n"
 "Last-Translator: Yordan Soares <contacto@yordansoar.es>\n"
 "Language-Team: Yordan Soares <contacto@yordansoar.es\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 2.4\n"
 "X-Domain: states-cities-and-places-for-woocommerce\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -36,6 +36,1246 @@ msgstr ""
 
 #. Author URI of the plugin
 msgid "https://github.com/chitezh"
+msgstr ""
+
+#: places/AE.php:16
+msgid "Nad Alsheba"
+msgstr ""
+
+#: places/AE.php:17
+msgid "Abraj Al Jumeirah"
+msgstr ""
+
+#: places/AE.php:18
+msgid "Abu Hail"
+msgstr ""
+
+#: places/AE.php:19
+msgid "Umm Alsheif"
+msgstr ""
+
+#: places/AE.php:20
+msgid "Umm Ramol"
+msgstr ""
+
+#: places/AE.php:21
+msgid "Umm Suqeim"
+msgstr ""
+
+#: places/AE.php:22
+msgid "Al Ras"
+msgstr ""
+
+#: places/AE.php:23 places/AE.php:310 places/AE.php:372
+msgid "Al Rashidiya"
+msgstr ""
+
+#: places/AE.php:24
+msgid "Al Aweer"
+msgstr ""
+
+#: places/AE.php:25 places/AE.php:233
+msgid "Al Quoz"
+msgstr ""
+
+#: places/AE.php:26
+msgid "Al Khawaneej"
+msgstr ""
+
+#: places/AE.php:27
+msgid "Jabal Ali"
+msgstr ""
+
+#: places/AE.php:28
+msgid "Al Badaa"
+msgstr ""
+
+#: places/AE.php:29
+msgid "Bur Dubai"
+msgstr ""
+
+#: places/AE.php:30
+msgid "Al Baraha"
+msgstr ""
+
+#: places/AE.php:31
+msgid "Al Barsha"
+msgstr ""
+
+#: places/AE.php:32
+msgid "Al Buteen"
+msgstr ""
+
+#: places/AE.php:33
+msgid "Bukadra"
+msgstr ""
+
+#: places/AE.php:34
+msgid "Talal Al Emarat"
+msgstr ""
+
+#: places/AE.php:35
+msgid "Al Jaffiliya"
+msgstr ""
+
+#: places/AE.php:36
+msgid "Al Jaddaf"
+msgstr ""
+
+#: places/AE.php:37
+msgid "Jumeirah"
+msgstr ""
+
+#: places/AE.php:38
+msgid "Al Hamriya"
+msgstr ""
+
+#: places/AE.php:39 places/AE.php:142
+msgid "Al Khabaisi"
+msgstr ""
+
+#: places/AE.php:40
+msgid "Business Bay"
+msgstr ""
+
+#: places/AE.php:41
+msgid "Deira"
+msgstr ""
+
+#: places/AE.php:42
+msgid "Ras Al Khor"
+msgstr ""
+
+#: places/AE.php:43
+msgid "Al Rigga"
+msgstr ""
+
+#: places/AE.php:44
+msgid "Riggat Al Buteen"
+msgstr ""
+
+#: places/AE.php:45
+msgid "Zaabeel"
+msgstr ""
+
+#: places/AE.php:46
+msgid "Al Satwa"
+msgstr ""
+
+#: places/AE.php:47
+msgid "Grand Souq"
+msgstr ""
+
+#: places/AE.php:48
+msgid "Sheikh Zayed Road"
+msgstr ""
+
+#: places/AE.php:49
+msgid "Al Shindagha"
+msgstr ""
+
+#: places/AE.php:50
+msgid "Al Safa"
+msgstr ""
+
+#: places/AE.php:51
+msgid "Al Sufouh"
+msgstr ""
+
+#: places/AE.php:52
+msgid "Oud Metha"
+msgstr ""
+
+#: places/AE.php:53
+msgid "Al Garhoud"
+msgstr ""
+
+#: places/AE.php:54
+msgid "Al Qusais"
+msgstr ""
+
+#: places/AE.php:55 places/AE.php:309
+msgid "Al Karama"
+msgstr ""
+
+#: places/AE.php:56
+msgid "Al Muhaisnah"
+msgstr ""
+
+#: places/AE.php:57
+msgid "Dubai Healthcare City"
+msgstr ""
+
+#: places/AE.php:58
+msgid "Mirdif"
+msgstr ""
+
+#: places/AE.php:59
+msgid "Al Muraqqabat"
+msgstr ""
+
+#: places/AE.php:60
+msgid "Trade Centre 1"
+msgstr ""
+
+#: places/AE.php:61
+msgid "Trade Centre 2"
+msgstr ""
+
+#: places/AE.php:62
+msgid "Al Mazhar"
+msgstr ""
+
+#: places/AE.php:63
+msgid "Al Muteena"
+msgstr ""
+
+#: places/AE.php:64
+msgid "Al Mamzar"
+msgstr ""
+
+#: places/AE.php:65
+msgid "Al Manara"
+msgstr ""
+
+#: places/AE.php:66
+msgid "Al Mankhool"
+msgstr ""
+
+#: places/AE.php:67
+msgid "Naif"
+msgstr ""
+
+#: places/AE.php:68
+msgid "Nadd Al Hamar"
+msgstr ""
+
+#: places/AE.php:69
+msgid "Nad Al Shamma"
+msgstr ""
+
+#: places/AE.php:70 places/AE.php:240
+msgid "Al Nahda"
+msgstr ""
+
+#: places/AE.php:71
+msgid "Hor Al Anz"
+msgstr ""
+
+#: places/AE.php:72
+msgid "Al Waheda"
+msgstr ""
+
+#: places/AE.php:73
+msgid "Warsan"
+msgstr ""
+
+#: places/AE.php:74
+msgid "Al Warqa"
+msgstr ""
+
+#: places/AE.php:75
+msgid "Al Wasl"
+msgstr ""
+
+#: places/AE.php:76
+msgid "Oud Al Muteena"
+msgstr ""
+
+#: places/AE.php:77
+msgid "Al Refaa"
+msgstr ""
+
+#: places/AE.php:78
+msgid "Arabian Ranches"
+msgstr ""
+
+#: places/AE.php:79
+msgid "Al Twar"
+msgstr ""
+
+#: places/AE.php:80
+msgid "Umm Ramool"
+msgstr ""
+
+#: places/AE.php:83
+msgid "Ghantoot"
+msgstr ""
+
+#: places/AE.php:84
+msgid "Bani Yas"
+msgstr ""
+
+#: places/AE.php:85
+msgid "Al Shamkhah"
+msgstr ""
+
+#: places/AE.php:86
+msgid "Al Sweihan"
+msgstr ""
+
+#: places/AE.php:87
+msgid "Al Adlah"
+msgstr ""
+
+#: places/AE.php:88
+msgid "Al Moazaz"
+msgstr ""
+
+#: places/AE.php:89
+msgid "Tarif"
+msgstr ""
+
+#: places/AE.php:90 places/AE.php:133
+msgid "Al Bateen"
+msgstr ""
+
+#: places/AE.php:91
+msgid "Musaffah"
+msgstr ""
+
+#: places/AE.php:92 places/AE.php:188 places/AE.php:235
+msgid "Al Khalidiyah"
+msgstr ""
+
+#: places/AE.php:93
+msgid "Al Maqta"
+msgstr ""
+
+#: places/AE.php:94
+msgid "Al Mushrif"
+msgstr ""
+
+#: places/AE.php:95 places/AE.php:358
+msgid "Al Zaab"
+msgstr ""
+
+#: places/AE.php:96
+msgid "Khalifa City"
+msgstr ""
+
+#: places/AE.php:97 places/AE.php:126
+msgid "Bawabat Abu Dhabi"
+msgstr ""
+
+#: places/AE.php:98
+msgid "Al Bahyah"
+msgstr ""
+
+#: places/AE.php:99
+msgid "Al Falah"
+msgstr ""
+
+#: places/AE.php:100
+msgid "Al Raha Beach"
+msgstr ""
+
+#: places/AE.php:101
+msgid "Al Shahama"
+msgstr ""
+
+#: places/AE.php:102
+msgid "Al Samha"
+msgstr ""
+
+#: places/AE.php:103 places/AE.php:118
+msgid "Al Wathbah"
+msgstr ""
+
+#: places/AE.php:104
+msgid "Madinat Zayed"
+msgstr ""
+
+#: places/AE.php:105
+msgid "Al Mafraq"
+msgstr ""
+
+#: places/AE.php:106
+msgid "Mohamed Bin Zayed City"
+msgstr ""
+
+#: places/AE.php:107
+msgid "Al Reem Island"
+msgstr ""
+
+#: places/AE.php:108
+msgid "Saadiyat Island"
+msgstr ""
+
+#: places/AE.php:109
+msgid "Yas Island"
+msgstr ""
+
+#: places/AE.php:110
+msgid "Al Muroor"
+msgstr ""
+
+#: places/AE.php:111
+msgid "Al Nahyan"
+msgstr ""
+
+#: places/AE.php:112
+msgid "Ministry Of Economy"
+msgstr ""
+
+#: places/AE.php:113
+msgid "Shakhbout City"
+msgstr ""
+
+#: places/AE.php:114
+msgid "Airport Road"
+msgstr ""
+
+#: places/AE.php:115
+msgid "Al Nahda East"
+msgstr ""
+
+#: places/AE.php:116
+msgid "Al Dhafra"
+msgstr ""
+
+#: places/AE.php:117
+msgid "Al Reef Villas"
+msgstr ""
+
+#: places/AE.php:119
+msgid "Al Zafaranah"
+msgstr ""
+
+#: places/AE.php:120
+msgid "Fotouh Al Khai"
+msgstr ""
+
+#: places/AE.php:121
+msgid "Exhibition Centre"
+msgstr ""
+
+#: places/AE.php:122
+msgid "Jawazat Street"
+msgstr ""
+
+#: places/AE.php:123
+msgid "Al Wahda Mall"
+msgstr ""
+
+#: places/AE.php:124
+msgid "Hamdan Bin Mohammed St"
+msgstr ""
+
+#: places/AE.php:125
+msgid "Jazeerat Al Shelaylah"
+msgstr ""
+
+#: places/AE.php:127
+msgid "Alriffa Ave"
+msgstr ""
+
+#: places/AE.php:128
+msgid "Al Zahiyah"
+msgstr ""
+
+#: places/AE.php:129
+msgid "Al Ain Tower"
+msgstr ""
+
+#: places/AE.php:130
+msgid "Mahwi"
+msgstr ""
+
+#: places/AE.php:134
+msgid "Um Ghafah"
+msgstr ""
+
+#: places/AE.php:135
+msgid "Al Neyadat"
+msgstr ""
+
+#: places/AE.php:136
+msgid "Al Jahili"
+msgstr ""
+
+#: places/AE.php:137
+msgid "Al Mutarid"
+msgstr ""
+
+#: places/AE.php:138
+msgid "Al Jimi"
+msgstr ""
+
+#: places/AE.php:139
+msgid "Al Fouah"
+msgstr ""
+
+#: places/AE.php:140
+msgid "Al Maqam"
+msgstr ""
+
+#: places/AE.php:141
+msgid "Industrial Area"
+msgstr ""
+
+#: places/AE.php:143 places/AE.php:171
+msgid "Al Tiwayyah"
+msgstr ""
+
+#: places/AE.php:144
+msgid "Falaj Hazzaa"
+msgstr ""
+
+#: places/AE.php:145
+msgid "Al Markhaniyyah"
+msgstr ""
+
+#: places/AE.php:146
+msgid "Al Murabaa"
+msgstr ""
+
+#: places/AE.php:147
+msgid "Kuwaitat"
+msgstr ""
+
+#: places/AE.php:148 places/AE.php:212
+msgid "Mazyad"
+msgstr ""
+
+#: places/AE.php:149
+msgid "Al Sarouj"
+msgstr ""
+
+#: places/AE.php:150
+msgid "Basrah"
+msgstr ""
+
+#: places/AE.php:151
+msgid "Al Masoudi Kindergarden"
+msgstr ""
+
+#: places/AE.php:152
+msgid "Al Hili"
+msgstr ""
+
+#: places/AE.php:153
+msgid "Al Manase"
+msgstr ""
+
+#: places/AE.php:154
+msgid "Tawam"
+msgstr ""
+
+#: places/AE.php:155
+msgid "Al Nabbagh"
+msgstr ""
+
+#: places/AE.php:156 places/AE.php:209
+msgid "Abu Samrah"
+msgstr ""
+
+#: places/AE.php:157
+msgid "Zakhir"
+msgstr ""
+
+#: places/AE.php:158
+msgid "Al Hiyar"
+msgstr ""
+
+#: places/AE.php:159 places/AE.php:208
+msgid "Sweihan"
+msgstr ""
+
+#: places/AE.php:160
+msgid "Nahil"
+msgstr ""
+
+#: places/AE.php:161
+msgid "Al Yahar"
+msgstr ""
+
+#: places/AE.php:162
+msgid "Al Dhahir"
+msgstr ""
+
+#: places/AE.php:163
+msgid "Neima"
+msgstr ""
+
+#: places/AE.php:164
+msgid "Al Shuiaba"
+msgstr ""
+
+#: places/AE.php:165
+msgid "Ramalat Zakher"
+msgstr ""
+
+#: places/AE.php:166 places/AE.php:202
+msgid "Al Wiqan"
+msgstr ""
+
+#: places/AE.php:167 places/AE.php:207
+msgid "Rumah"
+msgstr ""
+
+#: places/AE.php:168
+msgid "Asharij"
+msgstr ""
+
+#: places/AE.php:169
+msgid "Al Shiwayb"
+msgstr ""
+
+#: places/AE.php:170 places/AE.php:185
+msgid "Al Salamat"
+msgstr ""
+
+#: places/AE.php:172
+msgid "Al Rawdah Al Sharqiyah"
+msgstr ""
+
+#: places/AE.php:173
+msgid "Bawadi"
+msgstr ""
+
+#: places/AE.php:174
+msgid "North Sea"
+msgstr ""
+
+#: places/AE.php:175 places/AE.php:279
+msgid "Mirbah"
+msgstr ""
+
+#: places/AE.php:176
+msgid "Oasis"
+msgstr ""
+
+#: places/AE.php:177
+msgid "Civil Defence"
+msgstr ""
+
+#: places/AE.php:178
+msgid "Alswaib"
+msgstr ""
+
+#: places/AE.php:179
+msgid "Shiaab Al Ashkhar"
+msgstr ""
+
+#: places/AE.php:180 places/AE.php:241
+msgid "Nasiriyah"
+msgstr ""
+
+#: places/AE.php:181 places/AE.php:205
+msgid "Al Khaznah"
+msgstr ""
+
+#: places/AE.php:182
+msgid "Al Attarah"
+msgstr ""
+
+#: places/AE.php:183 places/AE.php:211
+msgid "Al Sad"
+msgstr ""
+
+#: places/AE.php:184
+msgid "Al Qattarah"
+msgstr ""
+
+#: places/AE.php:186
+msgid "Ghireebah"
+msgstr ""
+
+#: places/AE.php:187
+msgid "Oud Al Touba"
+msgstr ""
+
+#: places/AE.php:191
+msgid "Al Sila"
+msgstr ""
+
+#: places/AE.php:192
+msgid "Al Ruwais"
+msgstr ""
+
+#: places/AE.php:193
+msgid "Zayed City"
+msgstr ""
+
+#: places/AE.php:194
+msgid "Madinat Al Salam"
+msgstr ""
+
+#: places/AE.php:195
+msgid "Bada Zayed"
+msgstr ""
+
+#: places/AE.php:196
+msgid "Bad Al Mutawah"
+msgstr ""
+
+#: places/AE.php:197
+msgid "Ghiyathi"
+msgstr ""
+
+#: places/AE.php:198
+msgid "Liwa"
+msgstr ""
+
+#: places/AE.php:201
+msgid "Al Qoua"
+msgstr ""
+
+#: places/AE.php:203
+msgid "Al Dhahrah"
+msgstr ""
+
+#: places/AE.php:204
+msgid "Bu Kirayyah"
+msgstr ""
+
+#: places/AE.php:206
+msgid "Al Khtam"
+msgstr ""
+
+#: places/AE.php:210
+msgid "Margham"
+msgstr ""
+
+#: places/AE.php:215 states/AE.php:20
+msgid "Hatta"
+msgstr ""
+
+#: places/AE.php:216
+msgid "Al Madam"
+msgstr ""
+
+#: places/AE.php:217 places/AE.php:325
+msgid "Huwaylat"
+msgstr ""
+
+#: places/AE.php:218 places/AE.php:303
+msgid "Masfut"
+msgstr ""
+
+#: places/AE.php:219
+msgid "Nizwa"
+msgstr ""
+
+#: places/AE.php:220 places/AE.php:333
+msgid "Wadi Al Qour"
+msgstr ""
+
+#: places/AE.php:221 places/AE.php:356
+msgid "Al Manaie"
+msgstr ""
+
+#: places/AE.php:222
+msgid "Hatta Hill Park"
+msgstr ""
+
+#: places/AE.php:223
+msgid "Muzairah"
+msgstr ""
+
+#: places/AE.php:226
+msgid "Al Khan"
+msgstr ""
+
+#: places/AE.php:227
+msgid "Al Dhaid"
+msgstr ""
+
+#: places/AE.php:228
+msgid "Khor Fakkan"
+msgstr ""
+
+#: places/AE.php:229
+msgid "Buteena"
+msgstr ""
+
+#: places/AE.php:230
+msgid "Al Azra"
+msgstr ""
+
+#: places/AE.php:231
+msgid "Al Falaj"
+msgstr ""
+
+#: places/AE.php:232
+msgid "Al Ghubaiba"
+msgstr ""
+
+#: places/AE.php:234
+msgid "Al Jazzat"
+msgstr ""
+
+#: places/AE.php:236
+msgid "Al Layyeh Suburb"
+msgstr ""
+
+#: places/AE.php:237
+msgid "Al Majaz"
+msgstr ""
+
+#: places/AE.php:238
+msgid "Mansoura"
+msgstr ""
+
+#: places/AE.php:239
+msgid "AL Mirgab"
+msgstr ""
+
+#: places/AE.php:242
+msgid "Al Nekhailat"
+msgstr ""
+
+#: places/AE.php:243
+msgid "Al Qadisiya"
+msgstr ""
+
+#: places/AE.php:244
+msgid "Al Ramlah"
+msgstr ""
+
+#: places/AE.php:245
+msgid "Defence"
+msgstr ""
+
+#: places/AE.php:246
+msgid "Al Sabkha"
+msgstr ""
+
+#: places/AE.php:247
+msgid "Al Talaa"
+msgstr ""
+
+#: places/AE.php:248
+msgid "Al Yarmook"
+msgstr ""
+
+#: places/AE.php:249
+msgid "Dasman"
+msgstr ""
+
+#: places/AE.php:250
+msgid "Al Yash"
+msgstr ""
+
+#: places/AE.php:251
+msgid "Maleha"
+msgstr ""
+
+#: places/AE.php:252
+msgid "Muwafjah"
+msgstr ""
+
+#: places/AE.php:253
+msgid "Muwailih Commercial"
+msgstr ""
+
+#: places/AE.php:254
+msgid "University of Sharjah"
+msgstr ""
+
+#: places/AE.php:255
+msgid "Sharqan"
+msgstr ""
+
+#: places/AE.php:256
+msgid "Al Gharayen"
+msgstr ""
+
+#: places/AE.php:257
+msgid "Al Noaf"
+msgstr ""
+
+#: places/AE.php:258
+msgid "Sharjah International Airport"
+msgstr ""
+
+#: places/AE.php:259
+msgid "Al Sajaa"
+msgstr ""
+
+#: places/AE.php:260
+msgid "Dibba Al Hisn"
+msgstr ""
+
+#: places/AE.php:261
+msgid "Al Taawun"
+msgstr ""
+
+#: places/AE.php:262
+msgid "Al Rafeea"
+msgstr ""
+
+#: places/AE.php:263
+msgid "Tarfana"
+msgstr ""
+
+#: places/AE.php:264
+msgid "Kalba"
+msgstr ""
+
+#: places/AE.php:265
+msgid "Al Shahba"
+msgstr ""
+
+#: places/AE.php:266
+msgid "Al Atain"
+msgstr ""
+
+#: places/AE.php:267
+msgid "Al Khezamia"
+msgstr ""
+
+#: places/AE.php:268
+msgid "Wasit St"
+msgstr ""
+
+#: places/AE.php:269
+msgid "Minazif"
+msgstr ""
+
+#: places/AE.php:270
+msgid "Al Rahmaniya"
+msgstr ""
+
+#: places/AE.php:271
+msgid "Al Ramtha"
+msgstr ""
+
+#: places/AE.php:274
+msgid "Al Faisal"
+msgstr ""
+
+#: places/AE.php:275
+msgid "Chamber"
+msgstr ""
+
+#: places/AE.php:276
+msgid "Dibba Al Fujairah"
+msgstr ""
+
+#: places/AE.php:277
+msgid "Thaiba"
+msgstr ""
+
+#: places/AE.php:278
+msgid "Habheb"
+msgstr ""
+
+#: places/AE.php:280
+msgid "Wadi Al seder"
+msgstr ""
+
+#: places/AE.php:281
+msgid "Wadi Siji"
+msgstr ""
+
+#: places/AE.php:282
+msgid "Qidfa"
+msgstr ""
+
+#: places/AE.php:283
+msgid "Al Bidya"
+msgstr ""
+
+#: places/AE.php:284
+msgid "Tawyeen"
+msgstr ""
+
+#: places/AE.php:285
+msgid "Al Qurayya"
+msgstr ""
+
+#: places/AE.php:286
+msgid "Sharm"
+msgstr ""
+
+#: places/AE.php:287
+msgid "Dhadna"
+msgstr ""
+
+#: places/AE.php:288
+msgid "Rul Dhadna"
+msgstr ""
+
+#: places/AE.php:289
+msgid "Al Aqah"
+msgstr ""
+
+#: places/AE.php:290
+msgid "Masafi Al Fujairah"
+msgstr ""
+
+#: places/AE.php:291
+msgid "Al Bithnah"
+msgstr ""
+
+#: places/AE.php:292 places/AE.php:338
+msgid "Al Hayl"
+msgstr ""
+
+#: places/AE.php:293
+msgid "Al Farfar"
+msgstr ""
+
+#: places/AE.php:294
+msgid "Wadi Saham"
+msgstr ""
+
+#: places/AE.php:295
+msgid "Al Halah"
+msgstr ""
+
+#: places/AE.php:296
+msgid "Wahla Fort"
+msgstr ""
+
+#: places/AE.php:297
+msgid "Sakamkam"
+msgstr ""
+
+#: places/AE.php:298
+msgid "Murshid"
+msgstr ""
+
+#: places/AE.php:299 places/AE.php:354
+msgid "Sifuni"
+msgstr ""
+
+#: places/AE.php:300
+msgid "Madhab"
+msgstr ""
+
+#: places/AE.php:304
+msgid "Manama"
+msgstr ""
+
+#: places/AE.php:305
+msgid "Al Helio"
+msgstr ""
+
+#: places/AE.php:306
+msgid "Al Bustan"
+msgstr ""
+
+#: places/AE.php:307
+msgid "Al Rumailah"
+msgstr ""
+
+#: places/AE.php:308
+msgid "Nuaimiya"
+msgstr ""
+
+#: places/AE.php:311
+msgid "Al Muwaihat"
+msgstr ""
+
+#: places/AE.php:312
+msgid "Hamidiya"
+msgstr ""
+
+#: places/AE.php:313
+msgid "Jurf"
+msgstr ""
+
+#: places/AE.php:314
+msgid "Al Raqaib"
+msgstr ""
+
+#: places/AE.php:315
+msgid "Meshairef"
+msgstr ""
+
+#: places/AE.php:316
+msgid "Al Rawda"
+msgstr ""
+
+#: places/AE.php:317
+msgid "Al Swan"
+msgstr ""
+
+#: places/AE.php:318
+msgid "Old Industrial Area"
+msgstr ""
+
+#: places/AE.php:319
+msgid "New Industrial Area"
+msgstr ""
+
+#: places/AE.php:320
+msgid "Al Bahia"
+msgstr ""
+
+#: places/AE.php:323
+msgid "Khor Khuwaier"
+msgstr ""
+
+#: places/AE.php:324
+msgid "Ghalilah"
+msgstr ""
+
+#: places/AE.php:326
+msgid "Al Jolan"
+msgstr ""
+
+#: places/AE.php:327
+msgid "Al Sharisha"
+msgstr ""
+
+#: places/AE.php:328
+msgid "Julphar"
+msgstr ""
+
+#: places/AE.php:329
+msgid "Al Mairid"
+msgstr ""
+
+#: places/AE.php:330
+msgid "Al Nakheel"
+msgstr ""
+
+#: places/AE.php:331
+msgid "Ghailan"
+msgstr ""
+
+#: places/AE.php:332
+msgid "Seih Al Harf"
+msgstr ""
+
+#: places/AE.php:334
+msgid "Wadi Al Ejili"
+msgstr ""
+
+#: places/AE.php:335
+msgid "Khuzam"
+msgstr ""
+
+#: places/AE.php:336
+msgid "Al Dhait"
+msgstr ""
+
+#: places/AE.php:337
+msgid "Al Kharran"
+msgstr ""
+
+#: places/AE.php:339
+msgid "Al Mamurah"
+msgstr ""
+
+#: places/AE.php:340
+msgid "Al Ghubb"
+msgstr ""
+
+#: places/AE.php:341
+msgid "Al jeer"
+msgstr ""
+
+#: places/AE.php:342
+msgid "Shamal"
+msgstr ""
+
+#: places/AE.php:343
+msgid "Shaam"
+msgstr ""
+
+#: places/AE.php:344
+msgid "Al Rams"
+msgstr ""
+
+#: places/AE.php:345
+msgid "Al Digdaagah"
+msgstr ""
+
+#: places/AE.php:346
+msgid "Al Fahlain"
+msgstr ""
+
+#: places/AE.php:347
+msgid "Khatt"
+msgstr ""
+
+#: places/AE.php:348
+msgid "Adhen Village"
+msgstr ""
+
+#: places/AE.php:349
+msgid "Al Ghail"
+msgstr ""
+
+#: places/AE.php:350
+msgid "Wadi Kub"
+msgstr ""
+
+#: places/AE.php:351
+msgid "Masafi"
+msgstr ""
+
+#: places/AE.php:352
+msgid "Dfatta"
+msgstr ""
+
+#: places/AE.php:353
+msgid "Asimah"
+msgstr ""
+
+#: places/AE.php:355
+msgid "Shawkah"
+msgstr ""
+
+#: places/AE.php:357
+msgid "Wadi Shaam"
+msgstr ""
+
+#: places/AE.php:359
+msgid "Seih Al Burairat"
+msgstr ""
+
+#: places/AE.php:360
+msgid "Qudra"
+msgstr ""
+
+#: places/AE.php:361
+msgid "Airj"
+msgstr ""
+
+#: places/AE.php:362
+msgid "Al Jazirah Al Hamra"
+msgstr ""
+
+#: places/AE.php:363
+msgid "Al Hamraniyah"
+msgstr ""
+
+#: places/AE.php:364
+msgid "Al Uraibi"
+msgstr ""
+
+#: places/AE.php:365
+msgid "Alyanabee"
+msgstr ""
+
+#: places/AE.php:368
+msgid "Falaj Al Mualla"
+msgstr ""
+
+#: places/AE.php:369
+msgid "Al Salamah"
+msgstr ""
+
+#: places/AE.php:370
+msgid "Al Sweihat"
+msgstr ""
+
+#: places/AE.php:371
+msgid "Ramla"
+msgstr ""
+
+#: places/AE.php:373
+msgid "Mohammed Bin Rashid"
+msgstr ""
+
+#: places/AE.php:374
+msgid "Al Dar Al Baida"
 msgstr ""
 
 #: places/DZ.php:22
@@ -7543,6 +8783,651 @@ msgctxt "Algerian Communes"
 msgid "Ouled Sidi Mihoub"
 msgstr ""
 
+#: places/KW.php:18
+msgctxt "District of Kuwait"
+msgid "Abdullah Al-Salem"
+msgstr ""
+
+#: places/KW.php:19
+msgctxt "District of Kuwait"
+msgid "Adailiya"
+msgstr ""
+
+#: places/KW.php:20
+msgctxt "District of Kuwait"
+msgid "Bneid Al Qar"
+msgstr ""
+
+#: places/KW.php:21
+msgctxt "District of Kuwait"
+msgid "Daiya"
+msgstr ""
+
+#: places/KW.php:22
+msgctxt "District of Kuwait"
+msgid "Dasma"
+msgstr ""
+
+#: places/KW.php:23
+msgctxt "District of Kuwait"
+msgid "Dasman"
+msgstr ""
+
+#: places/KW.php:24
+msgctxt "District of Kuwait"
+msgid "Doha"
+msgstr ""
+
+#: places/KW.php:25
+msgctxt "District of Kuwait"
+msgid "Faiha"
+msgstr ""
+
+#: places/KW.php:26
+msgctxt "District of Kuwait"
+msgid "Ghornata"
+msgstr ""
+
+#: places/KW.php:27
+msgctxt "District of Kuwait"
+msgid "Jaber Al Ahmad"
+msgstr ""
+
+#: places/KW.php:28
+msgctxt "District of Kuwait"
+msgid "Kaifan"
+msgstr ""
+
+#: places/KW.php:29
+msgctxt "District of Kuwait"
+msgid "Khaldiya"
+msgstr ""
+
+#: places/KW.php:30
+msgctxt "District of Kuwait"
+msgid "Kuwait City"
+msgstr ""
+
+#: places/KW.php:31
+msgctxt "District of Kuwait"
+msgid "Mansouriya"
+msgstr ""
+
+#: places/KW.php:32
+msgctxt "District of Kuwait"
+msgid "Mirqab"
+msgstr ""
+
+#: places/KW.php:33
+msgctxt "District of Kuwait"
+msgid "Mubarakiya Camps"
+msgstr ""
+
+#: places/KW.php:34
+msgctxt "District of Kuwait"
+msgid "Nahda"
+msgstr ""
+
+#: places/KW.php:35
+msgctxt "District of Kuwait"
+msgid "North West Sulaibikhat"
+msgstr ""
+
+#: places/KW.php:36
+msgctxt "District of Kuwait"
+msgid "Nuzha"
+msgstr ""
+
+#: places/KW.php:37
+msgctxt "District of Kuwait"
+msgid "Qadsiya"
+msgstr ""
+
+#: places/KW.php:38
+msgctxt "District of Kuwait"
+msgid "Qibla"
+msgstr ""
+
+#: places/KW.php:39
+msgctxt "District of Kuwait"
+msgid "Qortuba"
+msgstr ""
+
+#: places/KW.php:40
+msgctxt "District of Kuwait"
+msgid "Rawda"
+msgstr ""
+
+#: places/KW.php:41
+msgctxt "District of Kuwait"
+msgid "Salhiya"
+msgstr ""
+
+#: places/KW.php:42
+msgctxt "District of Kuwait"
+msgid "Shamiya"
+msgstr ""
+
+#: places/KW.php:43
+msgctxt "District of Kuwait"
+msgid "Sharq"
+msgstr ""
+
+#: places/KW.php:44
+msgctxt "District of Kuwait"
+msgid "Shuwaikh Administrative"
+msgstr ""
+
+#: places/KW.php:45
+msgctxt "District of Kuwait"
+msgid "Shuwaikh Educational"
+msgstr ""
+
+#: places/KW.php:46
+msgctxt "District of Kuwait"
+msgid "Shuwaikh Industrial 1"
+msgstr ""
+
+#: places/KW.php:47
+msgctxt "District of Kuwait"
+msgid "Shuwaikh Industrial 2"
+msgstr ""
+
+#: places/KW.php:48
+msgctxt "District of Kuwait"
+msgid "Shuwaikh Industrial 3"
+msgstr ""
+
+#: places/KW.php:49
+msgctxt "District of Kuwait"
+msgid "Shuwaikh Medical"
+msgstr ""
+
+#: places/KW.php:50
+msgctxt "District of Kuwait"
+msgid "Shuwaikh Residential"
+msgstr ""
+
+#: places/KW.php:51
+msgctxt "District of Kuwait"
+msgid "Shuwaikh"
+msgstr ""
+
+#: places/KW.php:52
+msgctxt "District of Kuwait"
+msgid "Sulaibikhat"
+msgstr ""
+
+#: places/KW.php:53
+msgctxt "District of Kuwait"
+msgid "Surra"
+msgstr ""
+
+#: places/KW.php:54
+msgctxt "District of Kuwait"
+msgid "Yarmouk"
+msgstr ""
+
+#: places/KW.php:57
+msgctxt "District of Kuwait"
+msgid "Al-Bedae"
+msgstr ""
+
+#: places/KW.php:58
+msgctxt "District of Kuwait"
+msgid "Bayan"
+msgstr ""
+
+#: places/KW.php:59
+msgctxt "District of Kuwait"
+msgid "Hawally"
+msgstr ""
+
+#: places/KW.php:60
+msgctxt "District of Kuwait"
+msgid "Hitteen"
+msgstr ""
+
+#: places/KW.php:61
+msgctxt "District of Kuwait"
+msgid "Jabriya"
+msgstr ""
+
+#: places/KW.php:62
+msgctxt "District of Kuwait"
+msgid "Maidan Hawally"
+msgstr ""
+
+#: places/KW.php:63
+msgctxt "District of Kuwait"
+msgid "Ministries Zone"
+msgstr ""
+
+#: places/KW.php:64
+msgctxt "District of Kuwait"
+msgid "Mishrif"
+msgstr ""
+
+#: places/KW.php:65
+msgctxt "District of Kuwait"
+msgid "Mubarak Al-Abdullah - West Mishref"
+msgstr ""
+
+#: places/KW.php:66
+msgctxt "District of Kuwait"
+msgid "Rumaithiya"
+msgstr ""
+
+#: places/KW.php:67
+msgctxt "District of Kuwait"
+msgid "Salam"
+msgstr ""
+
+#: places/KW.php:68
+msgctxt "District of Kuwait"
+msgid "Salmiya"
+msgstr ""
+
+#: places/KW.php:69
+msgctxt "District of Kuwait"
+msgid "Salwa"
+msgstr ""
+
+#: places/KW.php:70
+msgctxt "District of Kuwait"
+msgid "Shaab"
+msgstr ""
+
+#: places/KW.php:71
+msgctxt "District of Kuwait"
+msgid "Shuhada"
+msgstr ""
+
+#: places/KW.php:72
+msgctxt "District of Kuwait"
+msgid "Siddiq"
+msgstr ""
+
+#: places/KW.php:73
+msgctxt "District of Kuwait"
+msgid "Zahra"
+msgstr ""
+
+#: places/KW.php:77
+msgctxt "District of Kuwait"
+msgid "Abdullah Al-Mubarak"
+msgstr ""
+
+#: places/KW.php:78
+msgctxt "District of Kuwait"
+msgid "Airport"
+msgstr ""
+
+#: places/KW.php:79
+msgctxt "District of Kuwait"
+msgid "Andalous"
+msgstr ""
+
+#: places/KW.php:80
+msgctxt "District of Kuwait"
+msgid "Ardhiya 4"
+msgstr ""
+
+#: places/KW.php:81
+msgctxt "District of Kuwait"
+msgid "Ardhiya"
+msgstr ""
+
+#: places/KW.php:82
+msgctxt "District of Kuwait"
+msgid "Ardiya Small Industrial"
+msgstr ""
+
+#: places/KW.php:83
+msgctxt "District of Kuwait"
+msgid "Ardiya Storage Zone"
+msgstr ""
+
+#: places/KW.php:84
+msgctxt "District of Kuwait"
+msgid "Ashbeliah"
+msgstr ""
+
+#: places/KW.php:85
+msgctxt "District of Kuwait"
+msgid "Dhajeej"
+msgstr ""
+
+#: places/KW.php:86
+msgctxt "District of Kuwait"
+msgid "Farwaniya"
+msgstr ""
+
+#: places/KW.php:87
+msgctxt "District of Kuwait"
+msgid "Ferdous"
+msgstr ""
+
+#: places/KW.php:88
+msgctxt "District of Kuwait"
+msgid "Jeleeb Al-Shuyoukh"
+msgstr ""
+
+#: places/KW.php:89
+msgctxt "District of Kuwait"
+msgid "Khaitan"
+msgstr ""
+
+#: places/KW.php:90
+msgctxt "District of Kuwait"
+msgid "Omariya"
+msgstr ""
+
+#: places/KW.php:91
+msgctxt "District of Kuwait"
+msgid "Rabiya"
+msgstr ""
+
+#: places/KW.php:92
+msgctxt "District of Kuwait"
+msgid "Rai"
+msgstr ""
+
+#: places/KW.php:93
+msgctxt "District of Kuwait"
+msgid "Reggai"
+msgstr ""
+
+#: places/KW.php:94
+msgctxt "District of Kuwait"
+msgid "Rehab"
+msgstr ""
+
+#: places/KW.php:95
+msgctxt "District of Kuwait"
+msgid "Sabah Al-Nasser"
+msgstr ""
+
+#: places/KW.php:96
+msgctxt "District of Kuwait"
+msgid "Sheikh Saad Al Abdullah Airport"
+msgstr ""
+
+#: places/KW.php:100
+msgctxt "District of Kuwait"
+msgid "Abu Ftaira"
+msgstr ""
+
+#: places/KW.php:101
+msgctxt "District of Kuwait"
+msgid "Abu Hasaniya"
+msgstr ""
+
+#: places/KW.php:102
+msgctxt "District of Kuwait"
+msgid "Adan"
+msgstr ""
+
+#: places/KW.php:103
+msgctxt "District of Kuwait"
+msgid "Al Masayel"
+msgstr ""
+
+#: places/KW.php:104
+msgctxt "District of Kuwait"
+msgid "Al-Qurain"
+msgstr ""
+
+#: places/KW.php:105
+msgctxt "District of Kuwait"
+msgid "Al-Qusour"
+msgstr ""
+
+#: places/KW.php:106
+msgctxt "District of Kuwait"
+msgid "Fnaitess"
+msgstr ""
+
+#: places/KW.php:107
+msgctxt "District of Kuwait"
+msgid "Messila"
+msgstr ""
+
+#: places/KW.php:108
+msgctxt "District of Kuwait"
+msgid "Mubarak Al-Kabir"
+msgstr ""
+
+#: places/KW.php:109
+msgctxt "District of Kuwait"
+msgid "Sabah Al-Salem"
+msgstr ""
+
+#: places/KW.php:110
+msgctxt "District of Kuwait"
+msgid "Sabhan Industrial"
+msgstr ""
+
+#: places/KW.php:111
+msgctxt "District of Kuwait"
+msgid "South Wista"
+msgstr ""
+
+#: places/KW.php:112
+msgctxt "District of Kuwait"
+msgid "West Abu Fetera Small Indust"
+msgstr ""
+
+#: places/KW.php:113
+msgctxt "District of Kuwait"
+msgid "Wista"
+msgstr ""
+
+#: places/KW.php:116
+msgctxt "District of Kuwait"
+msgid "Al Naeem"
+msgstr ""
+
+#: places/KW.php:117
+msgctxt "District of Kuwait"
+msgid "Jahra Amgarah Industrial"
+msgstr ""
+
+#: places/KW.php:118
+msgctxt "District of Kuwait"
+msgid "Jahra Area"
+msgstr ""
+
+#: places/KW.php:119
+msgctxt "District of Kuwait"
+msgid "Kabd"
+msgstr ""
+
+#: places/KW.php:120
+msgctxt "District of Kuwait"
+msgid "Alnasseem"
+msgstr ""
+
+#: places/KW.php:121
+msgctxt "District of Kuwait"
+msgid "Aloyoun"
+msgstr ""
+
+#: places/KW.php:122
+msgctxt "District of Kuwait"
+msgid "Alqasr"
+msgstr ""
+
+#: places/KW.php:123
+msgctxt "District of Kuwait"
+msgid "Saad Al Abdullah"
+msgstr ""
+
+#: places/KW.php:124
+msgctxt "District of Kuwait"
+msgid "Alsulaibiya Industrial 1"
+msgstr ""
+
+#: places/KW.php:125
+msgctxt "District of Kuwait"
+msgid "Alsulaibiya Industrial 2"
+msgstr ""
+
+#: places/KW.php:126
+msgctxt "District of Kuwait"
+msgid "Alsulaibiya"
+msgstr ""
+
+#: places/KW.php:127
+msgctxt "District of Kuwait"
+msgid "Taima"
+msgstr ""
+
+#: places/KW.php:128
+msgctxt "District of Kuwait"
+msgid "Alwaha"
+msgstr ""
+
+#: places/KW.php:129
+msgctxt "District of Kuwait"
+msgid "Alqairawan"
+msgstr ""
+
+#: places/KW.php:132
+msgctxt "District of Kuwait"
+msgid "Abu Halifa"
+msgstr ""
+
+#: places/KW.php:133
+msgctxt "District of Kuwait"
+msgid "Al-Ahmadi"
+msgstr ""
+
+#: places/KW.php:134
+msgctxt "District of Kuwait"
+msgid "Ali Sabah Al-Salem - Umm Al Hayman"
+msgstr ""
+
+#: places/KW.php:135
+msgctxt "District of Kuwait"
+msgid "Al-Julaiaa"
+msgstr ""
+
+#: places/KW.php:136
+msgctxt "District of Kuwait"
+msgid "Bnaider"
+msgstr ""
+
+#: places/KW.php:137
+msgctxt "District of Kuwait"
+msgid "Dhaher"
+msgstr ""
+
+#: places/KW.php:138
+msgctxt "District of Kuwait"
+msgid "Egaila"
+msgstr ""
+
+#: places/KW.php:139
+msgctxt "District of Kuwait"
+msgid "Fahad Al Ahmed"
+msgstr ""
+
+#: places/KW.php:140
+msgctxt "District of Kuwait"
+msgid "Fahaheel"
+msgstr ""
+
+#: places/KW.php:141
+msgctxt "District of Kuwait"
+msgid "Fintas"
+msgstr ""
+
+#: places/KW.php:142
+msgctxt "District of Kuwait"
+msgid "Hadiya"
+msgstr ""
+
+#: places/KW.php:143
+msgctxt "District of Kuwait"
+msgid "Jaber Al Ali"
+msgstr ""
+
+#: places/KW.php:144
+msgctxt "District of Kuwait"
+msgid "Khairan"
+msgstr ""
+
+#: places/KW.php:145
+msgctxt "District of Kuwait"
+msgid "Magwa"
+msgstr ""
+
+#: places/KW.php:146
+msgctxt "District of Kuwait"
+msgid "Mahboula"
+msgstr ""
+
+#: places/KW.php:147
+msgctxt "District of Kuwait"
+msgid "Mangaf"
+msgstr ""
+
+#: places/KW.php:148
+msgctxt "District of Kuwait"
+msgid "Mina Abdullah"
+msgstr ""
+
+#: places/KW.php:149
+msgctxt "District of Kuwait"
+msgid "Nuwaiseeb"
+msgstr ""
+
+#: places/KW.php:150
+msgctxt "District of Kuwait"
+msgid "Riqqa"
+msgstr ""
+
+#: places/KW.php:151
+msgctxt "District of Kuwait"
+msgid "Sabah Al Ahmad Marine City"
+msgstr ""
+
+#: places/KW.php:152
+msgctxt "District of Kuwait"
+msgid "Sabah AL Ahmad residential"
+msgstr ""
+
+#: places/KW.php:153
+msgctxt "District of Kuwait"
+msgid "Sabahiya"
+msgstr ""
+
+#: places/KW.php:154
+msgctxt "District of Kuwait"
+msgid "Shuaiba Port"
+msgstr ""
+
+#: places/KW.php:155
+msgctxt "District of Kuwait"
+msgid "South Sabahiya"
+msgstr ""
+
+#: places/KW.php:156
+msgctxt "District of Kuwait"
+msgid "Wafra farms"
+msgstr ""
+
+#: places/KW.php:157
+msgctxt "District of Kuwait"
+msgid "Wafra residential"
+msgstr ""
+
+#: places/KW.php:158
+msgctxt "District of Kuwait"
+msgid "Zour"
+msgstr ""
+
 #: places/OM.php:19
 msgctxt "Omani Wilayah"
 msgid "Al Seeb"
@@ -8438,10 +10323,6 @@ msgctxt "Governorates of Saudi Arabia"
 msgid "Tathlith"
 msgstr ""
 
-#: places/VE.php:17
-msgid "Municipality"
-msgstr ""
-
 #: states-cities-and-places-for-woocommerce.php:25
 msgid "You can not access this file directly!"
 msgstr ""
@@ -8454,6 +10335,46 @@ msgstr ""
 #. translators: Translate it to the name of the City level territory division, e.g. "City, "Municipality", "District"
 #: states-cities-and-places-for-woocommerce.php:98
 msgid "City"
+msgstr ""
+
+#: states/AE.php:15
+msgid "Dubai"
+msgstr ""
+
+#: states/AE.php:16
+msgid "Abu Dhabi"
+msgstr ""
+
+#: states/AE.php:17
+msgid "Al Ain"
+msgstr ""
+
+#: states/AE.php:18
+msgid "Western Region"
+msgstr ""
+
+#: states/AE.php:19
+msgid "Abu Dhabi Al Ain Road"
+msgstr ""
+
+#: states/AE.php:21
+msgid "Sharjah"
+msgstr ""
+
+#: states/AE.php:22
+msgid "Fujairah"
+msgstr ""
+
+#: states/AE.php:23
+msgid "Ajman"
+msgstr ""
+
+#: states/AE.php:24
+msgid "Ras Al Khaimah"
+msgstr ""
+
+#: states/AE.php:25
+msgid "Umm Al Quwain"
 msgstr ""
 
 #: states/DZ.php:21
@@ -8694,6 +10615,36 @@ msgstr ""
 #: states/DZ.php:68
 msgctxt "Algerian Provinces"
 msgid "Relizane"
+msgstr ""
+
+#: states/KW.php:18
+msgctxt "Governorate of Kuwait"
+msgid "Al Asimah"
+msgstr ""
+
+#: states/KW.php:19
+msgctxt "Governorate of Kuwait"
+msgid "Hawalli"
+msgstr ""
+
+#: states/KW.php:20
+msgctxt "Governorate of Kuwait"
+msgid "Al Farwaniyah"
+msgstr ""
+
+#: states/KW.php:21
+msgctxt "Governorate of Kuwait"
+msgid "Mubarak Al-Kabeer"
+msgstr ""
+
+#: states/KW.php:22
+msgctxt "Governorate of Kuwait"
+msgid "Al Jahra"
+msgstr ""
+
+#: states/KW.php:23
+msgctxt "Governorate of Kuwait"
+msgid "Al Ahmadi"
 msgstr ""
 
 #: states/OM.php:18
