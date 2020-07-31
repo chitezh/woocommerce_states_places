@@ -17,10 +17,5 @@
 
 global $states;
 
-$states['DK'] = array(
-	'DK-84' => 'Hovedstaden',
-	'DK-82' => 'Midtjylland',
-	'DK-81' => 'Nordjylland',
-	'DK-85' => 'Sjælland',
-	'DK-83' => 'Syddanmark',
-);
+// Disable the State field
+$states['DK'] = array();
