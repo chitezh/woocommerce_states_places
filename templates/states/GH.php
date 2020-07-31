@@ -1,8 +1,8 @@
 <?php
 
 /**
- * $country states/provinces/regions
- * - $count states/provinces/regions
+ * Regions of Ghana
+ * - 16 administrative regions
  * 
  * Source: 
  * - [https://www.businessghana.com/site/news/general/182246/Know-the-16-regional-capitals-of-Ghana]
@@ -14,10 +14,10 @@
 
 global $states;
 
-$states['GH'] = array( 
+$states['GH'] = array(
   'OTI' => 'Oti Region',
   'BNE' => 'Bono East Region',
-  'BNO' => 'Bono Region',
+  'BON' => 'Bono Region',
   'AHO' => 'Ahafo Region',
   'NHE' => 'North East Region',
   'SVH' => 'Savannah Region',
