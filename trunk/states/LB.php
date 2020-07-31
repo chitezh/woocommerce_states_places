@@ -2,7 +2,7 @@
 
 /**
  * Provinces of Lebanon
- * - 6
+ * - 6 provinces
  * 
  * Source: 
  * - Liban Post Back End
@@ -14,8 +14,6 @@
 
 global $states;
 
-// Replace 'XX' code for your Country Code. E.g. 'NG' for Nigeria, 'CO' for Colombia, 'VE' for Venezuela, etc.
-// Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
 $states['LB'] = array(
   'BA' => 'Beirut',
   'AS' => 'North Lebanon',
