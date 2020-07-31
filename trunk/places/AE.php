@@ -1,7 +1,8 @@
 <?php
 
 /**
- * United Arab Emirates Places
+ * Localities of United Arab Emirates
+ * 
  * @author   Waqas Ahmad <https://www.apnawaqas.com>
  * @version  1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License

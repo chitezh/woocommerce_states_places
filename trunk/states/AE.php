@@ -1,7 +1,7 @@
 <?php
 
 /**
- * United Arab Emirates states
+ * Emirates of the United Arab Emirates 
  *
  * @author   Waqas Ahmad <https://www.apnawaqas.com>
  * @version  1.0.0
