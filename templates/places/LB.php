@@ -1900,7 +1900,7 @@ $places['LB'] = array(
     'Shebaa',
   ),
 /* Province of Nabatieh */
-'NA' => array(
+'NB' => array(
     'Nabatieh',
     'Mayfadoun',
     'Shoukine',
