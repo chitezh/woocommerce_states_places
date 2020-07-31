@@ -113,7 +113,7 @@ Yes, you can always suggest or request new locations by creating an issue in the
     * 🇦🇪 United Arab Emirates: Emirates and Localities (thanks to [Waqas Ahmad](https://www.apnawaqas.com))
   * Updated 1 country:
     * 🇩🇰 Denmark: The "State" field was deactivated and all the cities were listed in "City" field directly.
-    * 🇻🇪 Venezuela: Removed "Municipality" variable from places of Venezuela.
+    * 🇻🇪 Venezuela: Removed "Municipality" variable from places/VE.php.
 * 1.2.9 - Jun 20, 2020
   * Added two new countries:
     * 🇧🇴 Bolivia: Departments and Municipalities (thanks to [ionixcorp](https://github.com/ionixcorp))
