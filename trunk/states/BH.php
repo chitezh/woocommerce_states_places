@@ -1,28 +1,23 @@
 <?php
 
 /**
- * $country states/provinces/regions
- * - $count states/provinces/regions
+ * Governorates of Bahrain
+ * - 4 Governorates
  * 
  * Source: 
- * - [Please add the source(s) link(s) to check the list of places]
+ * - https://en.wikipedia.org/wiki/Governorates_of_Bahrain
+ * - https://en.wikipedia.org/wiki/ISO_3166-2:BH
  *
- * @author  Your Name Here <yourname@here.com> | https://yourwebsite.com
+ * @author  Ebrahim Ahmed <ebrahim@alraneenlabs.com> | https://alraneenlabs.com/
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 global $states;
 
-// Replace 'XX' code for your Country Code. E.g. 'NG' for Nigeria, 'CO' for Colombia, 'VE' for Venezuela, etc.
-// Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
-$states['XX'] = array(
-  // Add a State Code to each State Name using a logic sense. 
-  // E.g. 'FA' => 'Florida'
-  // You can use any standar like ISO, ANSI, etc. There is no an mandatory standar or system and you can use your own.
-  // Please see the U.S. state abbreviations to see an example:
-  // https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations
-  'AA' => 'State 1',
-  'BB' => 'State 2',
-  'CC' => 'State 3',
+$states['BH'] = array(
+  'BH-13' => _x('Capital', 'Governorate of Bahrain', 'states-cities-and-places-for-woocommerce'),
+  'BH-14' => _x('Southern', 'Governorate of Bahrain', 'states-cities-and-places-for-woocommerce'),
+  'BH-15' => _x('Muharraq', 'Governorate of Bahrain', 'states-cities-and-places-for-woocommerce'),
+  'BH-17' => _x('Northern', 'Governorate of Bahrain', 'states-cities-and-places-for-woocommerce'),
 );
