@@ -1,0 +1,17 @@
+<?php
+
+/**
+ *Cuba
+ *
+ * author   ljrm@nauta.cu
+ * @version  1.0.0
+ */
+
+global $states;
+
+$states['CU'] = array(
+	'MTZ' => 'Matanzas',
+  'HAB' => 'La Habana',
+    
+    );
+
