@@ -4,15 +4,111 @@
  * Municipalities of Spain
  *
  * @author  Javier Esteban <correo@javieresteban.org> | https://javieresteban.org
- * @version 1.0.0
+ * @version 1.0.1
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
 
 global $places;
 
 $places['ES'] = array(
+/* Province of La Coruña/A Coruña */
+  'C' => array(
+    'Abegondo',
+    'Ames',
+    'Aranga',
+    'Ares',
+    'Arteixo',
+    'Arzúa',
+    'Baña, A',
+    'Bergondo',
+    'Betanzos',
+    'Boimorto',
+    'Boiro',
+    'Boqueixón',
+    'Brión',
+    'Cabana de Bergantiños',
+    'Cabanas',
+    'Camariñas',
+    'Cambre',
+    'Capela, A',
+    'Carballo',
+    'Cariño',
+    'Carnota',
+    'Carral',
+    'Cedeira',
+    'Cee',
+    'Cerceda',
+    'Cerdido',
+    'Coirós',
+    'Corcubión',
+    'Coristanco',
+    'Coruña, A',
+    'Culleredo',
+    'Curtis',
+    'Dodro',
+    'Dumbría',
+    'Fene',
+    'Ferrol',
+    'Fisterra',
+    'Frades',
+    'Irixoa',
+    'Laracha, A',
+    'Laxe',
+    'Lousame',
+    'Malpica de Bergantiños',
+    'Mañón',
+    'Mazaricos',
+    'Melide',
+    'Mesía',
+    'Miño',
+    'Moeche',
+    'Monfero',
+    'Mugardos',
+    'Muros',
+    'Muxía',
+    'Narón',
+    'Neda',
+    'Negreira',
+    'Noia',
+    'Oleiros',
+    'Ordes',
+    'Oroso',
+    'Ortigueira',
+    'Outes',
+    'Oza-Cesuras',
+    'Paderne',
+    'Padrón',
+    'Pino, O',
+    'Pobra do Caramiñal, A',
+    'Ponteceso',
+    'Pontedeume',
+    'Pontes de García Rodríguez, As',
+    'Porto do Son',
+    'Rianxo',
+    'Ribeira',
+    'Rois',
+    'Sada',
+    'San Sadurniño',
+    'Santa Comba',
+    'Santiago de Compostela',
+    'Santiso',
+    'Sobrado',
+    'Somozas, As',
+    'Teo',
+    'Toques',
+    'Tordoia',
+    'Touro',
+    'Trazo',
+    'Val do Dubra',
+    'Valdoviño',
+    'Vedra',
+    'Vilarmaior',
+    'Vilasantar',
+    'Vimianzo',
+    'Zas',
+  ),
 /* Province of Álava/Araba */
-  '01' => array(
+  'VI' => array(
     'Agurain/Salvatierra',
     'Alegría-Dulantzi',
     'Amurrio',
@@ -66,7 +162,7 @@ $places['ES'] = array(
     'Zuia',
   ),
 /* Province of Albacete */
-  '02' => array(
+  'AB' => array(
     'Abengibre',
     'Alatoz',
     'Albacete',
@@ -156,7 +252,7 @@ $places['ES'] = array(
     'Yeste',
   ),
 /* Province of Alicante/Alacant */
-  '03' => array(
+  'A' => array(
     'Agost',
     'Agres',
     'Aigües',
@@ -300,7 +396,7 @@ $places['ES'] = array(
     'Xaló',
   ),
 /* Province of Almería */
-  '04' => array(
+  'AL' => array(
     'Abla',
     'Abrucena',
     'Adra',
@@ -406,7 +502,7 @@ $places['ES'] = array(
     'Zurgena',
   ),
 /* Province of Asturias */
-  '33' => array(
+  'O' => array(
     'Allande',
     'Aller',
     'Amieva',
@@ -487,7 +583,7 @@ $places['ES'] = array(
     'Yernes y Tameza',
   ),
 /* Province of Ávila */
-  '05' => array(
+  'AV' => array(
     'Adanero',
     'Adrada, La',
     'Albornos',
@@ -738,7 +834,7 @@ $places['ES'] = array(
     'Zapardiel de la Ribera',
   ),
 /* Province of Badajoz */
-  '06' => array(
+  'BA' => array(
     'Acedera',
     'Aceuchal',
     'Ahillones',
@@ -906,7 +1002,7 @@ $places['ES'] = array(
     'Zarza-Capilla',
   ),
 /* Province of Islas Baleares/Illes Balears */
-  '07' => array(
+  'PM' => array(
     'Alaior',
     'Alaró',
     'Alcúdia',
@@ -976,7 +1072,7 @@ $places['ES'] = array(
     'Vilafranca de Bonany',
   ),
 /* Province of Barcelona */
-  '08' => array(
+  'B' => array(
     'Abrera',
     'Aguilar de Segarra',
     'Aiguafreda',
@@ -1290,7 +1386,7 @@ $places['ES'] = array(
     'Viver i Serrateix',
   ),
 /* Province of Burgos */
-  '09' => array(
+  'BU' => array(
     'Abajas',
     'Adrada de Haza',
     'Aguas Cándidas',
@@ -1664,7 +1760,7 @@ $places['ES'] = array(
     'Zuñeda',
   ),
 /* Province of Cáceres */
-  '10' => array(
+  'CC' => array(
     'Abadía',
     'Abertura',
     'Acebo',
@@ -1890,7 +1986,7 @@ $places['ES'] = array(
     'Zorita',
   ),
 /* Province of Cádiz */
-  '11' => array(
+  'CA' => array(
     'Alcalá de los Gazules',
     'Alcalá del Valle',
     'Algar',
@@ -1938,7 +2034,7 @@ $places['ES'] = array(
     'Zahara',
   ),
 /* Province of Cantabria */
-  '39' => array(
+  'S' => array(
     'Alfoz de Lloredo',
     'Ampuero',
     'Anievas',
@@ -2043,7 +2139,7 @@ $places['ES'] = array(
     'Voto',
   ),
 /* Province of Catellón/Castelló */
-  '12' => array(
+  'CS' => array(
     'Aín',
     'Albocàsser',
     'Alcalà de Xivert',
@@ -2181,11 +2277,11 @@ $places['ES'] = array(
     'Zucaina',
   ),
 /* Province of Ceuta */
-  '51' => array(
+  'CE' => array(
     'Ceuta',
   ),
 /* Province of Ciudad Real */
-  '13' => array(
+  'CR' => array(
     'Abenójar',
     'Agudo',
     'Alamillo',
@@ -2290,7 +2386,7 @@ $places['ES'] = array(
     'Viso del Marqués',
   ),
 /* Province of Córdoba */
-  '14' => array(
+  'CO' => array(
     'Adamuz',
     'Aguilar de la Frontera',
     'Alcaracejos',
@@ -2369,104 +2465,9 @@ $places['ES'] = array(
     'Viso, El',
     'Zuheros',
   ),
-/* Province of La Coruña/A Coruña */
-  '15' => array(
-    'Abegondo',
-    'Ames',
-    'Aranga',
-    'Ares',
-    'Arteixo',
-    'Arzúa',
-    'Baña, A',
-    'Bergondo',
-    'Betanzos',
-    'Boimorto',
-    'Boiro',
-    'Boqueixón',
-    'Brión',
-    'Cabana de Bergantiños',
-    'Cabanas',
-    'Camariñas',
-    'Cambre',
-    'Capela, A',
-    'Carballo',
-    'Cariño',
-    'Carnota',
-    'Carral',
-    'Cedeira',
-    'Cee',
-    'Cerceda',
-    'Cerdido',
-    'Coirós',
-    'Corcubión',
-    'Coristanco',
-    'Coruña, A',
-    'Culleredo',
-    'Curtis',
-    'Dodro',
-    'Dumbría',
-    'Fene',
-    'Ferrol',
-    'Fisterra',
-    'Frades',
-    'Irixoa',
-    'Laracha, A',
-    'Laxe',
-    'Lousame',
-    'Malpica de Bergantiños',
-    'Mañón',
-    'Mazaricos',
-    'Melide',
-    'Mesía',
-    'Miño',
-    'Moeche',
-    'Monfero',
-    'Mugardos',
-    'Muros',
-    'Muxía',
-    'Narón',
-    'Neda',
-    'Negreira',
-    'Noia',
-    'Oleiros',
-    'Ordes',
-    'Oroso',
-    'Ortigueira',
-    'Outes',
-    'Oza-Cesuras',
-    'Paderne',
-    'Padrón',
-    'Pino, O',
-    'Pobra do Caramiñal, A',
-    'Ponteceso',
-    'Pontedeume',
-    'Pontes de García Rodríguez, As',
-    'Porto do Son',
-    'Rianxo',
-    'Ribeira',
-    'Rois',
-    'Sada',
-    'San Sadurniño',
-    'Santa Comba',
-    'Santiago de Compostela',
-    'Santiso',
-    'Sobrado',
-    'Somozas, As',
-    'Teo',
-    'Toques',
-    'Tordoia',
-    'Touro',
-    'Trazo',
-    'Val do Dubra',
-    'Valdoviño',
-    'Vedra',
-    'Vilarmaior',
-    'Vilasantar',
-    'Vimianzo',
-    'Zas',
-  ),
+
 /* Province of Cuenca */
-  '16' => array(
+  'CU' => array(
     'Abia de la Obispalía',
     'Acebrón, El',
     'Alarcón',
@@ -2707,7 +2708,7 @@ $places['ES'] = array(
     'Zarzuela',
   ),
 /* Province of Gerona/Girona */
-  '17' => array(
+  'GI' => array(
     'Agullana',
     'Aiguaviva',
     'Albanyà',
@@ -2931,7 +2932,7 @@ $places['ES'] = array(
     'Vilopriu',
   ),
 /* Province of Granada */
-  '18' => array(
+  'GR' => array(
     'Agrón',
     'Alamedilla',
     'Albolote',
@@ -3108,7 +3109,7 @@ $places['ES'] = array(
     'Zújar',
   ),
 /* Province of Guadalajara */
-  '19' => array(
+  'GU' => array(
     'Abánades',
     'Ablanque',
     'Adobes',
@@ -3399,7 +3400,7 @@ $places['ES'] = array(
     'Zorita de los Canes',
   ),
 /* Province of Guipúzcoa/Guipuzkoa */
-  '20' => array(
+  'SS' => array(
     'Abaltzisketa',
     'Aduna',
     'Aia',
@@ -3490,7 +3491,7 @@ $places['ES'] = array(
     'Zumarraga',
   ),
 /* Province of Huelva */
-  '21' => array(
+  'H' => array(
     'Alájar',
     'Aljaraque',
     'Almendro, El',
@@ -3573,7 +3574,7 @@ $places['ES'] = array(
     'Zufre',
   ),
 /* Province of Huesca */
-  '22' => array(
+  'HU' => array(
     'Abiego',
     'Abizanda',
     'Adahuesca',
@@ -3778,7 +3779,7 @@ $places['ES'] = array(
     'Zaidín',
   ),
 /* Province of Jaén */
-  '23' => array(
+  'J' => array(
     'Albanchez de Mágina',
     'Alcalá la Real',
     'Alcaudete',
@@ -3877,8 +3878,222 @@ $places['ES'] = array(
     'Villarrodrigo',
     'Villatorres '
   ),
+/* Province of La Rioja */
+  'LO' => array(
+    'Ábalos',
+    'Agoncillo',
+    'Aguilar del Río Alhama',
+    'Ajamil de Cameros',
+    'Albelda de Iregua',
+    'Alberite',
+    'Alcanadre',
+    'Aldeanueva de Ebro',
+    'Alesanco',
+    'Alesón',
+    'Alfaro',
+    'Almarza de Cameros',
+    'Anguciana',
+    'Anguiano',
+    'Arenzana de Abajo',
+    'Arenzana de Arriba',
+    'Arnedillo',
+    'Arnedo',
+    'Arrúbal',
+    'Ausejo',
+    'Autol',
+    'Azofra',
+    'Badarán',
+    'Bañares',
+    'Baños de Río Tobía',
+    'Baños de Rioja',
+    'Berceo',
+    'Bergasa',
+    'Bergasillas Bajera',
+    'Bezares',
+    'Bobadilla',
+    'Brieva de Cameros',
+    'Briñas',
+    'Briones',
+    'Cabezón de Cameros',
+    'Calahorra',
+    'Camprovín',
+    'Canales de la Sierra',
+    'Canillas de Río Tuerto',
+    'Cañas',
+    'Cárdenas',
+    'Casalarreina',
+    'Castañares de Rioja',
+    'Castroviejo',
+    'Cellorigo',
+    'Cenicero',
+    'Cervera del Río Alhama',
+    'Cidamón',
+    'Cihuri',
+    'Cirueña',
+    'Clavijo',
+    'Cordovín',
+    'Corera',
+    'Cornago',
+    'Corporales',
+    'Cuzcurrita de Río Tirón',
+    'Daroca de Rioja',
+    'Enciso',
+    'Entrena',
+    'Estollo',
+    'Ezcaray',
+    'Foncea',
+    'Fonzaleche',
+    'Fuenmayor',
+    'Galbárruli',
+    'Galilea',
+    'Gallinero de Cameros',
+    'Gimileo',
+    'Grañón',
+    'Grávalos',
+    'Haro',
+    'Herce',
+    'Herramélluri',
+    'Hervías',
+    'Hormilla',
+    'Hormilleja',
+    'Hornillos de Cameros',
+    'Hornos de Moncalvillo',
+    'Huércanos',
+    'Igea',
+    'Jalón de Cameros',
+    'Laguna de Cameros',
+    'Lagunilla del Jubera',
+    'Lardero',
+    'Ledesma de la Cogolla',
+    'Leiva',
+    'Leza de Río Leza',
+    'Logroño',
+    'Lumbreras',
+    'Manjarrés',
+    'Mansilla de la Sierra',
+    'Manzanares de Rioja',
+    'Matute',
+    'Medrano',
+    'Munilla',
+    'Murillo de Río Leza',
+    'Muro de Aguas',
+    'Muro en Cameros',
+    'Nájera',
+    'Nalda',
+    'Navajún',
+    'Navarrete',
+    'Nestares',
+    'Nieva de Cameros',
+    'Ochánduri',
+    'Ocón',
+    'Ojacastro',
+    'Ollauri',
+    'Ortigosa de Cameros',
+    'Pazuengos',
+    'Pedroso',
+    'Pinillos',
+    'Pradejón',
+    'Pradillo',
+    'Préjano',
+    'Quel',
+    'Rabanera',
+    'Rasillo de Cameros, El',
+    'Redal, El',
+    'Ribafrecha',
+    'Rincón de Soto',
+    'Robres del Castillo',
+    'Rodezno',
+    'Sajazarra',
+    'San Asensio',
+    'San Millán de la Cogolla',
+    'San Millán de Yécora',
+    'San Román de Cameros',
+    'San Torcuato',
+    'San Vicente de la Sonsierra',
+    'Santa Coloma',
+    'Santa Engracia del Jubera',
+    'Santa Eulalia Bajera',
+    'Santo Domingo de la Calzada',
+    'Santurde de Rioja',
+    'Santurdejo',
+    'Sojuela',
+    'Sorzano',
+    'Sotés',
+    'Soto en Cameros',
+    'Terroba',
+    'Tirgo',
+    'Tobía',
+    'Tormantos',
+    'Torre en Cameros',
+    'Torrecilla en Cameros',
+    'Torrecilla sobre Alesanco',
+    'Torremontalbo',
+    'Treviana',
+    'Tricio',
+    'Tudelilla',
+    'Uruñuela',
+    'Valdemadera',
+    'Valgañón',
+    'Ventosa',
+    'Ventrosa',
+    'Viguera',
+    'Villalba de Rioja',
+    'Villalobar de Rioja',
+    'Villamediana de Iregua',
+    'Villanueva de Cameros',
+    'Villar de Arnedo, El',
+    'Villar de Torre',
+    'Villarejo',
+    'Villarroya',
+    'Villarta-Quintana',
+    'Villavelayo',
+    'Villaverde de Rioja',
+    'Villoslada de Cameros',
+    'Viniegra de Abajo',
+    'Viniegra de Arriba',
+    'Zarratón',
+    'Zarzosa',
+    'Zorraquín '
+  ),
+/* Province of Las Palmas */
+  'GC' => array(
+    'Agaete',
+    'Agüimes',
+    'Aldea de San Nicolás, La',
+    'Antigua',
+    'Arrecife',
+    'Artenara',
+    'Arucas',
+    'Betancuria',
+    'Firgas',
+    'Gáldar',
+    'Haría',
+    'Ingenio',
+    'Mogán',
+    'Moya',
+    'Oliva, La',
+    'Pájara',
+    'Palmas de Gran Canaria, Las',
+    'Puerto del Rosario',
+    'San Bartolomé',
+    'San Bartolomé de Tirajana',
+    'Santa Brígida',
+    'Santa Lucía de Tirajana',
+    'Santa María de Guía de Gran Canaria',
+    'Teguise',
+    'Tejeda',
+    'Telde',
+    'Teror',
+    'Tías',
+    'Tinajo',
+    'Tuineje',
+    'Valleseco',
+    'Valsequillo de Gran Canaria',
+    'Vega de San Mateo',
+    'Yaiza',
+  ),
 /* Province of León */
-  '24' => array(
+  'LE' => array(
     'Acebedo',
     'Algadefe',
     'Alija del Infantado',
@@ -4092,7 +4307,7 @@ $places['ES'] = array(
     'Zotes del Páramo',
   ),
 /* Province of Lérida/Lleida */
-  '25' => array(
+  'L' => array(
     'Abella de la Conca',
     'Àger',
     'Agramunt',
@@ -4326,7 +4541,7 @@ $places['ES'] = array(
     'Vinaixa',
   ),
 /* Province of Lugo */
-  '27' => array(
+  'LU' => array(
     'Abadín',
     'Alfoz',
     'Antas de Ulla',
@@ -4396,7 +4611,7 @@ $places['ES'] = array(
     'Xove',
   ),
 /* Province of Madrid */
-  '28' => array(
+  'M' => array(
     'Acebeda, La',
     'Ajalvir',
     'Alameda del Valle',
@@ -4578,7 +4793,7 @@ $places['ES'] = array(
     'Zarzalejo',
   ),
 /* Province of Málaga */
-  '29' => array(
+  'MA' => array(
     'Alfarnatejo',
     'Algarrobo',
     'Algatocín',
@@ -4681,11 +4896,11 @@ $places['ES'] = array(
     'Yunquera',
   ),
 /* Province of Melilla */
-  '52' => array(
+  'ML' => array(
     'Melilla',
   ),
 /* Province of Murcia */
-  '30' => array(
+  'MU' => array(
     'Abanilla',
     'Abarán',
     'Águilas',
@@ -4733,7 +4948,7 @@ $places['ES'] = array(
     'Yecla',
   ),
 /* Province of Navarra */
-  '31' => array(
+  'NA' => array(
     'Abáigar',
     'Abárzuza/Abartzuza',
     'Abaurregaina/Abaurrea Alta',
@@ -5008,7 +5223,7 @@ $places['ES'] = array(
     'Zúñiga',
   ),
 /* Province of Orense/Ourense */
-  '32' => array(
+  'OR' => array(
     'Allariz',
     'Amoeiro',
     'Arnoia, A',
@@ -5103,7 +5318,7 @@ $places['ES'] = array(
     'Xunqueira de Espadanedo',
   ),
 /* Province of Palencia */
-  '34' => array(
+  'P' => array(
     'Abarca de Campos',
     'Abia de las Torres',
     'Aguilar de Campoo',
@@ -5296,45 +5511,8 @@ $places['ES'] = array(
     'Villota del Páramo',
     'Villovieco',
   ),
-/* Province of Las Palmas */
-  '35' => array(
-    'Agaete',
-    'Agüimes',
-    'Aldea de San Nicolás, La',
-    'Antigua',
-    'Arrecife',
-    'Artenara',
-    'Arucas',
-    'Betancuria',
-    'Firgas',
-    'Gáldar',
-    'Haría',
-    'Ingenio',
-    'Mogán',
-    'Moya',
-    'Oliva, La',
-    'Pájara',
-    'Palmas de Gran Canaria, Las',
-    'Puerto del Rosario',
-    'San Bartolomé',
-    'San Bartolomé de Tirajana',
-    'Santa Brígida',
-    'Santa Lucía de Tirajana',
-    'Santa María de Guía de Gran Canaria',
-    'Teguise',
-    'Tejeda',
-    'Telde',
-    'Teror',
-    'Tías',
-    'Tinajo',
-    'Tuineje',
-    'Valleseco',
-    'Valsequillo de Gran Canaria',
-    'Vega de San Mateo',
-    'Yaiza',
-  ),
 /* Province of Pontevedra */
-  '36' => array(
+  'PO' => array(
     'Agolada',
     'Arbo',
     'Baiona',
@@ -5397,185 +5575,8 @@ $places['ES'] = array(
     'Vilagarcía de Arousa',
     'Vilanova de Arousa',
   ),
-/* Province of La Rioja */
-  '26' => array(
-    'Ábalos',
-    'Agoncillo',
-    'Aguilar del Río Alhama',
-    'Ajamil de Cameros',
-    'Albelda de Iregua',
-    'Alberite',
-    'Alcanadre',
-    'Aldeanueva de Ebro',
-    'Alesanco',
-    'Alesón',
-    'Alfaro',
-    'Almarza de Cameros',
-    'Anguciana',
-    'Anguiano',
-    'Arenzana de Abajo',
-    'Arenzana de Arriba',
-    'Arnedillo',
-    'Arnedo',
-    'Arrúbal',
-    'Ausejo',
-    'Autol',
-    'Azofra',
-    'Badarán',
-    'Bañares',
-    'Baños de Río Tobía',
-    'Baños de Rioja',
-    'Berceo',
-    'Bergasa',
-    'Bergasillas Bajera',
-    'Bezares',
-    'Bobadilla',
-    'Brieva de Cameros',
-    'Briñas',
-    'Briones',
-    'Cabezón de Cameros',
-    'Calahorra',
-    'Camprovín',
-    'Canales de la Sierra',
-    'Canillas de Río Tuerto',
-    'Cañas',
-    'Cárdenas',
-    'Casalarreina',
-    'Castañares de Rioja',
-    'Castroviejo',
-    'Cellorigo',
-    'Cenicero',
-    'Cervera del Río Alhama',
-    'Cidamón',
-    'Cihuri',
-    'Cirueña',
-    'Clavijo',
-    'Cordovín',
-    'Corera',
-    'Cornago',
-    'Corporales',
-    'Cuzcurrita de Río Tirón',
-    'Daroca de Rioja',
-    'Enciso',
-    'Entrena',
-    'Estollo',
-    'Ezcaray',
-    'Foncea',
-    'Fonzaleche',
-    'Fuenmayor',
-    'Galbárruli',
-    'Galilea',
-    'Gallinero de Cameros',
-    'Gimileo',
-    'Grañón',
-    'Grávalos',
-    'Haro',
-    'Herce',
-    'Herramélluri',
-    'Hervías',
-    'Hormilla',
-    'Hormilleja',
-    'Hornillos de Cameros',
-    'Hornos de Moncalvillo',
-    'Huércanos',
-    'Igea',
-    'Jalón de Cameros',
-    'Laguna de Cameros',
-    'Lagunilla del Jubera',
-    'Lardero',
-    'Ledesma de la Cogolla',
-    'Leiva',
-    'Leza de Río Leza',
-    'Logroño',
-    'Lumbreras',
-    'Manjarrés',
-    'Mansilla de la Sierra',
-    'Manzanares de Rioja',
-    'Matute',
-    'Medrano',
-    'Munilla',
-    'Murillo de Río Leza',
-    'Muro de Aguas',
-    'Muro en Cameros',
-    'Nájera',
-    'Nalda',
-    'Navajún',
-    'Navarrete',
-    'Nestares',
-    'Nieva de Cameros',
-    'Ochánduri',
-    'Ocón',
-    'Ojacastro',
-    'Ollauri',
-    'Ortigosa de Cameros',
-    'Pazuengos',
-    'Pedroso',
-    'Pinillos',
-    'Pradejón',
-    'Pradillo',
-    'Préjano',
-    'Quel',
-    'Rabanera',
-    'Rasillo de Cameros, El',
-    'Redal, El',
-    'Ribafrecha',
-    'Rincón de Soto',
-    'Robres del Castillo',
-    'Rodezno',
-    'Sajazarra',
-    'San Asensio',
-    'San Millán de la Cogolla',
-    'San Millán de Yécora',
-    'San Román de Cameros',
-    'San Torcuato',
-    'San Vicente de la Sonsierra',
-    'Santa Coloma',
-    'Santa Engracia del Jubera',
-    'Santa Eulalia Bajera',
-    'Santo Domingo de la Calzada',
-    'Santurde de Rioja',
-    'Santurdejo',
-    'Sojuela',
-    'Sorzano',
-    'Sotés',
-    'Soto en Cameros',
-    'Terroba',
-    'Tirgo',
-    'Tobía',
-    'Tormantos',
-    'Torre en Cameros',
-    'Torrecilla en Cameros',
-    'Torrecilla sobre Alesanco',
-    'Torremontalbo',
-    'Treviana',
-    'Tricio',
-    'Tudelilla',
-    'Uruñuela',
-    'Valdemadera',
-    'Valgañón',
-    'Ventosa',
-    'Ventrosa',
-    'Viguera',
-    'Villalba de Rioja',
-    'Villalobar de Rioja',
-    'Villamediana de Iregua',
-    'Villanueva de Cameros',
-    'Villar de Arnedo, El',
-    'Villar de Torre',
-    'Villarejo',
-    'Villarroya',
-    'Villarta-Quintana',
-    'Villavelayo',
-    'Villaverde de Rioja',
-    'Villoslada de Cameros',
-    'Viniegra de Abajo',
-    'Viniegra de Arriba',
-    'Zarratón',
-    'Zarzosa',
-    'Zorraquín '
-  ),
 /* Province of Salamanca */
-  '37' => array(
+  'SA' => array(
     'Abusejo',
     'Agallas',
     'Ahigal de los Aceiteros',
@@ -5940,7 +5941,7 @@ $places['ES'] = array(
     'Zorita de la Frontera',
   ),
 /* Province of Santa Cruz de Tenerife */
-  '38' => array(
+  'TF' => array(
     'Adeje',
     'Agulo',
     'Alajeró',
@@ -5997,7 +5998,7 @@ $places['ES'] = array(
     'Villa de Mazo',
   ),
 /* Province of Segovia */
-  '40' => array(
+  'SG' => array(
     'Abades',
     'Adrada de Pirón',
     'Adrados',
@@ -6209,7 +6210,7 @@ $places['ES'] = array(
     'Zarzuela del Pinar '
   ),
 /* Province of Sevilla */
-  '41' => array(
+  'SE' => array(
     'Aguadulce',
     'Alanís',
     'Albaida del Aljarafe',
@@ -6318,7 +6319,7 @@ $places['ES'] = array(
     'Viso del Alcor, El '
   ),
 /* Province of Soria */
-  '42' => array(
+  'SO' => array(
     'Abejar',
     'Adradas',
     'Ágreda',
@@ -6504,7 +6505,7 @@ $places['ES'] = array(
     'Yelo',
   ),
 /* Province of Tarragona */
-  '43' => array(
+  'T' => array(
     'Aiguamúrcia',
     'Albinyana',
     'Albiol, L&#8242;',
@@ -6691,7 +6692,7 @@ $places['ES'] = array(
     'Xerta',
   ),
 /* Province of Teruel */
-  '44' => array(
+  'TE' => array(
     'Ababuj',
     'Abejuela',
     'Aguatón',
@@ -6930,7 +6931,7 @@ $places['ES'] = array(
     'Zoma, La',
   ),
 /* Province of Toledo */
-  '45' => array(
+  'TO' => array(
     'Ajofrín',
     'Alameda de la Sagra',
     'Albarreal de Tajo',
@@ -7137,7 +7138,7 @@ $places['ES'] = array(
     'Yuncos '
   ),
 /* Province of Valencia/València */
-  '46' => array(
+  'V' => array(
     'Ademuz',
     'Ador',
     'Agullent',
@@ -7406,7 +7407,7 @@ $places['ES'] = array(
     'Zarra',
   ),
 /* Province of Valladolid */
-  '47' => array(
+  'VA' => array(
     'Adalia',
     'Aguasal',
     'Aguilar de Campos',
@@ -7634,7 +7635,7 @@ $places['ES'] = array(
     'Zarza, La',
   ),
 /* Province of Vizcaya/Bizkaia */
-  '48' => array(
+  'BI' => array(
     'Abadiño',
     'Abanto y Ciérvana-Abanto Zierbena',
     'Ajangiz',
@@ -7749,7 +7750,7 @@ $places['ES'] = array(
     'Ziortza-Bolibar '
   ),
 /* Province of Zamora */
-  '49' => array(
+  'ZA' => array(
     'Abezames',
     'Alcañices',
     'Alcubilla de Nogales',
@@ -8000,7 +8001,7 @@ $places['ES'] = array(
     'Zamora',
   ),
 /* Province of Zaragoza */
-  '50' => array(
+  'Z' => array(
     'Abanto',
     'Acered',
     'Agón',
