@@ -1,20 +1,24 @@
 <?php
 
 /**
- * $country places/cities/municipalities/districts
- * - $count places/cities/municipalities/districts
+ * Districts of Peru
+ * - 877 districts
  *
+ * Updated: September 18th, 2020
+ * By Yordan Soares <contact@yordansoar.es> | https://yordansoar.es
+ * 
  * Source:
  * - https://es.db-city.com/Per%C3%BA
  *
  * @author  David Soto <ddiods@hotmail.com>
- * @version 1.0.0
+ * @version 1.1.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 global $places;
 
 $places['PE'] = array(
+    // Amazonas
     'AMA' => array(
         'Aramango',
         'Bagua',
@@ -58,6 +62,7 @@ $places['PE'] = array(
         'Yamon',
         'Bagua Grande',
     ),
+    // Áncash
     'ANC' => array(
         'Caceres Del Peru',
         'Caraz',
@@ -101,6 +106,7 @@ $places['PE'] = array(
         'Yungay',
         'Chimbote',
     ),
+    // Apurímac
     'APU' => array(
         'Abancay',
         'Anco_huallo',
@@ -144,6 +150,7 @@ $places['PE'] = array(
         'Turpo',
         'Uranmarca',
     ),
+    // Arequipa
     'ARE' => array(
         'Alto Selva Alegre',
         'Aplao',
@@ -187,6 +194,7 @@ $places['PE'] = array(
         'Yanaquihua',
         'Yura',
     ),
+    // Ayacucho
     'AYA' => array(
         'Acocro',
         'Acos Vinchos',
@@ -230,6 +238,7 @@ $places['PE'] = array(
         'Vinchos',
         'Vischongo',
     ),
+    // Cajamarca
     'CAJ' => array(
         'Asuncion',
         'Bambamarca',
@@ -273,6 +282,7 @@ $places['PE'] = array(
         'Tabaconas',
         'Tacabamba',
     ),
+    // Callao
     'CAL' => array(
         'Bellavista',
         'Callao',
@@ -282,6 +292,7 @@ $places['PE'] = array(
         'Mi Perú',
         'Ventanilla',
     ),
+    // Cusco
     'CUS' => array(
         'Anta',
         'Calca',
@@ -325,49 +336,7 @@ $places['PE'] = array(
         'Yanaoca',
         'Yanatile',
     ),
-    'HUC' => array(
-        'Amarilis',
-        'Ambo',
-        'Baños',
-        'Chaglla',
-        'Chinchao',
-        'Cholon',
-        'Churubamba',
-        'Codo Del Pozuzo',
-        'Conchamarca',
-        'Daniel Alomia Robles',
-        'Honoria',
-        'Huacar',
-        'Huacaybamba',
-        'Huacrachuco',
-        'Huanuco',
-        'Jose Crespo Y Castillo',
-        'La Uniòn',
-        'Llata',
-        'Luyando',
-        'Margos',
-        'Mariano Damaso Beraun',
-        'Marias',
-        'Molino',
-        'Monzon',
-        'Otro',
-        'Pachas',
-        'Panao',
-        'Pillco Marca',
-        'Pinra',
-        'Puerto Inca',
-        'Quisqui (kichki)',
-        'Ripan',
-        'Rondos',
-        'Rupa-rupa',
-        'San Miguel de Cauri',
-        'San Pedro de Chaulan',
-        'San Rafael',
-        'Santa Maria Del Valle',
-        'Umari',
-        'Yacus',
-        'Yuyapichis',
-    ),
+    //Huancavelica
     'HUV' => array(
         'Acobamba',
         'Acobambilla',
@@ -411,6 +380,51 @@ $places['PE'] = array(
         'Surcubamba',
         'Yauli',
     ),
+    // Huánuco
+    'HUC' => array(
+        'Amarilis',
+        'Ambo',
+        'Baños',
+        'Chaglla',
+        'Chinchao',
+        'Cholon',
+        'Churubamba',
+        'Codo Del Pozuzo',
+        'Conchamarca',
+        'Daniel Alomia Robles',
+        'Honoria',
+        'Huacar',
+        'Huacaybamba',
+        'Huacrachuco',
+        'Huanuco',
+        'Jose Crespo Y Castillo',
+        'La Uniòn',
+        'Llata',
+        'Luyando',
+        'Margos',
+        'Mariano Damaso Beraun',
+        'Marias',
+        'Molino',
+        'Monzon',
+        'Otro',
+        'Pachas',
+        'Panao',
+        'Pillco Marca',
+        'Pinra',
+        'Puerto Inca',
+        'Quisqui (kichki)',
+        'Ripan',
+        'Rondos',
+        'Rupa-rupa',
+        'San Miguel de Cauri',
+        'San Pedro de Chaulan',
+        'San Rafael',
+        'Santa Maria Del Valle',
+        'Umari',
+        'Yacus',
+        'Yuyapichis',
+    ),
+    // Ica
     'ICA' => array(
         'Alto Laran',
         'Changuillo',
@@ -454,6 +468,7 @@ $places['PE'] = array(
         'Tupac Amaru Inca',
         'Vista Alegre',
     ),
+    // Junín
     'JUN' => array(
         'Acobamba',
         'Acolla',
@@ -497,6 +512,7 @@ $places['PE'] = array(
         'Tarma',
         'Yauyos',
     ),
+    // La Libertad
     'LAL' => array(
         'Agallpampa',
         'Casa Grande',
@@ -540,6 +556,7 @@ $places['PE'] = array(
         'Victor Larco Herrera',
         'Viru',
     ),
+    // Lambayeque
     'LAM' => array(
         'Cayalti',
         'Cañaris',
@@ -581,6 +598,7 @@ $places['PE'] = array(
         'Tucume',
         'Tuman',
     ),
+    // Lima Metropolitana
     'LIM' => array(
         'Ancón',
         'Ate Vitarte',
@@ -626,6 +644,7 @@ $places['PE'] = array(
         'Villa El Salvador',
         'Villa María del Triunfo',
     ),
+    // Lima Provincia
     'LMA' => array(
         'Barranca',
         'Cajatambo',
@@ -637,6 +656,7 @@ $places['PE'] = array(
         'Oyon',
         'Yauyos',
     ),
+    // Loreto
     'LOR' => array(
         'Andoas',
         'Balsapuerto',
@@ -680,6 +700,7 @@ $places['PE'] = array(
         'Yavari',
         'Yurimaguas',
     ),
+    // Madre de Dios
     'MDD' => array(
         'Fitzcarrald',
         'Huepetuhe',
@@ -694,6 +715,7 @@ $places['PE'] = array(
         'Tahuamanu',
         'Tambopata',
     ),
+    // Moquegua
     'MOQ' => array(
         'Carumas',
         'Chojata',
@@ -717,6 +739,7 @@ $places['PE'] = array(
         'Ubinas',
         'Yunga',
     ),
+    // Pasco
     'PAS' => array(
         'Chacayan',
         'Chaupimarca',
@@ -749,6 +772,7 @@ $places['PE'] = array(
         'Yanacancha',
         'Yanahuanca',
     ),
+    // Piura
     'PIU' => array(
         'Ayabaca',
         'Bellavista',
@@ -792,6 +816,7 @@ $places['PE'] = array(
         'Vice',
         'Yamango',
     ),
+    // Puno
     'PUN' => array(
         'Acora',
         'Alto Inambari',
@@ -835,6 +860,7 @@ $places['PE'] = array(
         'Yunguyo',
         'Zepita',
     ),
+    // San Martín
     'SAM' => array(
         'Alonso de Alvarado',
         'Alto Biavo',
@@ -878,6 +904,7 @@ $places['PE'] = array(
         'Tres Unidos',
         'Uchiza',
     ),
+    // Tacna
     'TAC' => array(
         'Alto de la Alianza',
         'Cairani',
@@ -909,6 +936,7 @@ $places['PE'] = array(
         'Tarucachi',
         'Ticaco',
     ),
+    // Tumbes
     'TUM' => array(
         'Aguas Verdes',
         'Canoas de Punta Sal',
@@ -925,7 +953,7 @@ $places['PE'] = array(
         'Zarumilla',
         'Zorritos',
     ),
-
+    // Ucayali
     'UCA' => array(
         'Alexander Von Humboldt',
         'Calleria',
