@@ -1,8 +1,12 @@
 <?php
 
 /**
- * $country states/provinces/regions
- * - $count states/provinces/regions
+ * Departments of Peru
+ * - 2 provinces (Lima and Callao)
+ * - 24 departaments
+ * 
+ * Updated: September 18th, 2020
+ * By Yordan Soares <contact@yordansoar.es> | https://yordansoar.es
  *
  * Source:
  * - https://es.db-city.com/Per%C3%BA
@@ -16,15 +20,15 @@ global $states;
 
 $states['PE'] = array(
   'AMA' => 'Amazonas',
-  'ANC' => 'Ancash',
+  'ANC' => 'Áncash',
   'APU' => 'Apurímac',
   'ARE' => 'Arequipa',
   'AYA' => 'Ayacucho',
   'CAJ' => 'Cajamarca',
   'CAL' => 'Callao',
   'CUS' => 'Cusco',
-  'HUC' => 'Huánuco',
   'HUV' => 'Huancavelica',
+  'HUC' => 'Huánuco',
   'ICA' => 'Ica',
   'JUN' => 'Junín',
   'LAL' => 'La Libertad',
