@@ -2,12 +2,12 @@
 
 # States, Cities, and Places for WooCommerce
 
-* Stable tag: 1.2.10
+* Stable tag: 1.2.11
 * Requires at least: 4.0
 * Tested up to: 5.5
 * Requires PHP: 7.0
 * WC requires at least: 3.0.x
-* WC tested up to: 4.3
+* WC tested up to: 4.5
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,6 +19,8 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Supported Countries
  * 🇩🇿 Algeria
+ * 🇦🇺 Australia
+ * 🇧🇭 Bahrain
  * 🇧🇧 Barbados
  * 🇧🇴 Bolivia
  * 🇧🇷 Brazil
@@ -41,6 +43,8 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * 🇴🇲 Oman
  * 🇵🇰 Pakistan
  * 🇵🇦 Panama
+ * 🇵🇾 Paraguay
+ * 🇵🇪 Peru
  * 🇵🇹 Portugal
  * 🇷🇴 Romania
  * 🇷🇺 Russia
@@ -55,8 +59,8 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 
 ## Languages available
 
-* English (US)
-* Spanish ([Spain](https://translate.wordpress.org/locale/es/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Mexico](https://translate.wordpress.org/locale/es-mx/default/wp-plugins/states-cities-and-places-for-woocommerce/), [Venezuela](https://translate.wordpress.org/locale/es-ve/default/wp-plugins/states-cities-and-places-for-woocommerce/))
+* English (US, Australia, Canada, UK, New Zealand, and South Africa)
+* Spanish (Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Guatemala, Honduras, Mexico, Peru, Puerto Rico, Uruguay, and Venezuela)
 * *Do you want to see your language here?*<br>[Help us translating the plugin to your language](https://translate.wordpress.org/projects/wp-plugins/states-cities-and-places-for-woocommerce/).
 
 ## Screenshots
@@ -104,6 +108,14 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.2.11 - Oct 07, 2020
+  * Added four new countries:
+    * 🇦🇺 Australia: States, Territories, and Cities (thanks to [Gopinath N A](https://github.com/Gopinath1728))
+    * 🇧🇭 Bahrain: Parishes and Districts (thanks to [Ebrahim Ahmed](https://github.com/Ebrahim7707))
+    * 🇵🇾 Paraguay: Departments and Districts.
+    * 🇵🇪 Peru: Departments and Districts (thanks to [David Soto](https://github.com/Ddiods))
+  * Updated 1 country:  
+    * 🇪🇸 Spain: Updated keys from States array (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
 * 1.2.10 - Jul 31, 2020
   * Added five new countries:
     * 🇪🇬 Egypt: Governorates and Cities (thanks to [Heba Fareed](https://github.com/HebaFareed))
