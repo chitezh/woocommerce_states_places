@@ -55,3 +55,6 @@ $states['RO'] = array(
   'VS' => 'Vaslui',
   'VN' => 'Vrancea',
 );
+
+// Use this filter to handle the Counties of Romania
+$states['RO'] = apply_filters('scpwoo_custom_states_ro', $states['RO']);

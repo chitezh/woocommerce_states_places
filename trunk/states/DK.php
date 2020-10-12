@@ -2,7 +2,6 @@
 
 /**
  * Regions of Denmark
- * - 5 regions (regioner)
  * 
  * Source: 
  * - https://da.wikipedia.org/wiki/Strukturreformen
@@ -19,3 +18,6 @@ global $states;
 
 // Disable the State field
 $states['DK'] = array();
+
+// Use this filter to handle the Regions of Denmark
+$states['DK'] = apply_filters('scpwoo_custom_states_dk', $states['DK']);

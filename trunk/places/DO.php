@@ -234,3 +234,6 @@ $places['DO'] = array(
 		'San Antonio de Guerra',
 	),
 );
+
+// Use this filter to handle the Municipalities of the Dominican Republic
+$places['DO'] = apply_filters('scpwoo_custom_places_do', $places['DO']);

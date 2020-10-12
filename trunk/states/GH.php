@@ -32,3 +32,6 @@ $states['GH'] = array(
   'UPW' => 'Upper west Region',
   'ASH' => 'Ashanti Region',
 );
+
+// Use this filter to handle the Regions of Ghana
+$states['GH'] = apply_filters('scpwoo_custom_states_gh', $states['GH']);

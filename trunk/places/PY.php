@@ -328,3 +328,6 @@ $places['PY'] = array(
 		'Yrybucuá',
 	),
 );
+
+// Use this filter to handle the Districts of Paraguay
+$places['PY'] = apply_filters('scpwoo_custom_places_py', $places['PY']);

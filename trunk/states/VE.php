@@ -42,3 +42,6 @@ $states['VE'] = array(
   'YA' => 'Yaracuy',
   'ZU' => 'Zulia',
 );
+
+// Use this filter to handle the States of Venezuela
+$states['VE'] = apply_filters('scpwoo_custom_states_ve', $states['VE']);

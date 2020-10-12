@@ -384,3 +384,6 @@ $places['BO'] = array(
     'Yunchará',
   ),
 );
+
+// Use this filter to handle the Municipalities of Bolivia
+$places['BO'] = apply_filters('scpwoo_custom_places_bo', $places['BO']);

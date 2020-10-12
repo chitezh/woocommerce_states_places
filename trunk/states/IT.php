@@ -123,3 +123,6 @@ $states['IT'] = array(
   '206' => 'Vicenza',
   '207' => 'Viterbo',
 );
+
+// Use this filter to handle the Provinces of Italy
+$states['IT'] = apply_filters('scpwoo_custom_states_it', $states['IT']);

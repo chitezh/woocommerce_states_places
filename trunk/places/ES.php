@@ -8297,3 +8297,6 @@ $places['ES'] = array(
     'Zuera',
   ),
 );
+
+// Use this filter to handle the Municipalities of Spain
+$places['ES'] = apply_filters('scpwoo_custom_places_es', $places['ES']);

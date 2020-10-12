@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Nigerian States
+ * States of Nigeria
  *
  * @author  Kingsley Ochu <ochu.kc@gmail.com>
  * @version 1.0.0
@@ -50,3 +50,6 @@ $states['NG'] = array(
 	'YO' => 'Yobe',
 	'ZA' => 'Zamfara',
 );
+
+// Use this filter to handle the States of Nigeria
+$states['NG'] = apply_filters('scpwoo_custom_states_ng', $states['NG']);

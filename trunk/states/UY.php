@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Uruguayan Departments:
+ * Departments of Uruguay
  * - 19 departments
  *
  * Source:
@@ -37,3 +37,6 @@ $states['UY'] = array(
 	'UY-TA'   => 'Tacuarembó',
 	'UY-TT'   => 'Treinta y Tres',
 );
+
+// Use this filter to handle the Departments of Uruguay
+$states['UY'] = apply_filters('scpwoo_custom_states_uy', $states['UY']);

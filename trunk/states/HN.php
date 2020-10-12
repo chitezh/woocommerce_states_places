@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Honduras Departments
+ * Departments of Honduras
  * - 18 departments
  * 
  * Source:
@@ -39,3 +39,6 @@ $states ['HN' ] = array (
 	'HN18' => 'Islas de la Bahía' ,
 	);
 return $states;
+
+// Use this filter to handle the Departments of Honduras
+$states['HN'] = apply_filters('scpwoo_custom_states_hn', $states['HN']);

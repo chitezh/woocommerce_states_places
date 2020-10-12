@@ -374,3 +374,6 @@ $places['AE'] = array(
 		__('Al Dar Al Baida', 'states-cities-and-places-for-woocommerce')
 	),
 );
+
+// Use this filter to handle the Localities of United Arab Emirates
+$places['AE'] = apply_filters('scpwoo_custom_places_ae', $places['AE']);

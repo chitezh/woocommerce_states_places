@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Tunisian Districts
+ * Districts of Tunisian
  * 
  * Source:
  * - https://en.wikipedia.org/wiki/Subdivisions_of_Tunisia
@@ -385,3 +385,6 @@ $places['TN'] = array(
 		'Zaghouan'
 	)
 );
+
+// Use this filter to handle the Districts of Tunisian 
+$places['TN'] = apply_filters('scpwoo_custom_places_tn', $places['TN']);

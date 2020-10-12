@@ -1,6 +1,7 @@
 <?php
+
 /**
- * Chilean states
+ * States of Chile
  *
  * @author  Luis Sebastian Urrutia Fuentes <luis@urrutia.me>
  * @author  Elias Rabah
@@ -27,3 +28,6 @@ $states ['CL' ] = array (
 	'CL-AI'   => 'Aysén del General Carlos Ibáñez del Campo',
 	'CL-MA'   => 'Magallanes y Antártica Chilena',
 );
+
+// Use this filter to handle the States of Chile
+$states['CL'] = apply_filters('scpwoo_custom_states_cl', $states['CL']);

@@ -1453,3 +1453,6 @@ $places['RU'] = array(
 		'Севастополь'
 	),
 );
+
+// Use this filter to handle the Russian places
+$places['RU'] = apply_filters('scpwoo_custom_places_ru', $places['RU']);

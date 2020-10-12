@@ -1,8 +1,8 @@
 <?php
 
 /**
- * San Salvador Municipalities
- * - 262 municipalities are listed
+ * Municipalities of El Salvador
+ * - 262 municipalities
  *
  * Source:
  * - https://en.wikipedia.org/wiki/List_of_municipalities_of_El_Salvador
@@ -306,3 +306,6 @@ $places['SV'] = array(
 		'Usulután',
 	),
 );
+
+// Use this filter to handle the Municipalities of San Salvador
+$places['SV'] = apply_filters('scpwoo_custom_places_sv', $places['SV']);

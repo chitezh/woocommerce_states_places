@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Brasilian Municipalities:
+ * Municipalities of Brazil
  * - 1 capital city: Brasília
  * - 33 administrative regions of the Federal District
  * - 5568 municipalities
@@ -5675,3 +5675,6 @@ $places['BR'] = array(
     'Xambioá',
   ),
 );
+
+// Use this filter to handle the Municipalities of Brazil
+$places['BR'] = apply_filters('scpwoo_custom_places_br', $places['BR']);

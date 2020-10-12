@@ -27,3 +27,6 @@ $states['BB'] = array(
   'BB-10' => 'Saint Philip',
   'BB-11' => 'Saint Thomas'
 );
+
+// Use this filter to handle the Parishes of Barbados
+$states['BB'] = apply_filters('scpwoo_custom_states_bb', $states['BB']);

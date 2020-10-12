@@ -174,3 +174,6 @@ $places['SA'] = array(
     _x('Tathlith', 'Governorates of Saudi Arabia', 'states-cities-and-places-for-woocommerce'),
   ),
 );
+
+// Use this filter to handle the Governorates of Saudi Arabia
+$places['SA'] = apply_filters('scpwoo_custom_places_sa', $places['SA']);

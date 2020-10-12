@@ -21,3 +21,6 @@ $states['BH'] = array(
   'BH-15' => _x('Muharraq', 'Governorate of Bahrain', 'states-cities-and-places-for-woocommerce'),
   'BH-17' => _x('Northern', 'Governorate of Bahrain', 'states-cities-and-places-for-woocommerce'),
 );
+
+// Use this filter to handle the Governorates of Bahrain
+$states['BH'] = apply_filters('scpwoo_custom_states_bh', $states['BH']);

@@ -857,3 +857,6 @@ $places['NG'] = array(
 		'Kwali'
 	)
 );
+
+// Use this filter to handle the Nigerian Places
+$places['NG'] = apply_filters('scpwoo_custom_places_ng', $places['NG']);

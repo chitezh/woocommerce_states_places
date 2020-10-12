@@ -64,3 +64,6 @@ $states['ES'] = array(
   'ZA' => 'Zamora',
   'Z'  => 'Zaragoza',
 );
+
+// Use this filter to handle the Provinces of Spain
+$states['ES'] = apply_filters('scpwoo_custom_states_es', $states['ES']);

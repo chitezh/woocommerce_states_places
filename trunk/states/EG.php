@@ -42,3 +42,6 @@ $states['EG'] = array(
   'SSI' => _x('South Sinai', 'Governorate of Egypt', 'states-cities-and-places-for-woocommerce'),
   'SUZ' => _x('Suez', 'Governorate of Egypt', 'states-cities-and-places-for-woocommerce'),
 );
+
+// Use this filter to handle the Governorates of Egypt
+$states['EG'] = apply_filters('scpwoo_custom_states_eg', $states['EG']);

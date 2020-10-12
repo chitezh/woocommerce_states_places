@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Tunisian Governorates
+ * Governorates of Tunisia
  * - 24 gorvenorates
  *
  * Source:
@@ -44,3 +44,6 @@ $states['TN'] = array(
 	'TS' => 'Tunis',
 	'ZG' => 'Zaghouan',
 );
+
+// Use this filter to handle the Governorates of Tunisia
+$states['TN'] = apply_filters('scpwoo_custom_states_tn', $states['TN']);

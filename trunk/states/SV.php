@@ -1,7 +1,7 @@
 <?php
 
 /**
- * San Salvador Departments
+ * Departments of El Salvador
  * - 14 departments
  *
  * Source:
@@ -30,3 +30,6 @@ $states['SV'] = array(
 	'SV-SO' => 'Sonsonate',
 	'SV-US' => 'Usulutan'
 );
+
+// Use this filter to handle the Departments of El Salvador
+$states['SV'] = apply_filters('scpwoo_custom_states_sv', $states['SV']);

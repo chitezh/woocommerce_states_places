@@ -1522,3 +1522,6 @@ $places['LK'] = array(
     'Poonakary',
   ),
 );
+
+// Use this filter to handle the Cities of Sri Lanka 
+$places['LK'] = apply_filters('scpwoo_custom_places_lk', $places['LK']);

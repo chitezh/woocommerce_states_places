@@ -26,3 +26,6 @@ $states['BO'] = array(
   'S' => 'Santa Cruz',
   'T' => 'Tarija',
 );
+
+// Use this filter to handle the Departments of Bolivia
+$states['BO'] = apply_filters('scpwoo_custom_states_bo', $states['BO']);

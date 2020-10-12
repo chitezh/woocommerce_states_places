@@ -24,3 +24,6 @@ $states['AE'] = array(
 	'RAK' => __('Ras Al Khaimah', 'states-cities-and-places-for-woocommerce'),
 	'UAQ' => __('Umm Al Quwain', 'states-cities-and-places-for-woocommerce'),
 );
+
+// Use this filter to handle the Emirates of the United Arab Emirates 
+$states['AE'] = apply_filters('scpwoo_custom_states_ae', $states['AE']);

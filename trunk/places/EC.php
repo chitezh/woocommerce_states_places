@@ -280,3 +280,6 @@ $places['EC'] = array(
     'Zamora',
   ),
 );
+
+// Use this filter to handle the Municipalities of Cantons of Ecuador
+$places['EC'] = apply_filters('scpwoo_custom_places_ec', $places['EC']);
