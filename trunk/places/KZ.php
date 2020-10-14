@@ -277,3 +277,6 @@ $places['KZ'] = array(
 
 	),
 );
+
+// Use this filter to handle the Districts of Kazakhstan
+$places['KZ'] = apply_filters('scpwoo_custom_places_kz', $places['KZ']);

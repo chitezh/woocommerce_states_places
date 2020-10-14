@@ -2,7 +2,7 @@
 
 /**
  * Omani Wilayat
- * - 61 wilayah
+ * - 61 wilayat
  * 
  * Source: 
  * - https://en.wikipedia.org/wiki/Provinces_of_Oman
@@ -100,3 +100,6 @@ $places['OM'] = array(
     _x('Thumrait', 'Omani Wilayah', 'states-cities-and-places-for-woocommerce'),
   ),
 );
+
+// Use this filter to handle the Wilayat of Oman
+$places['OM'] = apply_filters('scpwoo_custom_places_om', $places['OM']);

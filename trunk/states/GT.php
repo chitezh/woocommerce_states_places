@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Guatemalan Departments
+ * Departments of Guatemala
  * - 22 departments
  * 
  * Source:
@@ -41,3 +41,6 @@ $states['GT'] = array (
 	'GT-TO' => 'Totonicapán',
 	'GT-ZA' => 'Zacapa'
 );
+
+// Use this filter to handle the Departments of Guatemala
+$states['GT'] = apply_filters('scpwoo_custom_states_gt', $states['GT']);

@@ -46,3 +46,6 @@ $states['PE'] = array(
   'TUM' => 'Tumbes',
   'UCA' => 'Ucayali'
 );
+
+// Use this filter to handle the Departments of Peru
+$states['PE'] = apply_filters('scpwoo_custom_states_pe', $states['PE']);

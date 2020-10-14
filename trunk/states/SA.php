@@ -30,3 +30,6 @@ $states['SA'] = array(
   'SA-12' => _x('Al-Jawf', 'Regions of Saudi Arabia', 'states-cities-and-places-for-woocommerce'),
   'SA-14' => _x('\'Asir', 'Regions of Saudi Arabia', 'states-cities-and-places-for-woocommerce'),  
 );
+
+// Use this filter to handle the Regions of Saudi Arabia
+$states['SA'] = apply_filters('scpwoo_custom_states_sa', $states['SA']);

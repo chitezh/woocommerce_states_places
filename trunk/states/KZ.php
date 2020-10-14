@@ -28,3 +28,6 @@ $states['KZ'] = array(
   'KZ-SEV' => 'Северо-Казахстанская область',
   'KZ-YUZ' => 'Туркестанская область'
 );
+
+// Use this filter to handle the Regions of Kazakhstan
+$states['KZ'] = apply_filters('scpwoo_custom_states_kz', $states['KZ']);

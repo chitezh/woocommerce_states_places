@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Venezuelan Municipalities:
+ * Municipalities of Venezuela
  * - 335 municipalities and their capitals
  * 
  * Source:
@@ -399,3 +399,6 @@ $places['VE'] = array(
     'Municipio Valmore Rodríguez (Bachaquero)'
   ),
 );
+
+// Use this filter to handle the Municipalities of Venezuela
+$places['VE'] = apply_filters('scpwoo_custom_places_ve', $places['VE']);

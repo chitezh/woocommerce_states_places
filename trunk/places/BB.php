@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Barbados
- * - Populated places (Cities/Towns/Villages)
+ * Cities, Towns and Villages of Barbados
+ * 307 Cities, Towns and Villages
  * 
  * Sources: 
  * - https://en.wikipedia.org/wiki/List_of_cities,_towns_and_villages_in_Barbados
@@ -347,3 +347,6 @@ $places['BB'] = array(
     'Welchman Hall',
   ),
 );
+
+// Use this filter to handle the Cities, Towns and Villages of Barbados
+$places['BB'] = apply_filters('scpwoo_custom_places_bb', $places['BB']);

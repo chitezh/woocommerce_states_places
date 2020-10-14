@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Guatemalan Municipalities
+ * Municipalities of Guatemala
  * - 339 municipalities are listed
  *
  * Source:
@@ -403,3 +403,6 @@ $places['GT'] = array(
 		'Zacapa',
 	),
 );
+
+// Use this filter to handle the Municipalities of Guatemala
+$places['GT'] = apply_filters('scpwoo_custom_places_gt', $places['GT']);

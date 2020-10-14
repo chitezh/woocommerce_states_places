@@ -27,3 +27,6 @@ $states['OM'] = array(
   'SS' => _x('Ash Sharqiyah South', 'Governorates of Oman', 'states-cities-and-places-for-woocommerce'),
   'DO' => _x('Dhofar', 'Governorates of Oman', 'states-cities-and-places-for-woocommerce')
 );
+
+// Use this filter to handle the Governorates of Oman
+$states['OM'] = apply_filters('scpwoo_custom_states_om', $states['OM']);

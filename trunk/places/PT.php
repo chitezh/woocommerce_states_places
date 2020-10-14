@@ -380,3 +380,6 @@ $places['PT'] = array(
     'Vouzela',
   ),
 );
+
+// Use this filter to handle the Municipalities of Portugal
+$places['PT'] = apply_filters('scpwoo_custom_places_pt', $places['PT']);

@@ -319,3 +319,6 @@ $places['EG'] = array(
     _x('Suez', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
   ),
 );
+
+// Use this filter to handle the Cities of Egypt
+$places['EG'] = apply_filters('scpwoo_custom_places_eg', $places['EG']);

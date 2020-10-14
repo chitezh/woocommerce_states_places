@@ -36,3 +36,6 @@ $states['PY'] = array(
     'PY-17' => 'Presidente Hayes',
     'PY-18' => 'San Pedro',
 );
+
+// Use this filter to handle the Departments of Paraguay
+$states['PY'] = apply_filters('scpwoo_custom_states_py', $states['PY']);

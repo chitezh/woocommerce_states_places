@@ -96,3 +96,6 @@ $states['RU'] = array(
   'CRI' => 'Крым Республика',
   'SEV' => 'Севастополь Город'
 );
+
+// Use this filter to handle the Russian states
+$states['RU'] = apply_filters('scpwoo_custom_states_ru', $states['RU']);

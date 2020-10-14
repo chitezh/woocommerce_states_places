@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Panama Districs and Corregimientos
+ * Districs and Corregimientos of Panama
  * - 81 Districts
  * - 679 Corregimientos
  * 
@@ -723,3 +723,6 @@ $places['PA'] = array(
     'Santa Catalina o Calovébora - Santa Catalina o Calovébora'
   )
 );
+
+// Use this filter to handle the Districs and Corregimientos of Panama
+$places['PA'] = apply_filters('scpwoo_custom_places_pa', $places['PA']);

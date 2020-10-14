@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Nicaraguan Departments
+ * Departments of Nicaragua
  * - 2 self-governing regions (autonomous communities)
  * - 15 departments
  * 
@@ -36,3 +36,6 @@ $states['NI'] = array(
     'RIO' => 'Rio San Juan',
     'RIV' => 'Rivas',
 );
+
+// Use this filter to handle the Departments of Nicaragua
+$states['NI'] = apply_filters('scpwoo_custom_states_ni', $states['NI']);

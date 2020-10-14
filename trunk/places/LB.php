@@ -2065,3 +2065,6 @@ $places['LB'] = array(
     'Jdeidet Hay El Saray', 
   ),
 );
+
+// Use this filter to handle the Cities Of Lebanon
+$places['LB'] = apply_filters('scpwoo_custom_places_lb', $places['LB']);

@@ -389,3 +389,6 @@ $places['CL'] = array(
 		'Torres Del Paine',
 	),
 );
+
+// Use this filter to handle the Cities of Chile
+$places['CL'] = apply_filters('scpwoo_custom_places_cl', $places['CL']);

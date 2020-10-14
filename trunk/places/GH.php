@@ -779,3 +779,6 @@ $places['GH'] = array(
     'Zabzugu',
   ),
 );
+
+// Use this filter to handle the Cities and Towns of Ghana
+$places['GH'] = apply_filters('scpwoo_custom_places_gh', $places['GH']);

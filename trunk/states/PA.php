@@ -30,3 +30,6 @@ $states['PA'] = array(
   'PAN-KY' => 'Comarca Guna Yala',
   'PAN-NB' => 'Comarca Ngäbe-Buglé'
 );
+
+// Use this filter to handle the Provinces of Panama
+$states['PA'] = apply_filters('scpwoo_custom_states_pa', $states['PA']);

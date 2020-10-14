@@ -649,3 +649,6 @@ $places['DK'] = array(
 	'Vordingborg',
 	'Vrå',
 );
+
+// Use this filter to handle the Cities of Denmark
+$places['DK'] = apply_filters('scpwoo_custom_places_dk', $places['DK']);

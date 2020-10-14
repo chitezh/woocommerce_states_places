@@ -13365,3 +13365,6 @@ $places['RO'] = array(
 		'Zorleni',
 	),
 );
+
+// Use this filter to handle the Cities of Romania
+$places['RO'] = apply_filters('scpwoo_custom_places_ro', $places['RO']);

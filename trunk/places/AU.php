@@ -120,3 +120,6 @@ $places['AU'] = array(
     'Rockingham',
   ),
 );
+
+// Use this filter to handle the Cities of Australia
+$places['AU'] = apply_filters('scpwoo_custom_places_au', $places['AU']);

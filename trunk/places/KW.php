@@ -158,3 +158,6 @@ $places['KW'] = array(
 		_x('Zour', 'District of Kuwait', 'states-cities-and-places-for-woocommerce'),
 	),
 );
+
+// Use this filter to handle the Districts of Kuwait
+$places['KW'] = apply_filters('scpwoo_custom_places_kw', $places['KW']);

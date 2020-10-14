@@ -16,12 +16,15 @@
 
 global $states;
 
-$states ['PK' ] = array (
-	'JK' => 'Azad Kashmir' ,
-	'GB' => 'Gilgit Baltistan' ,
-	'KP' => 'Khyber Pakhtunkhwa' ,
+$states['PK'] = array(
+	'JK' => 'Azad Kashmir',
+	'GB' => 'Gilgit Baltistan',
+	'KP' => 'Khyber Pakhtunkhwa',
 	'SD' => 'Sindh',
 	'PB' => 'Punjab',
 	'BA' => 'Balochistan',
 	'IS' => 'Islamabad Capital Territory'
-	);
+);
+
+// Use this filter to handle the Provinces and Territories of Pakistan
+$states['PK'] = apply_filters('scpwoo_custom_states_pk', $states['PK']);

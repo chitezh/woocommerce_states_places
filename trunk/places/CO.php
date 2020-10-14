@@ -1200,3 +1200,6 @@ $places['CO'] = array(
 		'CO-VID-1119' => 'Santa Rosalía',
 	),
 );
+
+// Use this filter to handle the Cities of Colombia
+$places['CO'] = apply_filters('scpwoo_custom_places_co', $places['CO']);

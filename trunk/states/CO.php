@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Departments of Colombia:
+ * Departments of Colombia
  * - 32 departments
  * - 1  Capital District
  *
@@ -50,3 +50,6 @@ $states['CO'] = array(
 	'VAU' => 'Vaupés',
 	'VID' => 'Vichada',
 );
+
+// Use this filter to handle the Departments of Colombia
+$states['CO'] = apply_filters('scpwoo_custom_states_co', $states['CO']);

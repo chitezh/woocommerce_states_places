@@ -8240,3 +8240,6 @@ $places['IT'] = array(
 
   ),
 );
+
+// Use this filter to handle the Municipalities of Italy
+$places['IT'] = apply_filters('scpwoo_custom_places_it', $places['IT']);

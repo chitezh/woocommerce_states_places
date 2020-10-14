@@ -40,3 +40,6 @@ $states['EC'] = array(
     'EC.TU' => 'Tungurahua',
     'EC.ZC' => 'Zamora-Chinchipe',
 );
+
+// Use this filter to handle the Provinces of Ecuador
+$states['EC'] = apply_filters('scpwoo_custom_states_ec', $states['EC']);

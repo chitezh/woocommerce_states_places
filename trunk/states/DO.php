@@ -49,3 +49,6 @@ $states['DO'] = array(
   'DO-32' => 'Santo Domingo',
   'DO-27' => 'Valverde',
 );
+
+// Use this filter to handle the Provinces of the Dominican Republic
+$states['DO'] = apply_filters('scpwoo_custom_states_do', $states['DO']);

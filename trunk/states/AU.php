@@ -24,3 +24,6 @@ $states['AU'] = array(
   'VIC' => 'Victoria',
   'WA' => 'Western Australia',
 );
+
+// Use this filter to handle the States and territories of Australia
+$states['AU'] = apply_filters('scpwoo_custom_states_au', $states['AU']);

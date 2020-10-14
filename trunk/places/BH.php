@@ -146,3 +146,6 @@ $places['BH'] = array(
     _x('Tashan', 'District of Bahrain', 'states-cities-and-places-for-woocommerce'),
   ),
 );
+
+// Use this filter to handle the Districts of Bahrain
+$places['BH'] = apply_filters('scpwoo_custom_places_bh', $places['BH']);

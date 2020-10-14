@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Brasilian States
+ * States of Brazil
  * - 1 Federal District
  * - 26 States
  * 
-  * Source:
+ * Source:
  * - https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_popula%C3%A7%C3%A3o
  *
  * @author  Yordan Soares <contacto@yordansoar.es> | https://yordansoar.es
@@ -45,29 +45,5 @@ $states['BR'] = array(
   'TO' => 'Tocantins',
 );
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Use this filter to handle the States of Brazil
+$states['BR'] = apply_filters('scpwoo_custom_states_br', $states['BR']);

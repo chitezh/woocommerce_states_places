@@ -974,3 +974,6 @@ $places['PE'] = array(
         'Yurua'
     )
 );
+
+// Use this filter to handle the Districts of Peru
+$places['PE'] = apply_filters('scpwoo_custom_places_pe', $places['PE']);

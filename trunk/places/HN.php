@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Honduras Municipalities
- * 
+ * Municipalities of Honduras
+ * 298 municipalities
  *
  * Source:
  * - https://es.wikipedia.org/wiki/Anexo:Municipios_de_Honduras
@@ -354,3 +354,6 @@ $places['HN'] = array(
 		'Utila',
 	),
 );
+
+// Use this filter to handle the Municipalities of Honduras
+$places['HN'] = apply_filters('scpwoo_custom_places_hn', $places['HN']);

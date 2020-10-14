@@ -22,3 +22,6 @@ $states['LB'] = array(
   'BI' => 'Bikaa',
   'NB' => 'Nabatieh',
 );
+
+// Use this filter to handle the Provinces of Lebanon
+$states['LB'] = apply_filters('scpwoo_custom_states_lb', $states['LB']);

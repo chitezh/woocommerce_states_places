@@ -32,3 +32,6 @@ $states['PT'] = array(
   'VR' => 'Vila Real',
   'VI' => 'Viseu',
 );
+
+// Use this filter to handle the Districts and Autonomous Regions of Portugal
+$states['PT'] = apply_filters('scpwoo_custom_states_pt', $states['PT']);

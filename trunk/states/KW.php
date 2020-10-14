@@ -22,3 +22,6 @@ $states['KW'] = array(
 	'AJ' => _x('Al Jahra', 'Governorate of Kuwait', 'states-cities-and-places-for-woocommerce'),
 	'AH' => _x('Al Ahmadi', 'Governorate of Kuwait', 'states-cities-and-places-for-woocommerce'),
 );
+
+// Use this filter to handle the Governorates of Kuwait
+$states['KW'] = apply_filters('scpwoo_custom_states_kw', $states['KW']);

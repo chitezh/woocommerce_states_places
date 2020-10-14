@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Nicaraguan Municipalities
+ * Municipalities of Nicaragua
  * - 153 municipalities
  *
  * Sources:
@@ -204,3 +204,6 @@ $places['NI'] = array(
 		'Tola'
 	)
 );
+
+// Use this filter to handle the Municipalities of Nicaragua
+$places['NI'] = apply_filters('scpwoo_custom_places_ni', $places['NI']);

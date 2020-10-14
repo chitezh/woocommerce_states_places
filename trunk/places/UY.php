@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Uruguayan Cities
+ * Cities of Uruguay
  * - 2120 cities
  *  
  * Source:
@@ -2174,3 +2174,6 @@ $places['UY'] = array(
 		'Yerbalito'
 	),
 );
+
+// Use this filter to handle the Cities of Uruguay
+$places['UY'] = apply_filters('scpwoo_custom_places_uy', $places['UY']);
