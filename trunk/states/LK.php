@@ -3,7 +3,7 @@
 /**
  * All 25 Districts of Sri Lanka
  *
- * @author  Anas Rafaideen <anas@tecrocketspace.com> | https://tecrocketspace.com
+ * @authors  Anas Rafaideen <anas@tecrocketspace.com> & Luqmaan Siddeeq <luqmaan@tecrocketspace.com> | https://tecrocketspace.com
  * @version 1.2
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
