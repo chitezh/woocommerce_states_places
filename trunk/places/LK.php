@@ -2,6 +2,10 @@
 
 /**
  * Cities in Sri Lanka
+ * - 1988 cities
+ *
+ * @author  Pasindu Perera <admin@lankamarket.lk> | https://lankamarket.lk
+ * @version 1.0
  *
  * @authors  Anas Rafaideen <anas@tecrocketspace.com> & Luqmaan Siddeeq <luqmaan@tecrocketspace.com> | https://tecrocketspace.com
  * @version 1.2
@@ -2072,3 +2076,6 @@ $places['LK'] = array(
     'Poonakary',
   ),
 );
+
+// Use this filter to handle the Districts of Sri Lanka	
+$states['LK'] = apply_filters('scpwoo_custom_states_lk', $states['LK']);
