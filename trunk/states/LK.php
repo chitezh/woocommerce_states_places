@@ -37,3 +37,6 @@ $states['LK'] = array(
   'MON' => 'Monaragala',
   'KIL' => 'Kilinochchi',
 );
+
+// Use this filter to handle the Districts of Sri Lanka
+$states['LK'] = apply_filters('scpwoo_custom_states_lk', $states['LK']);
