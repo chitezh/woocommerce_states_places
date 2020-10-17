@@ -1,44 +1,39 @@
 <?php
 
 /**
- * Districts of Sri Lanka
- * Source: 
- * - https://nation.lk/postalcode/
+ * All 25 Districts of Sri Lanka
  *
- * @author  Pasindu Perera <admin@lankamarket.lk> | https://lankamarket.lk
- * @version 1.0.0
+ * @author  Anas Rafaideen <anas@tecrocketspace.com> | https://tecrocketspace.com
+ * @version 1.2
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 global $states;
 
 $states['LK'] = array(
-  'CO-LK' => 'Colombo',
-  'GQ-LK' => 'Gampaha',
-  'KT-LK' => 'Kalutara',
-  'KY-LK' => 'Kandy',
-  'MT-LK' => 'Matale',
-  'NW-LK' => 'Nuwara Eliya',
-  'BC-LK' => 'Batticaloa',
-  'TC-LK' => 'Trincomalee',
-  'APR-LK' => 'Ampara',
-  'JA-LK' => 'Jaffna',
-  'MB-LK' => 'Mannar',
-  'MP-LK' => 'Mullaitivu',
-  'VA-LK' => 'Vavuniya',
-  'AD-LK' => 'Anuradhapura',
-  'PR-LK' => 'Polonnaruwa',
-  'KG-LK' => 'Kurunegala',
-  'PX-LK' => 'Puttalam',
-  'RN-LK' => 'Ratnapura',
-  'KE-LK' => 'Kegalle',
-  'GL-LK' => 'Galle',
-  'MH-LK' => 'Matara',
-  'HB-LK' => 'Hambantota',
-  'BD-LK' => 'Badulla',
-  'MJ-LK' => 'Monaragala',
-  'KH-LK' => 'Kilinochchi',
+  'CMB' => 'Colombo',
+  'GAM' => 'Gampaha',
+  'KAL' => 'Kalutara',
+  'KAN' => 'Kandy',
+  'MAT' => 'Matale',
+  'NUE' => 'Nuwara Eliya',
+  'BAT' => 'Batticaloa',
+  'TRI' => 'Trincomalee',
+  'AMP' => 'Ampara',
+  'JAF' => 'Jaffna',
+  'MAN' => 'Mannar',
+  'MUL' => 'Mullaitivu',
+  'VAV' => 'Vavuniya',
+  'ANU' => 'Anuradhapura',
+  'POL' => 'Polonnaruwa',
+  'KUR' => 'Kurunegala',
+  'PUT' => 'Puttalam',
+  'RAT' => 'Ratnapura',
+  'KEG' => 'Kegalle',
+  'GAL' => 'Galle',
+  'MTR' => 'Matara',
+  'HAM' => 'Hambantota',
+  'BAD' => 'Badulla',
+  'MON' => 'Monaragala',
+  'KIL' => 'Kilinochchi',
 );
-
-// Use this filter to handle the Districts of Sri Lanka
-$states['LK'] = apply_filters('scpwoo_custom_states_lk', $states['LK']);
