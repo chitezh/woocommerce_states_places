@@ -1,7 +1,11 @@
 <?php
 
 /**
- * All 25 Districts of Sri Lanka
+ * Districts of Sri Lanka
+ * - 25 districts
+ *
+ * @author  Pasindu Perera <admin@lankamarket.lk> | https://lankamarket.lk
+ * @version 1.0
  *
  * @authors  Anas Rafaideen <anas@tecrocketspace.com> & Luqmaan Siddeeq <luqmaan@tecrocketspace.com> | https://tecrocketspace.com
  * @version 1.2
