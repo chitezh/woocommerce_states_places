@@ -22,6 +22,6 @@ $states['NE'] = array(
   'MA' => 'Maradi',
   'NI' => 'Niamey',
   'TH' => 'Tahoa',
-  'TL' => 'Tillaberi'
+  'TL' => 'Tillaberi',
   'ZI' => 'Zinder'
 );
