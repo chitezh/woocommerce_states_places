@@ -26,7 +26,7 @@ $places['NE'] = array(
   'DF' => array(
     'Diffa',
     'Maïné-Soroa',
-    'N'\'Guigmi ',
+    "N'Guigmi",
   ),
   'DS' => array(
     'Boboye',
@@ -53,7 +53,7 @@ $places['NE'] = array(
   ),
   'TH' => array(
     'Abalak',
-    'Birni-N'\'Konni',
+    "Birni-N'Konni",
     'Bouza',
     'Illéla',
     'Kéita',
