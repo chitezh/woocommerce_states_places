@@ -17,6 +17,11 @@ global $states;
 // Replace 'XX' code for your Country Code. E.g. 'NG' for Nigeria, 'CO' for Colombia, 'VE' for Venezuela, etc.
 // Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
 $states['XX'] = array(
+  // Some countries like Denmark or Belgium do not use the state field, 
+  // if your country doesn't use it either, leave the array empty.
+  // E.g. $states['DK'] = array();
+
+  // Otherwise, if the state field is used in your country:
   // Add a State Code to each State Name using a logic sense. 
   // E.g. 'FA' => 'Florida'
   // You can use any standar like ISO, ANSI, etc. There is no an mandatory standar or system and you can use your own.
