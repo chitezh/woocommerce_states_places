@@ -2,12 +2,12 @@
 
 # States, Cities, and Places for WooCommerce
 
-* Stable tag: 1.2.11
+* Stable tag: 1.3
 * Requires at least: 4.0
-* Tested up to: 5.5
+* Tested up to: 5.6
 * Requires PHP: 7.0
 * WC requires at least: 3.0.x
-* WC tested up to: 4.5
+* WC tested up to: 4.7
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,7 +57,16 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
  * 🇻🇪 Venezuela
  * *Do you want to add your country here?*<br>[Help us extending this list adding your country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates).
 
-## Languages available
+## Available filter hooks
+
+**States, Cities, and Places for WooCommerce** has two filter hooks for handling the States and Places in all the available countries:
+
+* `scpwoo_custom_states_xx`: It allows you to handle the States of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+* `scpwoo_custom_places_xx`: It allows you to handle the Places of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+
+Please read the article [**Using the filter hooks**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks) to learn [**How to use**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks#how-to-use).
+
+## Available languages
 
 * English (US, Australia, Canada, UK, New Zealand, and South Africa)
 * Spanish (Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Guatemala, Honduras, Mexico, Peru, Puerto Rico, Uruguay, and Venezuela)
@@ -108,6 +117,11 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.3 - Nov 30, 2020
+Since this release you can use two new filter hooks that allows you handling both the list of States and Places:
+  * `scpwoo_custom_states_xx`: It allows you to handle the States of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+  * `scpwoo_custom_places_xx`: It allows you to handle the Places of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+Please read the article [**Using the filter hooks**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks) to learn [**How to use**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks#how-to-use).
 * 1.2.11 - Oct 07, 2020
   * Added four new countries:
     * 🇦🇺 Australia: States, Territories, and Cities (thanks to [Gopinath N A](https://github.com/Gopinath1728))
