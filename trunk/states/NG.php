@@ -3,7 +3,8 @@
 /**
  * States of Nigeria
  *
- * @author  Kingsley Ochu <ochu.kc@gmail.com>
+ * @author Alexander Asomba <alex@asomba.com>
+ * @author Kingsley Ochu <ochu.kc@gmail.com>
  * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  * Credits: alexasomba
