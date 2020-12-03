@@ -1,8 +1,8 @@
 <?php
 
 /**
- * $country states/provinces/regions
- * - $count states/provinces/regions
+ * Districts of Mauritius
+ * - 10 districts
  * 
  * Source: 
  * - https://en.wikipedia.org/wiki/Districts_of_Mauritius
@@ -28,3 +28,6 @@ $states['MU'] = array(
   'RO' => 'Rodrigues',
   'SA' => 'Savanne',
 );
+
+// Use this filter to handle the Districts of Mauritius
+$states['MU'] = apply_filters('scpwoo_custom_states_mu', $states['MU']);
