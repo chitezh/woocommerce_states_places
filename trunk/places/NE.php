@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Nigerien Departments (Places)
+ * Departments of Niger
  * 
  * Source: 
  * - https://en.wikipedia.org/wiki/Departments_of_Niger
@@ -15,19 +15,20 @@ global $places;
 
 
 $places['NE'] = array(
-
+  // Agadez
   'AG' => array(
-
     'Arlit',
     'Bilma',
     'Tchirozérine',
     'Agadez'
-  ),
+  ),  
+  // Diffa
   'DF' => array(
     'Diffa',
     'Maïné-Soroa',
-    "N'Guigmi",
+    'N\'Guigmi',
   ),
+  // Dosso
   'DS' => array(
     'Boboye',
     'Dogondoutchi',
@@ -35,6 +36,7 @@ $places['NE'] = array(
     'Gaya',
     'Loga',
   ),
+  // Maradi
   'MA' => array(
     'Aguié',
     'Dakoro',
@@ -44,6 +46,7 @@ $places['NE'] = array(
     'Mayahi',
     'Tessaoua',
   ),
+  // Niamey
   'NI' => array(
     'Niamey I',
     'Niamey II',
@@ -51,9 +54,10 @@ $places['NE'] = array(
     'Niamey IV',
     'Niamey V',
   ),
+  // Tahoa
   'TH' => array(
     'Abalak',
-    "Birni-N'Konni",
+    'Birni-N\'Konni',
     'Bouza',
     'Illéla',
     'Kéita',
@@ -61,6 +65,7 @@ $places['NE'] = array(
     'Tahoua',
     'Tchin-Tabaraden',
   ),
+  // Tillaberi
   'TL' => array(
     'Filingué',
     'Kollo',
@@ -69,6 +74,7 @@ $places['NE'] = array(
     'Téra',
     'Tillabéri',
   ),
+  // Zinder
   'ZI' => array(
     'Gouré',
     'Magaria',
@@ -78,3 +84,6 @@ $places['NE'] = array(
     'Zinder'
   ),
 );
+
+// Use this filter to handle the Departments of Niger
+$places['NE'] = apply_filters('scpwoo_custom_places_ne', $places['NE']);
