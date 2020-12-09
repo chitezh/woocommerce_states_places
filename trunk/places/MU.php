@@ -564,4 +564,4 @@ $places['MU'] = array(
 );
 
 // Use this filter to handle the Places of Mauritius
-$states['MU'] = apply_filters('scpwoo_custom_places_mu', $states['MU']);
+$places['MU'] = apply_filters('scpwoo_custom_places_mu', $places['MU']);
