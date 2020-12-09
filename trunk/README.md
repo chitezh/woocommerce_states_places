@@ -1,13 +1,13 @@
 === States, Cities, and Places for WooCommerce ===
-Contributors: chitezh, luisurrutiaf, yordansoares, nobnob, joseayram
+Contributors: chitezh, yordansoares, luisurrutiaf, nobnob, joseayram
 Donate link: https://github.com/chitezh
 Tags: woocommerce, locations, states, cities, provinces, regions, departments, municipalities, districs, governorates, counties, cantons
-Stable tag: 1.3
+Stable tag: 1.3.1
 Requires at least: 4.0
 Tested up to: 5.6
 Requires PHP: 7.0
 WC requires at least: 3.0.x
-WC tested up to: 4.7
+WC tested up to: 4.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -115,11 +115,17 @@ Kindly create an issue stating the bug and how you caught it: [Create new issue]
 Yes, you can always suggest or request new locations by creating an issue in the [plugin repository](https://github.com/chitezh/woocommerce_states_places/issues/new) in GitHub. Please refer to the [Adding a new country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates) instructions to get more details.
 
 == Changelog ==
+= 1.3.1 - Dec 9, 2020 =
+Fix filter hook for places in Sri Lanka and Mauritius
+
 = 1.3 - Nov 30, 2020 =
 Since this release you can use two new filter hooks that allows you handling both the list of States and Places:
-  * `scpwoo_custom_states_xx`: It allows you to handle the States of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
-  * `scpwoo_custom_places_xx`: It allows you to handle the Places of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+
+* `scpwoo_custom_states_xx`: It allows you to handle the States of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+* `scpwoo_custom_places_xx`: It allows you to handle the Places of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+
 Please read the article [**Using the filter hooks**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks) to learn [**How to use**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks#how-to-use).
+
 = 1.2.11 - Oct 07, 2020 =
 * Added four new countries:
   * 🇦🇺 Australia: States, Territories, and Cities (thanks to [Gopinath N A](https://github.com/Gopinath1728))
@@ -128,6 +134,7 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
   * 🇵🇪 Peru: Departments and Districts (thanks to [David Soto](https://github.com/Ddiods))
 * Updated 1 country:  
   * 🇪🇸 Spain: Updated keys from States array (thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/))
+
 = 1.2.10 - Jul 31, 2020 =
 * Added five new countries:
   * 🇪🇬 Egypt: Governorates and Cities (thanks to [Heba Fareed](https://github.com/HebaFareed))
@@ -139,11 +146,13 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
   * 🇩🇰 Denmark: The "State" field was deactivated and all the cities were listed in "City" field directly.
   * 🇩🇰 Denmark: Updated list of cities (thanks to [jonasskafte](https://github.com/jonasskafte))
   * 🇻🇪 Venezuela: Removed "Municipality" variable from places/VE.php.
+
 = 1.2.9 - Jun 20, 2020 =
 * Added two new countries:
   * 🇧🇴 Bolivia: Departments and Municipalities (thanks to [ionixcorp](https://github.com/ionixcorp))
   * 🇩🇴 Dominican Republic: Provinces and Municipalities (thanks to [Javier Molina](https://forways.com.do))
 * Fixed: Algeria did not display the cities (thanks to [@yas-se](https://wordpress.org/support/topic/problem-in-sync-cities-according-to-the-choosen-state/) for reporting)
+
 = 1.2.8 - Jun 01, 2020 =
 * Added three new countries:
   * 🇩🇰 Denmark: Regions and Municipalities (thanks to [jonasskafte](https://github.com/jonasskafte) for testing this country)
@@ -151,6 +160,7 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
   * 🇵🇰 Pakistan: Provinces, Territories and Districts (thanks to [Faisal Basra](https://github.com/faisalbasra))
 * Updated 1 country:
   * 🇴🇲 Oman: Added translation support for location names (thanks to [Moayid](https://github.com/Moayid))
+
 = 1.2.7 - May 17, 2020 =
 * Added five new countries:
   * 🇪🇨 Ecuador: Provinces and Cantons (thanks to [Franklin Lucero](https://github.com/Alercard))
@@ -160,6 +170,7 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
   * 🇱🇰 Sri Lanka: Districts and Cities (thanks to [Pasindu Perera](https://github.com/maddagepasindu))
 * Updated 1 country:
   * 🇨🇱 Chile: removed "Región:" in State names (thanks to [CLobo96](https://github.com/CLobo96))
+
 = 1.2.6 - April 16, 2020 =
 * Added four new countries:
   * 🇧🇧 Barbados: Parishes and Places (thanks to [Damien Alleyne](https://github.com/d-alleyne))
@@ -170,6 +181,7 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
 * Added two experimental filter hooks to Algeria ([How to use](https://wordpress.org/support/topic/show-a-specific-state/#post-12681489)):
   * `scpwoo_custom_states_dz` - handles Provinces of Algeria
   * `scpwoo_custom_places_dz` - handles Communes of Algeria
+
 = 1.2.5 - April 06, 2020 =
 * Added three new countries:
   * 🇨🇴 Colombia: Departments and Cities (thanks to [José Ayrám](https://profiles.wordpress.org/joseayram/))
@@ -178,10 +190,13 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
 * Added translation support for location names of Algeria and Saudi Arabia.
 * Added plugin page banner and icon. Thanks to [Javier Esteban](https://profiles.wordpress.org/nobnob/)!
 * Updated screenshot.
+
 = 1.2.4 - March 30, 2020 =
 * Fix an issue with a country (Algeria)
+
 = 1.2.3 - March 22, 2020 =
 * Added localization to "State" and "City" field labels  
+
 = 1.2.2 - March 22, 2020 =
 * Added six new countries:
   * 🇩🇿 Algeria: Departments (Wilaya) and Municipalities (Baladiyahs) (thanks to [Walid Yacine MAZED](https://github.com/w-mazed))
@@ -194,6 +209,7 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
   * 🇨🇱 Chile: states codes (thanks to [Luis Urrutia](https://github.com/LuisUrrutia))
   * 🇬🇹 Guatemala: missing municipalities (thanks to [macnomo](https://github.com/macnomo))
 * Tested up to WooCommerce 4.0.1
+
 = 1.2.1 - March 18, 2020 =
 * Added two new countries: 
   * 🇵🇦 Panama: Provinces, Districts and Corregimientos
@@ -201,17 +217,23 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
 * Invert the order of State and City fields to have more sense with the steps of form.
 * Fix text domain in plugin header comment (states-cities-and-places-for-woocommerce).
 * Fix some typos and strings without translation functions.
+
 = 1.2.0 - February 07, 2019 =
 * Added a new country: 
   * 🇬🇹 Guatemala
+
 = 1.1.1 - August 28, 2018 =
 * Updated Chilean states and cities (16 states, no numbers).
+
 = 1.1.0 - July 09, 2017 =
 * Added a new country: 
   * 🇨🇱 Chile
+
 = 1.0.2 - August 11, 2016 =
 * Change author name.
+
 = 1.0.1 - August 10, 2016 =
 * Updated README file.
+
 = 1.0 - August 10, 2016 =
 * First release.
