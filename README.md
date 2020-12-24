@@ -2,12 +2,12 @@
 
 # States, Cities, and Places for WooCommerce
 
-* Stable tag: 1.3
+* Stable tag: 1.3.1
 * Requires at least: 4.0
 * Tested up to: 5.6
 * Requires PHP: 7.0
 * WC requires at least: 3.0.x
-* WC tested up to: 4.7
+* WC tested up to: 4.8
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -117,10 +117,12 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
+* 1.3.1 - Dec 9, 2020
+  * Fix filter hook for places in Sri Lanka and Mauritius
 * 1.3 - Nov 30, 2020
-Since this release you can use two new filter hooks that allows you handling both the list of States and Places:
-  * `scpwoo_custom_states_xx`: It allows you to handle the States of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
-  * `scpwoo_custom_places_xx`: It allows you to handle the Places of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+  * Since this release you can use two new filter hooks that allows you handling both the list of States and Places:
+    * `scpwoo_custom_states_xx`: It allows you to handle the States of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
+    * `scpwoo_custom_places_xx`: It allows you to handle the Places of a given country. The `xx` at the end must be replaced by the two-letter country code in lower case.
 Please read the article [**Using the filter hooks**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks) to learn [**How to use**](https://github.com/chitezh/woocommerce_states_places/wiki/Using-the-filter-hooks#how-to-use).
 * 1.2.11 - Oct 07, 2020
   * Added four new countries:
