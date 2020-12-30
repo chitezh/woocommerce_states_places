@@ -1,11 +1,20 @@
 <?php
+
 /**
- * Vietnam states
-**/
+ *  Provinces of Vietnam
+ * - 63 provinces
+ *
+ * Sources:
+ * - https://en.wikipedia.org/wiki/Provinces_of_Vietnam
+ *
+ * @author  Nguyen Le <nguyenlt@adnsg.com> | http://adnsg.com/
+ * @version 1.0.0
+ * @license http://opensource.org/licenses/gpl-license.php GNU Public License
+ */
 
 global $states;
 
-$states ['VN' ] = array (
+$states['VN'] = array (
 	'HOCHIMINH' => 'Hồ Chí Minh',
 	'HANOI' => 'Hà Nội',
 	'ANGIANG' => 'An Giang',
@@ -70,3 +79,6 @@ $states ['VN' ] = array (
 	'VINHPHUC' => 'Vĩnh Phúc',
 	'YENBAI' => 'Yên Bái',
 );
+
+// Use this filter to handle the Provinces of Vietnam
+$states['VN'] = apply_filters('scpwoo_custom_states_vn', $states['VN']);
