@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Provinces of Vietnam
+ * Provinces of Vietnam
  * - 63 provinces
  *
  * Sources:

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Provincies of Turkey
+ * Provinces of Turkey
  * - 81 provinces
  *
  * Source:

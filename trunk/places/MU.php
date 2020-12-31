@@ -1,7 +1,7 @@
 <?php
 
 /**
-* Places of Mauritius
+* Cities, Towns, and Regions in Mauritius
 * - 514 cities, towns and regions
 *
 * Source:
@@ -563,5 +563,5 @@ $places['MU'] = array(
     ),
 );
 
-// Use this filter to handle the Places of Mauritius
+// Use this filter to handle the Cities, Towns, and Regions in Mauritius
 $places['MU'] = apply_filters('scpwoo_custom_places_mu', $places['MU']);
