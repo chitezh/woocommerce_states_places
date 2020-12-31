@@ -2,7 +2,7 @@
 Contributors: chitezh, yordansoares, luisurrutiaf, nobnob, joseayram
 Donate link: https://github.com/chitezh
 Tags: woocommerce, locations, states, cities, provinces, regions, departments, municipalities, districs, governorates, counties, cantons
-Stable tag: 1.3.1
+Stable tag: 1.3.2
 Requires at least: 4.0
 Tested up to: 5.6
 Requires PHP: 7.0
@@ -15,20 +15,23 @@ WordPress plugin that shows dropdowns for State and City Select for WooCommerce.
 
 == Description ==
 
-This WooCommerce plugin transforms the text input for states, the city or town. With this plugin you can provide a list of states and cities to be shown as a select dropdown.
+This plugin adds locations of **available countries** (see list below) to the **State** and **City** fields of the **WooCommerce** address forms, making the fields filterable to enhance the **user experience**.
 
-This will be shown in checkout pages, edit addresses pages, shipping calculator, etc.
+Additionally it adds the States to the **Shipping Zones** (Cities are not compatible with this area).
 
-= Supported Countries =
+== Supported Countries ==
 
 * 🇩🇿 Algeria
 * 🇦🇺 Australia
 * 🇧🇭 Bahrain
+* 🇧🇩 Bangladesh
 * 🇧🇧 Barbados
 * 🇧🇴 Bolivia
 * 🇧🇷 Brazil
+* 🇧🇫 Burkina Faso
 * 🇨🇱 Chile
 * 🇨🇴 Colombia
+* 🇨🇺 Cuba
 * 🇩🇰 Denmark
 * 🇩🇴 Dominican Republic
 * 🇪🇨 Ecuador
@@ -36,12 +39,17 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 * 🇸🇻 El Salvador
 * 🇬🇭 Ghana
 * 🇬🇹 Guatemala
+* 🇭🇹 Haiti
 * 🇭🇳 Honduras
 * 🇮🇹 Italy
 * 🇰🇿 Kazakhstan
 * 🇰🇼 Kuwait
 * 🇱🇧 Lebanon
+* 🇲🇾 Malaysia
+* 🇲🇺 Mauritius
+* 🇲🇽 Mexico
 * 🇳🇮 Nicaragua
+* 🇳🇪 Niger
 * 🇳🇬 Nigeria
 * 🇴🇲 Oman
 * 🇵🇰 Pakistan
@@ -55,11 +63,21 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 * 🇪🇸 Spain
 * 🇱🇰 Sri Lanka
 * 🇹🇳 Tunisia
+* 🇹🇷 Turkey
 * 🇦🇪 United Arab Emirates
 * 🇺🇾 Uruguay
 * 🇻🇪 Venezuela
+* 🇻🇳 Vietnam
 * *Do you want to add your country here?*
 [Help us extending this list adding your country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates).
+
+== Plugin Demo Site ==
+
+If you want to see the plugin in action, follow the steps below:
+
+1. Visit the **plugin demo site**: https://statesandcitieswc.ml/
+2. Select a **sample product** from the list.
+3. Go to the **Checkout** to interact with available country locations.
 
 == Available filter hooks ==
 
@@ -73,7 +91,7 @@ Please read the article [**Using the filter hooks**](https://github.com/chitezh/
 == Available languages ==
 
 * English (US, Australia, Canada, UK, New Zealand, and South Africa)
-* Spanish (Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Guatemala, Honduras, Mexico, Peru, Puerto Rico, Uruguay, and Venezuela)
+* Spanish (Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Guatemala, Honduras, Mexico, Peru, Puerto Rico, Spain, Uruguay, and Venezuela)
 * *Do you want to see your language here?*
 [Help us translating the plugin to your language](https://translate.wordpress.org/projects/wp-plugins/states-cities-and-places-for-woocommerce/).
 
@@ -115,6 +133,20 @@ Kindly create an issue stating the bug and how you caught it: [Create new issue]
 Yes, you can always suggest or request new locations by creating an issue in the [plugin repository](https://github.com/chitezh/woocommerce_states_places/issues/new) in GitHub. Please refer to the [Adding a new country](https://github.com/chitezh/woocommerce_states_places/tree/master/templates) instructions to get more details.
 
 == Changelog ==
+
+= 1.3.2 - Dec 30, 2020 =
+* Added ten new countries:
+  * 🇧🇩 Bangladesh: Districts and Cities (thanks to [S.M. Mehdi Akram](https://www.royaltechbd.com))
+  * 🇧🇫 Burkina Faso: Regions and Provinces (thanks to [Stéphane SAMANDOULOUGOU](mailto:burkinar@gmail.com)): 
+  * 🇨🇺 Cuba: Provinces and Municipalities (thanks to [Ramiro Rodpa](mailto:www.rmr@gmail.com))
+  * 🇭🇹 Haiti: Departments and Communes (thanks to [Edner Zephir](https://achetertelephone.com))
+  * 🇲🇾 Malaysia: States, Federal territories and Districts (thanks to [Amirah Zainuddin](mailto:web@syscomm.cc))
+  * 🇲🇺 Mauritius: Districts, Cities, Towns, and Regions in Mauritius (thanks to [Audrey](https://pongo.io))
+  * 🇲🇽 Mexico: States and Municipalities (thanks to [Carlos Velasco](mailto:carlos.xvlsc@gmail.com))
+  * 🇳🇪 Niger: Regions and Departments (thanks to [Ibrahim Nasir](https://howdoyou.tech))
+  * 🇹🇷 Turkey: Provinces and Districts (thanks to [Selcuk](mailto:selcuk@kokoma.com.tr))
+  * 🇻🇳 Vietnam: Provinces and Districts (thanks to [Nguyen Le](http://adnsg.com/))
+
 = 1.3.1 - Dec 9, 2020 =
 Fix filter hook for places in Sri Lanka and Mauritius
 

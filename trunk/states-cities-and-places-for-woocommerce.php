@@ -4,7 +4,7 @@
  * Plugin Name: States, Cities, and Places for WooCommerce
  * Plugin URI: https://github.com/chitezh/woocommerce_states_places
  * Description: WooCommerce plugin for listing states, cities, places, local government areas and towns in all countries of the world.
- * Version: 1.3.1
+ * Version: 1.3.2
  * Author: Kingsley Ochu
  * Author URI: https://github.com/chitezh
  * Developer: Kingsley Ochu
@@ -31,7 +31,7 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 
     class WC_States_Places {
 
-        const VERSION = '1.3.1';
+        const VERSION = '1.3.2';
         private $states;
         private $places;
 
