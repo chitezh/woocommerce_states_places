@@ -140,7 +140,7 @@ Yes, you can always suggest or request new locations by creating an issue in the
     * 🇨🇺 Cuba: Provinces and Municipalities (thanks to [Ramiro Rodpa](mailto:www.rmr@gmail.com))
     * 🇭🇹 Haiti: Departments and Communes (thanks to [Edner Zephir](https://achetertelephone.com))
     * 🇲🇾 Malaysia: States, Federal territories and Districts (thanks to [Amirah Zainuddin](mailto:web@syscomm.cc))
-    * 🇲🇺 Mauritius: Districts, Cities, Towns, and Regions in Mauritius (thanks to [Audrey](https://pongo.io))
+    * 🇲🇺 Mauritius: Districts, Cities, Towns, and Regions (thanks to [Audrey](https://pongo.io))
     * 🇲🇽 Mexico: States and Municipalities (thanks to [Carlos Velasco](mailto:carlos.xvlsc@gmail.com))
     * 🇳🇪 Niger: Regions and Departments (thanks to [Ibrahim Nasir](https://howdoyou.tech))
     * 🇹🇷 Turkey: Provinces and Districts (thanks to [Selcuk](mailto:selcuk@kokoma.com.tr))
