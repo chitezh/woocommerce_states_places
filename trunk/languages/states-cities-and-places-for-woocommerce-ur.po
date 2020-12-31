@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Plugins - States, Cities, and Places for WooCommerce - "
 "Development (trunk)\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
-"POT-Creation-Date: 2020-07-31T07:48:41-04:00\n"
-"PO-Revision-Date: 2020-07-31 07:52-0400\n"
+"POT-Creation-Date: 2020-12-31 04:29-0400\n"
+"PO-Revision-Date: 2020-12-31 04:40-0400\n"
 "Last-Translator: Yordan Soares <contacto@yordansoar.es>\n"
 "Language-Team: \n"
 "Language: ur_PK\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.4\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. Plugin Name of the plugin
 msgid "States, Cities, and Places for WooCommerce"
@@ -1276,6 +1276,4617 @@ msgstr ""
 
 #: places/AE.php:374
 msgid "Al Dar Al Baida"
+msgstr ""
+
+#: places/BD.php:16
+msgid "12 Tala"
+msgstr ""
+
+#: places/BD.php:17
+msgid "Aam Bagan"
+msgstr ""
+
+#: places/BD.php:18
+msgid "Abdullah Bag"
+msgstr ""
+
+#: places/BD.php:19
+msgid "Abujar Bafari Gali"
+msgstr ""
+
+#: places/BD.php:20
+msgid "Abul Hotel"
+msgstr ""
+
+#: places/BD.php:21
+msgid "Addin Hospital"
+msgstr ""
+
+#: places/BD.php:22
+msgid "Adorsho Nagor"
+msgstr ""
+
+#: places/BD.php:23
+msgid "Aftab Nagor Block A To G"
+msgstr ""
+
+#: places/BD.php:24
+msgid "Agora"
+msgstr ""
+
+#: places/BD.php:25
+msgid "Alen Bari"
+msgstr ""
+
+#: places/BD.php:26
+msgid "Arambag"
+msgstr ""
+
+#: places/BD.php:27
+msgid "Arjot Para"
+msgstr ""
+
+#: places/BD.php:28
+msgid "Ashalota, Bonolota"
+msgstr ""
+
+#: places/BD.php:29
+msgid "Aurongojeb Road"
+msgstr ""
+
+#: places/BD.php:30
+msgid "Baf Shaheen College/Jahangir Gate"
+msgstr ""
+
+#: places/BD.php:31
+msgid "Baganbari"
+msgstr ""
+
+#: places/BD.php:32
+msgid "Banani "
+msgstr ""
+
+#: places/BD.php:33
+msgid "Banani 1"
+msgstr ""
+
+#: places/BD.php:34
+msgid "Banani 11"
+msgstr ""
+
+#: places/BD.php:35
+msgid "Banani 17"
+msgstr ""
+
+#: places/BD.php:36
+msgid "Banani 2"
+msgstr ""
+
+#: places/BD.php:37
+msgid "Banani 21"
+msgstr ""
+
+#: places/BD.php:38
+msgid "Banani 23"
+msgstr ""
+
+#: places/BD.php:39
+msgid "Banani 27"
+msgstr ""
+
+#: places/BD.php:40
+msgid "Banani 8"
+msgstr ""
+
+#: places/BD.php:41
+msgid "Banani Chairman Bari"
+msgstr ""
+
+#: places/BD.php:42
+msgid "Banani Dohs"
+msgstr ""
+
+#: places/BD.php:43
+msgid "Bangshal"
+msgstr ""
+
+#: places/BD.php:44
+msgid "Bashtola"
+msgstr ""
+
+#: places/BD.php:45
+msgid "Bashundhara Block  A To L"
+msgstr ""
+
+#: places/BD.php:46
+msgid "Bata Gali"
+msgstr ""
+
+#: places/BD.php:47
+msgid "Begun Bari "
+msgstr ""
+
+#: places/BD.php:48
+msgid "Bepari Gali"
+msgstr ""
+
+#: places/BD.php:49
+msgid "Bg Press"
+msgstr ""
+
+#: places/BD.php:50
+msgid "Bhauya Para"
+msgstr ""
+
+#: places/BD.php:51
+msgid "Biam Auditorium"
+msgstr ""
+
+#: places/BD.php:52 places/BD.php:526
+msgid "Bibirbagicha"
+msgstr ""
+
+#: places/BD.php:53
+msgid "Bongsal"
+msgstr ""
+
+#: places/BD.php:54
+msgid "Dhoar"
+msgstr ""
+
+#: places/BD.php:55
+msgid "Boro Moghbazar"
+msgstr ""
+
+#: places/BD.php:56
+msgid "Center Point"
+msgstr ""
+
+#: places/BD.php:57
+msgid "Chairman Gali"
+msgstr ""
+
+#: places/BD.php:58
+msgid "Channel 24"
+msgstr ""
+
+#: places/BD.php:59
+msgid "Christian Para"
+msgstr ""
+
+#: places/BD.php:60
+msgid "Cid Office"
+msgstr ""
+
+#: places/BD.php:61
+msgid "Comilla Para"
+msgstr ""
+
+#: places/BD.php:62
+msgid "Dalibari Kachabazar"
+msgstr ""
+
+#: places/BD.php:63 places/BD.php:522
+msgid "Demra"
+msgstr ""
+
+#: places/BD.php:64
+msgid "Dillu Road"
+msgstr ""
+
+#: places/BD.php:65
+msgid "Diplomatic Zone"
+msgstr ""
+
+#: places/BD.php:66
+msgid "Dit Project"
+msgstr ""
+
+#: places/BD.php:67
+msgid "Dnc Staff Quarter"
+msgstr ""
+
+#: places/BD.php:68
+msgid "Doctor Goli"
+msgstr ""
+
+#: places/BD.php:69
+msgid "Dokkhin Para"
+msgstr ""
+
+#: places/BD.php:70
+msgid "East Goran"
+msgstr ""
+
+#: places/BD.php:71
+msgid "East Nakhal Para"
+msgstr ""
+
+#: places/BD.php:72
+msgid "East Noyatola"
+msgstr ""
+
+#: places/BD.php:73
+msgid "East Rumpura"
+msgstr ""
+
+#: places/BD.php:74
+msgid "Eskaton"
+msgstr ""
+
+#: places/BD.php:75
+msgid "Fasertake"
+msgstr ""
+
+#: places/BD.php:76
+msgid "Gm Bari"
+msgstr ""
+
+#: places/BD.php:77
+msgid "Goran"
+msgstr ""
+
+#: places/BD.php:78
+msgid "Graveyard Road"
+msgstr ""
+
+#: places/BD.php:79
+msgid "Green Way"
+msgstr ""
+
+#: places/BD.php:80
+msgid "Gudara Ghat"
+msgstr ""
+
+#: places/BD.php:81
+msgid "Old Dhaka"
+msgstr ""
+
+#: places/BD.php:82
+msgid "Gulbag"
+msgstr ""
+
+#: places/BD.php:83
+msgid "Gulshan"
+msgstr ""
+
+#: places/BD.php:84
+msgid "Gulshan 1"
+msgstr ""
+
+#: places/BD.php:85
+msgid "Gulshan 2"
+msgstr ""
+
+#: places/BD.php:86
+msgid "Gulshan Arong"
+msgstr ""
+
+#: places/BD.php:87
+msgid "Gulshan Avenue"
+msgstr ""
+
+#: places/BD.php:88
+msgid "Gupi Para"
+msgstr ""
+
+#: places/BD.php:89
+msgid "Hazari Bari"
+msgstr ""
+
+#: places/BD.php:90
+msgid "Imam Bag"
+msgstr ""
+
+#: places/BD.php:91
+msgid "Jagonnath Pur"
+msgstr ""
+
+#: places/BD.php:92
+msgid "Jourshara And Lichu Bagan"
+msgstr ""
+
+#: places/BD.php:93 places/BD.php:524
+msgid "Jurain"
+msgstr ""
+
+#: places/BD.php:94 places/BD.php:525
+msgid "Kajla"
+msgstr ""
+
+#: places/BD.php:95
+msgid "Kakoli"
+msgstr ""
+
+#: places/BD.php:96
+msgid "Kalachad Pur And Norda"
+msgstr ""
+
+#: places/BD.php:97
+msgid "Kazi Office R Gali"
+msgstr ""
+
+#: places/BD.php:98
+msgid "Kemal Ataturk Avenue"
+msgstr ""
+
+#: places/BD.php:99
+msgid "Khilbarir Take"
+msgstr ""
+
+#: places/BD.php:100
+msgid "Khilgaon"
+msgstr ""
+
+#: places/BD.php:101
+msgid "Khilgaon Block A"
+msgstr ""
+
+#: places/BD.php:102
+msgid "Khilgaon Block B"
+msgstr ""
+
+#: places/BD.php:103
+msgid "Khilgaon Block C"
+msgstr ""
+
+#: places/BD.php:104
+msgid "Krishi Market"
+msgstr ""
+
+#: places/BD.php:105
+msgid "Kuni Para"
+msgstr ""
+
+#: places/BD.php:106
+msgid "Kunipara"
+msgstr ""
+
+#: places/BD.php:107
+msgid "Kuril Bisso Road"
+msgstr ""
+
+#: places/BD.php:108
+msgid "Kuril Chaurasta"
+msgstr ""
+
+#: places/BD.php:109
+msgid "Kuril Ghatpar"
+msgstr ""
+
+#: places/BD.php:110
+msgid "Lalbag"
+msgstr ""
+
+#: places/BD.php:111
+msgid "Lalmatia"
+msgstr ""
+
+#: places/BD.php:112
+msgid "Link Road"
+msgstr ""
+
+#: places/BD.php:113
+msgid "Lukaser Mor"
+msgstr ""
+
+#: places/BD.php:114
+msgid "Maasranga Television"
+msgstr ""
+
+#: places/BD.php:115
+msgid "Mailbag 1st Line"
+msgstr ""
+
+#: places/BD.php:116
+msgid "Malibag"
+msgstr ""
+
+#: places/BD.php:117
+msgid "Malibag Chowdhuripara"
+msgstr ""
+
+#: places/BD.php:118
+msgid "Malitola"
+msgstr ""
+
+#: places/BD.php:119
+msgid "Marul Badda"
+msgstr ""
+
+#: places/BD.php:120
+msgid "Mirbag"
+msgstr ""
+
+#: places/BD.php:121
+msgid "Mogbazar"
+msgstr ""
+
+#: places/BD.php:122
+msgid "Mohakhali Bus Terminal"
+msgstr ""
+
+#: places/BD.php:123
+msgid "Mohammadia Housing Limited"
+msgstr ""
+
+#: places/BD.php:124
+msgid "Mohammadia Housing Ltd"
+msgstr ""
+
+#: places/BD.php:125 places/BD.php:929
+msgid "Mohammadpur"
+msgstr ""
+
+#: places/BD.php:126
+msgid "Mohanagor Project"
+msgstr ""
+
+#: places/BD.php:127
+msgid "Moinar Bag"
+msgstr ""
+
+#: places/BD.php:128
+msgid "Monipuripara"
+msgstr ""
+
+#: places/BD.php:129
+msgid "Motijheel"
+msgstr ""
+
+#: places/BD.php:130
+msgid "Mouchak"
+msgstr ""
+
+#: places/BD.php:131
+msgid "Navy Headquarters"
+msgstr ""
+
+#: places/BD.php:132
+msgid "Nazimuddir Road"
+msgstr ""
+
+#: places/BD.php:133
+msgid "Newmarket"
+msgstr ""
+
+#: places/BD.php:134
+msgid "Nijhum Officers Quarters"
+msgstr ""
+
+#: places/BD.php:135
+msgid "Niketon"
+msgstr ""
+
+#: places/BD.php:136
+msgid "Nobin Bag"
+msgstr ""
+
+#: places/BD.php:137
+msgid "Nobodoy Housing Ltd"
+msgstr ""
+
+#: places/BD.php:138
+msgid "North Goran"
+msgstr ""
+
+#: places/BD.php:139
+msgid "Notun Bag"
+msgstr ""
+
+#: places/BD.php:140
+msgid "Nurjahan Road"
+msgstr ""
+
+#: places/BD.php:141
+msgid "Paglamajar Gali"
+msgstr ""
+
+#: places/BD.php:142
+msgid "Pakistan Embassy"
+msgstr ""
+
+#: places/BD.php:143
+msgid "Panthapath"
+msgstr ""
+
+#: places/BD.php:144
+msgid "Pc Culture Housing"
+msgstr ""
+
+#: places/BD.php:145
+msgid "Police Plaza"
+msgstr ""
+
+#: places/BD.php:146
+msgid "Post Office Road"
+msgstr ""
+
+#: places/BD.php:147 places/BD.php:523
+msgid "Postogola"
+msgstr ""
+
+#: places/BD.php:148
+msgid "Prime Minister Office"
+msgstr ""
+
+#: places/BD.php:149
+msgid "Prodan Muntri Karjaloy"
+msgstr ""
+
+#: places/BD.php:150
+msgid "Provati Bag"
+msgstr ""
+
+#: places/BD.php:151
+msgid "Purba Anchol Road"
+msgstr ""
+
+#: places/BD.php:152
+msgid "Qatwali"
+msgstr ""
+
+#: places/BD.php:153
+msgid "Radisson Water Blu Hotel"
+msgstr ""
+
+#: places/BD.php:154
+msgid "Rajabazar"
+msgstr ""
+
+#: places/BD.php:155
+msgid "Rampura Banassre"
+msgstr ""
+
+#: places/BD.php:156
+msgid "Rampura Bazar"
+msgstr ""
+
+#: places/BD.php:157
+msgid "Rampura Hazipara"
+msgstr ""
+
+#: places/BD.php:158
+msgid "Rangs Vaban"
+msgstr ""
+
+#: places/BD.php:159
+msgid "Razia Sultana Road"
+msgstr ""
+
+#: places/BD.php:160
+msgid "Riaz Bag"
+msgstr ""
+
+#: places/BD.php:161
+msgid "Roma Century "
+msgstr ""
+
+#: places/BD.php:162
+msgid "Rosulbag"
+msgstr ""
+
+#: places/BD.php:163
+msgid "Sadhinata Tower"
+msgstr ""
+
+#: places/BD.php:164
+msgid "Santibag"
+msgstr ""
+
+#: places/BD.php:165
+msgid "Satrasta"
+msgstr ""
+
+#: places/BD.php:166
+msgid "Satta Gali"
+msgstr ""
+
+#: places/BD.php:167
+msgid "Sayed Nagor"
+msgstr ""
+
+#: places/BD.php:168
+msgid "Shadhinota Sharoni"
+msgstr ""
+
+#: places/BD.php:169
+msgid "Shahbag"
+msgstr ""
+
+#: places/BD.php:170
+msgid "Shahidbag"
+msgstr ""
+
+#: places/BD.php:171
+msgid "Shankar"
+msgstr ""
+
+#: places/BD.php:172
+msgid "Shanti Niketon"
+msgstr ""
+
+#: places/BD.php:173
+msgid "Shatar Kul"
+msgstr ""
+
+#: places/BD.php:174
+msgid "Shekerteak"
+msgstr ""
+
+#: places/BD.php:175
+msgid "Sheron Bag"
+msgstr ""
+
+#: places/BD.php:176
+msgid "Shersah Suri Road"
+msgstr ""
+
+#: places/BD.php:177
+msgid "Shubastu Najor Velly"
+msgstr ""
+
+#: places/BD.php:178
+msgid "Shyamoli"
+msgstr ""
+
+#: places/BD.php:179
+msgid "Siddiq Master Dhal"
+msgstr ""
+
+#: places/BD.php:180
+msgid "Sipahi Bag"
+msgstr ""
+
+#: places/BD.php:181
+msgid "Sismohol"
+msgstr ""
+
+#: places/BD.php:182
+msgid "Soilmaid"
+msgstr ""
+
+#: places/BD.php:183
+msgid "Soinik Club"
+msgstr ""
+
+#: places/BD.php:184
+msgid "South Badda"
+msgstr ""
+
+#: places/BD.php:185
+msgid "South Banassre"
+msgstr ""
+
+#: places/BD.php:186
+msgid "South Goran"
+msgstr ""
+
+#: places/BD.php:187
+msgid "Sukrabad"
+msgstr ""
+
+#: places/BD.php:188
+msgid "Sur Soyad Road"
+msgstr ""
+
+#: places/BD.php:189
+msgid "T&T Colony"
+msgstr ""
+
+#: places/BD.php:190
+msgid "T&T Gali"
+msgstr ""
+
+#: places/BD.php:191
+msgid "Tajmahal Road"
+msgstr ""
+
+#: places/BD.php:192
+msgid "Taltola"
+msgstr ""
+
+#: places/BD.php:193
+msgid "Tejgaon Industrial Area"
+msgstr ""
+
+#: places/BD.php:194
+msgid "Tejgaon Link Road"
+msgstr ""
+
+#: places/BD.php:195
+msgid "Tejgaon Truck Stand"
+msgstr ""
+
+#: places/BD.php:196
+msgid "Tibet"
+msgstr ""
+
+#: places/BD.php:197
+msgid "Town Hall"
+msgstr ""
+
+#: places/BD.php:198
+msgid "Truck Stand"
+msgstr ""
+
+#: places/BD.php:199
+msgid "United Hospital "
+msgstr ""
+
+#: places/BD.php:200
+msgid "Uttorpara"
+msgstr ""
+
+#: places/BD.php:201
+msgid "Vatara"
+msgstr ""
+
+#: places/BD.php:202
+msgid "Vodro Gali"
+msgstr ""
+
+#: places/BD.php:203
+msgid "Vootergoli"
+msgstr ""
+
+#: places/BD.php:204
+msgid "West Mailbag"
+msgstr ""
+
+#: places/BD.php:205
+msgid "West Nakhal Para"
+msgstr ""
+
+#: places/BD.php:206
+msgid "West Panthapath"
+msgstr ""
+
+#: places/BD.php:207
+msgid "West Rumpura"
+msgstr ""
+
+#: places/BD.php:208
+msgid "Wreless Gate"
+msgstr ""
+
+#: places/BD.php:209
+msgid "Zigatala"
+msgstr ""
+
+#: places/BD.php:210 places/BD.php:271
+msgid "Baridhara"
+msgstr ""
+
+#: places/BD.php:211
+msgid "Rampura"
+msgstr ""
+
+#: places/BD.php:212
+msgid "Banasree"
+msgstr ""
+
+#: places/BD.php:213
+msgid "Bashabo"
+msgstr ""
+
+#: places/BD.php:214
+msgid "Moghbazar"
+msgstr ""
+
+#: places/BD.php:215
+msgid "Tejgaon"
+msgstr ""
+
+#: places/BD.php:216
+msgid "Mohakhali"
+msgstr ""
+
+#: places/BD.php:217
+msgid "Mohakhali Dohs"
+msgstr ""
+
+#: places/BD.php:218
+msgid "Banani"
+msgstr ""
+
+#: places/BD.php:219
+msgid "Bashundhara R/A"
+msgstr ""
+
+#: places/BD.php:220
+msgid "Notun Bazar"
+msgstr ""
+
+#: places/BD.php:221 places/BD.php:1033
+msgid "Shahjadpur"
+msgstr ""
+
+#: places/BD.php:222
+msgid "Norda"
+msgstr ""
+
+#: places/BD.php:223
+msgid "Nakhalpara"
+msgstr ""
+
+#: places/BD.php:224
+msgid "Farmgate"
+msgstr ""
+
+#: places/BD.php:225
+msgid "Azimpur"
+msgstr ""
+
+#: places/BD.php:226
+msgid "Dhaka University"
+msgstr ""
+
+#: places/BD.php:227
+msgid "Kalabagan"
+msgstr ""
+
+#: places/BD.php:228
+msgid "Elephant Road"
+msgstr ""
+
+#: places/BD.php:229
+msgid "Asad Gate"
+msgstr ""
+
+#: places/BD.php:230
+msgid "Hazaribag"
+msgstr ""
+
+#: places/BD.php:231
+msgid "Adabar"
+msgstr ""
+
+#: places/BD.php:232
+msgid "Chankharpul"
+msgstr ""
+
+#: places/BD.php:233
+msgid "Nazimuddin Road"
+msgstr ""
+
+#: places/BD.php:234
+msgid "Kamrangirchor"
+msgstr ""
+
+#: places/BD.php:235
+msgid "Jatrabari"
+msgstr ""
+
+#: places/BD.php:236
+msgid "Shantinagar"
+msgstr ""
+
+#: places/BD.php:237
+msgid "Mugdapara"
+msgstr ""
+
+#: places/BD.php:238
+msgid "Chakbazar"
+msgstr ""
+
+#: places/BD.php:239
+msgid "Maniknagar"
+msgstr ""
+
+#: places/BD.php:240
+msgid "Kamalapur"
+msgstr ""
+
+#: places/BD.php:241
+msgid "Golapbag"
+msgstr ""
+
+#: places/BD.php:242
+msgid "Paltan"
+msgstr ""
+
+#: places/BD.php:243
+msgid "Gopibag"
+msgstr ""
+
+#: places/BD.php:244
+msgid "Kakrail"
+msgstr ""
+
+#: places/BD.php:245
+msgid "Tikatuli"
+msgstr ""
+
+#: places/BD.php:246
+msgid "Shonir Akhra"
+msgstr ""
+
+#: places/BD.php:247
+msgid "Gendaria"
+msgstr ""
+
+#: places/BD.php:248 places/BD.php:367 places/BD.php:925
+msgid "Mirpur"
+msgstr ""
+
+#: places/BD.php:249
+msgid "Mirpur 1"
+msgstr ""
+
+#: places/BD.php:250
+msgid "Mirpur 2"
+msgstr ""
+
+#: places/BD.php:251
+msgid "Mirpur 6"
+msgstr ""
+
+#: places/BD.php:252
+msgid "Mirpur 7"
+msgstr ""
+
+#: places/BD.php:253
+msgid "Mirpur 11"
+msgstr ""
+
+#: places/BD.php:254
+msgid "Mirpur 12"
+msgstr ""
+
+#: places/BD.php:255
+msgid "Mirpur Dohs"
+msgstr ""
+
+#: places/BD.php:256
+msgid "Mirpur 10"
+msgstr ""
+
+#: places/BD.php:257
+msgid "Mirpur 13"
+msgstr ""
+
+#: places/BD.php:258
+msgid "Mirpur 14"
+msgstr ""
+
+#: places/BD.php:259
+msgid "Kalshi"
+msgstr ""
+
+#: places/BD.php:260
+msgid "Agargaon"
+msgstr ""
+
+#: places/BD.php:261
+msgid "Shewrapara"
+msgstr ""
+
+#: places/BD.php:262
+msgid "Kazipara"
+msgstr ""
+
+#: places/BD.php:263
+msgid "Mirpur Cantonment"
+msgstr ""
+
+#: places/BD.php:264
+msgid "Kallaynnpur"
+msgstr ""
+
+#: places/BD.php:265
+msgid "Darus Salam"
+msgstr ""
+
+#: places/BD.php:266
+msgid "Azampur"
+msgstr ""
+
+#: places/BD.php:267
+msgid "Nikunjo 1"
+msgstr ""
+
+#: places/BD.php:268
+msgid "Khilkhet"
+msgstr ""
+
+#: places/BD.php:269
+msgid "Uttar Khan/Dakkhin Khan"
+msgstr ""
+
+#: places/BD.php:270
+msgid "Kafrul"
+msgstr ""
+
+#: places/BD.php:272
+msgid "Baridhara Dohs"
+msgstr ""
+
+#: places/BD.php:273
+msgid "Baridhara Block-J"
+msgstr ""
+
+#: places/BD.php:274
+msgid "Shajadpur East"
+msgstr ""
+
+#: places/BD.php:275
+msgid "Kuril"
+msgstr ""
+
+#: places/BD.php:276
+msgid "Shipahibag"
+msgstr ""
+
+#: places/BD.php:277
+msgid "Meradia"
+msgstr ""
+
+#: places/BD.php:278
+msgid "Dhanmondi"
+msgstr ""
+
+#: places/BD.php:279
+msgid "Dhanmondi 9a"
+msgstr ""
+
+#: places/BD.php:280
+msgid "Dhanmondi R/A"
+msgstr ""
+
+#: places/BD.php:281
+msgid "Dhanmondi 9"
+msgstr ""
+
+#: places/BD.php:282
+msgid "Dhanmondi 8a"
+msgstr ""
+
+#: places/BD.php:283
+msgid "Dhanmondi 8"
+msgstr ""
+
+#: places/BD.php:284
+msgid "Dhanmondi 1"
+msgstr ""
+
+#: places/BD.php:285
+msgid "Dhanmondi 2"
+msgstr ""
+
+#: places/BD.php:286
+msgid "Dhanmondi 11a"
+msgstr ""
+
+#: places/BD.php:287
+msgid "Dhanmondi 12a"
+msgstr ""
+
+#: places/BD.php:288
+msgid "Dhanmondi 10a"
+msgstr ""
+
+#: places/BD.php:289
+msgid "Dhanmondi 1a"
+msgstr ""
+
+#: places/BD.php:290
+msgid "Dhanmondi 2a"
+msgstr ""
+
+#: places/BD.php:291
+msgid "Dhanmondi 3"
+msgstr ""
+
+#: places/BD.php:292
+msgid "Dhanmondi 4"
+msgstr ""
+
+#: places/BD.php:293
+msgid "Dhanmondi 3a"
+msgstr ""
+
+#: places/BD.php:294
+msgid "Dhanmondi 4a"
+msgstr ""
+
+#: places/BD.php:295
+msgid "Dhanmondi 5a"
+msgstr ""
+
+#: places/BD.php:296
+msgid "Dhanmondi 5"
+msgstr ""
+
+#: places/BD.php:297
+msgid "Dhanmondi 6"
+msgstr ""
+
+#: places/BD.php:298
+msgid "Dhanmondi 6a"
+msgstr ""
+
+#: places/BD.php:299
+msgid "Dhanmondi 7"
+msgstr ""
+
+#: places/BD.php:300
+msgid "Dhanmondi 7a"
+msgstr ""
+
+#: places/BD.php:301
+msgid "Dhanmondi 10"
+msgstr ""
+
+#: places/BD.php:302
+msgid "Dhanmondi 11"
+msgstr ""
+
+#: places/BD.php:303
+msgid "Dhanmondi 12"
+msgstr ""
+
+#: places/BD.php:304
+msgid "Dhanmondi 13"
+msgstr ""
+
+#: places/BD.php:305
+msgid "Dhanmondi 16"
+msgstr ""
+
+#: places/BD.php:306
+msgid "Dhanmondi 13a"
+msgstr ""
+
+#: places/BD.php:307
+msgid "Dhanmondi 14a"
+msgstr ""
+
+#: places/BD.php:308
+msgid "Dahnmondi 15a"
+msgstr ""
+
+#: places/BD.php:309
+msgid "Dhanmondi 14"
+msgstr ""
+
+#: places/BD.php:310
+msgid "Dhanmondi 15"
+msgstr ""
+
+#: places/BD.php:311
+msgid "Dhanmondi 27"
+msgstr ""
+
+#: places/BD.php:312
+msgid "Dhanmondi 31"
+msgstr ""
+
+#: places/BD.php:313
+msgid "Dhanmondi 30"
+msgstr ""
+
+#: places/BD.php:314
+msgid "Dhanmondi 32"
+msgstr ""
+
+#: places/BD.php:315
+msgid "Green Road"
+msgstr ""
+
+#: places/BD.php:316
+msgid "Vasan Tek"
+msgstr ""
+
+#: places/BD.php:317
+msgid "Jakir Hussain Road"
+msgstr ""
+
+#: places/BD.php:318
+msgid "Senpara"
+msgstr ""
+
+#: places/BD.php:319
+msgid "Bais Teki"
+msgstr ""
+
+#: places/BD.php:320
+msgid "Kochukhet"
+msgstr ""
+
+#: places/BD.php:321
+msgid "Ibrahimpur"
+msgstr ""
+
+#: places/BD.php:322
+msgid "Balughat"
+msgstr ""
+
+#: places/BD.php:323
+msgid "Matikata"
+msgstr ""
+
+#: places/BD.php:324
+msgid "Janata Housing"
+msgstr ""
+
+#: places/BD.php:325
+msgid "Eastern Housing"
+msgstr ""
+
+#: places/BD.php:326
+msgid "Pallabi"
+msgstr ""
+
+#: places/BD.php:327
+msgid "Rupnagor"
+msgstr ""
+
+#: places/BD.php:328
+msgid "Ahamedbag"
+msgstr ""
+
+#: places/BD.php:329
+msgid "Tolarbag"
+msgstr ""
+
+#: places/BD.php:330
+msgid "Ansar Camp"
+msgstr ""
+
+#: places/BD.php:331
+msgid "Golarteak"
+msgstr ""
+
+#: places/BD.php:332
+msgid "Pirerbag"
+msgstr ""
+
+#: places/BD.php:333
+msgid "Paikpara"
+msgstr ""
+
+#: places/BD.php:334
+msgid "Mazar Road"
+msgstr ""
+
+#: places/BD.php:335
+msgid "Uttara"
+msgstr ""
+
+#: places/BD.php:336
+msgid "Uttara Sector 1"
+msgstr ""
+
+#: places/BD.php:337
+msgid "Uttara Sector 3"
+msgstr ""
+
+#: places/BD.php:338
+msgid "Uttara Sector 4"
+msgstr ""
+
+#: places/BD.php:339
+msgid "Uttara Sector 5"
+msgstr ""
+
+#: places/BD.php:340
+msgid "Uttara Sector 6"
+msgstr ""
+
+#: places/BD.php:341
+msgid "Uttara Sector 8"
+msgstr ""
+
+#: places/BD.php:342
+msgid "Uttara Sector 7"
+msgstr ""
+
+#: places/BD.php:343
+msgid "Uttara Sector 9"
+msgstr ""
+
+#: places/BD.php:344
+msgid "Uttara Sector 10"
+msgstr ""
+
+#: places/BD.php:345
+msgid "Uttara Sector 11"
+msgstr ""
+
+#: places/BD.php:346
+msgid "Uttara Sector 12"
+msgstr ""
+
+#: places/BD.php:347
+msgid "Uttara Sector 13"
+msgstr ""
+
+#: places/BD.php:348
+msgid "Uttara Sector 14"
+msgstr ""
+
+#: places/BD.php:349
+msgid "Uttara Jasimuddin"
+msgstr ""
+
+#: places/BD.php:350
+msgid "Lake City"
+msgstr ""
+
+#: places/BD.php:351
+msgid "Ashkona"
+msgstr ""
+
+#: places/BD.php:352
+msgid "Nondipara"
+msgstr ""
+
+#: places/BD.php:353
+msgid "Wari"
+msgstr ""
+
+#: places/BD.php:354
+msgid "Foridabad"
+msgstr ""
+
+#: places/BD.php:355
+msgid "Sadarghat"
+msgstr ""
+
+#: places/BD.php:356
+msgid "Gulistan"
+msgstr ""
+
+#: places/BD.php:357
+msgid "Nawabpur"
+msgstr ""
+
+#: places/BD.php:358
+msgid "Lakshmibazar"
+msgstr ""
+
+#: places/BD.php:359 places/BD.php:961
+msgid "Shajahanpur"
+msgstr ""
+
+#: places/BD.php:360
+msgid "Shutrapur"
+msgstr ""
+
+#: places/BD.php:361
+msgid "Fokirapool"
+msgstr ""
+
+#: places/BD.php:362
+msgid "Hazipara"
+msgstr ""
+
+#: places/BD.php:363
+msgid "Baily Road"
+msgstr ""
+
+#: places/BD.php:364
+msgid "Shaheenbag"
+msgstr ""
+
+#: places/BD.php:365
+msgid "Rajarbag"
+msgstr ""
+
+#: places/BD.php:366
+msgid "Abdullahpur"
+msgstr ""
+
+#: places/BD.php:368
+msgid "Badda"
+msgstr ""
+
+#: places/BD.php:369
+msgid "Middle Badda"
+msgstr ""
+
+#: places/BD.php:370
+msgid "North Badda"
+msgstr ""
+
+#: places/BD.php:371
+msgid "Bordhon Bari"
+msgstr ""
+
+#: places/BD.php:372
+msgid "West Rampura"
+msgstr ""
+
+#: places/BD.php:373
+msgid "Kalachandpur"
+msgstr ""
+
+#: places/BD.php:374
+msgid "Nurerchala"
+msgstr ""
+
+#: places/BD.php:375
+msgid "Gopipara"
+msgstr ""
+
+#: places/BD.php:376 places/BD.php:984
+msgid "Manda"
+msgstr ""
+
+#: places/BD.php:377
+msgid "Bongshal"
+msgstr ""
+
+#: places/BD.php:378
+msgid "Bashundhara 300ft"
+msgstr ""
+
+#: places/BD.php:379
+msgid "Kaderabad Housing"
+msgstr ""
+
+#: places/BD.php:380
+msgid "Chan Mia Housing"
+msgstr ""
+
+#: places/BD.php:381
+msgid "Mohanogor Project"
+msgstr ""
+
+#: places/BD.php:382
+msgid "Dhanmondi 28"
+msgstr ""
+
+#: places/BD.php:383
+msgid "Dhaka Housing"
+msgstr ""
+
+#: places/BD.php:384
+msgid "Iqbal Road"
+msgstr ""
+
+#: places/BD.php:385
+msgid "Asad Avenue"
+msgstr ""
+
+#: places/BD.php:386
+msgid "Aziz Mohollah"
+msgstr ""
+
+#: places/BD.php:387
+msgid "Babar Road"
+msgstr ""
+
+#: places/BD.php:388
+msgid "Old Airport Road"
+msgstr ""
+
+#: places/BD.php:389
+msgid "Bfdc Mor"
+msgstr ""
+
+#: places/BD.php:390
+msgid "Shahjanpur"
+msgstr ""
+
+#: places/BD.php:391
+msgid "Shonargoan"
+msgstr ""
+
+#: places/BD.php:392
+msgid "Tejturi Bazar"
+msgstr ""
+
+#: places/BD.php:393
+msgid "Kawran Bazar"
+msgstr ""
+
+#: places/BD.php:394
+msgid "Fdc"
+msgstr ""
+
+#: places/BD.php:395
+msgid "Noyatola"
+msgstr ""
+
+#: places/BD.php:396
+msgid "Peyarabag"
+msgstr ""
+
+#: places/BD.php:397
+msgid "Pollima"
+msgstr ""
+
+#: places/BD.php:398
+msgid "Ansar Camp(Moghbazar)"
+msgstr ""
+
+#: places/BD.php:399
+msgid "Khilgaon Taltola"
+msgstr ""
+
+#: places/BD.php:400
+msgid "Tilpa Para"
+msgstr ""
+
+#: places/BD.php:401
+msgid "Modhubag"
+msgstr ""
+
+#: places/BD.php:402
+msgid "Ulon"
+msgstr ""
+
+#: places/BD.php:403
+msgid "Aftab Nagar"
+msgstr ""
+
+#: places/BD.php:404
+msgid "Shatarkul"
+msgstr ""
+
+#: places/BD.php:405
+msgid "Jamuna Future Park"
+msgstr ""
+
+#: places/BD.php:406
+msgid "Aziz Sarani"
+msgstr ""
+
+#: places/BD.php:407
+msgid "Coca-Cola"
+msgstr ""
+
+#: places/BD.php:408
+msgid "Apollo Hospital"
+msgstr ""
+
+#: places/BD.php:409
+msgid "Shoinik Club"
+msgstr ""
+
+#: places/BD.php:410
+msgid "Bangladesh Betar"
+msgstr ""
+
+#: places/BD.php:411
+msgid "Monipur"
+msgstr ""
+
+#: places/BD.php:412
+msgid "Sony Cienema Hall"
+msgstr ""
+
+#: places/BD.php:413
+msgid "South Bishil"
+msgstr ""
+
+#: places/BD.php:414
+msgid "Bangla College"
+msgstr ""
+
+#: places/BD.php:415
+msgid "Tolar Bag"
+msgstr ""
+
+#: places/BD.php:416
+msgid "Technical"
+msgstr ""
+
+#: places/BD.php:417
+msgid "Gabtoli"
+msgstr ""
+
+#: places/BD.php:418
+msgid "Nikunjo 2"
+msgstr ""
+
+#: places/BD.php:419
+msgid "Namapara"
+msgstr ""
+
+#: places/BD.php:420
+msgid "Pink City"
+msgstr ""
+
+#: places/BD.php:421
+msgid "Kawla"
+msgstr ""
+
+#: places/BD.php:422
+msgid "Airport"
+msgstr ""
+
+#: places/BD.php:423
+msgid "Haji Camp"
+msgstr ""
+
+#: places/BD.php:424
+msgid "Koshai Bari"
+msgstr ""
+
+#: places/BD.php:425
+msgid "Mollar Tek"
+msgstr ""
+
+#: places/BD.php:426
+msgid "Prem Bagan"
+msgstr ""
+
+#: places/BD.php:427
+msgid "Gawair"
+msgstr ""
+
+#: places/BD.php:428
+msgid "Azampur Kacha Bazar"
+msgstr ""
+
+#: places/BD.php:429
+msgid "Chalabon"
+msgstr ""
+
+#: places/BD.php:430
+msgid "Rajlakhsmi"
+msgstr ""
+
+#: places/BD.php:431
+msgid "House Building"
+msgstr ""
+
+#: places/BD.php:432
+msgid "Diya Bari"
+msgstr ""
+
+#: places/BD.php:433
+msgid "Uttara Residential Model Town"
+msgstr ""
+
+#: places/BD.php:434
+msgid "Faydabad"
+msgstr ""
+
+#: places/BD.php:435
+msgid "Kamarpara"
+msgstr ""
+
+#: places/BD.php:436
+msgid "Baitul Aman Housing"
+msgstr ""
+
+#: places/BD.php:437
+msgid "Bashbari"
+msgstr ""
+
+#: places/BD.php:438
+msgid "Chand Uddan"
+msgstr ""
+
+#: places/BD.php:439
+msgid "Geneva Camp"
+msgstr ""
+
+#: places/BD.php:440
+msgid "Humayun Road"
+msgstr ""
+
+#: places/BD.php:441
+msgid "Solimullah Road"
+msgstr ""
+
+#: places/BD.php:442
+msgid "Sher Shah Suri Road"
+msgstr ""
+
+#: places/BD.php:443
+msgid "Jafrabad"
+msgstr ""
+
+#: places/BD.php:444
+msgid "Katasur"
+msgstr ""
+
+#: places/BD.php:445
+msgid "Mohammadpur Thana (New)"
+msgstr ""
+
+#: places/BD.php:446
+msgid "Rayer Bazar"
+msgstr ""
+
+#: places/BD.php:447
+msgid "Modhu Bazar"
+msgstr ""
+
+#: places/BD.php:448
+msgid "Khamar Bari"
+msgstr ""
+
+#: places/BD.php:449
+msgid "Manik Mia Avenue"
+msgstr ""
+
+#: places/BD.php:450
+msgid "Sobhanbag"
+msgstr ""
+
+#: places/BD.php:451
+msgid "Tallabag"
+msgstr ""
+
+#: places/BD.php:452
+msgid "West Razabazar"
+msgstr ""
+
+#: places/BD.php:453
+msgid "Indira Road"
+msgstr ""
+
+#: places/BD.php:454
+msgid "East Razabazar"
+msgstr ""
+
+#: places/BD.php:455
+msgid "Kathalbagan"
+msgstr ""
+
+#: places/BD.php:456
+msgid "Cresent Road"
+msgstr ""
+
+#: places/BD.php:457
+msgid "North Road"
+msgstr ""
+
+#: places/BD.php:458
+msgid "Central Road"
+msgstr ""
+
+#: places/BD.php:459
+msgid "Hatirpool"
+msgstr ""
+
+#: places/BD.php:460
+msgid "Paribag"
+msgstr ""
+
+#: places/BD.php:461
+msgid "Science Lab"
+msgstr ""
+
+#: places/BD.php:462
+msgid "Nilkhet"
+msgstr ""
+
+#: places/BD.php:463
+msgid "Pilkhana"
+msgstr ""
+
+#: places/BD.php:464
+msgid "Gonok Tuli"
+msgstr ""
+
+#: places/BD.php:465
+msgid "Borhanpur"
+msgstr ""
+
+#: places/BD.php:466
+msgid "Polashi"
+msgstr ""
+
+#: places/BD.php:467
+msgid "Bakshi Bazar"
+msgstr ""
+
+#: places/BD.php:468
+msgid "Baridhara Diplomatic"
+msgstr ""
+
+#: places/BD.php:469
+msgid "Tb Gate"
+msgstr ""
+
+#: places/BD.php:470
+msgid "Rasulbag"
+msgstr ""
+
+#: places/BD.php:471
+msgid "Amtoli"
+msgstr ""
+
+#: places/BD.php:472
+msgid "Korail Bosti"
+msgstr ""
+
+#: places/BD.php:473
+msgid "Mohakhali Wireless"
+msgstr ""
+
+#: places/BD.php:474
+msgid "Elenbari"
+msgstr ""
+
+#: places/BD.php:475
+msgid "West Nakhalpara"
+msgstr ""
+
+#: places/BD.php:476
+msgid "East Nakhalpara"
+msgstr ""
+
+#: places/BD.php:477
+msgid "Nabisco"
+msgstr ""
+
+#: places/BD.php:478
+msgid "Jahangir Gate"
+msgstr ""
+
+#: places/BD.php:479
+msgid "Arjatpara"
+msgstr ""
+
+#: places/BD.php:480
+msgid "Tejgaon Old Airport"
+msgstr ""
+
+#: places/BD.php:481
+msgid "Joarsahara"
+msgstr ""
+
+#: places/BD.php:482
+msgid "Banani (Chairman Bari)"
+msgstr ""
+
+#: places/BD.php:483
+msgid "Mintu Road"
+msgstr ""
+
+#: places/BD.php:484
+msgid "Shideshwari"
+msgstr ""
+
+#: places/BD.php:485
+msgid "Shobujbag"
+msgstr ""
+
+#: places/BD.php:486
+msgid "Basabo Patwary Goli"
+msgstr ""
+
+#: places/BD.php:487
+msgid "Mather Tek"
+msgstr ""
+
+#: places/BD.php:488
+msgid "Matuwail"
+msgstr ""
+
+#: places/BD.php:489
+msgid "Dhonia"
+msgstr ""
+
+#: places/BD.php:490
+msgid "Madinabag"
+msgstr ""
+
+#: places/BD.php:491
+msgid "Rayerbag"
+msgstr ""
+
+#: places/BD.php:492 places/BD.php:828
+msgid "Islampur"
+msgstr ""
+
+#: places/BD.php:493
+msgid "Patuatuli"
+msgstr ""
+
+#: places/BD.php:494
+msgid "Shammibag"
+msgstr ""
+
+#: places/BD.php:495
+msgid "Bonogram"
+msgstr ""
+
+#: places/BD.php:496
+msgid "Tatibazar"
+msgstr ""
+
+#: places/BD.php:497
+msgid "Kotowali"
+msgstr ""
+
+#: places/BD.php:498
+msgid "Babubazar"
+msgstr ""
+
+#: places/BD.php:499
+msgid "Mitford"
+msgstr ""
+
+#: places/BD.php:500
+msgid "Nayabazar"
+msgstr ""
+
+#: places/BD.php:501
+msgid "Chokbazar"
+msgstr ""
+
+#: places/BD.php:502
+msgid "Siddiqbazar"
+msgstr ""
+
+#: places/BD.php:503
+msgid "Saydabad"
+msgstr ""
+
+#: places/BD.php:504
+msgid "Dilkusha"
+msgstr ""
+
+#: places/BD.php:505
+msgid "Baytul Mokarrom"
+msgstr ""
+
+#: places/BD.php:506
+msgid "Gpo"
+msgstr ""
+
+#: places/BD.php:507
+msgid "Press Club"
+msgstr ""
+
+#: places/BD.php:508
+msgid "Bijay Nagar"
+msgstr ""
+
+#: places/BD.php:509
+msgid "Shegunbagicha"
+msgstr ""
+
+#: places/BD.php:510
+msgid "Aga Sadiq Road"
+msgstr ""
+
+#: places/BD.php:511
+msgid "Urdu Road"
+msgstr ""
+
+#: places/BD.php:512
+msgid "Begumbazar"
+msgstr ""
+
+#: places/BD.php:513
+msgid "Armanitola"
+msgstr ""
+
+#: places/BD.php:514
+msgid "Nazirabazar"
+msgstr ""
+
+#: places/BD.php:515
+msgid "Boro Shahebr Bazar"
+msgstr ""
+
+#: places/BD.php:516
+msgid "Jagannath University"
+msgstr ""
+
+#: places/BD.php:517
+msgid "Shakharibazar"
+msgstr ""
+
+#: places/BD.php:518
+msgid "Narinda"
+msgstr ""
+
+#: places/BD.php:519
+msgid "Chowdhury Para"
+msgstr ""
+
+#: places/BD.php:520
+msgid "Kuratoli"
+msgstr ""
+
+#: places/BD.php:521
+msgid "Bijoy Sharanani"
+msgstr ""
+
+#: places/BD.php:527
+msgid "Keraniganj Upazila Sadar"
+msgstr ""
+
+#: places/BD.php:530
+msgid "Alfadanga"
+msgstr ""
+
+#: places/BD.php:531
+msgid "Bhanga"
+msgstr ""
+
+#: places/BD.php:532
+msgid "Boalmari"
+msgstr ""
+
+#: places/BD.php:533
+msgid "Char Bhadrasan"
+msgstr ""
+
+#: places/BD.php:534
+msgid "Faridpur Sadar"
+msgstr ""
+
+#: places/BD.php:535
+msgid "Madhukhali"
+msgstr ""
+
+#: places/BD.php:536
+msgid "Nagarkanda"
+msgstr ""
+
+#: places/BD.php:537
+msgid "Sadarpur"
+msgstr ""
+
+#: places/BD.php:538
+msgid "Saltha"
+msgstr ""
+
+#: places/BD.php:541
+msgid "Gazipur Sadar"
+msgstr ""
+
+#: places/BD.php:542
+msgid "Kaliakair"
+msgstr ""
+
+#: places/BD.php:543 places/BD.php:898 places/BD.php:947 places/BD.php:1076
+msgid "Kaliganj"
+msgstr ""
+
+#: places/BD.php:544
+msgid "Kapasia"
+msgstr ""
+
+#: places/BD.php:545 places/BD.php:931
+msgid "Sreepur"
+msgstr ""
+
+#: places/BD.php:546
+msgid "Tongi"
+msgstr ""
+
+#: places/BD.php:549
+msgid "Gopalganj Sadar"
+msgstr ""
+
+#: places/BD.php:550
+msgid "Kashiani"
+msgstr ""
+
+#: places/BD.php:551
+msgid "Kotalipara"
+msgstr ""
+
+#: places/BD.php:552
+msgid "Muksudpur"
+msgstr ""
+
+#: places/BD.php:553
+msgid "Tungipara"
+msgstr ""
+
+#: places/BD.php:556
+msgid "Austagram"
+msgstr ""
+
+#: places/BD.php:557
+msgid "Bajitpur"
+msgstr ""
+
+#: places/BD.php:558
+msgid "Bhairab"
+msgstr ""
+
+#: places/BD.php:559
+msgid "Hossainpur"
+msgstr ""
+
+#: places/BD.php:560
+msgid "Itna"
+msgstr ""
+
+#: places/BD.php:561
+msgid "Karimganj"
+msgstr ""
+
+#: places/BD.php:562
+msgid "Katiadi"
+msgstr ""
+
+#: places/BD.php:563
+msgid "Kishoreganj Sadar"
+msgstr ""
+
+#: places/BD.php:564
+msgid "Kuliar Char"
+msgstr ""
+
+#: places/BD.php:565
+msgid "Mithamain"
+msgstr ""
+
+#: places/BD.php:566
+msgid "Nikli"
+msgstr ""
+
+#: places/BD.php:567
+msgid "Pakundia"
+msgstr ""
+
+#: places/BD.php:568
+msgid "Tarail"
+msgstr ""
+
+#: places/BD.php:571
+msgid "Kalkini"
+msgstr ""
+
+#: places/BD.php:572
+msgid "Madaripur Sadar"
+msgstr ""
+
+#: places/BD.php:573
+msgid "Rajoir"
+msgstr ""
+
+#: places/BD.php:574
+msgid "Shibchar"
+msgstr ""
+
+#: places/BD.php:577 places/BD.php:906 places/BD.php:921
+msgid "Daulatpur"
+msgstr ""
+
+#: places/BD.php:578
+msgid "Ghior"
+msgstr ""
+
+#: places/BD.php:579
+msgid "Harirampur"
+msgstr ""
+
+#: places/BD.php:580
+msgid "Manikganj Sadar"
+msgstr ""
+
+#: places/BD.php:581
+msgid "Saturia"
+msgstr ""
+
+#: places/BD.php:582
+msgid "Shibalaya"
+msgstr ""
+
+#: places/BD.php:583
+msgid "Singair"
+msgstr ""
+
+#: places/BD.php:586
+msgid "Gazaria"
+msgstr ""
+
+#: places/BD.php:587
+msgid "Lohajang"
+msgstr ""
+
+#: places/BD.php:588
+msgid " Munshiganj Sadar"
+msgstr ""
+
+#: places/BD.php:589
+msgid "Serajdikhan"
+msgstr ""
+
+#: places/BD.php:590
+msgid "Sreenagar"
+msgstr ""
+
+#: places/BD.php:591
+msgid "Tongibari"
+msgstr ""
+
+#: places/BD.php:594
+msgid "Araihazar"
+msgstr ""
+
+#: places/BD.php:595
+msgid "Sonargaon"
+msgstr ""
+
+#: places/BD.php:596
+msgid "Bandar"
+msgstr ""
+
+#: places/BD.php:597
+msgid "Narayanganj Sadar"
+msgstr ""
+
+#: places/BD.php:598
+msgid "Rupganj"
+msgstr ""
+
+#: places/BD.php:601
+msgid "Belabo"
+msgstr ""
+
+#: places/BD.php:602
+msgid "Manohardi"
+msgstr ""
+
+#: places/BD.php:603
+msgid "Narsingdi Sadar"
+msgstr ""
+
+#: places/BD.php:604
+msgid "Palash"
+msgstr ""
+
+#: places/BD.php:605
+msgid "Roypura"
+msgstr ""
+
+#: places/BD.php:606
+msgid "Shibpur"
+msgstr ""
+
+#: places/BD.php:609
+msgid "Baliakandi"
+msgstr ""
+
+#: places/BD.php:610
+msgid "Goalanda"
+msgstr ""
+
+#: places/BD.php:611
+msgid "Kalukhali"
+msgstr ""
+
+#: places/BD.php:612
+msgid "Pangsha"
+msgstr ""
+
+#: places/BD.php:613
+msgid "Rajbari Sadar"
+msgstr ""
+
+#: places/BD.php:616
+msgid "Bhedarganj"
+msgstr ""
+
+#: places/BD.php:617
+msgid "Damudya"
+msgstr ""
+
+#: places/BD.php:618
+msgid "Gosairhat"
+msgstr ""
+
+#: places/BD.php:619
+msgid "Naria"
+msgstr ""
+
+#: places/BD.php:620
+msgid "Shariatpur Sadar"
+msgstr ""
+
+#: places/BD.php:621
+msgid "Zanjira"
+msgstr ""
+
+#: places/BD.php:624
+msgid "Basail"
+msgstr ""
+
+#: places/BD.php:625
+msgid "Bhuapur"
+msgstr ""
+
+#: places/BD.php:626
+msgid "Delduar"
+msgstr ""
+
+#: places/BD.php:627
+msgid "Dhanbari"
+msgstr ""
+
+#: places/BD.php:628
+msgid "Ghatail"
+msgstr ""
+
+#: places/BD.php:629
+msgid "Gopalpur"
+msgstr ""
+
+#: places/BD.php:630
+msgid "Kalihati"
+msgstr ""
+
+#: places/BD.php:631
+msgid "Madhupur"
+msgstr ""
+
+#: places/BD.php:632
+msgid "Mirzapur"
+msgstr ""
+
+#: places/BD.php:633
+msgid "Nagarpur"
+msgstr ""
+
+#: places/BD.php:634
+msgid "Sakhipur"
+msgstr ""
+
+#: places/BD.php:635
+msgid "Tangail Sadar"
+msgstr ""
+
+#: places/BD.php:638
+msgid "Agailjhara"
+msgstr ""
+
+#: places/BD.php:639
+msgid "Babuganj"
+msgstr ""
+
+#: places/BD.php:640
+msgid "Bakerganj"
+msgstr ""
+
+#: places/BD.php:641
+msgid "Banari Para"
+msgstr ""
+
+#: places/BD.php:642
+msgid "Gaurnadi"
+msgstr ""
+
+#: places/BD.php:643
+msgid "Hizla"
+msgstr ""
+
+#: places/BD.php:644
+msgid "Barisal Sadar (Kotwali)"
+msgstr ""
+
+#: places/BD.php:645
+msgid "Mhendiganj"
+msgstr ""
+
+#: places/BD.php:646
+msgid "Muladi"
+msgstr ""
+
+#: places/BD.php:647
+msgid "Wazirpur"
+msgstr ""
+
+#: places/BD.php:650
+msgid "Amtali"
+msgstr ""
+
+#: places/BD.php:651
+msgid "Bamna"
+msgstr ""
+
+#: places/BD.php:652
+msgid "Barguna Sadar"
+msgstr ""
+
+#: places/BD.php:653
+msgid "Betagi"
+msgstr ""
+
+#: places/BD.php:654
+msgid "Patharghata"
+msgstr ""
+
+#: places/BD.php:655
+msgid "Taltali"
+msgstr ""
+
+#: places/BD.php:658
+msgid " Bhola Sadar"
+msgstr ""
+
+#: places/BD.php:659
+msgid "Burhanuddin"
+msgstr ""
+
+#: places/BD.php:660
+msgid "Char Fasson"
+msgstr ""
+
+#: places/BD.php:661
+msgid "Daulat Khan"
+msgstr ""
+
+#: places/BD.php:662
+msgid "Lalmohan"
+msgstr ""
+
+#: places/BD.php:663
+msgid "Manpura"
+msgstr ""
+
+#: places/BD.php:664
+msgid "Tazumuddin"
+msgstr ""
+
+#: places/BD.php:667
+msgid "Jhalokati Sadar"
+msgstr ""
+
+#: places/BD.php:668
+msgid "Kanthalia"
+msgstr ""
+
+#: places/BD.php:669
+msgid "Nalchity"
+msgstr ""
+
+#: places/BD.php:670
+msgid "Rajapur"
+msgstr ""
+
+#: places/BD.php:673
+msgid "Bauphal"
+msgstr ""
+
+#: places/BD.php:674
+msgid "Dashmina"
+msgstr ""
+
+#: places/BD.php:675
+msgid "Dumki"
+msgstr ""
+
+#: places/BD.php:676
+msgid "Galachipa"
+msgstr ""
+
+#: places/BD.php:677
+msgid "Kalapara"
+msgstr ""
+
+#: places/BD.php:678
+msgid "Mirzaganj"
+msgstr ""
+
+#: places/BD.php:679
+msgid "Patuakhali Sadar"
+msgstr ""
+
+#: places/BD.php:680
+msgid "Rangabali"
+msgstr ""
+
+#: places/BD.php:683
+msgid "Bhandaria"
+msgstr ""
+
+#: places/BD.php:684
+msgid "Kawkhali"
+msgstr ""
+
+#: places/BD.php:685
+msgid "Mathbaria"
+msgstr ""
+
+#: places/BD.php:686
+msgid "Nazirpur"
+msgstr ""
+
+#: places/BD.php:687
+msgid "Pirojpur Sadar"
+msgstr ""
+
+#: places/BD.php:688
+msgid "Nesarabad (Swarupkati)"
+msgstr ""
+
+#: places/BD.php:689
+msgid "Zianagar"
+msgstr ""
+
+#: places/BD.php:692
+msgid "Alikadam"
+msgstr ""
+
+#: places/BD.php:693
+msgid "Bandarban Sadar"
+msgstr ""
+
+#: places/BD.php:694
+msgid "Lama"
+msgstr ""
+
+#: places/BD.php:695
+msgid "Naikhongchhari"
+msgstr ""
+
+#: places/BD.php:696
+msgid "Rowangchhari"
+msgstr ""
+
+#: places/BD.php:697
+msgid "Ruma"
+msgstr ""
+
+#: places/BD.php:698
+msgid "Thanchi"
+msgstr ""
+
+#: places/BD.php:701
+msgid "Akhaura"
+msgstr ""
+
+#: places/BD.php:702
+msgid "Banchharampur"
+msgstr ""
+
+#: places/BD.php:703
+msgid "Bijoynagar"
+msgstr ""
+
+#: places/BD.php:704
+msgid "Brahmanbaria Sadar"
+msgstr ""
+
+#: places/BD.php:705
+msgid "Ashuganj"
+msgstr ""
+
+#: places/BD.php:706
+msgid "Kasba"
+msgstr ""
+
+#: places/BD.php:707 places/BD.php:1170
+msgid "Nabinagar"
+msgstr ""
+
+#: places/BD.php:708
+msgid "Nasirnagar"
+msgstr ""
+
+#: places/BD.php:709
+msgid "Sarail"
+msgstr ""
+
+#: places/BD.php:712
+msgid "Chandpur Sadar"
+msgstr ""
+
+#: places/BD.php:713
+msgid "Faridganj"
+msgstr ""
+
+#: places/BD.php:714
+msgid "Haim Char"
+msgstr ""
+
+#: places/BD.php:715
+msgid "Hajiganj"
+msgstr ""
+
+#: places/BD.php:716 places/BD.php:871
+msgid "Kachua"
+msgstr ""
+
+#: places/BD.php:717
+msgid "Matlab Dakshin"
+msgstr ""
+
+#: places/BD.php:718
+msgid " Matlab Uttar"
+msgstr ""
+
+#: places/BD.php:719
+msgid "Shahrasti"
+msgstr ""
+
+#: places/BD.php:722
+msgid "Anowara"
+msgstr ""
+
+#: places/BD.php:723
+msgid "Bayejid Bostami"
+msgstr ""
+
+#: places/BD.php:724
+msgid "Banshkhali"
+msgstr ""
+
+#: places/BD.php:725
+msgid "Bakalia"
+msgstr ""
+
+#: places/BD.php:726
+msgid "Boalkhali"
+msgstr ""
+
+#: places/BD.php:727
+msgid "Chandanaish"
+msgstr ""
+
+#: places/BD.php:728
+msgid "Chandgaon"
+msgstr ""
+
+#: places/BD.php:729
+msgid "Chittagong Port"
+msgstr ""
+
+#: places/BD.php:730
+msgid "Double Mooring"
+msgstr ""
+
+#: places/BD.php:731
+msgid "Fatikchhari"
+msgstr ""
+
+#: places/BD.php:732
+msgid "Halishahar"
+msgstr ""
+
+#: places/BD.php:733
+msgid "Hathazari"
+msgstr ""
+
+#: places/BD.php:734
+msgid "Kotwali"
+msgstr ""
+
+#: places/BD.php:735
+msgid "Khulshi"
+msgstr ""
+
+#: places/BD.php:736 places/BD.php:940
+msgid "Lohagara"
+msgstr ""
+
+#: places/BD.php:737
+msgid "Mirsharai"
+msgstr ""
+
+#: places/BD.php:738
+msgid "Pahartali"
+msgstr ""
+
+#: places/BD.php:739
+msgid "Panchlaish"
+msgstr ""
+
+#: places/BD.php:740
+msgid "Patiya"
+msgstr ""
+
+#: places/BD.php:741
+msgid "Patenga"
+msgstr ""
+
+#: places/BD.php:742
+msgid "Rangunia"
+msgstr ""
+
+#: places/BD.php:743
+msgid "Raozan"
+msgstr ""
+
+#: places/BD.php:744
+msgid "Sandwip"
+msgstr ""
+
+#: places/BD.php:745
+msgid "Satkania"
+msgstr ""
+
+#: places/BD.php:746
+msgid "Sitakunda"
+msgstr ""
+
+#: places/BD.php:747
+msgid "Agrabad "
+msgstr ""
+
+#: places/BD.php:750
+msgid "Barura"
+msgstr ""
+
+#: places/BD.php:751
+msgid "Brahman Para"
+msgstr ""
+
+#: places/BD.php:752
+msgid "Burichang"
+msgstr ""
+
+#: places/BD.php:753
+msgid "Chandina"
+msgstr ""
+
+#: places/BD.php:754
+msgid "Chauddagram"
+msgstr ""
+
+#: places/BD.php:755
+msgid "Comilla Sadar Dakshin"
+msgstr ""
+
+#: places/BD.php:756
+msgid "Daudkandi"
+msgstr ""
+
+#: places/BD.php:757
+msgid "Debidwar"
+msgstr ""
+
+#: places/BD.php:758
+msgid "Homna"
+msgstr ""
+
+#: places/BD.php:759
+msgid "Comilla Adarsha Sadar"
+msgstr ""
+
+#: places/BD.php:760
+msgid "Laksam"
+msgstr ""
+
+#: places/BD.php:761
+msgid "Manoharganj"
+msgstr ""
+
+#: places/BD.php:762
+msgid "Meghna"
+msgstr ""
+
+#: places/BD.php:763
+msgid "Muradnagar"
+msgstr ""
+
+#: places/BD.php:764
+msgid "Nangalkot"
+msgstr ""
+
+#: places/BD.php:765
+msgid "Titas"
+msgstr ""
+
+#: places/BD.php:768
+msgid "Chakaria"
+msgstr ""
+
+#: places/BD.php:769
+msgid "Coxs Bazar Sadar"
+msgstr ""
+
+#: places/BD.php:770
+msgid "Kutubdia"
+msgstr ""
+
+#: places/BD.php:771
+msgid "Maheshkhali"
+msgstr ""
+
+#: places/BD.php:772
+msgid "Pekua"
+msgstr ""
+
+#: places/BD.php:773
+msgid "Ramu"
+msgstr ""
+
+#: places/BD.php:774
+msgid "Teknaf"
+msgstr ""
+
+#: places/BD.php:775
+msgid "Ukhia"
+msgstr ""
+
+#: places/BD.php:778
+msgid "Chhagalnaiya"
+msgstr ""
+
+#: places/BD.php:779
+msgid "Daganbhuiyan"
+msgstr ""
+
+#: places/BD.php:780
+msgid "Feni Sadar"
+msgstr ""
+
+#: places/BD.php:781
+msgid "Fulgazi"
+msgstr ""
+
+#: places/BD.php:782
+msgid "Parshuram"
+msgstr ""
+
+#: places/BD.php:783
+msgid "Sonagazi"
+msgstr ""
+
+#: places/BD.php:786
+msgid "Dighinala"
+msgstr ""
+
+#: places/BD.php:787
+msgid "Khagrachhari Sadar"
+msgstr ""
+
+#: places/BD.php:788
+msgid "Lakshmichhari"
+msgstr ""
+
+#: places/BD.php:789
+msgid "Mahalchhari"
+msgstr ""
+
+#: places/BD.php:790
+msgid "Manikchhari"
+msgstr ""
+
+#: places/BD.php:791
+msgid "Matiranga"
+msgstr ""
+
+#: places/BD.php:792
+msgid "Panchhari"
+msgstr ""
+
+#: places/BD.php:793
+msgid "Ramgarh"
+msgstr ""
+
+#: places/BD.php:796
+msgid "Kamalnagar"
+msgstr ""
+
+#: places/BD.php:797
+msgid "Lakshmipur Sadar"
+msgstr ""
+
+#: places/BD.php:798
+msgid "Roypur"
+msgstr ""
+
+#: places/BD.php:799
+msgid "Ramganj"
+msgstr ""
+
+#: places/BD.php:800
+msgid "Ramgati"
+msgstr ""
+
+#: places/BD.php:803
+msgid "Begumganj"
+msgstr ""
+
+#: places/BD.php:804
+msgid "Chatkhil"
+msgstr ""
+
+#: places/BD.php:805 places/BD.php:1148
+msgid "Companiganj"
+msgstr ""
+
+#: places/BD.php:806
+msgid "Hatiya"
+msgstr ""
+
+#: places/BD.php:807
+msgid "Kabirhat"
+msgstr ""
+
+#: places/BD.php:808
+msgid "Senbagh"
+msgstr ""
+
+#: places/BD.php:809
+msgid "Sonaimuri"
+msgstr ""
+
+#: places/BD.php:810
+msgid "Subarnachar"
+msgstr ""
+
+#: places/BD.php:811
+msgid "Noakhali Sadar"
+msgstr ""
+
+#: places/BD.php:814
+msgid "Baghaichhari"
+msgstr ""
+
+#: places/BD.php:815
+msgid "Barkal Upazila"
+msgstr ""
+
+#: places/BD.php:816
+msgid "Kawkhali (Betbunia)"
+msgstr ""
+
+#: places/BD.php:817
+msgid "Belai Chhari Upazi"
+msgstr ""
+
+#: places/BD.php:818
+msgid "Kaptai Upazila"
+msgstr ""
+
+#: places/BD.php:819
+msgid "Jurai Chhari Upazil"
+msgstr ""
+
+#: places/BD.php:820
+msgid "Langadu Upazila"
+msgstr ""
+
+#: places/BD.php:821
+msgid "Naniarchar Upazila"
+msgstr ""
+
+#: places/BD.php:822
+msgid "Rajasthali Upazila"
+msgstr ""
+
+#: places/BD.php:823
+msgid "Rangamati Sadar Up"
+msgstr ""
+
+#: places/BD.php:826
+msgid "Bakshiganj"
+msgstr ""
+
+#: places/BD.php:827
+msgid "Dewanganj"
+msgstr ""
+
+#: places/BD.php:829
+msgid "Jamalpur Sadar"
+msgstr ""
+
+#: places/BD.php:830
+msgid "Madarganj"
+msgstr ""
+
+#: places/BD.php:831
+msgid "Melandaha"
+msgstr ""
+
+#: places/BD.php:832
+msgid "Sarishabari Upazila"
+msgstr ""
+
+#: places/BD.php:835
+msgid "Bhaluka"
+msgstr ""
+
+#: places/BD.php:836
+msgid "Dhobaura"
+msgstr ""
+
+#: places/BD.php:837
+msgid "Fulbaria"
+msgstr ""
+
+#: places/BD.php:838
+msgid "Gaffargaon"
+msgstr ""
+
+#: places/BD.php:839
+msgid "Gauripur"
+msgstr ""
+
+#: places/BD.php:840
+msgid "Haluaghat"
+msgstr ""
+
+#: places/BD.php:841
+msgid "Ishwarganj"
+msgstr ""
+
+#: places/BD.php:842
+msgid "Mymensingh Sadar"
+msgstr ""
+
+#: places/BD.php:843
+msgid "Muktagachha"
+msgstr ""
+
+#: places/BD.php:844
+msgid "Nandail"
+msgstr ""
+
+#: places/BD.php:845
+msgid "Phulpur"
+msgstr ""
+
+#: places/BD.php:846
+msgid "Trishal"
+msgstr ""
+
+#: places/BD.php:849
+msgid "Atpara"
+msgstr ""
+
+#: places/BD.php:850
+msgid "Barhatta"
+msgstr ""
+
+#: places/BD.php:851 places/BD.php:1017
+msgid "Durgapur"
+msgstr ""
+
+#: places/BD.php:852
+msgid "Khaliajuri"
+msgstr ""
+
+#: places/BD.php:853
+msgid "Kalmakanda"
+msgstr ""
+
+#: places/BD.php:854
+msgid "Kendua"
+msgstr ""
+
+#: places/BD.php:855
+msgid "Madan"
+msgstr ""
+
+#: places/BD.php:856
+msgid "Mohanganj"
+msgstr ""
+
+#: places/BD.php:857
+msgid "Netrokona Sadar"
+msgstr ""
+
+#: places/BD.php:858
+msgid "Purbadhala"
+msgstr ""
+
+#: places/BD.php:861
+msgid "Jhenaigati"
+msgstr ""
+
+#: places/BD.php:862
+msgid "Nakla"
+msgstr ""
+
+#: places/BD.php:863
+msgid "Nalitabari"
+msgstr ""
+
+#: places/BD.php:864
+msgid "Sherpur Sadar"
+msgstr ""
+
+#: places/BD.php:865
+msgid "Sreebardi"
+msgstr ""
+
+#: places/BD.php:868
+msgid "Bagerhat Sadar"
+msgstr ""
+
+#: places/BD.php:869
+msgid "Chitalmari"
+msgstr ""
+
+#: places/BD.php:870
+msgid "Fakirhat"
+msgstr ""
+
+#: places/BD.php:872
+msgid "Mollahat"
+msgstr ""
+
+#: places/BD.php:873
+msgid "Mongla"
+msgstr ""
+
+#: places/BD.php:874
+msgid "Morrelganj"
+msgstr ""
+
+#: places/BD.php:875
+msgid "Rampal"
+msgstr ""
+
+#: places/BD.php:876
+msgid "Sarankhola"
+msgstr ""
+
+#: places/BD.php:879
+msgid "Alamdanga"
+msgstr ""
+
+#: places/BD.php:880
+msgid "Chuadanga Sadar"
+msgstr ""
+
+#: places/BD.php:881
+msgid "Damurhuda"
+msgstr ""
+
+#: places/BD.php:882
+msgid "Jiban Nagar"
+msgstr ""
+
+#: places/BD.php:885
+msgid "Abhaynagar"
+msgstr ""
+
+#: places/BD.php:886
+msgid "Bagher Para"
+msgstr ""
+
+#: places/BD.php:887
+msgid "Chaugachha"
+msgstr ""
+
+#: places/BD.php:888
+msgid "Jhikargachha"
+msgstr ""
+
+#: places/BD.php:889
+msgid "Keshabpur"
+msgstr ""
+
+#: places/BD.php:890
+msgid "Jessore Sadar"
+msgstr ""
+
+#: places/BD.php:891
+msgid "Manirampur"
+msgstr ""
+
+#: places/BD.php:892
+msgid "Sharsha"
+msgstr ""
+
+#: places/BD.php:893
+msgid "Benapole"
+msgstr ""
+
+#: places/BD.php:896
+msgid "Harinakunda"
+msgstr ""
+
+#: places/BD.php:897
+msgid "Jhenaidah Sadar"
+msgstr ""
+
+#: places/BD.php:899
+msgid "Kotchandpur"
+msgstr ""
+
+#: places/BD.php:900
+msgid "Maheshpur"
+msgstr ""
+
+#: places/BD.php:901
+msgid "Shailkupa"
+msgstr ""
+
+#: places/BD.php:904
+msgid "Batiaghata"
+msgstr ""
+
+#: places/BD.php:905
+msgid "Dacope"
+msgstr ""
+
+#: places/BD.php:907
+msgid "Dumuria"
+msgstr ""
+
+#: places/BD.php:908
+msgid "Dighalia"
+msgstr ""
+
+#: places/BD.php:909
+msgid "Khalishpur"
+msgstr ""
+
+#: places/BD.php:910
+msgid "Khan Jahan Ali"
+msgstr ""
+
+#: places/BD.php:911
+msgid "Khulna Sadar"
+msgstr ""
+
+#: places/BD.php:912
+msgid "Koyra"
+msgstr ""
+
+#: places/BD.php:913
+msgid "Paikgachha"
+msgstr ""
+
+#: places/BD.php:914
+msgid "Phultala"
+msgstr ""
+
+#: places/BD.php:915
+msgid "Rupsa"
+msgstr ""
+
+#: places/BD.php:916
+msgid "Sonadanga"
+msgstr ""
+
+#: places/BD.php:917
+msgid "Terokhada"
+msgstr ""
+
+#: places/BD.php:920
+msgid "Bheramara"
+msgstr ""
+
+#: places/BD.php:922
+msgid "Khoksa"
+msgstr ""
+
+#: places/BD.php:923
+msgid "Kumarkhali"
+msgstr ""
+
+#: places/BD.php:924
+msgid "Kushtia Sadar"
+msgstr ""
+
+#: places/BD.php:928
+msgid "Magura Sadar"
+msgstr ""
+
+#: places/BD.php:930
+msgid "Shalikha"
+msgstr ""
+
+#: places/BD.php:934
+msgid "Gangni"
+msgstr ""
+
+#: places/BD.php:935
+msgid "Mujib Nagar"
+msgstr ""
+
+#: places/BD.php:936
+msgid "Meherpur Sadar"
+msgstr ""
+
+#: places/BD.php:939
+msgid "Kalia"
+msgstr ""
+
+#: places/BD.php:941
+msgid "Narail Sadar"
+msgstr ""
+
+#: places/BD.php:944
+msgid "Assasuni"
+msgstr ""
+
+#: places/BD.php:945
+msgid "Debhata"
+msgstr ""
+
+#: places/BD.php:946
+msgid "Kalaroa"
+msgstr ""
+
+#: places/BD.php:948
+msgid "Satkhira Sadar"
+msgstr ""
+
+#: places/BD.php:949
+msgid "Shyamnagar"
+msgstr ""
+
+#: places/BD.php:950
+msgid "Tala"
+msgstr ""
+
+#: places/BD.php:953
+msgid "Adamdighi"
+msgstr ""
+
+#: places/BD.php:954
+msgid "Bogra Sadar"
+msgstr ""
+
+#: places/BD.php:955
+msgid "Dhunat"
+msgstr ""
+
+#: places/BD.php:956
+msgid "Dhupchanchia"
+msgstr ""
+
+#: places/BD.php:957
+msgid "Gabtali"
+msgstr ""
+
+#: places/BD.php:958
+msgid "Kahaloo"
+msgstr ""
+
+#: places/BD.php:959
+msgid "Nandigram"
+msgstr ""
+
+#: places/BD.php:960
+msgid "Sariakandi"
+msgstr ""
+
+#: places/BD.php:962 states/BD.php:48
+msgid "Sherpur"
+msgstr ""
+
+#: places/BD.php:963 places/BD.php:971
+msgid "Shibganj"
+msgstr ""
+
+#: places/BD.php:964
+msgid "Sonatola"
+msgstr ""
+
+#: places/BD.php:967
+msgid "Bholahat"
+msgstr ""
+
+#: places/BD.php:968
+msgid "Gomastapur"
+msgstr ""
+
+#: places/BD.php:969
+msgid "Nachole"
+msgstr ""
+
+#: places/BD.php:970
+msgid "Chapai Nababganj Sadar"
+msgstr ""
+
+#: places/BD.php:974
+msgid "Akkelpur"
+msgstr ""
+
+#: places/BD.php:975
+msgid "Joypurhat Sadar"
+msgstr ""
+
+#: places/BD.php:976
+msgid "Kalai"
+msgstr ""
+
+#: places/BD.php:977
+msgid "Khetlal"
+msgstr ""
+
+#: places/BD.php:978
+msgid "Panchbibi"
+msgstr ""
+
+#: places/BD.php:981
+msgid "Atrai"
+msgstr ""
+
+#: places/BD.php:982
+msgid "Badalgachhi"
+msgstr ""
+
+#: places/BD.php:983
+msgid "Dhamoirhat"
+msgstr ""
+
+#: places/BD.php:985
+msgid "Mahadebpur"
+msgstr ""
+
+#: places/BD.php:986
+msgid "Naogaon Sadar"
+msgstr ""
+
+#: places/BD.php:987
+msgid "Niamatpur"
+msgstr ""
+
+#: places/BD.php:988
+msgid "Patnitala"
+msgstr ""
+
+#: places/BD.php:989
+msgid "Porsha"
+msgstr ""
+
+#: places/BD.php:990
+msgid "Raninagar"
+msgstr ""
+
+#: places/BD.php:991
+msgid "Sapahar"
+msgstr ""
+
+#: places/BD.php:994
+msgid "Bagatipara"
+msgstr ""
+
+#: places/BD.php:995
+msgid "Baraigram"
+msgstr ""
+
+#: places/BD.php:996
+msgid "Gurudaspur"
+msgstr ""
+
+#: places/BD.php:997
+msgid "Lalpur"
+msgstr ""
+
+#: places/BD.php:998
+msgid "Natore Sadar"
+msgstr ""
+
+#: places/BD.php:999
+msgid "Singra"
+msgstr ""
+
+#: places/BD.php:1002
+msgid "Atgharia"
+msgstr ""
+
+#: places/BD.php:1003
+msgid "Bera"
+msgstr ""
+
+#: places/BD.php:1004
+msgid "Bhangura"
+msgstr ""
+
+#: places/BD.php:1005
+msgid "Chatmohar"
+msgstr ""
+
+#: places/BD.php:1006 states/BD.php:16
+msgid "Faridpur"
+msgstr ""
+
+#: places/BD.php:1007
+msgid "Ishwardi"
+msgstr ""
+
+#: places/BD.php:1008
+msgid "Pabna Sadar"
+msgstr ""
+
+#: places/BD.php:1009
+msgid "Santhia"
+msgstr ""
+
+#: places/BD.php:1010
+msgid "Sujanagar"
+msgstr ""
+
+#: places/BD.php:1013
+msgid "Bagha"
+msgstr ""
+
+#: places/BD.php:1014
+msgid "Baghmara"
+msgstr ""
+
+#: places/BD.php:1015
+msgid "Boalia"
+msgstr ""
+
+#: places/BD.php:1016
+msgid "Charghat"
+msgstr ""
+
+#: places/BD.php:1018
+msgid "Godagari"
+msgstr ""
+
+#: places/BD.php:1019
+msgid "Matihar"
+msgstr ""
+
+#: places/BD.php:1020
+msgid "Mohanpur"
+msgstr ""
+
+#: places/BD.php:1021
+msgid "Paba"
+msgstr ""
+
+#: places/BD.php:1022
+msgid "Puthia"
+msgstr ""
+
+#: places/BD.php:1023
+msgid "Rajpara"
+msgstr ""
+
+#: places/BD.php:1024
+msgid "Shah Makhdum"
+msgstr ""
+
+#: places/BD.php:1025
+msgid "Tanore"
+msgstr ""
+
+#: places/BD.php:1028
+msgid "Belkuchi"
+msgstr ""
+
+#: places/BD.php:1029
+msgid "Chauhali"
+msgstr ""
+
+#: places/BD.php:1030
+msgid "Kamarkhanda"
+msgstr ""
+
+#: places/BD.php:1031
+msgid "Kazipur"
+msgstr ""
+
+#: places/BD.php:1032
+msgid "Royganj"
+msgstr ""
+
+#: places/BD.php:1034
+msgid "Sirajganj Sadar"
+msgstr ""
+
+#: places/BD.php:1035
+msgid "Tarash"
+msgstr ""
+
+#: places/BD.php:1036
+msgid "Ullah Para"
+msgstr ""
+
+#: places/BD.php:1039
+msgid "Birampur"
+msgstr ""
+
+#: places/BD.php:1040
+msgid "Birganj"
+msgstr ""
+
+#: places/BD.php:1041
+msgid "Biral"
+msgstr ""
+
+#: places/BD.php:1042
+msgid "Bochaganj"
+msgstr ""
+
+#: places/BD.php:1043
+msgid "Chirirbandar"
+msgstr ""
+
+#: places/BD.php:1044
+msgid "Fulbari"
+msgstr ""
+
+#: places/BD.php:1045
+msgid "Ghoraghat"
+msgstr ""
+
+#: places/BD.php:1046
+msgid "Hakimpur"
+msgstr ""
+
+#: places/BD.php:1047
+msgid "Kaharole"
+msgstr ""
+
+#: places/BD.php:1048
+msgid "Khansama"
+msgstr ""
+
+#: places/BD.php:1049
+msgid "Dinajpur Sadar"
+msgstr ""
+
+#: places/BD.php:1050
+msgid "Nawabganj"
+msgstr ""
+
+#: places/BD.php:1051
+msgid "Parbatipur"
+msgstr ""
+
+#: places/BD.php:1054
+msgid "Fulchhari"
+msgstr ""
+
+#: places/BD.php:1055
+msgid "Gaibandha Sadar"
+msgstr ""
+
+#: places/BD.php:1056
+msgid "Gobindaganj"
+msgstr ""
+
+#: places/BD.php:1057
+msgid "Palashbari"
+msgstr ""
+
+#: places/BD.php:1058
+msgid "Sadullapur"
+msgstr ""
+
+#: places/BD.php:1059
+msgid "Saghata"
+msgstr ""
+
+#: places/BD.php:1060
+msgid "Sundarganj"
+msgstr ""
+
+#: places/BD.php:1063
+msgid "Bhurungamari"
+msgstr ""
+
+#: places/BD.php:1064
+msgid "Char Rajibpur"
+msgstr ""
+
+#: places/BD.php:1065
+msgid "Chilmari"
+msgstr ""
+
+#: places/BD.php:1066
+msgid "Phulbari"
+msgstr ""
+
+#: places/BD.php:1067
+msgid "Kurigram Sadar"
+msgstr ""
+
+#: places/BD.php:1068
+msgid "Nageshwari"
+msgstr ""
+
+#: places/BD.php:1069
+msgid "Rajarhat"
+msgstr ""
+
+#: places/BD.php:1070
+msgid "Raumari"
+msgstr ""
+
+#: places/BD.php:1071
+msgid "Ulipur"
+msgstr ""
+
+#: places/BD.php:1074
+msgid "Aditmari"
+msgstr ""
+
+#: places/BD.php:1075
+msgid "Hatibandha"
+msgstr ""
+
+#: places/BD.php:1077
+msgid "Lalmonirhat Sadar"
+msgstr ""
+
+#: places/BD.php:1078
+msgid "Patgram"
+msgstr ""
+
+#: places/BD.php:1081
+msgid "Dimla Upazila"
+msgstr ""
+
+#: places/BD.php:1082
+msgid "Domar Upazila"
+msgstr ""
+
+#: places/BD.php:1083
+msgid "Jaldhaka Upazila"
+msgstr ""
+
+#: places/BD.php:1084
+msgid "Kishoreganj Upazila"
+msgstr ""
+
+#: places/BD.php:1085
+msgid "Nilphamari Sadar Upaz"
+msgstr ""
+
+#: places/BD.php:1086
+msgid "Saidpur Upazila"
+msgstr ""
+
+#: places/BD.php:1089
+msgid "Atwari"
+msgstr ""
+
+#: places/BD.php:1090
+msgid "Boda"
+msgstr ""
+
+#: places/BD.php:1091
+msgid "Debiganj"
+msgstr ""
+
+#: places/BD.php:1092
+msgid "Panchagarh Sadar"
+msgstr ""
+
+#: places/BD.php:1093
+msgid "Tentulia"
+msgstr ""
+
+#: places/BD.php:1096
+msgid "Badarganj"
+msgstr ""
+
+#: places/BD.php:1097
+msgid "Gangachara"
+msgstr ""
+
+#: places/BD.php:1098
+msgid "Kaunia"
+msgstr ""
+
+#: places/BD.php:1099
+msgid "Rangpur Sadar"
+msgstr ""
+
+#: places/BD.php:1100
+msgid "Mitha Pukur"
+msgstr ""
+
+#: places/BD.php:1101
+msgid "Pirgachha"
+msgstr ""
+
+#: places/BD.php:1102 places/BD.php:1108
+msgid "Pirganj"
+msgstr ""
+
+#: places/BD.php:1103
+msgid "Taraganj"
+msgstr ""
+
+#: places/BD.php:1106
+msgid "Baliadangi"
+msgstr ""
+
+#: places/BD.php:1107
+msgid "Haripur"
+msgstr ""
+
+#: places/BD.php:1109
+msgid "Ranisankail"
+msgstr ""
+
+#: places/BD.php:1110
+msgid "Thakurgaon Sadar"
+msgstr ""
+
+#: places/BD.php:1113
+msgid "Ajmiriganj"
+msgstr ""
+
+#: places/BD.php:1114
+msgid "Bahubal"
+msgstr ""
+
+#: places/BD.php:1115
+msgid "Baniachong"
+msgstr ""
+
+#: places/BD.php:1116
+msgid "Chunarughat"
+msgstr ""
+
+#: places/BD.php:1117
+msgid "Habiganj Sadar"
+msgstr ""
+
+#: places/BD.php:1118
+msgid "Lakhai"
+msgstr ""
+
+#: places/BD.php:1119
+msgid "Madhabpur"
+msgstr ""
+
+#: places/BD.php:1120
+msgid "Nabiganj"
+msgstr ""
+
+#: places/BD.php:1123
+msgid "Barlekha"
+msgstr ""
+
+#: places/BD.php:1124
+msgid "Juri"
+msgstr ""
+
+#: places/BD.php:1125
+msgid "Kamalganj"
+msgstr ""
+
+#: places/BD.php:1126
+msgid "Kulaura"
+msgstr ""
+
+#: places/BD.php:1127
+msgid "Maulvibazar Sadar"
+msgstr ""
+
+#: places/BD.php:1128
+msgid "Rajnagar"
+msgstr ""
+
+#: places/BD.php:1129
+msgid "Sreemangal"
+msgstr ""
+
+#: places/BD.php:1132
+msgid "Bishwambarpur"
+msgstr ""
+
+#: places/BD.php:1133
+msgid "Chhatak"
+msgstr ""
+
+#: places/BD.php:1134
+msgid "Dakshin Sunamganj"
+msgstr ""
+
+#: places/BD.php:1135
+msgid "Derai"
+msgstr ""
+
+#: places/BD.php:1136
+msgid "Dharampasha"
+msgstr ""
+
+#: places/BD.php:1137
+msgid "Dowarabazar"
+msgstr ""
+
+#: places/BD.php:1138
+msgid "Jagannathpur"
+msgstr ""
+
+#: places/BD.php:1139
+msgid "Jamalganj"
+msgstr ""
+
+#: places/BD.php:1140
+msgid "Sulla"
+msgstr ""
+
+#: places/BD.php:1141
+msgid "Sunamganj Sadar"
+msgstr ""
+
+#: places/BD.php:1142
+msgid "Tahirpur"
+msgstr ""
+
+#: places/BD.php:1145
+msgid "Balaganj"
+msgstr ""
+
+#: places/BD.php:1146
+msgid "Beani Bazar"
+msgstr ""
+
+#: places/BD.php:1147
+msgid "Bishwanath"
+msgstr ""
+
+#: places/BD.php:1149
+msgid "Dakshin Surma"
+msgstr ""
+
+#: places/BD.php:1150
+msgid "Fenchuganj"
+msgstr ""
+
+#: places/BD.php:1151
+msgid "Golapganj"
+msgstr ""
+
+#: places/BD.php:1152
+msgid "Gowainghat"
+msgstr ""
+
+#: places/BD.php:1153
+msgid "Jaintiapur"
+msgstr ""
+
+#: places/BD.php:1154
+msgid "Kanaighat"
+msgstr ""
+
+#: places/BD.php:1155
+msgid "Sylhet Sadar"
+msgstr ""
+
+#: places/BD.php:1156
+msgid "Zakiganj"
+msgstr ""
+
+#: places/BD.php:1159
+msgid "Savar Bus Stand"
+msgstr ""
+
+#: places/BD.php:1160
+msgid "Radio Collony"
+msgstr ""
+
+#: places/BD.php:1161
+msgid "Rajashon"
+msgstr ""
+
+#: places/BD.php:1162
+msgid "Enam Medical"
+msgstr ""
+
+#: places/BD.php:1163
+msgid "Anondopur"
+msgstr ""
+
+#: places/BD.php:1164
+msgid "Savar Bazar Road"
+msgstr ""
+
+#: places/BD.php:1165
+msgid "Namabazar"
+msgstr ""
+
+#: places/BD.php:1166
+msgid "Bank Collony"
+msgstr ""
+
+#: places/BD.php:1167
+msgid "Arapara"
+msgstr ""
+
+#: places/BD.php:1168
+msgid "Kashimpur"
+msgstr ""
+
+#: places/BD.php:1169
+msgid "Savar-Ashulia"
+msgstr ""
+
+#: places/BD.php:1171
+msgid "Jahangirnagar"
+msgstr ""
+
+#: places/BD.php:1172
+msgid "Narsinghopur"
+msgstr ""
+
+#: places/BD.php:1173
+msgid "Jamgora"
+msgstr ""
+
+#: places/BD.php:1174
+msgid "Polli Biddyut"
+msgstr ""
+
+#: places/BD.php:1175
+msgid "Baipail"
+msgstr ""
+
+#: places/BD.php:1176
+msgid "Jirabo"
+msgstr ""
+
+#: places/BD.php:1177
+msgid "Jirani"
+msgstr ""
+
+#: places/BD.php:1178
+msgid "Dhamrai"
+msgstr ""
+
+#: places/BH.php:23
+msgctxt "District of Bahrain"
+msgid "Adhari"
+msgstr ""
+
+#: places/BH.php:24
+msgctxt "District of Bahrain"
+msgid "Adliya"
+msgstr ""
+
+#: places/BH.php:25
+msgctxt "District of Bahrain"
+msgid "Al Qufool"
+msgstr ""
+
+#: places/BH.php:26
+msgctxt "District of Bahrain"
+msgid "Al Salihiyah"
+msgstr ""
+
+#: places/BH.php:27
+msgctxt "District of Bahrain"
+msgid "Alfateh"
+msgstr ""
+
+#: places/BH.php:28
+msgctxt "District of Bahrain"
+msgid "Bahrain Bay"
+msgstr ""
+
+#: places/BH.php:29
+msgctxt "District of Bahrain"
+msgid "Bahrain Financial Harbour"
+msgstr ""
+
+#: places/BH.php:30
+msgctxt "District of Bahrain"
+msgid "Bu Ashira"
+msgstr ""
+
+#: places/BH.php:31
+msgctxt "District of Bahrain"
+msgid "Bu Ghazal"
+msgstr ""
+
+#: places/BH.php:32
+msgctxt "District of Bahrain"
+msgid "Burhama"
+msgstr ""
+
+#: places/BH.php:33
+msgctxt "District of Bahrain"
+msgid "Diplomatic Area"
+msgstr ""
+
+#: places/BH.php:34
+msgctxt "District of Bahrain"
+msgid "Ghuraifa"
+msgstr ""
+
+#: places/BH.php:35
+msgctxt "District of Bahrain"
+msgid "Gudaibiya"
+msgstr ""
+
+#: places/BH.php:36
+msgctxt "District of Bahrain"
+msgid "Gufool"
+msgstr ""
+
+#: places/BH.php:37
+msgctxt "District of Bahrain"
+msgid "Hillat Abdul Saleh"
+msgstr ""
+
+#: places/BH.php:38
+msgctxt "District of Bahrain"
+msgid "Hoora"
+msgstr ""
+
+#: places/BH.php:39
+msgctxt "District of Bahrain"
+msgid "Jidali"
+msgstr ""
+
+#: places/BH.php:40
+msgctxt "District of Bahrain"
+msgid "Jirdab"
+msgstr ""
+
+#: places/BH.php:41
+msgctxt "District of Bahrain"
+msgid "Juffair"
+msgstr ""
+
+#: places/BH.php:42
+msgctxt "District of Bahrain"
+msgid "Karbabad"
+msgstr ""
+
+#: places/BH.php:43
+msgctxt "District of Bahrain"
+msgid "Mahooz"
+msgstr ""
+
+#: places/BH.php:44
+msgctxt "District of Bahrain"
+msgid "Manama Center"
+msgstr ""
+
+#: places/BH.php:45
+msgctxt "District of Bahrain"
+msgid "Mina Salman"
+msgstr ""
+
+#: places/BH.php:46
+msgctxt "District of Bahrain"
+msgid "Nabih Saleh"
+msgstr ""
+
+#: places/BH.php:47
+msgctxt "District of Bahrain"
+msgid "Noaim"
+msgstr ""
+
+#: places/BH.php:48
+msgctxt "District of Bahrain"
+msgid "Ras Rumman"
+msgstr ""
+
+#: places/BH.php:49
+msgctxt "District of Bahrain"
+msgid "Reef Island"
+msgstr ""
+
+#: places/BH.php:50
+msgctxt "District of Bahrain"
+msgid "Sanabis"
+msgstr ""
+
+#: places/BH.php:51
+msgctxt "District of Bahrain"
+msgid "Seef"
+msgstr ""
+
+#: places/BH.php:52
+msgctxt "District of Bahrain"
+msgid "Seqaya"
+msgstr ""
+
+#: places/BH.php:53
+msgctxt "District of Bahrain"
+msgid "Sihla (South)"
+msgstr ""
+
+#: places/BH.php:54
+msgctxt "District of Bahrain"
+msgid "Sulmaniya"
+msgstr ""
+
+#: places/BH.php:55
+msgctxt "District of Bahrain"
+msgid "Tubli"
+msgstr ""
+
+#: places/BH.php:56
+msgctxt "District of Bahrain"
+msgid "Umm Al Hassam"
+msgstr ""
+
+#: places/BH.php:57
+msgctxt "District of Bahrain"
+msgid "Zinj"
+msgstr ""
+
+#: places/BH.php:61
+msgctxt "District of Bahrain"
+msgid "Al Dur"
+msgstr ""
+
+#: places/BH.php:62
+msgctxt "District of Bahrain"
+msgid "Al Safriyah"
+msgstr ""
+
+#: places/BH.php:63
+msgctxt "District of Bahrain"
+msgid "Alareen"
+msgstr ""
+
+#: places/BH.php:64
+msgctxt "District of Bahrain"
+msgid "Askar"
+msgstr ""
+
+#: places/BH.php:65
+msgctxt "District of Bahrain"
+msgid "Awali"
+msgstr ""
+
+#: places/BH.php:66
+msgctxt "District of Bahrain"
+msgid "Durrat Al Bahrain"
+msgstr ""
+
+#: places/BH.php:67
+msgctxt "District of Bahrain"
+msgid "Eker (East)"
+msgstr ""
+
+#: places/BH.php:68
+msgctxt "District of Bahrain"
+msgid "Eker (West)"
+msgstr ""
+
+#: places/BH.php:69
+msgctxt "District of Bahrain"
+msgid "Isa Town"
+msgstr ""
+
+#: places/BH.php:70
+msgctxt "District of Bahrain"
+msgid "Jary Al Shaikh"
+msgstr ""
+
+#: places/BH.php:71
+msgctxt "District of Bahrain"
+msgid "Jaww"
+msgstr ""
+
+#: places/BH.php:72
+msgctxt "District of Bahrain"
+msgid "Jazaair Beach"
+msgstr ""
+
+#: places/BH.php:73
+msgctxt "District of Bahrain"
+msgid "Maameer"
+msgstr ""
+
+#: places/BH.php:74
+msgctxt "District of Bahrain"
+msgid "Nuwaidrat"
+msgstr ""
+
+#: places/BH.php:75
+msgctxt "District of Bahrain"
+msgid "Riffa"
+msgstr ""
+
+#: places/BH.php:76
+msgctxt "District of Bahrain"
+msgid "Safra"
+msgstr ""
+
+#: places/BH.php:77
+msgctxt "District of Bahrain"
+msgid "Sakhir"
+msgstr ""
+
+#: places/BH.php:78
+msgctxt "District of Bahrain"
+msgid "Sanad"
+msgstr ""
+
+#: places/BH.php:79
+msgctxt "District of Bahrain"
+msgid "Sitra"
+msgstr ""
+
+#: places/BH.php:80
+msgctxt "District of Bahrain"
+msgid "Wadi  Alsail"
+msgstr ""
+
+#: places/BH.php:81
+msgctxt "District of Bahrain"
+msgid "West Riffa"
+msgstr ""
+
+#: places/BH.php:82
+msgctxt "District of Bahrain"
+msgid "Zallaq"
+msgstr ""
+
+#: places/BH.php:83
+msgctxt "District of Bahrain"
+msgid "Zayed Town"
+msgstr ""
+
+#: places/BH.php:87
+msgctxt "District of Bahrain"
+msgid "Al Dair"
+msgstr ""
+
+#: places/BH.php:88
+msgctxt "District of Bahrain"
+msgid "Al Muharraq"
+msgstr ""
+
+#: places/BH.php:89
+msgctxt "District of Bahrain"
+msgid "Al Sayh"
+msgstr ""
+
+#: places/BH.php:90
+msgctxt "District of Bahrain"
+msgid "Arad"
+msgstr ""
+
+#: places/BH.php:91
+msgctxt "District of Bahrain"
+msgid "Busaiteen"
+msgstr ""
+
+#: places/BH.php:92
+msgctxt "District of Bahrain"
+msgid "Diyar Al Muharraq"
+msgstr ""
+
+#: places/BH.php:93
+msgctxt "District of Bahrain"
+msgid "Galali"
+msgstr ""
+
+#: places/BH.php:94
+msgctxt "District of Bahrain"
+msgid "Halat Bu Maher"
+msgstr ""
+
+#: places/BH.php:95
+msgctxt "District of Bahrain"
+msgid "Halat Naim"
+msgstr ""
+
+#: places/BH.php:96
+msgctxt "District of Bahrain"
+msgid "Halat Seltah"
+msgstr ""
+
+#: places/BH.php:97
+msgctxt "District of Bahrain"
+msgid "Hidd"
+msgstr ""
+
+#: places/BH.php:98
+msgctxt "District of Bahrain"
+msgid "Hidd Industrial Area"
+msgstr ""
+
+#: places/BH.php:99
+msgctxt "District of Bahrain"
+msgid "Samaheej"
+msgstr ""
+
+#: places/BH.php:103
+msgctxt "District of Bahrain"
+msgid "Aali"
+msgstr ""
+
+#: places/BH.php:104
+msgctxt "District of Bahrain"
+msgid "Abu Quwa"
+msgstr ""
+
+#: places/BH.php:105
+msgctxt "District of Bahrain"
+msgid "Abu Saiba"
+msgstr ""
+
+#: places/BH.php:106
+msgctxt "District of Bahrain"
+msgid "Ain Aldaar"
+msgstr ""
+
+#: places/BH.php:107
+msgctxt "District of Bahrain"
+msgid "Al Daih"
+msgstr ""
+
+#: places/BH.php:108
+msgctxt "District of Bahrain"
+msgid "Al Hajar"
+msgstr ""
+
+#: places/BH.php:109
+msgctxt "District of Bahrain"
+msgid "Al Lawzi"
+msgstr ""
+
+#: places/BH.php:110
+msgctxt "District of Bahrain"
+msgid "Al Markh"
+msgstr ""
+
+#: places/BH.php:111
+msgctxt "District of Bahrain"
+msgid "Al Musalla"
+msgstr ""
+
+#: places/BH.php:112
+msgctxt "District of Bahrain"
+msgid "Al Qadam"
+msgstr ""
+
+#: places/BH.php:113
+msgctxt "District of Bahrain"
+msgid "Al Qala"
+msgstr ""
+
+#: places/BH.php:114
+msgctxt "District of Bahrain"
+msgid "Bani Jamra"
+msgstr ""
+
+#: places/BH.php:115
+msgctxt "District of Bahrain"
+msgid "Barbar"
+msgstr ""
+
+#: places/BH.php:116
+msgctxt "District of Bahrain"
+msgid "Bilad Alqadeem"
+msgstr ""
+
+#: places/BH.php:117
+msgctxt "District of Bahrain"
+msgid "Boori"
+msgstr ""
+
+#: places/BH.php:118
+msgctxt "District of Bahrain"
+msgid "Budaiya"
+msgstr ""
+
+#: places/BH.php:119
+msgctxt "District of Bahrain"
+msgid "Buquwa"
+msgstr ""
+
+#: places/BH.php:120
+msgctxt "District of Bahrain"
+msgid "Dar Kulaib"
+msgstr ""
+
+#: places/BH.php:121
+msgctxt "District of Bahrain"
+msgid "Dumistan"
+msgstr ""
+
+#: places/BH.php:122
+msgctxt "District of Bahrain"
+msgid "Duraz"
+msgstr ""
+
+#: places/BH.php:123
+msgctxt "District of Bahrain"
+msgid "Hamad Town"
+msgstr ""
+
+#: places/BH.php:124
+msgctxt "District of Bahrain"
+msgid "Hamala"
+msgstr ""
+
+#: places/BH.php:125
+msgctxt "District of Bahrain"
+msgid "Hoarat Aali"
+msgstr ""
+
+#: places/BH.php:126
+msgctxt "District of Bahrain"
+msgid "Jabalat Habshi"
+msgstr ""
+
+#: places/BH.php:127
+msgctxt "District of Bahrain"
+msgid "Janabiya"
+msgstr ""
+
+#: places/BH.php:128
+msgctxt "District of Bahrain"
+msgid "Jannusan"
+msgstr ""
+
+#: places/BH.php:129
+msgctxt "District of Bahrain"
+msgid "Jid Al-Haj"
+msgstr ""
+
+#: places/BH.php:130
+msgctxt "District of Bahrain"
+msgid "Jidhafs"
+msgstr ""
+
+#: places/BH.php:131
+msgctxt "District of Bahrain"
+msgid "Karrana"
+msgstr ""
+
+#: places/BH.php:132
+msgctxt "District of Bahrain"
+msgid "Karzakan"
+msgstr ""
+
+#: places/BH.php:133
+msgctxt "District of Bahrain"
+msgid "Khamis"
+msgstr ""
+
+#: places/BH.php:134
+msgctxt "District of Bahrain"
+msgid "Malikiya"
+msgstr ""
+
+#: places/BH.php:135
+msgctxt "District of Bahrain"
+msgid "Maqaba"
+msgstr ""
+
+#: places/BH.php:136
+msgctxt "District of Bahrain"
+msgid "Muqsha"
+msgstr ""
+
+#: places/BH.php:137
+msgctxt "District of Bahrain"
+msgid "Northern City"
+msgstr ""
+
+#: places/BH.php:138
+msgctxt "District of Bahrain"
+msgid "Qurayya"
+msgstr ""
+
+#: places/BH.php:139
+msgctxt "District of Bahrain"
+msgid "Saar"
+msgstr ""
+
+#: places/BH.php:140
+msgctxt "District of Bahrain"
+msgid "Sadad"
+msgstr ""
+
+#: places/BH.php:141
+msgctxt "District of Bahrain"
+msgid "Salmabad"
+msgstr ""
+
+#: places/BH.php:142
+msgctxt "District of Bahrain"
+msgid "Sehla"
+msgstr ""
+
+#: places/BH.php:143
+msgctxt "District of Bahrain"
+msgid "Shahrakan"
+msgstr ""
+
+#: places/BH.php:144
+msgctxt "District of Bahrain"
+msgid "Shakhura"
+msgstr ""
+
+#: places/BH.php:145
+msgctxt "District of Bahrain"
+msgid "Sihla (North)"
+msgstr ""
+
+#: places/BH.php:146
+msgctxt "District of Bahrain"
+msgid "Tashan"
 msgstr ""
 
 #: places/DZ.php:22
@@ -8783,6 +13394,1256 @@ msgctxt "Algerian Communes"
 msgid "Ouled Sidi Mihoub"
 msgstr ""
 
+#: places/EG.php:18
+msgctxt "City of Egypt"
+msgid "Alexandria"
+msgstr ""
+
+#: places/EG.php:19
+msgctxt "City of Egypt"
+msgid "Burj Al Arab"
+msgstr ""
+
+#: places/EG.php:20
+msgctxt "City of Egypt"
+msgid "New Burj Al Arab"
+msgstr ""
+
+#: places/EG.php:23
+msgctxt "City of Egypt"
+msgid "Abnoub"
+msgstr ""
+
+#: places/EG.php:24
+msgctxt "City of Egypt"
+msgid "Abu Tig"
+msgstr ""
+
+#: places/EG.php:25
+msgctxt "City of Egypt"
+msgid "Assiut El Gedida"
+msgstr ""
+
+#: places/EG.php:26
+msgctxt "City of Egypt"
+msgid "Assiut"
+msgstr ""
+
+#: places/EG.php:27
+msgctxt "City of Egypt"
+msgid "Dayrout"
+msgstr ""
+
+#: places/EG.php:28
+msgctxt "City of Egypt"
+msgid "El Badari"
+msgstr ""
+
+#: places/EG.php:29
+msgctxt "City of Egypt"
+msgid "El Ghanaim"
+msgstr ""
+
+#: places/EG.php:30
+msgctxt "City of Egypt"
+msgid "Manfalut"
+msgstr ""
+
+#: places/EG.php:31
+msgctxt "City of Egypt"
+msgid "Qusiya"
+msgstr ""
+
+#: places/EG.php:32
+msgctxt "City of Egypt"
+msgid "Sahel Selim"
+msgstr ""
+
+#: places/EG.php:33
+msgctxt "City of Egypt"
+msgid "Sidfa"
+msgstr ""
+
+#: places/EG.php:36
+msgctxt "City of Egypt"
+msgid "Abo Simbl Al Siyahia"
+msgstr ""
+
+#: places/EG.php:37
+msgctxt "City of Egypt"
+msgid "Al Basilia"
+msgstr ""
+
+#: places/EG.php:38
+msgctxt "City of Egypt"
+msgid "Al Sibaeia"
+msgstr ""
+
+#: places/EG.php:39
+msgctxt "City of Egypt"
+msgid "Al-Radisiyah"
+msgstr ""
+
+#: places/EG.php:40
+msgctxt "City of Egypt"
+msgid "Aswan El Gedida"
+msgstr ""
+
+#: places/EG.php:41
+msgctxt "City of Egypt"
+msgid "Aswan"
+msgstr ""
+
+#: places/EG.php:42
+msgctxt "City of Egypt"
+msgid "Drau"
+msgstr ""
+
+#: places/EG.php:43
+msgctxt "City of Egypt"
+msgid "Edfu"
+msgstr ""
+
+#: places/EG.php:44
+msgctxt "City of Egypt"
+msgid "Kalabsha"
+msgstr ""
+
+#: places/EG.php:45
+msgctxt "City of Egypt"
+msgid "Kom Ombo"
+msgstr ""
+
+#: places/EG.php:46
+msgctxt "City of Egypt"
+msgid "Nasr Al Nuba"
+msgstr ""
+
+#: places/EG.php:49
+msgctxt "City of Egypt"
+msgid "Abu Homs"
+msgstr ""
+
+#: places/EG.php:50
+msgctxt "City of Egypt"
+msgid "Abu al-Matamir"
+msgstr ""
+
+#: places/EG.php:51
+msgctxt "City of Egypt"
+msgid "Badr"
+msgstr ""
+
+#: places/EG.php:52
+msgctxt "City of Egypt"
+msgid "Damanhour"
+msgstr ""
+
+#: places/EG.php:53
+msgctxt "City of Egypt"
+msgid "Delengat"
+msgstr ""
+
+#: places/EG.php:54
+msgctxt "City of Egypt"
+msgid "Edco"
+msgstr ""
+
+#: places/EG.php:55
+msgctxt "City of Egypt"
+msgid "Housh Eissa"
+msgstr ""
+
+#: places/EG.php:56
+msgctxt "City of Egypt"
+msgid "Itai Baroud"
+msgstr ""
+
+#: places/EG.php:57
+msgctxt "City of Egypt"
+msgid "Kafr El Dawar"
+msgstr ""
+
+#: places/EG.php:58
+msgctxt "City of Egypt"
+msgid "Kom Hamada"
+msgstr ""
+
+#: places/EG.php:59
+msgctxt "City of Egypt"
+msgid "Mahmoudiyah"
+msgstr ""
+
+#: places/EG.php:60
+msgctxt "City of Egypt"
+msgid "New Nubaria"
+msgstr ""
+
+#: places/EG.php:61
+msgctxt "City of Egypt"
+msgid "Rahmaniyah"
+msgstr ""
+
+#: places/EG.php:62
+msgctxt "City of Egypt"
+msgid "Rashid"
+msgstr ""
+
+#: places/EG.php:63
+msgctxt "City of Egypt"
+msgid "Shubrakhit"
+msgstr ""
+
+#: places/EG.php:64
+msgctxt "City of Egypt"
+msgid "Wadi Natrun"
+msgstr ""
+
+#: places/EG.php:67
+msgctxt "City of Egypt"
+msgid "Al Wasta"
+msgstr ""
+
+#: places/EG.php:68
+msgctxt "City of Egypt"
+msgid "Bani Sweif"
+msgstr ""
+
+#: places/EG.php:69
+msgctxt "City of Egypt"
+msgid "Beba"
+msgstr ""
+
+#: places/EG.php:70
+msgctxt "City of Egypt"
+msgid "Beni Suef El Gedida"
+msgstr ""
+
+#: places/EG.php:71
+msgctxt "City of Egypt"
+msgid "Ehnasia"
+msgstr ""
+
+#: places/EG.php:72
+msgctxt "City of Egypt"
+msgid "Fashn"
+msgstr ""
+
+#: places/EG.php:73
+msgctxt "City of Egypt"
+msgid "Naser"
+msgstr ""
+
+#: places/EG.php:74
+msgctxt "City of Egypt"
+msgid "Somasta"
+msgstr ""
+
+#: places/EG.php:77
+msgctxt "City of Egypt"
+msgid "Cairo"
+msgstr ""
+
+#: places/EG.php:80
+msgctxt "City of Egypt"
+msgid "Alruwda"
+msgstr ""
+
+#: places/EG.php:81
+msgctxt "City of Egypt"
+msgid "Alsaru"
+msgstr ""
+
+#: places/EG.php:82
+msgctxt "City of Egypt"
+msgid "Azbet Al Burg"
+msgstr ""
+
+#: places/EG.php:83
+msgctxt "City of Egypt"
+msgid "Damietta"
+msgstr ""
+
+#: places/EG.php:84
+msgctxt "City of Egypt"
+msgid "Faraskour"
+msgstr ""
+
+#: places/EG.php:85
+msgctxt "City of Egypt"
+msgid "Kafr El-Batikh"
+msgstr ""
+
+#: places/EG.php:86
+msgctxt "City of Egypt"
+msgid "Kafr Saad"
+msgstr ""
+
+#: places/EG.php:87
+msgctxt "City of Egypt"
+msgid "Meet Abou Ghalib"
+msgstr ""
+
+#: places/EG.php:88
+msgctxt "City of Egypt"
+msgid "New Damietta"
+msgstr ""
+
+#: places/EG.php:89
+msgctxt "City of Egypt"
+msgid "Ras El Bar"
+msgstr ""
+
+#: places/EG.php:90
+msgctxt "City of Egypt"
+msgid "Zarqa"
+msgstr ""
+
+#: places/EG.php:93
+msgctxt "City of Egypt"
+msgid "Aga"
+msgstr ""
+
+#: places/EG.php:94
+msgctxt "City of Egypt"
+msgid "Al Manzala"
+msgstr ""
+
+#: places/EG.php:95
+msgctxt "City of Egypt"
+msgid "Aljamalia"
+msgstr ""
+
+#: places/EG.php:96
+msgctxt "City of Egypt"
+msgid "Bani Ubaid"
+msgstr ""
+
+#: places/EG.php:97
+msgctxt "City of Egypt"
+msgid "Belqas"
+msgstr ""
+
+#: places/EG.php:98
+msgctxt "City of Egypt"
+msgid "Dekernes"
+msgstr ""
+
+#: places/EG.php:99
+msgctxt "City of Egypt"
+msgid "El Kurdi"
+msgstr ""
+
+#: places/EG.php:100
+msgctxt "City of Egypt"
+msgid "Gamasa"
+msgstr ""
+
+#: places/EG.php:101
+msgctxt "City of Egypt"
+msgid "Mahalat Damana"
+msgstr ""
+
+#: places/EG.php:102
+msgctxt "City of Egypt"
+msgid "Mansoura"
+msgstr ""
+
+#: places/EG.php:103
+msgctxt "City of Egypt"
+msgid "Mataria"
+msgstr ""
+
+#: places/EG.php:104
+msgctxt "City of Egypt"
+msgid "Meet Salsil"
+msgstr ""
+
+#: places/EG.php:105
+msgctxt "City of Egypt"
+msgid "Menia El Nasr"
+msgstr ""
+
+#: places/EG.php:106
+msgctxt "City of Egypt"
+msgid "Mitt Ghamr"
+msgstr ""
+
+#: places/EG.php:107
+msgctxt "City of Egypt"
+msgid "Nabroh"
+msgstr ""
+
+#: places/EG.php:108
+msgctxt "City of Egypt"
+msgid "Sherbin"
+msgstr ""
+
+#: places/EG.php:109
+msgctxt "City of Egypt"
+msgid "Sinbillawin"
+msgstr ""
+
+#: places/EG.php:110
+msgctxt "City of Egypt"
+msgid "Talkha"
+msgstr ""
+
+#: places/EG.php:111
+msgctxt "City of Egypt"
+msgid "Tami al'amdid"
+msgstr ""
+
+#: places/EG.php:114
+msgctxt "City of Egypt"
+msgid "Epschway"
+msgstr ""
+
+#: places/EG.php:115
+msgctxt "City of Egypt"
+msgid "Etsa"
+msgstr ""
+
+#: places/EG.php:116
+msgctxt "City of Egypt"
+msgid "Fayoum El Gedida"
+msgstr ""
+
+#: places/EG.php:117
+msgctxt "City of Egypt"
+msgid "Fayoum"
+msgstr ""
+
+#: places/EG.php:118
+msgctxt "City of Egypt"
+msgid "Snores"
+msgstr ""
+
+#: places/EG.php:119
+msgctxt "City of Egypt"
+msgid "Tamiya"
+msgstr ""
+
+#: places/EG.php:120
+msgctxt "City of Egypt"
+msgid "Yusuf El Sediaq"
+msgstr ""
+
+#: places/EG.php:123
+msgctxt "City of Egypt"
+msgid "Al Mahalla Al Kobra"
+msgstr ""
+
+#: places/EG.php:124
+msgctxt "City of Egypt"
+msgid "Basion"
+msgstr ""
+
+#: places/EG.php:125
+msgctxt "City of Egypt"
+msgid "El Santa"
+msgstr ""
+
+#: places/EG.php:126
+msgctxt "City of Egypt"
+msgid "Kafr El Zayat"
+msgstr ""
+
+#: places/EG.php:127
+msgctxt "City of Egypt"
+msgid "Qutour"
+msgstr ""
+
+#: places/EG.php:128
+msgctxt "City of Egypt"
+msgid "Samannoud"
+msgstr ""
+
+#: places/EG.php:129
+msgctxt "City of Egypt"
+msgid "Tanta"
+msgstr ""
+
+#: places/EG.php:130
+msgctxt "City of Egypt"
+msgid "Zefta"
+msgstr ""
+
+#: places/EG.php:133
+msgctxt "City of Egypt"
+msgid "Abu Nomros"
+msgstr ""
+
+#: places/EG.php:134
+msgctxt "City of Egypt"
+msgid "Al Ayat"
+msgstr ""
+
+#: places/EG.php:135
+msgctxt "City of Egypt"
+msgid "Al Badrasheen"
+msgstr ""
+
+#: places/EG.php:136
+msgctxt "City of Egypt"
+msgid "Al-Bawaiti"
+msgstr ""
+
+#: places/EG.php:137
+msgctxt "City of Egypt"
+msgid "Atfih"
+msgstr ""
+
+#: places/EG.php:138
+msgctxt "City of Egypt"
+msgid "Cheikh Zayed"
+msgstr ""
+
+#: places/EG.php:139
+msgctxt "City of Egypt"
+msgid "Giza"
+msgstr ""
+
+#: places/EG.php:140
+msgctxt "City of Egypt"
+msgid "Hawamdiyah"
+msgstr ""
+
+#: places/EG.php:141
+msgctxt "City of Egypt"
+msgid "Kafr Ghati"
+msgstr ""
+
+#: places/EG.php:142
+msgctxt "City of Egypt"
+msgid "Kerdasa"
+msgstr ""
+
+#: places/EG.php:143
+msgctxt "City of Egypt"
+msgid "Manshiyet Al Bakari"
+msgstr ""
+
+#: places/EG.php:144
+msgctxt "City of Egypt"
+msgid "ManshiyetAl Qanater"
+msgstr ""
+
+#: places/EG.php:145
+msgctxt "City of Egypt"
+msgid "Oaseem"
+msgstr ""
+
+#: places/EG.php:146
+msgctxt "City of Egypt"
+msgid "Saf"
+msgstr ""
+
+#: places/EG.php:147
+msgctxt "City of Egypt"
+msgid "Sixth of October"
+msgstr ""
+
+#: places/EG.php:150
+msgctxt "City of Egypt"
+msgid "Abu Sawir"
+msgstr ""
+
+#: places/EG.php:151
+msgctxt "City of Egypt"
+msgid "El Tal El Kabier"
+msgstr ""
+
+#: places/EG.php:152
+msgctxt "City of Egypt"
+msgid "Fayed"
+msgstr ""
+
+#: places/EG.php:153
+msgctxt "City of Egypt"
+msgid "Ismailia"
+msgstr ""
+
+#: places/EG.php:154
+msgctxt "City of Egypt"
+msgid "Kasasien El Gedida"
+msgstr ""
+
+#: places/EG.php:155
+msgctxt "City of Egypt"
+msgid "Qantara Gharb"
+msgstr ""
+
+#: places/EG.php:156
+msgctxt "City of Egypt"
+msgid "Qantara Sharq"
+msgstr ""
+
+#: places/EG.php:159
+msgctxt "City of Egypt"
+msgid "Baltim"
+msgstr ""
+
+#: places/EG.php:160
+msgctxt "City of Egypt"
+msgid "Bella"
+msgstr ""
+
+#: places/EG.php:161
+msgctxt "City of Egypt"
+msgid "Burg Al Burullus"
+msgstr ""
+
+#: places/EG.php:162
+msgctxt "City of Egypt"
+msgid "Desouq"
+msgstr ""
+
+#: places/EG.php:163
+msgctxt "City of Egypt"
+msgid "Fooh"
+msgstr ""
+
+#: places/EG.php:164
+msgctxt "City of Egypt"
+msgid "Hamol"
+msgstr ""
+
+#: places/EG.php:165
+msgctxt "City of Egypt"
+msgid "Kafr El Sheikh"
+msgstr ""
+
+#: places/EG.php:166
+msgctxt "City of Egypt"
+msgid "Masief Baltim"
+msgstr ""
+
+#: places/EG.php:167
+msgctxt "City of Egypt"
+msgid "Metobas"
+msgstr ""
+
+#: places/EG.php:168
+msgctxt "City of Egypt"
+msgid "Qellen"
+msgstr ""
+
+#: places/EG.php:169
+msgctxt "City of Egypt"
+msgid "Riyadh"
+msgstr ""
+
+#: places/EG.php:170
+msgctxt "City of Egypt"
+msgid "Sidi Ghazi"
+msgstr ""
+
+#: places/EG.php:171
+msgctxt "City of Egypt"
+msgid "Sidi Salm"
+msgstr ""
+
+#: places/EG.php:174
+msgctxt "City of Egypt"
+msgid "Al Bayadieh"
+msgstr ""
+
+#: places/EG.php:175
+msgctxt "City of Egypt"
+msgid "Al Qarna"
+msgstr ""
+
+#: places/EG.php:176
+msgctxt "City of Egypt"
+msgid "Al Tud"
+msgstr ""
+
+#: places/EG.php:177
+msgctxt "City of Egypt"
+msgid "Al ziynia"
+msgstr ""
+
+#: places/EG.php:178
+msgctxt "City of Egypt"
+msgid "Armant"
+msgstr ""
+
+#: places/EG.php:179
+msgctxt "City of Egypt"
+msgid "Esna"
+msgstr ""
+
+#: places/EG.php:180
+msgctxt "City of Egypt"
+msgid "Luxor"
+msgstr ""
+
+#: places/EG.php:181
+msgctxt "City of Egypt"
+msgid "New Luxor"
+msgstr ""
+
+#: places/EG.php:182
+msgctxt "City of Egypt"
+msgid "New Tiba"
+msgstr ""
+
+#: places/EG.php:185
+msgctxt "City of Egypt"
+msgid "Al-Nagila"
+msgstr ""
+
+#: places/EG.php:186
+msgctxt "City of Egypt"
+msgid "Alamein"
+msgstr ""
+
+#: places/EG.php:187
+msgctxt "City of Egypt"
+msgid "Dabaa"
+msgstr ""
+
+#: places/EG.php:188
+msgctxt "City of Egypt"
+msgid "El Hamam"
+msgstr ""
+
+#: places/EG.php:189
+msgctxt "City of Egypt"
+msgid "Marsa Matrouh"
+msgstr ""
+
+#: places/EG.php:190
+msgctxt "City of Egypt"
+msgid "Salloum"
+msgstr ""
+
+#: places/EG.php:191
+msgctxt "City of Egypt"
+msgid "Sidi Brani"
+msgstr ""
+
+#: places/EG.php:192
+msgctxt "City of Egypt"
+msgid "Siwa"
+msgstr ""
+
+#: places/EG.php:195
+msgctxt "City of Egypt"
+msgid "Bani Mazar"
+msgstr ""
+
+#: places/EG.php:196
+msgctxt "City of Egypt"
+msgid "Deir Mawas"
+msgstr ""
+
+#: places/EG.php:197
+msgctxt "City of Egypt"
+msgid "El Adwa"
+msgstr ""
+
+#: places/EG.php:198
+msgctxt "City of Egypt"
+msgid "Madinat El Fekria"
+msgstr ""
+
+#: places/EG.php:199
+msgctxt "City of Egypt"
+msgid "Magagha"
+msgstr ""
+
+#: places/EG.php:200
+msgctxt "City of Egypt"
+msgid "Mattay"
+msgstr ""
+
+#: places/EG.php:201
+msgctxt "City of Egypt"
+msgid "Meloy"
+msgstr ""
+
+#: places/EG.php:202
+msgctxt "City of Egypt"
+msgid "Minya El Gedida"
+msgstr ""
+
+#: places/EG.php:203
+msgctxt "City of Egypt"
+msgid "Minya"
+msgstr ""
+
+#: places/EG.php:204
+msgctxt "City of Egypt"
+msgid "Samalut"
+msgstr ""
+
+#: places/EG.php:207
+msgctxt "City of Egypt"
+msgid "Al Bagor"
+msgstr ""
+
+#: places/EG.php:208
+msgctxt "City of Egypt"
+msgid "Al Shohada"
+msgstr ""
+
+#: places/EG.php:209
+msgctxt "City of Egypt"
+msgid "Ashmon"
+msgstr ""
+
+#: places/EG.php:210
+msgctxt "City of Egypt"
+msgid "Berkat El Saba"
+msgstr ""
+
+#: places/EG.php:211
+msgctxt "City of Egypt"
+msgid "Menouf"
+msgstr ""
+
+#: places/EG.php:212
+msgctxt "City of Egypt"
+msgid "Quesna"
+msgstr ""
+
+#: places/EG.php:213
+msgctxt "City of Egypt"
+msgid "Sadat City"
+msgstr ""
+
+#: places/EG.php:214
+msgctxt "City of Egypt"
+msgid "Sars El-Layan"
+msgstr ""
+
+#: places/EG.php:215
+msgctxt "City of Egypt"
+msgid "Shbeen El Koom"
+msgstr ""
+
+#: places/EG.php:216
+msgctxt "City of Egypt"
+msgid "Tala"
+msgstr ""
+
+#: places/EG.php:219
+msgctxt "City of Egypt"
+msgid "Balat"
+msgstr ""
+
+#: places/EG.php:220
+msgctxt "City of Egypt"
+msgid "El Kharga"
+msgstr ""
+
+#: places/EG.php:221
+msgctxt "City of Egypt"
+msgid "Farafra"
+msgstr ""
+
+#: places/EG.php:222
+msgctxt "City of Egypt"
+msgid "Mout"
+msgstr ""
+
+#: places/EG.php:223
+msgctxt "City of Egypt"
+msgid "Paris"
+msgstr ""
+
+#: places/EG.php:226
+msgctxt "City of Egypt"
+msgid "Al Hasana"
+msgstr ""
+
+#: places/EG.php:227
+msgctxt "City of Egypt"
+msgid "Arish"
+msgstr ""
+
+#: places/EG.php:228
+msgctxt "City of Egypt"
+msgid "Bir al-Abed"
+msgstr ""
+
+#: places/EG.php:229
+msgctxt "City of Egypt"
+msgid "Nakhl"
+msgstr ""
+
+#: places/EG.php:230
+msgctxt "City of Egypt"
+msgid "Rafah"
+msgstr ""
+
+#: places/EG.php:231
+msgctxt "City of Egypt"
+msgid "Sheikh Zowaid"
+msgstr ""
+
+#: places/EG.php:234
+msgctxt "City of Egypt"
+msgid "Port Fouad"
+msgstr ""
+
+#: places/EG.php:235
+msgctxt "City of Egypt"
+msgid "Port Said"
+msgstr ""
+
+#: places/EG.php:238
+msgctxt "City of Egypt"
+msgid "Al Qanater Charity"
+msgstr ""
+
+#: places/EG.php:239
+msgctxt "City of Egypt"
+msgid "Banha"
+msgstr ""
+
+#: places/EG.php:240
+msgctxt "City of Egypt"
+msgid "Kafr Shukr"
+msgstr ""
+
+#: places/EG.php:241
+msgctxt "City of Egypt"
+msgid "Khanka"
+msgstr ""
+
+#: places/EG.php:242
+msgctxt "City of Egypt"
+msgid "Khosous"
+msgstr ""
+
+#: places/EG.php:243
+msgctxt "City of Egypt"
+msgid "Obour"
+msgstr ""
+
+#: places/EG.php:244
+msgctxt "City of Egypt"
+msgid "Qaha"
+msgstr ""
+
+#: places/EG.php:245
+msgctxt "City of Egypt"
+msgid "Qalyub"
+msgstr ""
+
+#: places/EG.php:246
+msgctxt "City of Egypt"
+msgid "Shibin Al Qanater"
+msgstr ""
+
+#: places/EG.php:247
+msgctxt "City of Egypt"
+msgid "Shubra Al Khaimah"
+msgstr ""
+
+#: places/EG.php:248
+msgctxt "City of Egypt"
+msgid "Tukh"
+msgstr ""
+
+#: places/EG.php:251
+msgctxt "City of Egypt"
+msgid "Abu Tesht"
+msgstr ""
+
+#: places/EG.php:252
+msgctxt "City of Egypt"
+msgid "Alwaqf"
+msgstr ""
+
+#: places/EG.php:253
+msgctxt "City of Egypt"
+msgid "Deshna"
+msgstr ""
+
+#: places/EG.php:254
+msgctxt "City of Egypt"
+msgid "Farshout"
+msgstr ""
+
+#: places/EG.php:255
+msgctxt "City of Egypt"
+msgid "Nag Hammadi"
+msgstr ""
+
+#: places/EG.php:256
+msgctxt "City of Egypt"
+msgid "Naqada"
+msgstr ""
+
+#: places/EG.php:257
+msgctxt "City of Egypt"
+msgid "New Qena"
+msgstr ""
+
+#: places/EG.php:258
+msgctxt "City of Egypt"
+msgid "Qaft"
+msgstr ""
+
+#: places/EG.php:259
+msgctxt "City of Egypt"
+msgid "Qena"
+msgstr ""
+
+#: places/EG.php:260
+msgctxt "City of Egypt"
+msgid "Quos"
+msgstr ""
+
+#: places/EG.php:263
+msgctxt "City of Egypt"
+msgid "El Qusiar"
+msgstr ""
+
+#: places/EG.php:264
+msgctxt "City of Egypt"
+msgid "Halaib"
+msgstr ""
+
+#: places/EG.php:265
+msgctxt "City of Egypt"
+msgid "Hurghada"
+msgstr ""
+
+#: places/EG.php:266
+msgctxt "City of Egypt"
+msgid "Marsa Alam"
+msgstr ""
+
+#: places/EG.php:267
+msgctxt "City of Egypt"
+msgid "Ras Ghareb"
+msgstr ""
+
+#: places/EG.php:268
+msgctxt "City of Egypt"
+msgid "Safaga"
+msgstr ""
+
+#: places/EG.php:269
+msgctxt "City of Egypt"
+msgid "Shalatin"
+msgstr ""
+
+#: places/EG.php:272
+msgctxt "City of Egypt"
+msgid "Abu Hammad"
+msgstr ""
+
+#: places/EG.php:273
+msgctxt "City of Egypt"
+msgid "Abu Kabir"
+msgstr ""
+
+#: places/EG.php:274
+msgctxt "City of Egypt"
+msgid "Al Ashr Men Ramadan"
+msgstr ""
+
+#: places/EG.php:275
+msgctxt "City of Egypt"
+msgid "Al Ibrahimiyah"
+msgstr ""
+
+#: places/EG.php:276
+msgctxt "City of Egypt"
+msgid "Awlad Saqr"
+msgstr ""
+
+#: places/EG.php:277
+msgctxt "City of Egypt"
+msgid "Belbeis"
+msgstr ""
+
+#: places/EG.php:278
+msgctxt "City of Egypt"
+msgid "Deirb Negm"
+msgstr ""
+
+#: places/EG.php:279
+msgctxt "City of Egypt"
+msgid "El Qurain"
+msgstr ""
+
+#: places/EG.php:280
+msgctxt "City of Egypt"
+msgid "El Salihia El Gedida"
+msgstr ""
+
+#: places/EG.php:281
+msgctxt "City of Egypt"
+msgid "Faccus"
+msgstr ""
+
+#: places/EG.php:282
+msgctxt "City of Egypt"
+msgid "Hehia"
+msgstr ""
+
+#: places/EG.php:283
+msgctxt "City of Egypt"
+msgid "Husseiniya"
+msgstr ""
+
+#: places/EG.php:284
+msgctxt "City of Egypt"
+msgid "Kafr Saqr"
+msgstr ""
+
+#: places/EG.php:285
+msgctxt "City of Egypt"
+msgid "Manshayat Abu Omar"
+msgstr ""
+
+#: places/EG.php:286
+msgctxt "City of Egypt"
+msgid "Mashtoul El Souq"
+msgstr ""
+
+#: places/EG.php:287
+msgctxt "City of Egypt"
+msgid "Minya Al Qamh"
+msgstr ""
+
+#: places/EG.php:288
+msgctxt "City of Egypt"
+msgid "Qenaiat"
+msgstr ""
+
+#: places/EG.php:289
+msgctxt "City of Egypt"
+msgid "San Alhajar Alqablia"
+msgstr ""
+
+#: places/EG.php:290
+msgctxt "City of Egypt"
+msgid "Zagazig"
+msgstr ""
+
+#: places/EG.php:293
+msgctxt "City of Egypt"
+msgid "Akhmeem"
+msgstr ""
+
+#: places/EG.php:294
+msgctxt "City of Egypt"
+msgid "Akhmim El Gedida"
+msgstr ""
+
+#: places/EG.php:295
+msgctxt "City of Egypt"
+msgid "Albalina"
+msgstr ""
+
+#: places/EG.php:296
+msgctxt "City of Egypt"
+msgid "Almunsha'a"
+msgstr ""
+
+#: places/EG.php:297
+msgctxt "City of Egypt"
+msgid "Dar AISalaam"
+msgstr ""
+
+#: places/EG.php:298
+msgctxt "City of Egypt"
+msgid "El Maragha"
+msgstr ""
+
+#: places/EG.php:299
+msgctxt "City of Egypt"
+msgid "Gerga"
+msgstr ""
+
+#: places/EG.php:300
+msgctxt "City of Egypt"
+msgid "Jahina Al Gharbia"
+msgstr ""
+
+#: places/EG.php:301
+msgctxt "City of Egypt"
+msgid "Saqilatuh"
+msgstr ""
+
+#: places/EG.php:302
+msgctxt "City of Egypt"
+msgid "Sohag El Gedida"
+msgstr ""
+
+#: places/EG.php:303
+msgctxt "City of Egypt"
+msgid "Sohag"
+msgstr ""
+
+#: places/EG.php:304
+msgctxt "City of Egypt"
+msgid "Tahta"
+msgstr ""
+
+#: places/EG.php:305
+msgctxt "City of Egypt"
+msgid "Tama"
+msgstr ""
+
+#: places/EG.php:308
+msgctxt "City of Egypt"
+msgid "Abu Redis"
+msgstr ""
+
+#: places/EG.php:309
+msgctxt "City of Egypt"
+msgid "Abu Zenaima"
+msgstr ""
+
+#: places/EG.php:310
+msgctxt "City of Egypt"
+msgid "Al Toor"
+msgstr ""
+
+#: places/EG.php:311
+msgctxt "City of Egypt"
+msgid "Dahab"
+msgstr ""
+
+#: places/EG.php:312
+msgctxt "City of Egypt"
+msgid "Nuweiba"
+msgstr ""
+
+#: places/EG.php:313
+msgctxt "City of Egypt"
+msgid "Ras Sidr"
+msgstr ""
+
+#: places/EG.php:314
+msgctxt "City of Egypt"
+msgid "Saint Catherine"
+msgstr ""
+
+#: places/EG.php:315
+msgctxt "City of Egypt"
+msgid "Sharm El-Shaikh"
+msgstr ""
+
+#: places/EG.php:316
+msgctxt "City of Egypt"
+msgid "Taba"
+msgstr ""
+
+#: places/EG.php:319
+msgctxt "City of Egypt"
+msgid "Suez"
+msgstr ""
+
 #: places/KW.php:18
 msgctxt "District of Kuwait"
 msgid "Abdullah Al-Salem"
@@ -10323,6 +16184,3614 @@ msgctxt "Governorates of Saudi Arabia"
 msgid "Tathlith"
 msgstr ""
 
+#: places/TR.php:20
+msgid "Aladağ"
+msgstr ""
+
+#: places/TR.php:21
+msgid "Ceyhan"
+msgstr ""
+
+#: places/TR.php:22
+msgid "Çukurova"
+msgstr ""
+
+#: places/TR.php:23
+msgid "Feke"
+msgstr ""
+
+#: places/TR.php:24
+msgid "İmamoğlu"
+msgstr ""
+
+#: places/TR.php:25
+msgid "Karaisalı"
+msgstr ""
+
+#: places/TR.php:26
+msgid "Karataş"
+msgstr ""
+
+#: places/TR.php:27
+msgid "Kozan"
+msgstr ""
+
+#: places/TR.php:28
+msgid "Pozantı"
+msgstr ""
+
+#: places/TR.php:29
+msgid "Saimbeyli"
+msgstr ""
+
+#: places/TR.php:30
+msgid "Sarıçam"
+msgstr ""
+
+#: places/TR.php:31
+msgid "Seyhan"
+msgstr ""
+
+#: places/TR.php:32
+msgid "Tufanbeyli"
+msgstr ""
+
+#: places/TR.php:33
+msgid "Yumurtalık"
+msgstr ""
+
+#: places/TR.php:34
+msgid "Yüreğir"
+msgstr ""
+
+#: places/TR.php:38
+msgid "Besni"
+msgstr ""
+
+#: places/TR.php:39
+msgid "Çelikhan"
+msgstr ""
+
+#: places/TR.php:40
+msgid "Gerger"
+msgstr ""
+
+#: places/TR.php:41 places/TR.php:114
+msgid "Gölbaşı"
+msgstr ""
+
+#: places/TR.php:42
+msgid "Kahta"
+msgstr ""
+
+#: places/TR.php:43 places/TR.php:63 places/TR.php:75 places/TR.php:86
+#: places/TR.php:96 places/TR.php:157 places/TR.php:167 places/TR.php:219
+#: places/TR.php:228 places/TR.php:235 places/TR.php:242 places/TR.php:254
+#: places/TR.php:265 places/TR.php:276 places/TR.php:291 places/TR.php:327
+#: places/TR.php:340 places/TR.php:355 places/TR.php:413 places/TR.php:424
+#: places/TR.php:438 places/TR.php:448 places/TR.php:519 places/TR.php:530
+#: places/TR.php:538 places/TR.php:564 places/TR.php:575 places/TR.php:676
+#: places/TR.php:687 places/TR.php:696 places/TR.php:717 places/TR.php:751
+#: places/TR.php:761 places/TR.php:773 places/TR.php:779 places/TR.php:842
+#: places/TR.php:935 places/TR.php:946 places/TR.php:955 places/TR.php:986
+#: places/TR.php:1002 places/TR.php:1049 places/TR.php:1062 places/TR.php:1079
+#: places/TR.php:1132 places/TR.php:1167 places/TR.php:1178 places/TR.php:1204
+#: places/TR.php:1216 places/TR.php:1233
+msgid "Merkez"
+msgstr ""
+
+#: places/TR.php:44
+msgid "Samsat"
+msgstr ""
+
+#: places/TR.php:45
+msgid "Sincik"
+msgstr ""
+
+#: places/TR.php:46
+msgid "Tut"
+msgstr ""
+
+#: places/TR.php:50
+msgid "Başmakçı"
+msgstr ""
+
+#: places/TR.php:51 places/TR.php:348
+msgid "Bayat"
+msgstr ""
+
+#: places/TR.php:52
+msgid "Bolvadin"
+msgstr ""
+
+#: places/TR.php:53
+msgid "Çay"
+msgstr ""
+
+#: places/TR.php:54
+msgid "Çobanlar"
+msgstr ""
+
+#: places/TR.php:55
+msgid "Dazkırı"
+msgstr ""
+
+#: places/TR.php:56
+msgid "Dinar"
+msgstr ""
+
+#: places/TR.php:57
+msgid "Emirdağ"
+msgstr ""
+
+#: places/TR.php:58
+msgid "Evciler"
+msgstr ""
+
+#: places/TR.php:59
+msgid "Hocalar"
+msgstr ""
+
+#: places/TR.php:60
+msgid "İhsaniye"
+msgstr ""
+
+#: places/TR.php:61
+msgid "İscehisar"
+msgstr ""
+
+#: places/TR.php:62
+msgid "Kızılören"
+msgstr ""
+
+#: places/TR.php:64
+msgid "Sandıklı"
+msgstr ""
+
+#: places/TR.php:65
+msgid "Sinanpaşa"
+msgstr ""
+
+#: places/TR.php:66
+msgid "Sultandağı"
+msgstr ""
+
+#: places/TR.php:67
+msgid "Şuhut"
+msgstr ""
+
+#: places/TR.php:71
+msgid "Diyadin"
+msgstr ""
+
+#: places/TR.php:72
+msgid "Doğubayazıt"
+msgstr ""
+
+#: places/TR.php:73
+msgid "Eleşkirt"
+msgstr ""
+
+#: places/TR.php:74
+msgid "Hamur"
+msgstr ""
+
+#: places/TR.php:76
+msgid "Patnos"
+msgstr ""
+
+#: places/TR.php:77
+msgid "Taşlıçay"
+msgstr ""
+
+#: places/TR.php:78
+msgid "Tutak"
+msgstr ""
+
+#: places/TR.php:82
+msgid "Ağaçören"
+msgstr ""
+
+#: places/TR.php:83
+msgid "Eskil"
+msgstr ""
+
+#: places/TR.php:84
+msgid "Gülağaç"
+msgstr ""
+
+#: places/TR.php:85
+msgid "Güzelyurt"
+msgstr ""
+
+#: places/TR.php:87 places/TR.php:357
+msgid "Ortaköy"
+msgstr ""
+
+#: places/TR.php:88
+msgid "Sarıyahşi"
+msgstr ""
+
+#: places/TR.php:89
+msgid "Sultanhanı"
+msgstr ""
+
+#: places/TR.php:93
+msgid "Göynücek"
+msgstr ""
+
+#: places/TR.php:94
+msgid "Gümüşhacıköy"
+msgstr ""
+
+#: places/TR.php:95
+msgid "Hamamözü"
+msgstr ""
+
+#: places/TR.php:97
+msgid "Merzifon"
+msgstr ""
+
+#: places/TR.php:98
+msgid "Suluova"
+msgstr ""
+
+#: places/TR.php:99
+msgid "Taşova"
+msgstr ""
+
+#: places/TR.php:103
+msgid "Akyurt"
+msgstr ""
+
+#: places/TR.php:104
+msgid "Altındağ"
+msgstr ""
+
+#: places/TR.php:105
+msgid "Ayaş"
+msgstr ""
+
+#: places/TR.php:106
+msgid "Bala"
+msgstr ""
+
+#: places/TR.php:107
+msgid "Beypazarı"
+msgstr ""
+
+#: places/TR.php:108
+msgid "Çamlıdere"
+msgstr ""
+
+#: places/TR.php:109
+msgid "Çankaya"
+msgstr ""
+
+#: places/TR.php:110
+msgid "Çubuk"
+msgstr ""
+
+#: places/TR.php:111
+msgid "Elmadağ"
+msgstr ""
+
+#: places/TR.php:112
+msgid "Etimesgut"
+msgstr ""
+
+#: places/TR.php:113
+msgid "Evren"
+msgstr ""
+
+#: places/TR.php:115
+msgid "Güdül"
+msgstr ""
+
+#: places/TR.php:116
+msgid "Haymana"
+msgstr ""
+
+#: places/TR.php:117
+msgid "Kahramankazan"
+msgstr ""
+
+#: places/TR.php:118
+msgid "Kalecik"
+msgstr ""
+
+#: places/TR.php:119
+msgid "Keçiören"
+msgstr ""
+
+#: places/TR.php:120
+msgid "Kızılcahamam"
+msgstr ""
+
+#: places/TR.php:121
+msgid "Mamak"
+msgstr ""
+
+#: places/TR.php:122
+msgid "Nallıhan"
+msgstr ""
+
+#: places/TR.php:123
+msgid "Polatlı"
+msgstr ""
+
+#: places/TR.php:124
+msgid "Pursaklar"
+msgstr ""
+
+#: places/TR.php:125
+msgid "Sincan"
+msgstr ""
+
+#: places/TR.php:126
+msgid "Şereflikoçhisar"
+msgstr ""
+
+#: places/TR.php:127
+msgid "Yenimahalle"
+msgstr ""
+
+#: places/TR.php:131
+msgid "Akseki"
+msgstr ""
+
+#: places/TR.php:132 places/TR.php:569
+msgid "Aksu"
+msgstr ""
+
+#: places/TR.php:133
+msgid "Alanya"
+msgstr ""
+
+#: places/TR.php:134
+msgid "Demre"
+msgstr ""
+
+#: places/TR.php:135
+msgid "Döşemealtı"
+msgstr ""
+
+#: places/TR.php:136
+msgid "Elmalı"
+msgstr ""
+
+#: places/TR.php:137
+msgid "Finike"
+msgstr ""
+
+#: places/TR.php:138
+msgid "Gazipaşa"
+msgstr ""
+
+#: places/TR.php:139
+msgid "Gündoğmuş"
+msgstr ""
+
+#: places/TR.php:140
+msgid "İbradı"
+msgstr ""
+
+#: places/TR.php:141
+msgid "Kaş"
+msgstr ""
+
+#: places/TR.php:142 places/TR.php:290
+msgid "Kemer"
+msgstr ""
+
+#: places/TR.php:143
+msgid "Kepez"
+msgstr ""
+
+#: places/TR.php:144
+msgid "Konyaaltı"
+msgstr ""
+
+#: places/TR.php:145
+msgid "Korkuteli"
+msgstr ""
+
+#: places/TR.php:146
+msgid "Kumluca"
+msgstr ""
+
+#: places/TR.php:147
+msgid "Manavgat"
+msgstr ""
+
+#: places/TR.php:148
+msgid "Muratpaşa"
+msgstr ""
+
+#: places/TR.php:149
+msgid "Serik"
+msgstr ""
+
+#: places/TR.php:153
+msgid "Çıldır"
+msgstr ""
+
+#: places/TR.php:154
+msgid "Damal"
+msgstr ""
+
+#: places/TR.php:155
+msgid "Göle"
+msgstr ""
+
+#: places/TR.php:156
+msgid "Hanak"
+msgstr ""
+
+#: places/TR.php:158
+msgid "Posof"
+msgstr ""
+
+#: places/TR.php:162
+msgid "Ardanuç"
+msgstr ""
+
+#: places/TR.php:163
+msgid "Arhavi"
+msgstr ""
+
+#: places/TR.php:164
+msgid "Borçka"
+msgstr ""
+
+#: places/TR.php:165
+msgid "Hopa"
+msgstr ""
+
+#: places/TR.php:166 places/TR.php:644
+msgid "Kemalpaşa"
+msgstr ""
+
+#: places/TR.php:168
+msgid "Murgul"
+msgstr ""
+
+#: places/TR.php:169
+msgid "Şavşat"
+msgstr ""
+
+#: places/TR.php:170
+msgid "Yusufeli"
+msgstr ""
+
+#: places/TR.php:174
+msgid "Bozdoğan"
+msgstr ""
+
+#: places/TR.php:175
+msgid "Buharkent"
+msgstr ""
+
+#: places/TR.php:176
+msgid "Çine"
+msgstr ""
+
+#: places/TR.php:177
+msgid "Didim"
+msgstr ""
+
+#: places/TR.php:178
+msgid "Efeler"
+msgstr ""
+
+#: places/TR.php:179
+msgid "Germencik"
+msgstr ""
+
+#: places/TR.php:180
+msgid "İncirliova"
+msgstr ""
+
+#: places/TR.php:181
+msgid "Karacasu"
+msgstr ""
+
+#: places/TR.php:182
+msgid "Karpuzlu"
+msgstr ""
+
+#: places/TR.php:183
+msgid "Koçarlı"
+msgstr ""
+
+#: places/TR.php:184
+msgid "Köşk"
+msgstr ""
+
+#: places/TR.php:185
+msgid "Kuşadası"
+msgstr ""
+
+#: places/TR.php:186
+msgid "Kuyucak"
+msgstr ""
+
+#: places/TR.php:187
+msgid "Nazilli"
+msgstr ""
+
+#: places/TR.php:188
+msgid "Söke"
+msgstr ""
+
+#: places/TR.php:189
+msgid "Sultanhisar"
+msgstr ""
+
+#: places/TR.php:190 places/TR.php:246
+msgid "Yenipazar"
+msgstr ""
+
+#: places/TR.php:194
+msgid "Altıeylül"
+msgstr ""
+
+#: places/TR.php:195
+msgid "Ayvalık"
+msgstr ""
+
+#: places/TR.php:196
+msgid "Balya"
+msgstr ""
+
+#: places/TR.php:197
+msgid "Bandırma"
+msgstr ""
+
+#: places/TR.php:198
+msgid "Bigadiç"
+msgstr ""
+
+#: places/TR.php:199
+msgid "Burhaniye"
+msgstr ""
+
+#: places/TR.php:200
+msgid "Dursunbey"
+msgstr ""
+
+#: places/TR.php:201 places/TR.php:1188
+msgid "Edremit"
+msgstr ""
+
+#: places/TR.php:202
+msgid "Erdek"
+msgstr ""
+
+#: places/TR.php:203
+msgid "Gömeç"
+msgstr ""
+
+#: places/TR.php:204 places/TR.php:573
+msgid "Gönen"
+msgstr ""
+
+#: places/TR.php:205
+msgid "Havran"
+msgstr ""
+
+#: places/TR.php:206
+msgid "İvrindi"
+msgstr ""
+
+#: places/TR.php:207
+msgid "Karesi"
+msgstr ""
+
+#: places/TR.php:208
+msgid "Kepsut"
+msgstr ""
+
+#: places/TR.php:209
+msgid "Manyas"
+msgstr ""
+
+#: places/TR.php:210
+msgid "Marmara"
+msgstr ""
+
+#: places/TR.php:211
+msgid "Savaştepe"
+msgstr ""
+
+#: places/TR.php:212
+msgid "Sındırgı"
+msgstr ""
+
+#: places/TR.php:213
+msgid "Susurluk"
+msgstr ""
+
+#: places/TR.php:217
+msgid "Amasra"
+msgstr ""
+
+#: places/TR.php:218
+msgid "Kurucaşile"
+msgstr ""
+
+#: places/TR.php:220
+msgid "Ulus"
+msgstr ""
+
+#: places/TR.php:224
+msgid "Beşiri"
+msgstr ""
+
+#: places/TR.php:225
+msgid "Gercüş"
+msgstr ""
+
+#: places/TR.php:226
+msgid "Hasankeyf"
+msgstr ""
+
+#: places/TR.php:227
+msgid "Kozluk"
+msgstr ""
+
+#: places/TR.php:229
+msgid "Sason"
+msgstr ""
+
+#: places/TR.php:233
+msgid "Aydıntepe"
+msgstr ""
+
+#: places/TR.php:234
+msgid "Demirözü"
+msgstr ""
+
+#: places/TR.php:239
+msgid "Bozüyük"
+msgstr ""
+
+#: places/TR.php:240
+msgid "Gölpazarı"
+msgstr ""
+
+#: places/TR.php:241
+msgid "İnhisar"
+msgstr ""
+
+#: places/TR.php:243
+msgid "Osmaneli"
+msgstr ""
+
+#: places/TR.php:244
+msgid "Pazaryeri"
+msgstr ""
+
+#: places/TR.php:245
+msgid "Söğüt"
+msgstr ""
+
+#: places/TR.php:250
+msgid "Adaklı"
+msgstr ""
+
+#: places/TR.php:251
+msgid "Genç"
+msgstr ""
+
+#: places/TR.php:252
+msgid "Karlıova"
+msgstr ""
+
+#: places/TR.php:253
+msgid "Kiğı"
+msgstr ""
+
+#: places/TR.php:255
+msgid "Solhan"
+msgstr ""
+
+#: places/TR.php:256
+msgid "Yayladere"
+msgstr ""
+
+#: places/TR.php:257
+msgid "Yedisu"
+msgstr ""
+
+#: places/TR.php:261
+msgid "Adilcevaz"
+msgstr ""
+
+#: places/TR.php:262
+msgid "Ahlat"
+msgstr ""
+
+#: places/TR.php:263
+msgid "Güroymak"
+msgstr ""
+
+#: places/TR.php:264
+msgid "Hizan"
+msgstr ""
+
+#: places/TR.php:266
+msgid "Mutki"
+msgstr ""
+
+#: places/TR.php:267
+msgid "Tatvan"
+msgstr ""
+
+#: places/TR.php:271
+msgid "Dörtdivan"
+msgstr ""
+
+#: places/TR.php:272
+msgid "Gerede"
+msgstr ""
+
+#: places/TR.php:273
+msgid "Göynük"
+msgstr ""
+
+#: places/TR.php:274
+msgid "Kıbrıscık"
+msgstr ""
+
+#: places/TR.php:275
+msgid "Mengen"
+msgstr ""
+
+#: places/TR.php:277
+msgid "Mudurnu"
+msgstr ""
+
+#: places/TR.php:278
+msgid "Seben"
+msgstr ""
+
+#: places/TR.php:279
+msgid "Yeniçağa"
+msgstr ""
+
+#: places/TR.php:283
+msgid "Ağlasun"
+msgstr ""
+
+#: places/TR.php:284 places/TR.php:1069
+msgid "Altınyayla"
+msgstr ""
+
+#: places/TR.php:285
+msgid "Bucak"
+msgstr ""
+
+#: places/TR.php:286
+msgid "Çavdır"
+msgstr ""
+
+#: places/TR.php:287
+msgid "Çeltikçi"
+msgstr ""
+
+#: places/TR.php:288
+msgid "Gölhisar"
+msgstr ""
+
+#: places/TR.php:289
+msgid "Karamanlı"
+msgstr ""
+
+#: places/TR.php:292
+msgid "Tefenni"
+msgstr ""
+
+#: places/TR.php:293
+msgid "Yeşilova"
+msgstr ""
+
+#: places/TR.php:297
+msgid "Büyükorhan"
+msgstr ""
+
+#: places/TR.php:298
+msgid "Gemlik"
+msgstr ""
+
+#: places/TR.php:299
+msgid "Gürsu"
+msgstr ""
+
+#: places/TR.php:300
+msgid "Harmancık"
+msgstr ""
+
+#: places/TR.php:301
+msgid "İnegöl"
+msgstr ""
+
+#: places/TR.php:302
+msgid "İznik"
+msgstr ""
+
+#: places/TR.php:303
+msgid "Karacabey"
+msgstr ""
+
+#: places/TR.php:304
+msgid "Keles"
+msgstr ""
+
+#: places/TR.php:305
+msgid "Kestel"
+msgstr ""
+
+#: places/TR.php:306
+msgid "Mudanya"
+msgstr ""
+
+#: places/TR.php:307
+msgid "Mustafakemalpaşa"
+msgstr ""
+
+#: places/TR.php:308
+msgid "Nilüfer"
+msgstr ""
+
+#: places/TR.php:309
+msgid "Orhaneli"
+msgstr ""
+
+#: places/TR.php:310
+msgid "Orhangazi"
+msgstr ""
+
+#: places/TR.php:311
+msgid "Osmangazi"
+msgstr ""
+
+#: places/TR.php:312 places/TR.php:403 places/TR.php:911
+msgid "Yenişehir"
+msgstr ""
+
+#: places/TR.php:313
+msgid "Yıldırım"
+msgstr ""
+
+#: places/TR.php:317 places/TR.php:1030
+msgid "Ayvacık"
+msgstr ""
+
+#: places/TR.php:318
+msgid "Bayramiç"
+msgstr ""
+
+#: places/TR.php:319
+msgid "Biga"
+msgstr ""
+
+#: places/TR.php:320
+msgid "Bozcaada"
+msgstr ""
+
+#: places/TR.php:321
+msgid "Çan"
+msgstr ""
+
+#: places/TR.php:322
+msgid "Eceabat"
+msgstr ""
+
+#: places/TR.php:323
+msgid "Ezine"
+msgstr ""
+
+#: places/TR.php:324
+msgid "Gelibolu"
+msgstr ""
+
+#: places/TR.php:325
+msgid "Gökçeada"
+msgstr ""
+
+#: places/TR.php:326
+msgid "Lapseki"
+msgstr ""
+
+#: places/TR.php:328 places/TR.php:679
+msgid "Yenice"
+msgstr ""
+
+#: places/TR.php:332
+msgid "Atkaracalar"
+msgstr ""
+
+#: places/TR.php:333
+msgid "Bayramören"
+msgstr ""
+
+#: places/TR.php:334
+msgid "Çerkeş"
+msgstr ""
+
+#: places/TR.php:335
+msgid "Eldivan"
+msgstr ""
+
+#: places/TR.php:336
+msgid "Ilgaz"
+msgstr ""
+
+#: places/TR.php:337
+msgid "Kızılırmak"
+msgstr ""
+
+#: places/TR.php:338
+msgid "Korgun"
+msgstr ""
+
+#: places/TR.php:339
+msgid "Kurşunlu"
+msgstr ""
+
+#: places/TR.php:341
+msgid "Orta"
+msgstr ""
+
+#: places/TR.php:342
+msgid "Şabanözü"
+msgstr ""
+
+#: places/TR.php:343
+msgid "Yapraklı"
+msgstr ""
+
+#: places/TR.php:347
+msgid "Alaca"
+msgstr ""
+
+#: places/TR.php:349
+msgid "Boğazkale"
+msgstr ""
+
+#: places/TR.php:350
+msgid "Dodurga"
+msgstr ""
+
+#: places/TR.php:351
+msgid "İskilip"
+msgstr ""
+
+#: places/TR.php:352
+msgid "Kargı"
+msgstr ""
+
+#: places/TR.php:353
+msgid "Laçin"
+msgstr ""
+
+#: places/TR.php:354
+msgid "Mecitözü"
+msgstr ""
+
+#: places/TR.php:356
+msgid "Oğuzlar"
+msgstr ""
+
+#: places/TR.php:358
+msgid "Osmancık"
+msgstr ""
+
+#: places/TR.php:359
+msgid "Sungurlu"
+msgstr ""
+
+#: places/TR.php:360
+msgid "Uğurludağ"
+msgstr ""
+
+#: places/TR.php:364
+msgid "Acıpayam"
+msgstr ""
+
+#: places/TR.php:365
+msgid "Babadağ"
+msgstr ""
+
+#: places/TR.php:366
+msgid "Baklan"
+msgstr ""
+
+#: places/TR.php:368
+msgid "Bekilli"
+msgstr ""
+
+#: places/TR.php:369
+msgid "Beyağaç"
+msgstr ""
+
+#: places/TR.php:370 places/TR.php:707
+msgid "Bozkurt"
+msgstr ""
+
+#: places/TR.php:371
+msgid "Buldan"
+msgstr ""
+
+#: places/TR.php:372
+msgid "Çal"
+msgstr ""
+
+#: places/TR.php:373
+msgid "Çameli"
+msgstr ""
+
+#: places/TR.php:374
+msgid "Çardak"
+msgstr ""
+
+#: places/TR.php:375
+msgid "Çivril"
+msgstr ""
+
+#: places/TR.php:376
+msgid "Güney"
+msgstr ""
+
+#: places/TR.php:377
+msgid "Honaz"
+msgstr ""
+
+#: places/TR.php:378 places/TR.php:858
+msgid "Kale"
+msgstr ""
+
+#: places/TR.php:379
+msgid "Merkezefendi"
+msgstr ""
+
+#: places/TR.php:380
+msgid "Pamukkale"
+msgstr ""
+
+#: places/TR.php:381
+msgid "Sarayköy"
+msgstr ""
+
+#: places/TR.php:382
+msgid "Serinhisar"
+msgstr ""
+
+#: places/TR.php:383
+msgid "Tavas"
+msgstr ""
+
+#: places/TR.php:387
+msgid "Bağlar"
+msgstr ""
+
+#: places/TR.php:388
+msgid "Bismil"
+msgstr ""
+
+#: places/TR.php:389
+msgid "Çermik"
+msgstr ""
+
+#: places/TR.php:390
+msgid "Çınar"
+msgstr ""
+
+#: places/TR.php:391
+msgid "Çüngüş"
+msgstr ""
+
+#: places/TR.php:392
+msgid "Dicle"
+msgstr ""
+
+#: places/TR.php:393
+msgid "Eğil"
+msgstr ""
+
+#: places/TR.php:394
+msgid "Ergani"
+msgstr ""
+
+#: places/TR.php:395
+msgid "Hani"
+msgstr ""
+
+#: places/TR.php:396
+msgid "Hazro"
+msgstr ""
+
+#: places/TR.php:397
+msgid "Kayapınar"
+msgstr ""
+
+#: places/TR.php:398
+msgid "Kocaköy"
+msgstr ""
+
+#: places/TR.php:399
+msgid "Kulp"
+msgstr ""
+
+#: places/TR.php:400
+msgid "Lice"
+msgstr ""
+
+#: places/TR.php:401
+msgid "Silvan"
+msgstr ""
+
+#: places/TR.php:402
+msgid "Sur"
+msgstr ""
+
+#: places/TR.php:407
+msgid "Akçakoca"
+msgstr ""
+
+#: places/TR.php:408
+msgid "Cumayeri"
+msgstr ""
+
+#: places/TR.php:409
+msgid "Çilimli"
+msgstr ""
+
+#: places/TR.php:410
+msgid "Gölyaka"
+msgstr ""
+
+#: places/TR.php:411
+msgid "Gümüşova"
+msgstr ""
+
+#: places/TR.php:412
+msgid "Kaynaşlı"
+msgstr ""
+
+#: places/TR.php:414
+msgid "Yığılca"
+msgstr ""
+
+#: places/TR.php:418
+msgid "Enez"
+msgstr ""
+
+#: places/TR.php:419
+msgid "Havsa"
+msgstr ""
+
+#: places/TR.php:420
+msgid "İpsala"
+msgstr ""
+
+#: places/TR.php:421
+msgid "Keşan"
+msgstr ""
+
+#: places/TR.php:422
+msgid "Lalapaşa"
+msgstr ""
+
+#: places/TR.php:423
+msgid "Meriç"
+msgstr ""
+
+#: places/TR.php:425
+msgid "Süloğlu"
+msgstr ""
+
+#: places/TR.php:426
+msgid "Uzunköprü"
+msgstr ""
+
+#: places/TR.php:430
+msgid "Ağın"
+msgstr ""
+
+#: places/TR.php:431
+msgid "Alacakaya"
+msgstr ""
+
+#: places/TR.php:432
+msgid "Arıcak"
+msgstr ""
+
+#: places/TR.php:433
+msgid "Baskil"
+msgstr ""
+
+#: places/TR.php:434
+msgid "Karakoçan"
+msgstr ""
+
+#: places/TR.php:435
+msgid "Keban"
+msgstr ""
+
+#: places/TR.php:436
+msgid "Kovancılar"
+msgstr ""
+
+#: places/TR.php:437
+msgid "Maden"
+msgstr ""
+
+#: places/TR.php:439
+msgid "Palu"
+msgstr ""
+
+#: places/TR.php:440
+msgid "Sivrice"
+msgstr ""
+
+#: places/TR.php:444
+msgid "Çayırlı"
+msgstr ""
+
+#: places/TR.php:445
+msgid "İliç"
+msgstr ""
+
+#: places/TR.php:446
+msgid "Kemah"
+msgstr ""
+
+#: places/TR.php:447
+msgid "Kemaliye"
+msgstr ""
+
+#: places/TR.php:449
+msgid "Otlukbeli"
+msgstr ""
+
+#: places/TR.php:450
+msgid "Refahiye"
+msgstr ""
+
+#: places/TR.php:451
+msgid "Tercan"
+msgstr ""
+
+#: places/TR.php:452
+msgid "Üzümlü"
+msgstr ""
+
+#: places/TR.php:456
+msgid "Aşkale"
+msgstr ""
+
+#: places/TR.php:457
+msgid "Aziziye"
+msgstr ""
+
+#: places/TR.php:458
+msgid "Çat"
+msgstr ""
+
+#: places/TR.php:459
+msgid "Hınıs"
+msgstr ""
+
+#: places/TR.php:460
+msgid "Horasan"
+msgstr ""
+
+#: places/TR.php:461
+msgid "İspir"
+msgstr ""
+
+#: places/TR.php:462
+msgid "Karaçoban"
+msgstr ""
+
+#: places/TR.php:463
+msgid "Karayazı"
+msgstr ""
+
+#: places/TR.php:464
+msgid "Köprüköy"
+msgstr ""
+
+#: places/TR.php:465
+msgid "Narman"
+msgstr ""
+
+#: places/TR.php:466
+msgid "Oltu"
+msgstr ""
+
+#: places/TR.php:467
+msgid "Olur"
+msgstr ""
+
+#: places/TR.php:468
+msgid "Palandöken"
+msgstr ""
+
+#: places/TR.php:469
+msgid "Pasinler"
+msgstr ""
+
+#: places/TR.php:470
+msgid "Pazaryolu"
+msgstr ""
+
+#: places/TR.php:471
+msgid "Şenkaya"
+msgstr ""
+
+#: places/TR.php:472
+msgid "Tekman"
+msgstr ""
+
+#: places/TR.php:473
+msgid "Tortum"
+msgstr ""
+
+#: places/TR.php:474
+msgid "Uzundere"
+msgstr ""
+
+#: places/TR.php:475
+msgid "Yakutiye"
+msgstr ""
+
+#: places/TR.php:479
+msgid "Alpu"
+msgstr ""
+
+#: places/TR.php:480
+msgid "Beylikova"
+msgstr ""
+
+#: places/TR.php:481
+msgid "Çifteler"
+msgstr ""
+
+#: places/TR.php:482
+msgid "Günyüzü"
+msgstr ""
+
+#: places/TR.php:483
+msgid "Han"
+msgstr ""
+
+#: places/TR.php:484
+msgid "İnönü"
+msgstr ""
+
+#: places/TR.php:485
+msgid "Mahmudiye"
+msgstr ""
+
+#: places/TR.php:486
+msgid "Mihalgazi"
+msgstr ""
+
+#: places/TR.php:487
+msgid "Mihalıççık"
+msgstr ""
+
+#: places/TR.php:488
+msgid "Odunpazarı"
+msgstr ""
+
+#: places/TR.php:489
+msgid "Sarıcakaya"
+msgstr ""
+
+#: places/TR.php:490
+msgid "Seyitgazi"
+msgstr ""
+
+#: places/TR.php:491
+msgid "Sivrihisar"
+msgstr ""
+
+#: places/TR.php:492
+msgid "Tepebaşı"
+msgstr ""
+
+#: places/TR.php:496
+msgid "Araban"
+msgstr ""
+
+#: places/TR.php:497
+msgid "İslahiye"
+msgstr ""
+
+#: places/TR.php:498
+msgid "Karkamış"
+msgstr ""
+
+#: places/TR.php:499
+msgid "Nizip"
+msgstr ""
+
+#: places/TR.php:500
+msgid "Nurdağı"
+msgstr ""
+
+#: places/TR.php:501
+msgid "Oğuzeli"
+msgstr ""
+
+#: places/TR.php:502
+msgid "Şahinbey"
+msgstr ""
+
+#: places/TR.php:503
+msgid "Şehitkamil"
+msgstr ""
+
+#: places/TR.php:504
+msgid "Yavuzeli"
+msgstr ""
+
+#: places/TR.php:508
+msgid "Alucra"
+msgstr ""
+
+#: places/TR.php:509
+msgid "Bulancak"
+msgstr ""
+
+#: places/TR.php:510
+msgid "Çamoluk"
+msgstr ""
+
+#: places/TR.php:511
+msgid "Çanakçı"
+msgstr ""
+
+#: places/TR.php:512
+msgid "Dereli"
+msgstr ""
+
+#: places/TR.php:513
+msgid "Doğankent"
+msgstr ""
+
+#: places/TR.php:514
+msgid "Espiye"
+msgstr ""
+
+#: places/TR.php:515
+msgid "Eynesil"
+msgstr ""
+
+#: places/TR.php:516
+msgid "Görele"
+msgstr ""
+
+#: places/TR.php:517
+msgid "Güce"
+msgstr ""
+
+#: places/TR.php:518
+msgid "Keşap"
+msgstr ""
+
+#: places/TR.php:520
+msgid "Piraziz"
+msgstr ""
+
+#: places/TR.php:521
+msgid "Şebinkarahisar"
+msgstr ""
+
+#: places/TR.php:522
+msgid "Tirebolu"
+msgstr ""
+
+#: places/TR.php:523
+msgid "Yağlıdere"
+msgstr ""
+
+#: places/TR.php:527
+msgid "Kelkit"
+msgstr ""
+
+#: places/TR.php:528
+msgid "Köse"
+msgstr ""
+
+#: places/TR.php:529
+msgid "Kürtün"
+msgstr ""
+
+#: places/TR.php:531
+msgid "Şiran"
+msgstr ""
+
+#: places/TR.php:532
+msgid "Torul"
+msgstr ""
+
+#: places/TR.php:536
+msgid "Çukurca"
+msgstr ""
+
+#: places/TR.php:537
+msgid "Derecik"
+msgstr ""
+
+#: places/TR.php:539
+msgid "Şemdinli"
+msgstr ""
+
+#: places/TR.php:540
+msgid "Yüksekova"
+msgstr ""
+
+#: places/TR.php:544
+msgid "Altınözü"
+msgstr ""
+
+#: places/TR.php:545
+msgid "Antakya"
+msgstr ""
+
+#: places/TR.php:546
+msgid "Arsuz"
+msgstr ""
+
+#: places/TR.php:547
+msgid "Belen"
+msgstr ""
+
+#: places/TR.php:548
+msgid "Defne"
+msgstr ""
+
+#: places/TR.php:549
+msgid "Dörtyol"
+msgstr ""
+
+#: places/TR.php:550
+msgid "Erzin"
+msgstr ""
+
+#: places/TR.php:551
+msgid "Hassa"
+msgstr ""
+
+#: places/TR.php:552
+msgid "İskenderun"
+msgstr ""
+
+#: places/TR.php:553
+msgid "Kırıkhan"
+msgstr ""
+
+#: places/TR.php:554
+msgid "Kumlu"
+msgstr ""
+
+#: places/TR.php:555
+msgid "Payas"
+msgstr ""
+
+#: places/TR.php:556
+msgid "Reyhanlı"
+msgstr ""
+
+#: places/TR.php:557
+msgid "Samandağ"
+msgstr ""
+
+#: places/TR.php:558
+msgid "Yayladağı"
+msgstr ""
+
+#: places/TR.php:562
+msgid "Aralık"
+msgstr ""
+
+#: places/TR.php:563
+msgid "Karakoyunlu"
+msgstr ""
+
+#: places/TR.php:565
+msgid "Tuzluca"
+msgstr ""
+
+#: places/TR.php:570
+msgid "Atabey"
+msgstr ""
+
+#: places/TR.php:571
+msgid "Eğirdir"
+msgstr ""
+
+#: places/TR.php:572
+msgid "Gelendost"
+msgstr ""
+
+#: places/TR.php:574
+msgid "Keçiborlu"
+msgstr ""
+
+#: places/TR.php:576
+msgid "Senirkent"
+msgstr ""
+
+#: places/TR.php:577
+msgid "Sütçüler"
+msgstr ""
+
+#: places/TR.php:578
+msgid "Şarkikaraağaç"
+msgstr ""
+
+#: places/TR.php:579
+msgid "Uluborlu"
+msgstr ""
+
+#: places/TR.php:580
+msgid "Yalvaç"
+msgstr ""
+
+#: places/TR.php:581
+msgid "Yenişarbademli"
+msgstr ""
+
+#: places/TR.php:585
+msgid "Adalar"
+msgstr ""
+
+#: places/TR.php:586
+msgid "Arnavutköy"
+msgstr ""
+
+#: places/TR.php:587
+msgid "Ataşehir"
+msgstr ""
+
+#: places/TR.php:588
+msgid "Avcılar"
+msgstr ""
+
+#: places/TR.php:589
+msgid "Bağcılar"
+msgstr ""
+
+#: places/TR.php:590
+msgid "Bahçelievler"
+msgstr ""
+
+#: places/TR.php:591
+msgid "Bakırköy"
+msgstr ""
+
+#: places/TR.php:592
+msgid "Başakşehir"
+msgstr ""
+
+#: places/TR.php:593
+msgid "Bayrampaşa"
+msgstr ""
+
+#: places/TR.php:594
+msgid "Beşiktaş"
+msgstr ""
+
+#: places/TR.php:595
+msgid "Beykoz"
+msgstr ""
+
+#: places/TR.php:596
+msgid "Beylikdüzü"
+msgstr ""
+
+#: places/TR.php:597
+msgid "Beyoğlu"
+msgstr ""
+
+#: places/TR.php:598
+msgid "Büyükçekmece"
+msgstr ""
+
+#: places/TR.php:599
+msgid "Çatalca"
+msgstr ""
+
+#: places/TR.php:600
+msgid "Çekmeköy"
+msgstr ""
+
+#: places/TR.php:601
+msgid "Esenler"
+msgstr ""
+
+#: places/TR.php:602
+msgid "Esenyurt"
+msgstr ""
+
+#: places/TR.php:603
+msgid "Eyüpsultan"
+msgstr ""
+
+#: places/TR.php:604
+msgid "Fatih"
+msgstr ""
+
+#: places/TR.php:605
+msgid "Gaziosmanpaşa"
+msgstr ""
+
+#: places/TR.php:606
+msgid "Güngören"
+msgstr ""
+
+#: places/TR.php:607
+msgid "Kadıköy"
+msgstr ""
+
+#: places/TR.php:608
+msgid "Kağıthane"
+msgstr ""
+
+#: places/TR.php:609
+msgid "Kartal"
+msgstr ""
+
+#: places/TR.php:610
+msgid "Küçükçekmece"
+msgstr ""
+
+#: places/TR.php:611
+msgid "Maltepe"
+msgstr ""
+
+#: places/TR.php:612
+msgid "Pendik"
+msgstr ""
+
+#: places/TR.php:613
+msgid "Sancaktepe"
+msgstr ""
+
+#: places/TR.php:614
+msgid "Sarıyer"
+msgstr ""
+
+#: places/TR.php:615
+msgid "Silivri"
+msgstr ""
+
+#: places/TR.php:616
+msgid "Sultanbeyli"
+msgstr ""
+
+#: places/TR.php:617
+msgid "Sultangazi"
+msgstr ""
+
+#: places/TR.php:618
+msgid "Şile"
+msgstr ""
+
+#: places/TR.php:619
+msgid "Şişli"
+msgstr ""
+
+#: places/TR.php:620
+msgid "Tuzla"
+msgstr ""
+
+#: places/TR.php:621
+msgid "Ümraniye"
+msgstr ""
+
+#: places/TR.php:622
+msgid "Üsküdar"
+msgstr ""
+
+#: places/TR.php:623
+msgid "Zeytinburnu"
+msgstr ""
+
+#: places/TR.php:627
+msgid "Aliağa"
+msgstr ""
+
+#: places/TR.php:628
+msgid "Balçova"
+msgstr ""
+
+#: places/TR.php:629
+msgid "Bayındır"
+msgstr ""
+
+#: places/TR.php:630
+msgid "Bayraklı"
+msgstr ""
+
+#: places/TR.php:631
+msgid "Bergama"
+msgstr ""
+
+#: places/TR.php:632
+msgid "Beydağ"
+msgstr ""
+
+#: places/TR.php:633
+msgid "Bornova"
+msgstr ""
+
+#: places/TR.php:634
+msgid "Buca"
+msgstr ""
+
+#: places/TR.php:635
+msgid "Çeşme"
+msgstr ""
+
+#: places/TR.php:636
+msgid "Çiğli"
+msgstr ""
+
+#: places/TR.php:637
+msgid "Dikili"
+msgstr ""
+
+#: places/TR.php:638
+msgid "Foça"
+msgstr ""
+
+#: places/TR.php:639
+msgid "Gaziemir"
+msgstr ""
+
+#: places/TR.php:640
+msgid "Güzelbahçe"
+msgstr ""
+
+#: places/TR.php:641
+msgid "Karabağlar"
+msgstr ""
+
+#: places/TR.php:642
+msgid "Karaburun"
+msgstr ""
+
+#: places/TR.php:643
+msgid "Karşıyaka"
+msgstr ""
+
+#: places/TR.php:645
+msgid "Kınık"
+msgstr ""
+
+#: places/TR.php:646
+msgid "Kiraz"
+msgstr ""
+
+#: places/TR.php:647
+msgid "Konak"
+msgstr ""
+
+#: places/TR.php:648
+msgid "Menderes"
+msgstr ""
+
+#: places/TR.php:649
+msgid "Menemen"
+msgstr ""
+
+#: places/TR.php:650
+msgid "Narlıdere"
+msgstr ""
+
+#: places/TR.php:651
+msgid "Ödemiş"
+msgstr ""
+
+#: places/TR.php:652
+msgid "Seferihisar"
+msgstr ""
+
+#: places/TR.php:653
+msgid "Selçuk"
+msgstr ""
+
+#: places/TR.php:654
+msgid "Tire"
+msgstr ""
+
+#: places/TR.php:655
+msgid "Torbalı"
+msgstr ""
+
+#: places/TR.php:656
+msgid "Urla"
+msgstr ""
+
+#: places/TR.php:660
+msgid "Afşin"
+msgstr ""
+
+#: places/TR.php:661
+msgid "Andırın"
+msgstr ""
+
+#: places/TR.php:662
+msgid "Çağlayancerit"
+msgstr ""
+
+#: places/TR.php:663
+msgid "Dulkadiroğlu"
+msgstr ""
+
+#: places/TR.php:664
+msgid "Ekinözü"
+msgstr ""
+
+#: places/TR.php:665
+msgid "Elbistan"
+msgstr ""
+
+#: places/TR.php:666
+msgid "Göksun"
+msgstr ""
+
+#: places/TR.php:667
+msgid "Nurhak"
+msgstr ""
+
+#: places/TR.php:668
+msgid "Onikişubat"
+msgstr ""
+
+#: places/TR.php:669
+msgid "Pazarcık"
+msgstr ""
+
+#: places/TR.php:670
+msgid "Türkoğlu"
+msgstr ""
+
+#: places/TR.php:674
+msgid "Eflani"
+msgstr ""
+
+#: places/TR.php:675
+msgid "Eskipazar"
+msgstr ""
+
+#: places/TR.php:677 places/TR.php:1169
+msgid "Ovacık"
+msgstr ""
+
+#: places/TR.php:678
+msgid "Safranbolu"
+msgstr ""
+
+#: places/TR.php:683
+msgid "Ayrancı"
+msgstr ""
+
+#: places/TR.php:684
+msgid "Başyayla"
+msgstr ""
+
+#: places/TR.php:685
+msgid "Ermenek"
+msgstr ""
+
+#: places/TR.php:686
+msgid "Kazımkarabekir"
+msgstr ""
+
+#: places/TR.php:688
+msgid "Sarıveliler"
+msgstr ""
+
+#: places/TR.php:692
+msgid "Akyaka"
+msgstr ""
+
+#: places/TR.php:693
+msgid "Arpaçay"
+msgstr ""
+
+#: places/TR.php:694
+msgid "Digor"
+msgstr ""
+
+#: places/TR.php:695
+msgid "Kağızman"
+msgstr ""
+
+#: places/TR.php:697
+msgid "Sarıkamış"
+msgstr ""
+
+#: places/TR.php:698
+msgid "Selim"
+msgstr ""
+
+#: places/TR.php:699
+msgid "Susuz"
+msgstr ""
+
+#: places/TR.php:703
+msgid "Abana"
+msgstr ""
+
+#: places/TR.php:704
+msgid "Ağlı"
+msgstr ""
+
+#: places/TR.php:705
+msgid "Araç"
+msgstr ""
+
+#: places/TR.php:706
+msgid "Azdavay"
+msgstr ""
+
+#: places/TR.php:708
+msgid "Cide"
+msgstr ""
+
+#: places/TR.php:709
+msgid "Çatalzeytin"
+msgstr ""
+
+#: places/TR.php:710
+msgid "Daday"
+msgstr ""
+
+#: places/TR.php:711
+msgid "Devrekani"
+msgstr ""
+
+#: places/TR.php:712
+msgid "Doğanyurt"
+msgstr ""
+
+#: places/TR.php:713
+msgid "Hanönü"
+msgstr ""
+
+#: places/TR.php:714
+msgid "İhsangazi"
+msgstr ""
+
+#: places/TR.php:715
+msgid "İnebolu"
+msgstr ""
+
+#: places/TR.php:716
+msgid "Küre"
+msgstr ""
+
+#: places/TR.php:718 places/TR.php:735
+msgid "Pınarbaşı"
+msgstr ""
+
+#: places/TR.php:719
+msgid "Seydiler"
+msgstr ""
+
+#: places/TR.php:720
+msgid "Şenpazar"
+msgstr ""
+
+#: places/TR.php:721
+msgid "Taşköprü"
+msgstr ""
+
+#: places/TR.php:722
+msgid "Tosya"
+msgstr ""
+
+#: places/TR.php:726
+msgid "Akkışla"
+msgstr ""
+
+#: places/TR.php:727
+msgid "Bünyan"
+msgstr ""
+
+#: places/TR.php:728
+msgid "Develi"
+msgstr ""
+
+#: places/TR.php:729
+msgid "Felahiye"
+msgstr ""
+
+#: places/TR.php:730
+msgid "Hacılar"
+msgstr ""
+
+#: places/TR.php:731
+msgid "İncesu"
+msgstr ""
+
+#: places/TR.php:732
+msgid "Kocasinan"
+msgstr ""
+
+#: places/TR.php:733
+msgid "Melikgazi"
+msgstr ""
+
+#: places/TR.php:734
+msgid "Özvatan"
+msgstr ""
+
+#: places/TR.php:736
+msgid "Sarıoğlan"
+msgstr ""
+
+#: places/TR.php:737
+msgid "Sarız"
+msgstr ""
+
+#: places/TR.php:738
+msgid "Talas"
+msgstr ""
+
+#: places/TR.php:739
+msgid "Tomarza"
+msgstr ""
+
+#: places/TR.php:740
+msgid "Yahyalı"
+msgstr ""
+
+#: places/TR.php:741
+msgid "Yeşilhisar"
+msgstr ""
+
+#: places/TR.php:745
+msgid "Bahşılı"
+msgstr ""
+
+#: places/TR.php:746
+msgid "Balışeyh"
+msgstr ""
+
+#: places/TR.php:747
+msgid "Çelebi"
+msgstr ""
+
+#: places/TR.php:748
+msgid "Delice"
+msgstr ""
+
+#: places/TR.php:749
+msgid "Karakeçili"
+msgstr ""
+
+#: places/TR.php:750
+msgid "Keskin"
+msgstr ""
+
+#: places/TR.php:752
+msgid "Sulakyurt"
+msgstr ""
+
+#: places/TR.php:753
+msgid "Yahşihan"
+msgstr ""
+
+#: places/TR.php:757
+msgid "Babaeski"
+msgstr ""
+
+#: places/TR.php:758
+msgid "Demirköy"
+msgstr ""
+
+#: places/TR.php:759
+msgid "Kofçaz"
+msgstr ""
+
+#: places/TR.php:760
+msgid "Lüleburgaz"
+msgstr ""
+
+#: places/TR.php:762
+msgid "Pehlivanköy"
+msgstr ""
+
+#: places/TR.php:763
+msgid "Pınarhisar"
+msgstr ""
+
+#: places/TR.php:764
+msgid "Vize"
+msgstr ""
+
+#: places/TR.php:768
+msgid "Akçakent"
+msgstr ""
+
+#: places/TR.php:769
+msgid "Akpınar"
+msgstr ""
+
+#: places/TR.php:770
+msgid "Boztepe"
+msgstr ""
+
+#: places/TR.php:771
+msgid "Çiçekdağı"
+msgstr ""
+
+#: places/TR.php:772
+msgid "Kaman"
+msgstr ""
+
+#: places/TR.php:774
+msgid "Mucur"
+msgstr ""
+
+#: places/TR.php:778
+msgid "Elbeyli"
+msgstr ""
+
+#: places/TR.php:780
+msgid "Musabeyli"
+msgstr ""
+
+#: places/TR.php:781
+msgid "Polateli"
+msgstr ""
+
+#: places/TR.php:785
+msgid "Başiskele"
+msgstr ""
+
+#: places/TR.php:786
+msgid "Çayırova"
+msgstr ""
+
+#: places/TR.php:787
+msgid "Darıca"
+msgstr ""
+
+#: places/TR.php:788
+msgid "Derince"
+msgstr ""
+
+#: places/TR.php:789
+msgid "Dilovası"
+msgstr ""
+
+#: places/TR.php:790
+msgid "Gebze"
+msgstr ""
+
+#: places/TR.php:791
+msgid "Gölcük"
+msgstr ""
+
+#: places/TR.php:792
+msgid "İzmit"
+msgstr ""
+
+#: places/TR.php:793
+msgid "Kandıra"
+msgstr ""
+
+#: places/TR.php:794
+msgid "Karamürsel"
+msgstr ""
+
+#: places/TR.php:795
+msgid "Kartepe"
+msgstr ""
+
+#: places/TR.php:796
+msgid "Körfez"
+msgstr ""
+
+#: places/TR.php:800
+msgid "Ahırlı"
+msgstr ""
+
+#: places/TR.php:801
+msgid "Akören"
+msgstr ""
+
+#: places/TR.php:802
+msgid "Akşehir"
+msgstr ""
+
+#: places/TR.php:803
+msgid "Altınekin"
+msgstr ""
+
+#: places/TR.php:804
+msgid "Beyşehir"
+msgstr ""
+
+#: places/TR.php:805
+msgid "Bozkır"
+msgstr ""
+
+#: places/TR.php:806
+msgid "Cihanbeyli"
+msgstr ""
+
+#: places/TR.php:807
+msgid "Çeltik"
+msgstr ""
+
+#: places/TR.php:808
+msgid "Çumra"
+msgstr ""
+
+#: places/TR.php:809
+msgid "Derbent"
+msgstr ""
+
+#: places/TR.php:810
+msgid "Derebucak"
+msgstr ""
+
+#: places/TR.php:811
+msgid "Doğanhisar"
+msgstr ""
+
+#: places/TR.php:812
+msgid "Emirgazi"
+msgstr ""
+
+#: places/TR.php:813 places/TR.php:1229
+msgid "Ereğli"
+msgstr ""
+
+#: places/TR.php:814
+msgid "Güneysınır"
+msgstr ""
+
+#: places/TR.php:815
+msgid "Hadim"
+msgstr ""
+
+#: places/TR.php:816
+msgid "Halkapınar"
+msgstr ""
+
+#: places/TR.php:817
+msgid "Hüyük"
+msgstr ""
+
+#: places/TR.php:818
+msgid "Ilgın"
+msgstr ""
+
+#: places/TR.php:819
+msgid "Kadınhanı"
+msgstr ""
+
+#: places/TR.php:820
+msgid "Karapınar"
+msgstr ""
+
+#: places/TR.php:821
+msgid "Karatay"
+msgstr ""
+
+#: places/TR.php:822
+msgid "Kulu"
+msgstr ""
+
+#: places/TR.php:823
+msgid "Meram"
+msgstr ""
+
+#: places/TR.php:824
+msgid "Sarayönü"
+msgstr ""
+
+#: places/TR.php:825
+msgid "Selçuklu"
+msgstr ""
+
+#: places/TR.php:826
+msgid "Seydişehir"
+msgstr ""
+
+#: places/TR.php:827
+msgid "Taşkent"
+msgstr ""
+
+#: places/TR.php:828
+msgid "Tuzlukçu"
+msgstr ""
+
+#: places/TR.php:829
+msgid "Yalıhüyük"
+msgstr ""
+
+#: places/TR.php:830
+msgid "Yunak"
+msgstr ""
+
+#: places/TR.php:834
+msgid "Altıntaş"
+msgstr ""
+
+#: places/TR.php:835
+msgid "Aslanapa"
+msgstr ""
+
+#: places/TR.php:836
+msgid "Çavdarhisar"
+msgstr ""
+
+#: places/TR.php:837
+msgid "Domaniç"
+msgstr ""
+
+#: places/TR.php:838
+msgid "Dumlupınar"
+msgstr ""
+
+#: places/TR.php:839
+msgid "Emet"
+msgstr ""
+
+#: places/TR.php:840
+msgid "Gediz"
+msgstr ""
+
+#: places/TR.php:841
+msgid "Hisarcık"
+msgstr ""
+
+#: places/TR.php:843
+msgid "Pazarlar"
+msgstr ""
+
+#: places/TR.php:844
+msgid "Simav"
+msgstr ""
+
+#: places/TR.php:845
+msgid "Şaphane"
+msgstr ""
+
+#: places/TR.php:846
+msgid "Tavşanlı"
+msgstr ""
+
+#: places/TR.php:850
+msgid "Akçadağ"
+msgstr ""
+
+#: places/TR.php:851
+msgid "Arapgir"
+msgstr ""
+
+#: places/TR.php:852
+msgid "Arguvan"
+msgstr ""
+
+#: places/TR.php:853
+msgid "Battalgazi"
+msgstr ""
+
+#: places/TR.php:854
+msgid "Darende"
+msgstr ""
+
+#: places/TR.php:855
+msgid "Doğanşehir"
+msgstr ""
+
+#: places/TR.php:856
+msgid "Doğanyol"
+msgstr ""
+
+#: places/TR.php:857
+msgid "Hekimhan"
+msgstr ""
+
+#: places/TR.php:859
+msgid "Kuluncak"
+msgstr ""
+
+#: places/TR.php:860
+msgid "Pütürge"
+msgstr ""
+
+#: places/TR.php:861
+msgid "Yazıhan"
+msgstr ""
+
+#: places/TR.php:862 places/TR.php:1138
+msgid "Yeşilyurt"
+msgstr ""
+
+#: places/TR.php:866
+msgid "Ahmetli"
+msgstr ""
+
+#: places/TR.php:867
+msgid "Akhisar"
+msgstr ""
+
+#: places/TR.php:868
+msgid "Alaşehir"
+msgstr ""
+
+#: places/TR.php:869
+msgid "Demirci"
+msgstr ""
+
+#: places/TR.php:870
+msgid "Gölmarmara"
+msgstr ""
+
+#: places/TR.php:871
+msgid "Gördes"
+msgstr ""
+
+#: places/TR.php:872
+msgid "Kırkağaç"
+msgstr ""
+
+#: places/TR.php:873 places/TR.php:1152
+msgid "Köprübaşı"
+msgstr ""
+
+#: places/TR.php:874
+msgid "Kula"
+msgstr ""
+
+#: places/TR.php:875
+msgid "Salihli"
+msgstr ""
+
+#: places/TR.php:876
+msgid "Sarıgöl"
+msgstr ""
+
+#: places/TR.php:877
+msgid "Saruhanlı"
+msgstr ""
+
+#: places/TR.php:878
+msgid "Selendi"
+msgstr ""
+
+#: places/TR.php:879
+msgid "Soma"
+msgstr ""
+
+#: places/TR.php:880
+msgid "Şehzadeler"
+msgstr ""
+
+#: places/TR.php:881
+msgid "Turgutlu"
+msgstr ""
+
+#: places/TR.php:882
+msgid "Yunusemre"
+msgstr ""
+
+#: places/TR.php:886
+msgid "Artuklu"
+msgstr ""
+
+#: places/TR.php:887
+msgid "Dargeçit"
+msgstr ""
+
+#: places/TR.php:888
+msgid "Derik"
+msgstr ""
+
+#: places/TR.php:889
+msgid "Kızıltepe"
+msgstr ""
+
+#: places/TR.php:890
+msgid "Mazıdağı"
+msgstr ""
+
+#: places/TR.php:891
+msgid "Midyat"
+msgstr ""
+
+#: places/TR.php:892
+msgid "Nusaybin"
+msgstr ""
+
+#: places/TR.php:893
+msgid "Ömerli"
+msgstr ""
+
+#: places/TR.php:894
+msgid "Savur"
+msgstr ""
+
+#: places/TR.php:895
+msgid "Yeşilli"
+msgstr ""
+
+#: places/TR.php:899
+msgid "Akdeniz"
+msgstr ""
+
+#: places/TR.php:900
+msgid "Anamur"
+msgstr ""
+
+#: places/TR.php:901 places/TR.php:1210
+msgid "Aydıncık"
+msgstr ""
+
+#: places/TR.php:902
+msgid "Bozyazı"
+msgstr ""
+
+#: places/TR.php:903
+msgid "Çamlıyayla"
+msgstr ""
+
+#: places/TR.php:904
+msgid "Erdemli"
+msgstr ""
+
+#: places/TR.php:905
+msgid "Gülnar"
+msgstr ""
+
+#: places/TR.php:906
+msgid "Mezitli"
+msgstr ""
+
+#: places/TR.php:907
+msgid "Mut"
+msgstr ""
+
+#: places/TR.php:908
+msgid "Silifke"
+msgstr ""
+
+#: places/TR.php:909
+msgid "Tarsus"
+msgstr ""
+
+#: places/TR.php:910
+msgid "Toroslar"
+msgstr ""
+
+#: places/TR.php:915
+msgid "Bodrum"
+msgstr ""
+
+#: places/TR.php:916
+msgid "Dalaman"
+msgstr ""
+
+#: places/TR.php:917
+msgid "Datça"
+msgstr ""
+
+#: places/TR.php:918
+msgid "Fethiye"
+msgstr ""
+
+#: places/TR.php:919
+msgid "Kavaklıdere"
+msgstr ""
+
+#: places/TR.php:920
+msgid "Köyceğiz"
+msgstr ""
+
+#: places/TR.php:921
+msgid "Marmaris"
+msgstr ""
+
+#: places/TR.php:922
+msgid "Menteşe"
+msgstr ""
+
+#: places/TR.php:923
+msgid "Milas"
+msgstr ""
+
+#: places/TR.php:924
+msgid "Ortaca"
+msgstr ""
+
+#: places/TR.php:925
+msgid "Seydikemer"
+msgstr ""
+
+#: places/TR.php:926
+msgid "Ula"
+msgstr ""
+
+#: places/TR.php:927
+msgid "Yatağan"
+msgstr ""
+
+#: places/TR.php:931
+msgid "Bulanık"
+msgstr ""
+
+#: places/TR.php:932
+msgid "Hasköy"
+msgstr ""
+
+#: places/TR.php:933
+msgid "Korkut"
+msgstr ""
+
+#: places/TR.php:934
+msgid "Malazgirt"
+msgstr ""
+
+#: places/TR.php:936
+msgid "Varto"
+msgstr ""
+
+#: places/TR.php:940
+msgid "Acıgöl"
+msgstr ""
+
+#: places/TR.php:941
+msgid "Avanos"
+msgstr ""
+
+#: places/TR.php:942
+msgid "Derinkuyu"
+msgstr ""
+
+#: places/TR.php:943
+msgid "Gülşehir"
+msgstr ""
+
+#: places/TR.php:944
+msgid "Hacıbektaş"
+msgstr ""
+
+#: places/TR.php:945
+msgid "Kozaklı"
+msgstr ""
+
+#: places/TR.php:947
+msgid "Ürgüp"
+msgstr ""
+
+#: places/TR.php:951
+msgid "Altunhisar"
+msgstr ""
+
+#: places/TR.php:952
+msgid "Bor"
+msgstr ""
+
+#: places/TR.php:953
+msgid "Çamardı"
+msgstr ""
+
+#: places/TR.php:954
+msgid "Çiftlik"
+msgstr ""
+
+#: places/TR.php:956
+msgid "Ulukışla"
+msgstr ""
+
+#: places/TR.php:960
+msgid "Akkuş"
+msgstr ""
+
+#: places/TR.php:961
+msgid "Altınordu"
+msgstr ""
+
+#: places/TR.php:962
+msgid "Aybastı"
+msgstr ""
+
+#: places/TR.php:963
+msgid "Çamaş"
+msgstr ""
+
+#: places/TR.php:964
+msgid "Çatalpınar"
+msgstr ""
+
+#: places/TR.php:965
+msgid "Çaybaşı"
+msgstr ""
+
+#: places/TR.php:966
+msgid "Fatsa"
+msgstr ""
+
+#: places/TR.php:967
+msgid "Gölköy"
+msgstr ""
+
+#: places/TR.php:968
+msgid "Gülyalı"
+msgstr ""
+
+#: places/TR.php:969
+msgid "Gürgentepe"
+msgstr ""
+
+#: places/TR.php:970
+msgid "İkizce"
+msgstr ""
+
+#: places/TR.php:971
+msgid "Kabadüz"
+msgstr ""
+
+#: places/TR.php:972
+msgid "Kabataş"
+msgstr ""
+
+#: places/TR.php:973
+msgid "Korgan"
+msgstr ""
+
+#: places/TR.php:974
+msgid "Kumru"
+msgstr ""
+
+#: places/TR.php:975
+msgid "Mesudiye"
+msgstr ""
+
+#: places/TR.php:976
+msgid "Perşembe"
+msgstr ""
+
+#: places/TR.php:977 places/TR.php:1180
+msgid "Ulubey"
+msgstr ""
+
+#: places/TR.php:978
+msgid "Ünye"
+msgstr ""
+
+#: places/TR.php:982
+msgid "Bahçe"
+msgstr ""
+
+#: places/TR.php:983
+msgid "Düziçi"
+msgstr ""
+
+#: places/TR.php:984
+msgid "Hasanbeyli"
+msgstr ""
+
+#: places/TR.php:985
+msgid "Kadirli"
+msgstr ""
+
+#: places/TR.php:987
+msgid "Sumbas"
+msgstr ""
+
+#: places/TR.php:988
+msgid "Toprakkale"
+msgstr ""
+
+#: places/TR.php:992
+msgid "Ardeşen"
+msgstr ""
+
+#: places/TR.php:993
+msgid "Çamlıhemşin"
+msgstr ""
+
+#: places/TR.php:994
+msgid "Çayeli"
+msgstr ""
+
+#: places/TR.php:995
+msgid "Derepazarı"
+msgstr ""
+
+#: places/TR.php:996
+msgid "Fındıklı"
+msgstr ""
+
+#: places/TR.php:997
+msgid "Güneysu"
+msgstr ""
+
+#: places/TR.php:998
+msgid "Hemşin"
+msgstr ""
+
+#: places/TR.php:999
+msgid "İkizdere"
+msgstr ""
+
+#: places/TR.php:1000
+msgid "İyidere"
+msgstr ""
+
+#: places/TR.php:1001
+msgid "Kalkandere"
+msgstr ""
+
+#: places/TR.php:1003 places/TR.php:1134
+msgid "Pazar"
+msgstr ""
+
+#: places/TR.php:1007
+msgid "Adapazarı"
+msgstr ""
+
+#: places/TR.php:1008
+msgid "Akyazı"
+msgstr ""
+
+#: places/TR.php:1009
+msgid "Arifiye"
+msgstr ""
+
+#: places/TR.php:1010
+msgid "Erenler"
+msgstr ""
+
+#: places/TR.php:1011
+msgid "Ferizli"
+msgstr ""
+
+#: places/TR.php:1012
+msgid "Geyve"
+msgstr ""
+
+#: places/TR.php:1013
+msgid "Hendek"
+msgstr ""
+
+#: places/TR.php:1014
+msgid "Karapürçek"
+msgstr ""
+
+#: places/TR.php:1015
+msgid "Karasu"
+msgstr ""
+
+#: places/TR.php:1016
+msgid "Kaynarca"
+msgstr ""
+
+#: places/TR.php:1017
+msgid "Kocaali"
+msgstr ""
+
+#: places/TR.php:1018
+msgid "Pamukova"
+msgstr ""
+
+#: places/TR.php:1019
+msgid "Sapanca"
+msgstr ""
+
+#: places/TR.php:1020
+msgid "Serdivan"
+msgstr ""
+
+#: places/TR.php:1021
+msgid "Söğütlü"
+msgstr ""
+
+#: places/TR.php:1022
+msgid "Taraklı"
+msgstr ""
+
+#: places/TR.php:1026
+msgid "19 Mayıs"
+msgstr ""
+
+#: places/TR.php:1027
+msgid "Alaçam"
+msgstr ""
+
+#: places/TR.php:1028
+msgid "Asarcık"
+msgstr ""
+
+#: places/TR.php:1029
+msgid "Atakum"
+msgstr ""
+
+#: places/TR.php:1031
+msgid "Bafra"
+msgstr ""
+
+#: places/TR.php:1032
+msgid "Canik"
+msgstr ""
+
+#: places/TR.php:1033
+msgid "Çarşamba"
+msgstr ""
+
+#: places/TR.php:1034
+msgid "Havza"
+msgstr ""
+
+#: places/TR.php:1035
+msgid "İlkadım"
+msgstr ""
+
+#: places/TR.php:1036
+msgid "Kavak"
+msgstr ""
+
+#: places/TR.php:1037
+msgid "Ladik"
+msgstr ""
+
+#: places/TR.php:1038
+msgid "Salıpazarı"
+msgstr ""
+
+#: places/TR.php:1039
+msgid "Tekkeköy"
+msgstr ""
+
+#: places/TR.php:1040
+msgid "Terme"
+msgstr ""
+
+#: places/TR.php:1041
+msgid "Vezirköprü"
+msgstr ""
+
+#: places/TR.php:1042
+msgid "Yakakent"
+msgstr ""
+
+#: places/TR.php:1046
+msgid "Baykan"
+msgstr ""
+
+#: places/TR.php:1047
+msgid "Eruh"
+msgstr ""
+
+#: places/TR.php:1048
+msgid "Kurtalan"
+msgstr ""
+
+#: places/TR.php:1050
+msgid "Pervari"
+msgstr ""
+
+#: places/TR.php:1051
+msgid "Şirvan"
+msgstr ""
+
+#: places/TR.php:1052
+msgid "Tillo"
+msgstr ""
+
+#: places/TR.php:1056
+msgid "Ayancık"
+msgstr ""
+
+#: places/TR.php:1057
+msgid "Boyabat"
+msgstr ""
+
+#: places/TR.php:1058
+msgid "Dikmen"
+msgstr ""
+
+#: places/TR.php:1059
+msgid "Durağan"
+msgstr ""
+
+#: places/TR.php:1060
+msgid "Erfelek"
+msgstr ""
+
+#: places/TR.php:1061
+msgid "Gerze"
+msgstr ""
+
+#: places/TR.php:1063
+msgid "Saraydüzü"
+msgstr ""
+
+#: places/TR.php:1064
+msgid "Türkeli"
+msgstr ""
+
+#: places/TR.php:1068
+msgid "Akıncılar"
+msgstr ""
+
+#: places/TR.php:1070
+msgid "Divriği"
+msgstr ""
+
+#: places/TR.php:1071
+msgid "Doğanşar"
+msgstr ""
+
+#: places/TR.php:1072
+msgid "Gemerek"
+msgstr ""
+
+#: places/TR.php:1073
+msgid "Gölova"
+msgstr ""
+
+#: places/TR.php:1074
+msgid "Gürün"
+msgstr ""
+
+#: places/TR.php:1075
+msgid "Hafik"
+msgstr ""
+
+#: places/TR.php:1076
+msgid "İmranlı"
+msgstr ""
+
+#: places/TR.php:1077
+msgid "Kangal"
+msgstr ""
+
+#: places/TR.php:1078
+msgid "Koyulhisar"
+msgstr ""
+
+#: places/TR.php:1080
+msgid "Suşehri"
+msgstr ""
+
+#: places/TR.php:1081
+msgid "Şarkışla"
+msgstr ""
+
+#: places/TR.php:1082
+msgid "Ulaş"
+msgstr ""
+
+#: places/TR.php:1083
+msgid "Yıldızeli"
+msgstr ""
+
+#: places/TR.php:1084
+msgid "Zara"
+msgstr ""
+
+#: places/TR.php:1088
+msgid "Akçakale"
+msgstr ""
+
+#: places/TR.php:1089
+msgid "Birecik"
+msgstr ""
+
+#: places/TR.php:1090
+msgid "Bozova"
+msgstr ""
+
+#: places/TR.php:1091
+msgid "Ceylanpınar"
+msgstr ""
+
+#: places/TR.php:1092
+msgid "Eyyübiye"
+msgstr ""
+
+#: places/TR.php:1093
+msgid "Halfeti"
+msgstr ""
+
+#: places/TR.php:1094
+msgid "Haliliye"
+msgstr ""
+
+#: places/TR.php:1095
+msgid "Harran"
+msgstr ""
+
+#: places/TR.php:1096
+msgid "Hilvan"
+msgstr ""
+
+#: places/TR.php:1097
+msgid "Karaköprü"
+msgstr ""
+
+#: places/TR.php:1098
+msgid "Siverek"
+msgstr ""
+
+#: places/TR.php:1099
+msgid "Suruç"
+msgstr ""
+
+#: places/TR.php:1100
+msgid "Viranşehir"
+msgstr ""
+
+#: places/TR.php:1104
+msgid "Beytüşşebap"
+msgstr ""
+
+#: places/TR.php:1105
+msgid "Cizre"
+msgstr ""
+
+#: places/TR.php:1106
+msgid "Güçlükonak"
+msgstr ""
+
+#: places/TR.php:1107
+msgid "İdil"
+msgstr ""
+
+#: places/TR.php:1108
+msgid "Silopi"
+msgstr ""
+
+#: places/TR.php:1109 states/TR.php:89
+msgid "Şırnak"
+msgstr ""
+
+#: places/TR.php:1110
+msgid "Uludere"
+msgstr ""
+
+#: places/TR.php:1114
+msgid "Çerkezköy"
+msgstr ""
+
+#: places/TR.php:1115
+msgid "Çorlu"
+msgstr ""
+
+#: places/TR.php:1116
+msgid "Ergene"
+msgstr ""
+
+#: places/TR.php:1117
+msgid "Hayrabolu"
+msgstr ""
+
+#: places/TR.php:1118
+msgid "Kapaklı"
+msgstr ""
+
+#: places/TR.php:1119
+msgid "Malkara"
+msgstr ""
+
+#: places/TR.php:1120
+msgid "Marmaraereğlisi"
+msgstr ""
+
+#: places/TR.php:1121
+msgid "Muratlı"
+msgstr ""
+
+#: places/TR.php:1122 places/TR.php:1195
+msgid "Saray"
+msgstr ""
+
+#: places/TR.php:1123
+msgid "Süleymanpaşa"
+msgstr ""
+
+#: places/TR.php:1124
+msgid "Şarköy"
+msgstr ""
+
+#: places/TR.php:1128
+msgid "Almus"
+msgstr ""
+
+#: places/TR.php:1129
+msgid "Artova"
+msgstr ""
+
+#: places/TR.php:1130
+msgid "Başçiftlik"
+msgstr ""
+
+#: places/TR.php:1131
+msgid "Erbaa"
+msgstr ""
+
+#: places/TR.php:1133
+msgid "Niksar"
+msgstr ""
+
+#: places/TR.php:1135
+msgid "Reşadiye"
+msgstr ""
+
+#: places/TR.php:1136
+msgid "Sulusaray"
+msgstr ""
+
+#: places/TR.php:1137
+msgid "Turhal"
+msgstr ""
+
+#: places/TR.php:1139
+msgid "Zile"
+msgstr ""
+
+#: places/TR.php:1143
+msgid "Akçaabat"
+msgstr ""
+
+#: places/TR.php:1144
+msgid "Araklı"
+msgstr ""
+
+#: places/TR.php:1145
+msgid "Arsin"
+msgstr ""
+
+#: places/TR.php:1146
+msgid "Beşikdüzü"
+msgstr ""
+
+#: places/TR.php:1147
+msgid "Çarşıbaşı"
+msgstr ""
+
+#: places/TR.php:1148
+msgid "Çaykara"
+msgstr ""
+
+#: places/TR.php:1149
+msgid "Dernekpazarı"
+msgstr ""
+
+#: places/TR.php:1150
+msgid "Düzköy"
+msgstr ""
+
+#: places/TR.php:1151
+msgid "Hayrat"
+msgstr ""
+
+#: places/TR.php:1153
+msgid "Maçka"
+msgstr ""
+
+#: places/TR.php:1154
+msgid "Of"
+msgstr ""
+
+#: places/TR.php:1155
+msgid "Ortahisar"
+msgstr ""
+
+#: places/TR.php:1156
+msgid "Sürmene"
+msgstr ""
+
+#: places/TR.php:1157
+msgid "Şalpazarı"
+msgstr ""
+
+#: places/TR.php:1158
+msgid "Tonya"
+msgstr ""
+
+#: places/TR.php:1159
+msgid "Vakfıkebir"
+msgstr ""
+
+#: places/TR.php:1160
+msgid "Yomra"
+msgstr ""
+
+#: places/TR.php:1164
+msgid "Çemişgezek"
+msgstr ""
+
+#: places/TR.php:1165
+msgid "Hozat"
+msgstr ""
+
+#: places/TR.php:1166
+msgid "Mazgirt"
+msgstr ""
+
+#: places/TR.php:1168
+msgid "Nazımiye"
+msgstr ""
+
+#: places/TR.php:1170
+msgid "Pertek"
+msgstr ""
+
+#: places/TR.php:1171
+msgid "Pülümür"
+msgstr ""
+
+#: places/TR.php:1175
+msgid "Banaz"
+msgstr ""
+
+#: places/TR.php:1176
+msgid "Eşme"
+msgstr ""
+
+#: places/TR.php:1177
+msgid "Karahallı"
+msgstr ""
+
+#: places/TR.php:1179
+msgid "Sivaslı"
+msgstr ""
+
+#: places/TR.php:1184
+msgid "Bahçesaray"
+msgstr ""
+
+#: places/TR.php:1185
+msgid "Başkale"
+msgstr ""
+
+#: places/TR.php:1186
+msgid "Çaldıran"
+msgstr ""
+
+#: places/TR.php:1187
+msgid "Çatak"
+msgstr ""
+
+#: places/TR.php:1189
+msgid "Erciş"
+msgstr ""
+
+#: places/TR.php:1190
+msgid "Gevaş"
+msgstr ""
+
+#: places/TR.php:1191
+msgid "Gürpınar"
+msgstr ""
+
+#: places/TR.php:1192
+msgid "İpekyolu"
+msgstr ""
+
+#: places/TR.php:1193
+msgid "Muradiye"
+msgstr ""
+
+#: places/TR.php:1194
+msgid "Özalp"
+msgstr ""
+
+#: places/TR.php:1196
+msgid "Tuşba"
+msgstr ""
+
+#: places/TR.php:1200
+msgid "Altınova"
+msgstr ""
+
+#: places/TR.php:1201
+msgid "Armutlu"
+msgstr ""
+
+#: places/TR.php:1202
+msgid "Çınarcık"
+msgstr ""
+
+#: places/TR.php:1203
+msgid "Çiftlikköy"
+msgstr ""
+
+#: places/TR.php:1205
+msgid "Termal"
+msgstr ""
+
+#: places/TR.php:1209
+msgid "Akdağmadeni"
+msgstr ""
+
+#: places/TR.php:1211
+msgid "Boğazlıyan"
+msgstr ""
+
+#: places/TR.php:1212
+msgid "Çandır"
+msgstr ""
+
+#: places/TR.php:1213
+msgid "Çayıralan"
+msgstr ""
+
+#: places/TR.php:1214
+msgid "Çekerek"
+msgstr ""
+
+#: places/TR.php:1215
+msgid "Kadışehri"
+msgstr ""
+
+#: places/TR.php:1217
+msgid "Saraykent"
+msgstr ""
+
+#: places/TR.php:1218
+msgid "Sarıkaya"
+msgstr ""
+
+#: places/TR.php:1219
+msgid "Sorgun"
+msgstr ""
+
+#: places/TR.php:1220
+msgid "Şefaatli"
+msgstr ""
+
+#: places/TR.php:1221
+msgid "Yenifakılı"
+msgstr ""
+
+#: places/TR.php:1222
+msgid "Yerköy"
+msgstr ""
+
+#: places/TR.php:1226
+msgid "Alaplı"
+msgstr ""
+
+#: places/TR.php:1227
+msgid "Çaycuma"
+msgstr ""
+
+#: places/TR.php:1228
+msgid "Devrek"
+msgstr ""
+
+#: places/TR.php:1230
+msgid "Gökçebey"
+msgstr ""
+
+#: places/TR.php:1231
+msgid "Kilimli"
+msgstr ""
+
+#: places/TR.php:1232
+msgid "Kozlu"
+msgstr ""
+
 #: states-cities-and-places-for-woocommerce.php:25
 msgid "You can not access this file directly!"
 msgstr ""
@@ -10375,6 +19844,278 @@ msgstr ""
 
 #: states/AE.php:25
 msgid "Umm Al Quwain"
+msgstr ""
+
+#: states/BD.php:15
+msgid "Dhaka"
+msgstr ""
+
+#: states/BD.php:17
+msgid "Gazipur"
+msgstr ""
+
+#: states/BD.php:18
+msgid "Gopalganj"
+msgstr ""
+
+#: states/BD.php:19
+msgid "Kishoreganj"
+msgstr ""
+
+#: states/BD.php:20
+msgid "Madaripur"
+msgstr ""
+
+#: states/BD.php:21
+msgid "Manikganj"
+msgstr ""
+
+#: states/BD.php:22
+msgid "Munshiganj"
+msgstr ""
+
+#: states/BD.php:23
+msgid "Narayanganj"
+msgstr ""
+
+#: states/BD.php:24
+msgid "Narsingdi"
+msgstr ""
+
+#: states/BD.php:25
+msgid "Rajbari"
+msgstr ""
+
+#: states/BD.php:26
+msgid "Shariatpur"
+msgstr ""
+
+#: states/BD.php:27
+msgid "Tangail"
+msgstr ""
+
+#: states/BD.php:28
+msgid "Barisal"
+msgstr ""
+
+#: states/BD.php:29
+msgid "Barguna"
+msgstr ""
+
+#: states/BD.php:30
+msgid "Bhola"
+msgstr ""
+
+#: states/BD.php:31
+msgid "Jhalakati"
+msgstr ""
+
+#: states/BD.php:32
+msgid "Patuakhali"
+msgstr ""
+
+#: states/BD.php:33
+msgid "Pirojpur"
+msgstr ""
+
+#: states/BD.php:34
+msgid "Bandarban"
+msgstr ""
+
+#: states/BD.php:35
+msgid "Brahmanbaria"
+msgstr ""
+
+#: states/BD.php:36
+msgid "Chandpur"
+msgstr ""
+
+#: states/BD.php:37
+msgid "Chittagong"
+msgstr ""
+
+#: states/BD.php:38
+msgid "Comilla"
+msgstr ""
+
+#: states/BD.php:39
+msgid "Coxs Bazar"
+msgstr ""
+
+#: states/BD.php:40
+msgid "Feni"
+msgstr ""
+
+#: states/BD.php:41
+msgid "Khagrachhari"
+msgstr ""
+
+#: states/BD.php:42
+msgid "Lakshmipur"
+msgstr ""
+
+#: states/BD.php:43
+msgid "Noakhali"
+msgstr ""
+
+#: states/BD.php:44
+msgid "Rangamati"
+msgstr ""
+
+#: states/BD.php:45
+msgid "Jamalpur"
+msgstr ""
+
+#: states/BD.php:46
+msgid "Mymensingh"
+msgstr ""
+
+#: states/BD.php:47
+msgid "Netrakona"
+msgstr ""
+
+#: states/BD.php:49
+msgid "Bagerhat"
+msgstr ""
+
+#: states/BD.php:50
+msgid "Chuadanga"
+msgstr ""
+
+#: states/BD.php:51
+msgid "Jessore"
+msgstr ""
+
+#: states/BD.php:52
+msgid "Jhenaidah"
+msgstr ""
+
+#: states/BD.php:53
+msgid "Khulna"
+msgstr ""
+
+#: states/BD.php:54
+msgid "Kushtia"
+msgstr ""
+
+#: states/BD.php:55
+msgid "Magura"
+msgstr ""
+
+#: states/BD.php:56
+msgid "Meherpur"
+msgstr ""
+
+#: states/BD.php:57
+msgid "Narail"
+msgstr ""
+
+#: states/BD.php:58
+msgid "Satkhira"
+msgstr ""
+
+#: states/BD.php:59
+msgid "Bogra"
+msgstr ""
+
+#: states/BD.php:60
+msgid "Chapai Nawabganj"
+msgstr ""
+
+#: states/BD.php:61
+msgid "Jaipurhat"
+msgstr ""
+
+#: states/BD.php:62
+msgid "Naogaon"
+msgstr ""
+
+#: states/BD.php:63
+msgid "Natore"
+msgstr ""
+
+#: states/BD.php:64
+msgid "Pabna"
+msgstr ""
+
+#: states/BD.php:65
+msgid "Rajshahi"
+msgstr ""
+
+#: states/BD.php:66
+msgid "Sirajganj"
+msgstr ""
+
+#: states/BD.php:67
+msgid "Dinajpur"
+msgstr ""
+
+#: states/BD.php:68
+msgid "Gaibandha"
+msgstr ""
+
+#: states/BD.php:69
+msgid "Kurigram"
+msgstr ""
+
+#: states/BD.php:70
+msgid "Lalmonirhat"
+msgstr ""
+
+#: states/BD.php:71
+msgid "Nilphamari"
+msgstr ""
+
+#: states/BD.php:72
+msgid "Panchagarh"
+msgstr ""
+
+#: states/BD.php:73
+msgid "Rangpur"
+msgstr ""
+
+#: states/BD.php:74
+msgid "Thakurgaon"
+msgstr ""
+
+#: states/BD.php:75
+msgid "Habiganj"
+msgstr ""
+
+#: states/BD.php:76
+msgid "Maulvi Bazar"
+msgstr ""
+
+#: states/BD.php:77
+msgid "Sunamganj"
+msgstr ""
+
+#: states/BD.php:78
+msgid "Sylhet"
+msgstr ""
+
+#: states/BD.php:79
+msgid "Saver"
+msgstr ""
+
+#: states/BH.php:19
+msgctxt "Governorate of Bahrain"
+msgid "Capital"
+msgstr ""
+
+#: states/BH.php:20
+msgctxt "Governorate of Bahrain"
+msgid "Southern"
+msgstr ""
+
+#: states/BH.php:21
+msgctxt "Governorate of Bahrain"
+msgid "Muharraq"
+msgstr ""
+
+#: states/BH.php:22
+msgctxt "Governorate of Bahrain"
+msgid "Northern"
 msgstr ""
 
 #: states/DZ.php:21
@@ -10617,6 +20358,141 @@ msgctxt "Algerian Provinces"
 msgid "Relizane"
 msgstr ""
 
+#: states/EG.php:17
+msgctxt "Governorate of Egypt"
+msgid "Alexandria"
+msgstr ""
+
+#: states/EG.php:18
+msgctxt "Governorate of Egypt"
+msgid "Assiut"
+msgstr ""
+
+#: states/EG.php:19
+msgctxt "Governorate of Egypt"
+msgid "Aswan"
+msgstr ""
+
+#: states/EG.php:20
+msgctxt "Governorate of Egypt"
+msgid "Beheira"
+msgstr ""
+
+#: states/EG.php:21
+msgctxt "Governorate of Egypt"
+msgid "Beni Suef"
+msgstr ""
+
+#: states/EG.php:22
+msgctxt "Governorate of Egypt"
+msgid "Cairo"
+msgstr ""
+
+#: states/EG.php:23
+msgctxt "Governorate of Egypt"
+msgid "Damietta"
+msgstr ""
+
+#: states/EG.php:24
+msgctxt "Governorate of Egypt"
+msgid "Dakahlia"
+msgstr ""
+
+#: states/EG.php:25
+msgctxt "Governorate of Egypt"
+msgid "Fayoum"
+msgstr ""
+
+#: states/EG.php:26
+msgctxt "Governorate of Egypt"
+msgid "Gharbiya"
+msgstr ""
+
+#: states/EG.php:27
+msgctxt "Governorate of Egypt"
+msgid "Giza"
+msgstr ""
+
+#: states/EG.php:28
+msgctxt "Governorate of Egypt"
+msgid "Ismailia"
+msgstr ""
+
+#: states/EG.php:29
+msgctxt "Governorate of Egypt"
+msgid "Kafr Al sheikh"
+msgstr ""
+
+#: states/EG.php:30
+msgctxt "Governorate of Egypt"
+msgid "Luxor"
+msgstr ""
+
+#: states/EG.php:31
+msgctxt "Governorate of Egypt"
+msgid "Matrouh"
+msgstr ""
+
+#: states/EG.php:32
+msgctxt "Governorate of Egypt"
+msgid "Minya"
+msgstr ""
+
+#: states/EG.php:33
+msgctxt "Governorate of Egypt"
+msgid "Monofia"
+msgstr ""
+
+#: states/EG.php:34
+msgctxt "Governorate of Egypt"
+msgid "New Valley"
+msgstr ""
+
+#: states/EG.php:35
+msgctxt "Governorate of Egypt"
+msgid "North Sinai"
+msgstr ""
+
+#: states/EG.php:36
+msgctxt "Governorate of Egypt"
+msgid "Port Said"
+msgstr ""
+
+#: states/EG.php:37
+msgctxt "Governorate of Egypt"
+msgid "Qaliubiya"
+msgstr ""
+
+#: states/EG.php:38
+msgctxt "Governorate of Egypt"
+msgid "Qena"
+msgstr ""
+
+#: states/EG.php:39
+msgctxt "Governorate of Egypt"
+msgid "Red Sea"
+msgstr ""
+
+#: states/EG.php:40
+msgctxt "Governorate of Egypt"
+msgid "Sharkia"
+msgstr ""
+
+#: states/EG.php:41
+msgctxt "Governorate of Egypt"
+msgid "Sohag"
+msgstr ""
+
+#: states/EG.php:42
+msgctxt "Governorate of Egypt"
+msgid "South Sinai"
+msgstr ""
+
+#: states/EG.php:43
+msgctxt "Governorate of Egypt"
+msgid "Suez"
+msgstr ""
+
 #: states/KW.php:18
 msgctxt "Governorate of Kuwait"
 msgid "Al Asimah"
@@ -10765,4 +20641,324 @@ msgstr ""
 #: states/SA.php:31
 msgctxt "Regions of Saudi Arabia"
 msgid "'Asir"
+msgstr ""
+
+#: states/TR.php:18
+msgid "Adana"
+msgstr ""
+
+#: states/TR.php:19
+msgid "Adıyaman"
+msgstr ""
+
+#: states/TR.php:20
+msgid "Afyonkarahisar"
+msgstr ""
+
+#: states/TR.php:21
+msgid "Ağrı"
+msgstr ""
+
+#: states/TR.php:22
+msgid "Aksaray"
+msgstr ""
+
+#: states/TR.php:23
+msgid "Amasya"
+msgstr ""
+
+#: states/TR.php:24
+msgid "Ankara"
+msgstr ""
+
+#: states/TR.php:25
+msgid "Antalya"
+msgstr ""
+
+#: states/TR.php:26
+msgid "Ardahan"
+msgstr ""
+
+#: states/TR.php:27
+msgid "Artvin"
+msgstr ""
+
+#: states/TR.php:28
+msgid "Aydın"
+msgstr ""
+
+#: states/TR.php:29
+msgid "Balıkesir"
+msgstr ""
+
+#: states/TR.php:30
+msgid "Bartın"
+msgstr ""
+
+#: states/TR.php:31
+msgid "Batman"
+msgstr ""
+
+#: states/TR.php:32
+msgid "Bayburt"
+msgstr ""
+
+#: states/TR.php:33
+msgid "Bilecik"
+msgstr ""
+
+#: states/TR.php:34
+msgid "Bingöl"
+msgstr ""
+
+#: states/TR.php:35
+msgid "Bitlis"
+msgstr ""
+
+#: states/TR.php:36
+msgid "Bolu"
+msgstr ""
+
+#: states/TR.php:37
+msgid "Burdur"
+msgstr ""
+
+#: states/TR.php:38
+msgid "Bursa"
+msgstr ""
+
+#: states/TR.php:39
+msgid "Çanakkale"
+msgstr ""
+
+#: states/TR.php:40
+msgid "Çankırı"
+msgstr ""
+
+#: states/TR.php:41
+msgid "Çorum"
+msgstr ""
+
+#: states/TR.php:42
+msgid "Denizli"
+msgstr ""
+
+#: states/TR.php:43
+msgid "Diyarbakır"
+msgstr ""
+
+#: states/TR.php:44
+msgid "Düzce"
+msgstr ""
+
+#: states/TR.php:45
+msgid "Edirne"
+msgstr ""
+
+#: states/TR.php:46
+msgid "Elazığ"
+msgstr ""
+
+#: states/TR.php:47
+msgid "Erzincan"
+msgstr ""
+
+#: states/TR.php:48
+msgid "Erzurum"
+msgstr ""
+
+#: states/TR.php:49
+msgid "Eskişehir"
+msgstr ""
+
+#: states/TR.php:50
+msgid "Gaziantep"
+msgstr ""
+
+#: states/TR.php:51
+msgid "Giresun"
+msgstr ""
+
+#: states/TR.php:52
+msgid "Gümüşhane"
+msgstr ""
+
+#: states/TR.php:53
+msgid "Hakkari"
+msgstr ""
+
+#: states/TR.php:54
+msgid "Hatay"
+msgstr ""
+
+#: states/TR.php:55
+msgid "Iğdır"
+msgstr ""
+
+#: states/TR.php:56
+msgid "Isparta"
+msgstr ""
+
+#: states/TR.php:57
+msgid "İstanbul"
+msgstr ""
+
+#: states/TR.php:58
+msgid "İzmir"
+msgstr ""
+
+#: states/TR.php:59
+msgid "Kahramanmaraş"
+msgstr ""
+
+#: states/TR.php:60
+msgid "Karabük"
+msgstr ""
+
+#: states/TR.php:61
+msgid "Karaman"
+msgstr ""
+
+#: states/TR.php:62
+msgid "Kars"
+msgstr ""
+
+#: states/TR.php:63
+msgid "Kastamonu"
+msgstr ""
+
+#: states/TR.php:64
+msgid "Kayseri"
+msgstr ""
+
+#: states/TR.php:65
+msgid "Kırıkkale"
+msgstr ""
+
+#: states/TR.php:66
+msgid "Kırklareli"
+msgstr ""
+
+#: states/TR.php:67
+msgid "Kırşehir"
+msgstr ""
+
+#: states/TR.php:68
+msgid "Kilis"
+msgstr ""
+
+#: states/TR.php:69
+msgid "Kocaeli"
+msgstr ""
+
+#: states/TR.php:70
+msgid "Konya"
+msgstr ""
+
+#: states/TR.php:71
+msgid "Kütahya"
+msgstr ""
+
+#: states/TR.php:72
+msgid "Malatya"
+msgstr ""
+
+#: states/TR.php:73
+msgid "Manisa"
+msgstr ""
+
+#: states/TR.php:74
+msgid "Mardin"
+msgstr ""
+
+#: states/TR.php:75
+msgid "Mersin"
+msgstr ""
+
+#: states/TR.php:76
+msgid "Muğla"
+msgstr ""
+
+#: states/TR.php:77
+msgid "Muş"
+msgstr ""
+
+#: states/TR.php:78
+msgid "Nevşehir"
+msgstr ""
+
+#: states/TR.php:79
+msgid "Niğde"
+msgstr ""
+
+#: states/TR.php:80
+msgid "Ordu"
+msgstr ""
+
+#: states/TR.php:81
+msgid "Osmaniye"
+msgstr ""
+
+#: states/TR.php:82
+msgid "Rize"
+msgstr ""
+
+#: states/TR.php:83
+msgid "Sakarya"
+msgstr ""
+
+#: states/TR.php:84
+msgid "Samsun"
+msgstr ""
+
+#: states/TR.php:85
+msgid "Siirt"
+msgstr ""
+
+#: states/TR.php:86
+msgid "Sinop"
+msgstr ""
+
+#: states/TR.php:87
+msgid "Sivas"
+msgstr ""
+
+#: states/TR.php:88
+msgid "Şanlıurfa"
+msgstr ""
+
+#: states/TR.php:90
+msgid "Tekirdağ"
+msgstr ""
+
+#: states/TR.php:91
+msgid "Tokat"
+msgstr ""
+
+#: states/TR.php:92
+msgid "Trabzon"
+msgstr ""
+
+#: states/TR.php:93
+msgid "Tunceli"
+msgstr ""
+
+#: states/TR.php:94
+msgid "Uşak"
+msgstr ""
+
+#: states/TR.php:95
+msgid "Van"
+msgstr ""
+
+#: states/TR.php:96
+msgid "Yalova"
+msgstr ""
+
+#: states/TR.php:97
+msgid "Yozgat"
+msgstr ""
+
+#: states/TR.php:98
+msgid "Zonguldak"
 msgstr ""
