@@ -133,7 +133,7 @@ Yes, you can always suggest or request new locations by creating an issue in the
 - **Yordan Soares** - (GitHub: [YordanSoares](https://github.com/YordanSoares) / WP: [YordanSoares](https://profiles.wordpress.org/yordansoares/))
 
 ## Changelog
-* 1.3.2 - Dec 30, 2020
+* 1.3.2 - Dec 31, 2020
   * Added ten new countries:
     * 🇧🇩 Bangladesh: Districts and Cities (thanks to [S.M. Mehdi Akram](https://www.royaltechbd.com))
     * 🇧🇫 Burkina Faso: Regions and Provinces (thanks to [Stéphane SAMANDOULOUGOU](mailto:burkinar@gmail.com)): 
