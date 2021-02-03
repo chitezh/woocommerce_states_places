@@ -6,6 +6,7 @@
  *
  * Source:
  * -https://www.directoriocubano.info/postales/
+ * -https://www.ecured.cu/Municipios_de_Cuba
  *
  * @author   Ramiro Rodpa <www.rmr@gmail.com>
  * @version  1.0.0
@@ -17,7 +18,7 @@ $places['CU'] = array(
 	// La Habana
 	'CH' => array(
 		'10 de Octubre',
-		'Arrollo Naranjo',
+		'Arroyo Naranjo',
 		'Boyeros',
 		'Centro Habana',
 		'Cerro',
@@ -43,7 +44,8 @@ $places['CU'] = array(
 		'Guanajay',
 		'Guira de Melena',
 		'Mariel',
-		'San Antonio de los Baños'
+		'San Antonio de los Baños',
+		'San Cristobal'
 	),
 	// Camaguey
 	'CM' => array(
