@@ -4,7 +4,7 @@
  * $country places/cities/municipalities/districts
  * - $count places/cities/municipalities/districts
  *
- * @author  Hein Htet Kyaw <mr.kiddomonster@gmail.com>
+ * @author  Your Name Here <mr.kiddomonster@gmail.com>
  * @link https://mmprofessx.com
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
@@ -109,6 +109,15 @@ $places['MM'] = array(
     'Bawlakhe Township (ဘောလခဲမြို့နယ်)',
     'Hpasawng Township (ဖားဆောင်းမြို့နယ်)',
     'Mese Township (မယ်စဲ့‌မြို့နယ်)',
+  ),        
+  'KYN' => array(
+    'Kawkareik Township (ကောဝ်တြာ်ကၞင့် - ကီၢ်ကရံၣ်ကီၢ်ဆၣ် - ကော့ကရိတ်မြို့နယ်)',
+    'Kyain Seikgyi Township (ကြာအင်းဆိပ်ကြီးမြို့နယ်)',
+    'Hpapun Township (ဖာပံင်ကၞင့် - ဖးဖူကီၢ်ဆၣ်- ဖာပွန်မြို့နယ်)',
+    'Hpa-an Township (ဖၣ်အၣ်ကီၢ်ဆၣ် - ထ်ုအင်ကၞင့် - ဘားအံမြို့နယ်)',
+    'Myawaddy Township (ရါမတံၤကီၢ်ဆၣ် - မေဝ်ပ္တီကၞင့် - မြဝတီမြို့နယ်)',
+    'Hlaingbwe Township (လူၢ်ပျဲၢ်ကီၢ်ဆၣ် - ပါ်စံင်ကၞင့် - လှိုင်းဘွဲ့မြို့နယ်)',
+    'Thandaunggyi Township (သါတီကၠံၤကီၢ်ဆၣ် - သင်တင်ဍောဟ်ကၞင့် - သံတောင်ကြီးမြို့နယ်)',
   ),
   'MDY' => array(
     'Maha Aungmye Township (မဟာအောင်မြေမြို့နယ်)',
