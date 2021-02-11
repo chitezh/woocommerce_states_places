@@ -1,19 +1,20 @@
 <?php
 
 /**
- * $country states/provinces/regions
- * - $count states/provinces/regions
+ * States, Regions, and Union Territories of Myanmar
+ * - 15 states, regions, and union territories
  *
- * @author  Hein Htet Kyaw <mr.kiddomonster@gmail.com> 
- * @link https://mmprofessx.com
+ * Source:
+ * - https://en.wikipedia.org/wiki/Administrative_divisions_of_Myanmar
+ * 
+ * @author  Hein Htet Kyaw <mr.kiddomonster@gmail.com>
  * @version 1.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 global $states;
 
-$states['MM'] = array(
-  
+$states['MM'] = array(  
   'AYA' => 'Ayeyarwady Region (ဧရာဝတီတိုင်းဒေသကြီး)',
   'BGO' => 'Bago Region (ပဲခူးတိုင်းဒေသကြီး)',
   'CHN' => 'Chin State (ချင်းပြည်နယ်)',
@@ -28,6 +29,8 @@ $states['MM'] = array(
   'SGN' => 'Sagaing Region (စစ်ကိုင်းတိုင်းဒေသကြီး)',
   'SHN' => 'Shan (ရှမ်းပြည်နယ်)',
   'TNT' => 'Tanintharyi Region (တနင်္သာရီတိုင်းဒေသကြီး)',
-  'YGN' => 'Yangon Region (ရန်ကုန်တိုင်းဒေသကြီး)', 
-  
+  'YGN' => 'Yangon Region (ရန်ကုန်တိုင်းဒေသကြီး)',
 );
+
+// Use this filter to handle the States, Regions, and Union Territories of Myanmar
+$states['MM'] = apply_filters('scpwoo_custom_states_mm', $states['MM']);

@@ -1,11 +1,10 @@
 <?php
 
 /**
- * $country places/cities/municipalities/districts
- * - $count places/cities/municipalities/districts
+ * Townships of Myanmar
+ * - 278 townships
  *
- * @author  Your Name Here <mr.kiddomonster@gmail.com>
- * @link https://mmprofessx.com
+ * @author  Hein Htet Kyaw <mr.kiddomonster@gmail.com>
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
@@ -13,6 +12,7 @@
 global $places;
 
 $places['MM'] = array(
+  // Ayeyarwady Region (ဧရာဝတီတိုင်းဒေသကြီး)
   'AYA' => array(
     'Pathein Township (ပုသိမ်မြို့နယ်)',
     'Kangyidaunt Township (ကန်ကြီးတောင့်မြို့နယ်)',
@@ -41,6 +41,7 @@ $places['MM'] = array(
     'Labutta Township (လပွတ္တာမြို့နယ်)',
     'Mawlamyinegyun Township (မော်လမြိုင်ကျွန်းမြို့နယ်)',
   ),
+  // Bago Region (ပဲခူးတိုင်းဒေသကြီး)
   'BGO' => array(
     'Kawa Township (ကဝမြို့နယ်)',
     'Kyaukkyi Township (ကျောက်ကြီးမြို့နယ်)',
@@ -71,6 +72,7 @@ $places['MM'] = array(
     'Oktwin Township (အုတ်တွင်းမြို့နယ်)',
     'Okpho Township (အုတ်ဖိုမြို့နယ်)',
   ),
+  // Chin State (ချင်းပြည်နယ်)
   'CHN' => array(
     'Kanpetlet Township (ကန်ပက်လက်မြို့နယ်)',
     'Tonzang Township ( တွန်းဇံမြို့နယ်)',
@@ -82,6 +84,7 @@ $places['MM'] = array(
     'Matupi Township (မတူပီမြို့နယ်)',
     'Hakha Township (ဟားခါးမြို့နယ်)',
   ),
+  // Kachin (ကချင်ပြည်နယ်)
   'KCN' => array(
     'Myitkyina Township (မြစ်ကြီးနားမြို့နယ်)',
     'Waingmaw Township (ဝိုင်းမော်မြို့နယ်)',
@@ -101,6 +104,7 @@ $places['MM'] = array(
     'Mogaung Township (မိုးကောင်းမြို့နယ်)',
     'Hpakan Township (ဖားကန့်မြို့နယ်)',
   ),
+  // Kayah State (ကယားပြည်နယ်)
   'KYH' => array(
     'Loikaw Township (လွိုင်ကော်မြို့နယ်)',
     'Demoso Township (ဒီမောဆိုး‌မြို့နယ်)',
@@ -109,16 +113,8 @@ $places['MM'] = array(
     'Bawlakhe Township (ဘောလခဲမြို့နယ်)',
     'Hpasawng Township (ဖားဆောင်းမြို့နယ်)',
     'Mese Township (မယ်စဲ့‌မြို့နယ်)',
-  ),        
-  'KYN' => array(
-    'Kawkareik Township (ကောဝ်တြာ်ကၞင့် - ကီၢ်ကရံၣ်ကီၢ်ဆၣ် - ကော့ကရိတ်မြို့နယ်)',
-    'Kyain Seikgyi Township (ကြာအင်းဆိပ်ကြီးမြို့နယ်)',
-    'Hpapun Township (ဖာပံင်ကၞင့် - ဖးဖူကီၢ်ဆၣ်- ဖာပွန်မြို့နယ်)',
-    'Hpa-an Township (ဖၣ်အၣ်ကီၢ်ဆၣ် - ထ်ုအင်ကၞင့် - ဘားအံမြို့နယ်)',
-    'Myawaddy Township (ရါမတံၤကီၢ်ဆၣ် - မေဝ်ပ္တီကၞင့် - မြဝတီမြို့နယ်)',
-    'Hlaingbwe Township (လူၢ်ပျဲၢ်ကီၢ်ဆၣ် - ပါ်စံင်ကၞင့် - လှိုင်းဘွဲ့မြို့နယ်)',
-    'Thandaunggyi Township (သါတီကၠံၤကီၢ်ဆၣ် - သင်တင်ဍောဟ်ကၞင့် - သံတောင်ကြီးမြို့နယ်)',
   ),
+  // Mandalay Region (မန္တလေးတိုင်းဒေသကြီး)
   'MDY' => array(
     'Maha Aungmye Township (မဟာအောင်မြေမြို့နယ်)',
     'Aungmyethazan Township (အောင်မြေသာစံမြို့နယ်)',
@@ -128,6 +124,7 @@ $places['MM'] = array(
     'Amarapura Township (အမရပူရမြို့နယ်)',
     'Patheingyi Township (ပုသိမ်ကြီးမြို့နယ်)',
   ),
+  // Magway Region (မကွေးတိုင်းဒေသကြီး)
   'MGY' => array(
     'Yenangyaung Township (ရေနံချောင်းမြို့နယ်)',
     'Natmauk Township (နတ်မောတ်မြို့နယ်)',
@@ -136,6 +133,7 @@ $places['MM'] = array(
     'Minbu Township (မင်းဘူးမြို့နယ်)',
     'Pwintbyu Township (ပွင့်ဖြူမြို့နယ်)',
   ),
+  // Mon State (မွန်ပြည်နယ်)
   'MON' => array(
     'Mawlamyine Township (မော်လမြိုင်မြို့နယ်)',
     'Kyaikmaraw Township (ကျိုက်မရောမြို့နယ်)',
@@ -148,6 +146,7 @@ $places['MM'] = array(
     'Kyaikto Township (ကျိုက်ထိုမြို့နယ်)',
     'Bilin Township (ဘီးလင်းမြို့နယ်)',
   ),
+  // Naypyitaw (နေပြည်တော်)
   'NPT' => array(
     'Zabuthiri Township (ဇမ္ဗူသီရိမြို့နယ်)',
     'Zeyathiri Township (ဇေယျာသီရိမြို့နယ်)',
@@ -158,6 +157,7 @@ $places['MM'] = array(
     'Lewe Township (လယ်ဝေးမြို့နယ်)',
     'Oattara Thiri Township (ဥတ္တရသီရိမြို့နယ်)',   
   ),
+  // Rakhine (ရခိုင်ပြည်နယ်)
   'RKN' => array(
     'Sittwe Township (စစ်တွေမြို့နယ်)',
     'Ponnagyun Township (ပုဏ္ဏားကျွန်းမြို့နယ်)',
@@ -177,6 +177,7 @@ $places['MM'] = array(
     'Minbya Township (မင်းပြားမြို့နယ်)',
     'Myebon Township (မြေပုံမြို့နယ်)',
   ),
+  // Sagaing Region (စစ်ကိုင်းတိုင်းဒေသကြီး)
   'SGN' => array(
     'Hkamti Township (ခန္တီးမြို့နယ်)',
     'Homalin Township (ဟုမ္မလင်းမြို့နယ်)',
@@ -212,6 +213,7 @@ $places['MM'] = array(
     'Yinmabin Township (ယင်းမာပင်မြို့နယ်)',
     'Salingyi Township (ဆားလင်းကြီးမြို့နယ်)',
   ),
+  // Shan (ရှမ်းပြည်နယ်)
   'SHN' => array(
     'Kengtung Township (ကျိုင်းတုံမြို့နယ်)',
     'Mong Khet Township (မိုင်းခတ်မြို့နယ်)',
@@ -269,6 +271,7 @@ $places['MM'] = array(
     'Pinlaung Township (ပင်လောင်းမြို့နယ်)',
     'Pekon Township (ဖယ်ခုံမြို့နယ်)',
   ),
+  // Tanintharyi Region (တနင်္သာရီတိုင်းဒေသကြီး)
   'TNT' => array(
     'Dawei Township (ထားဝယ်မြို့နယ်)',
     'Launglon Township (လောင်းလုံမြို့နယ်)',
@@ -280,7 +283,8 @@ $places['MM'] = array(
     'Tanintharyi Township (တနင်္သာရီမြို့နယ်)',
     'Bokpyin Township (ဘုတ်ပြင်းမြို့နယ်)',
     'Kawthaung Township (ကော့သောင်းမြို့နယ်)',
-  ),  
+  ),
+  // Yangon Region (ရန်ကုန်တိုင်းဒေသကြီး)
   'YGN' => array(
     'Kamayut Township (ကမာရွတ်မြို့နယ်)',
     'Kawhmu Township (ကော့မှူးမြို့နယ်)',
@@ -328,3 +332,6 @@ $places['MM'] = array(
     'Insein Township (အင်းစိန်မြို့နယ်)',
   ),
 );
+
+// Use this filter to handle the Townships of Myanmar
+$places['MM'] = apply_filters('scpwoo_custom_places_mm', $places['MM']);
