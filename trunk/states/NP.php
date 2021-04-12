@@ -17,7 +17,7 @@ global $states;
 
 // Replace 'XX' code for your Country Code. E.g. 'NG' for Nigeria, 'CO' for Colombia, 'VE' for Venezuela, etc.
 // Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
-$states['XX'] = array(
+$states['NP'] = array(
   // Some countries like Denmark or Belgium do not use the state field, 
   // if your country doesn't use it either, leave the array empty.
   // E.g. $states['DK'] = array();
@@ -28,7 +28,20 @@ $states['XX'] = array(
   // You can use any standar like ISO, ANSI, etc. There is no an mandatory standar or system and you can use your own.
   // Please see the U.S. state abbreviations to see an example:
   // https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations
-  'AA' => 'State 1',
-  'BB' => 'State 2',
-  'CC' => 'State 3',
+  'ME' => 'Mechi',
+  'KO' => 'Koshi',
+  'SA' => 'Sagarmatha',
+  'JA' => 'Janakpur',
+  'BA' => 'Bagmati',
+  'NA' => 'Narayani',
+  'GA' => 'Gandaki',
+  'LU' => 'Lumbini',
+  'DH' => 'Dhawalagiri',
+  'RA' => 'Rapti',
+  'KA' => 'Karnali',
+  'BH' => 'Bheri',
+  'SE' => 'Seti',
+  'MA' => 'Mahakali',
+
+    
 );
