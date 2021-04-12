@@ -16,22 +16,113 @@ global $places;
 
 // Replace 'XX' code for your Country Code. E.g. 'NG' for Nigeria, 'CO' for Colombia, 'VE' for Venezuela, etc.
 // Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
-$places['XX'] = array(
+$places['NP'] = array(
   // Replace 'AA' code with the code of the State you want to mapping this places  
-  'AA' => array(
+  'ME' => array(
     // Add all the places of this State, one place per line
-    'Location 1',
-    'Location 2',
-    'Location 3',
+    'Ilam',
+    'Jhapa',
+    'Panchthar',
+    'Taplejung',
   ),
-  'BB' => array(
-    'Location 1',
-    'Location 2',
-    'Location 3',
+  'KO' => array(
+    'Bhojpur',
+    'Dhankuta',
+    'Morang',
+    'Sankhuwasabha',
+    'Sunsari',
+    'Terhathum',
   ),
-  'CC' => array(
-    'Location 1',
-    'Location 2',
-    'Location 3',
+  'SA' => array(
+   'Khotang',
+   'Okhaldhunga',
+   'Solukhumbu',
+   'Udayapur',
+   'Saptari',
+   'Siraha',
+  ),
+  'BA' => array(
+    // Add all the places of this State, one place per line
+    'Bhaktapur',
+    'Dhading',
+    'Lalitpur',
+    'Kathmandu',
+    'Kavrepalanchok',
+    'Nuwakot',
+    'Rasuwa',
+    'Sindhupalchok',
+  ),
+  'JA' => array(
+    'Dhanusha',
+    'Mahottari',
+    'Sarlahi',
+    'Dolakha',
+    'Ramechhap',
+    'Sindhuli',
+  ),
+  'NA' => array(
+   'Bara',
+   'Parsa',
+   'Rautahat',
+   'Chitwan',
+   'Makwanpur',
+  ),
+  'DH' => array(
+   'Baglung',
+   'Mustang',
+   'Myagdi',
+   'Parbat',
+  ),
+  'GA' => array(
+    // Add all the places of this State, one place per line
+    'Gorkha',
+    'Kaski',
+    'Lamjung',
+    'Manang',
+    'Syangja',
+    'Tanahu',
+  ),
+  'LU' => array(
+    'Arghakhanchi',
+    'Gulmi',
+    'Kapilvastu',
+    'Palpa',
+    'Rupandehi',
+    'Nawalparasi',
+  ),
+  'BH' => array(
+   'Banke',
+   'Bardiya',
+   'Dailekh',
+   'Jajarkot',
+   'Surkhet',
+  ),
+  'KA' => array(
+    // Add all the places of this State, one place per line
+    'Dolpa',
+    'Humla',
+    'Jumla',
+    'Kalikot',
+    'Mugu',
+  ),
+  'RA' => array(
+    'Dang',
+    'Pyuthan',
+    'Rolpa',
+    'Rukum',
+    'Salyan',
+  ),
+  'MA' => array(
+   'Baitadi',
+   'Dadheldura',
+   'Darchula',
+   'Kanchanpur',
+  ),
+  'SE' => array(
+   'Achham',
+   'Bajhang',
+   'Bajura',
+   'Doti',
+   'Kailali',
   ),
 );
