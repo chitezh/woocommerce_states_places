@@ -7,7 +7,7 @@
  * Source:
  * - https://en.wikipedia.org/wiki/List_of_districts_in_Turkey
  *
- * @author  Selcuk <selcuk@kokoma.com.tr>
+ * @author  Selcuk Karademir <selcuk@kokoma.com.tr>
  * @version 1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
@@ -16,7 +16,7 @@ global $places;
 
 $places['TR'] = array(
     // Adana
-    'ADA' => array(
+    'TR01' => array(
         __('Aladağ', 'states-cities-and-places-for-woocommerce'),
         __('Ceyhan', 'states-cities-and-places-for-woocommerce'),
         __('Çukurova', 'states-cities-and-places-for-woocommerce'),
@@ -34,7 +34,7 @@ $places['TR'] = array(
         __('Yüreğir', 'states-cities-and-places-for-woocommerce'),
     ),
     // Adıyaman
-    'ADI' => array(
+    'TR02' => array(
         __('Besni', 'states-cities-and-places-for-woocommerce'),
         __('Çelikhan', 'states-cities-and-places-for-woocommerce'),
         __('Gerger', 'states-cities-and-places-for-woocommerce'),
@@ -46,7 +46,7 @@ $places['TR'] = array(
         __('Tut', 'states-cities-and-places-for-woocommerce'),
     ),
     // Afyonkarahisar
-    'AFY' => array(
+    'TR03' => array(
         __('Başmakçı', 'states-cities-and-places-for-woocommerce'),
         __('Bayat', 'states-cities-and-places-for-woocommerce'),
         __('Bolvadin', 'states-cities-and-places-for-woocommerce'),
@@ -67,7 +67,7 @@ $places['TR'] = array(
         __('Şuhut', 'states-cities-and-places-for-woocommerce'),
     ),
     // Ağrı
-    'AGR' => array(
+    'TR04' => array(
         __('Diyadin', 'states-cities-and-places-for-woocommerce'),
         __('Doğubayazıt', 'states-cities-and-places-for-woocommerce'),
         __('Eleşkirt', 'states-cities-and-places-for-woocommerce'),
@@ -78,7 +78,7 @@ $places['TR'] = array(
         __('Tutak', 'states-cities-and-places-for-woocommerce'),
     ),
     // Aksaray
-    'AKS' => array(
+    'TR68' => array(
         __('Ağaçören', 'states-cities-and-places-for-woocommerce'),
         __('Eskil', 'states-cities-and-places-for-woocommerce'),
         __('Gülağaç', 'states-cities-and-places-for-woocommerce'),
@@ -89,7 +89,7 @@ $places['TR'] = array(
         __('Sultanhanı', 'states-cities-and-places-for-woocommerce'),
     ),
     // Amasya
-    'AMA' => array(
+    'TR05' => array(
         __('Göynücek', 'states-cities-and-places-for-woocommerce'),
         __('Gümüşhacıköy', 'states-cities-and-places-for-woocommerce'),
         __('Hamamözü', 'states-cities-and-places-for-woocommerce'),
@@ -99,7 +99,7 @@ $places['TR'] = array(
         __('Taşova', 'states-cities-and-places-for-woocommerce'),
     ),
     // Ankara
-    'ANK' => array(
+    'TR06' => array(
         __('Akyurt', 'states-cities-and-places-for-woocommerce'),
         __('Altındağ', 'states-cities-and-places-for-woocommerce'),
         __('Ayaş', 'states-cities-and-places-for-woocommerce'),
@@ -127,7 +127,7 @@ $places['TR'] = array(
         __('Yenimahalle', 'states-cities-and-places-for-woocommerce'),
     ),
     // Antalya
-    'ANT' => array(
+    'TR07' => array(
         __('Akseki', 'states-cities-and-places-for-woocommerce'),
         __('Aksu', 'states-cities-and-places-for-woocommerce'),
         __('Alanya', 'states-cities-and-places-for-woocommerce'),
@@ -149,7 +149,7 @@ $places['TR'] = array(
         __('Serik', 'states-cities-and-places-for-woocommerce'),
     ),
     // Ardahan
-    'ARD' => array(
+    'TR75' => array(
         __('Çıldır', 'states-cities-and-places-for-woocommerce'),
         __('Damal', 'states-cities-and-places-for-woocommerce'),
         __('Göle', 'states-cities-and-places-for-woocommerce'),
@@ -158,7 +158,7 @@ $places['TR'] = array(
         __('Posof', 'states-cities-and-places-for-woocommerce'),
     ),
     // Artvin
-    'ART' => array(
+    'TR08' => array(
         __('Ardanuç', 'states-cities-and-places-for-woocommerce'),
         __('Arhavi', 'states-cities-and-places-for-woocommerce'),
         __('Borçka', 'states-cities-and-places-for-woocommerce'),
@@ -170,7 +170,7 @@ $places['TR'] = array(
         __('Yusufeli', 'states-cities-and-places-for-woocommerce'),
     ),
     // Aydın
-    'AYD' => array(
+    'TR09' => array(
         __('Bozdoğan', 'states-cities-and-places-for-woocommerce'),
         __('Buharkent', 'states-cities-and-places-for-woocommerce'),
         __('Çine', 'states-cities-and-places-for-woocommerce'),
@@ -190,7 +190,7 @@ $places['TR'] = array(
         __('Yenipazar', 'states-cities-and-places-for-woocommerce'),
     ),
     // Balıkesir
-    'BAL' => array(
+    'TR10' => array(
         __('Altıeylül', 'states-cities-and-places-for-woocommerce'),
         __('Ayvalık', 'states-cities-and-places-for-woocommerce'),
         __('Balya', 'states-cities-and-places-for-woocommerce'),
@@ -213,14 +213,14 @@ $places['TR'] = array(
         __('Susurluk', 'states-cities-and-places-for-woocommerce'),
     ),
     // Bartın
-    'BAR' => array(
+    'TR74' => array(
         __('Amasra', 'states-cities-and-places-for-woocommerce'),
         __('Kurucaşile', 'states-cities-and-places-for-woocommerce'),
         __('Merkez', 'states-cities-and-places-for-woocommerce'),
         __('Ulus', 'states-cities-and-places-for-woocommerce'),
     ),
     // Batman
-    'BAT' => array(
+    'TR72' => array(
         __('Beşiri', 'states-cities-and-places-for-woocommerce'),
         __('Gercüş', 'states-cities-and-places-for-woocommerce'),
         __('Hasankeyf', 'states-cities-and-places-for-woocommerce'),
@@ -229,13 +229,13 @@ $places['TR'] = array(
         __('Sason', 'states-cities-and-places-for-woocommerce'),
     ),
     // Bayburt
-    'BAY' => array(
+    'TR69' => array(
         __('Aydıntepe', 'states-cities-and-places-for-woocommerce'),
         __('Demirözü', 'states-cities-and-places-for-woocommerce'),
         __('Merkez', 'states-cities-and-places-for-woocommerce'),
     ),
     // Bilecik
-    'BIL' => array(
+    'TR11' => array(
         __('Bozüyük', 'states-cities-and-places-for-woocommerce'),
         __('Gölpazarı', 'states-cities-and-places-for-woocommerce'),
         __('İnhisar', 'states-cities-and-places-for-woocommerce'),
@@ -246,7 +246,7 @@ $places['TR'] = array(
         __('Yenipazar', 'states-cities-and-places-for-woocommerce'),
     ),
     // Bingöl
-    'BIN' => array(
+    'TR12' => array(
         __('Adaklı', 'states-cities-and-places-for-woocommerce'),
         __('Genç', 'states-cities-and-places-for-woocommerce'),
         __('Karlıova', 'states-cities-and-places-for-woocommerce'),
@@ -257,7 +257,7 @@ $places['TR'] = array(
         __('Yedisu', 'states-cities-and-places-for-woocommerce'),
     ),
     // Bitlis
-    'BIT' => array(
+    'TR13' => array(
         __('Adilcevaz', 'states-cities-and-places-for-woocommerce'),
         __('Ahlat', 'states-cities-and-places-for-woocommerce'),
         __('Güroymak', 'states-cities-and-places-for-woocommerce'),
@@ -267,7 +267,7 @@ $places['TR'] = array(
         __('Tatvan', 'states-cities-and-places-for-woocommerce'),
     ),
     // Bolu
-    'BOL' => array(
+    'TR14' => array(
         __('Dörtdivan', 'states-cities-and-places-for-woocommerce'),
         __('Gerede', 'states-cities-and-places-for-woocommerce'),
         __('Göynük', 'states-cities-and-places-for-woocommerce'),
@@ -279,7 +279,7 @@ $places['TR'] = array(
         __('Yeniçağa', 'states-cities-and-places-for-woocommerce'),
     ),
     // Burdur
-    'BURD' => array(
+    'TR15' => array(
         __('Ağlasun', 'states-cities-and-places-for-woocommerce'),
         __('Altınyayla', 'states-cities-and-places-for-woocommerce'),
         __('Bucak', 'states-cities-and-places-for-woocommerce'),
@@ -293,7 +293,7 @@ $places['TR'] = array(
         __('Yeşilova', 'states-cities-and-places-for-woocommerce'),
     ),
     // Bursa
-    'BURS' => array(
+    'TR16' => array(
         __('Büyükorhan', 'states-cities-and-places-for-woocommerce'),
         __('Gemlik', 'states-cities-and-places-for-woocommerce'),
         __('Gürsu', 'states-cities-and-places-for-woocommerce'),
@@ -313,7 +313,7 @@ $places['TR'] = array(
         __('Yıldırım', 'states-cities-and-places-for-woocommerce'),
     ),
     // Çanakkale
-    'CANAK' => array(
+    'TR17' => array(
         __('Ayvacık', 'states-cities-and-places-for-woocommerce'),
         __('Bayramiç', 'states-cities-and-places-for-woocommerce'),
         __('Biga', 'states-cities-and-places-for-woocommerce'),
@@ -328,7 +328,7 @@ $places['TR'] = array(
         __('Yenice', 'states-cities-and-places-for-woocommerce'),
     ),
     // Çankırı
-    'CANK' => array(
+    'TR18' => array(
         __('Atkaracalar', 'states-cities-and-places-for-woocommerce'),
         __('Bayramören', 'states-cities-and-places-for-woocommerce'),
         __('Çerkeş', 'states-cities-and-places-for-woocommerce'),
@@ -343,7 +343,7 @@ $places['TR'] = array(
         __('Yapraklı', 'states-cities-and-places-for-woocommerce'),
     ),
     // Çorum
-    'COR' => array(
+    'TR19' => array(
         __('Alaca', 'states-cities-and-places-for-woocommerce'),
         __('Bayat', 'states-cities-and-places-for-woocommerce'),
         __('Boğazkale', 'states-cities-and-places-for-woocommerce'),
@@ -360,7 +360,7 @@ $places['TR'] = array(
         __('Uğurludağ', 'states-cities-and-places-for-woocommerce'),
     ),
     // Denizli
-    'DEN' => array(
+    'TR20' => array(
         __('Acıpayam', 'states-cities-and-places-for-woocommerce'),
         __('Babadağ', 'states-cities-and-places-for-woocommerce'),
         __('Baklan', 'states-cities-and-places-for-woocommerce'),
@@ -383,7 +383,7 @@ $places['TR'] = array(
         __('Tavas', 'states-cities-and-places-for-woocommerce'),
     ),
     // Diyarbakır
-    'DIY' => array(
+    'TR21' => array(
         __('Bağlar', 'states-cities-and-places-for-woocommerce'),
         __('Bismil', 'states-cities-and-places-for-woocommerce'),
         __('Çermik', 'states-cities-and-places-for-woocommerce'),
@@ -403,7 +403,7 @@ $places['TR'] = array(
         __('Yenişehir', 'states-cities-and-places-for-woocommerce'),
     ),
     // Düzce
-    'DUZ' => array(
+    'TR81' => array(
         __('Akçakoca', 'states-cities-and-places-for-woocommerce'),
         __('Cumayeri', 'states-cities-and-places-for-woocommerce'),
         __('Çilimli', 'states-cities-and-places-for-woocommerce'),
@@ -414,7 +414,7 @@ $places['TR'] = array(
         __('Yığılca', 'states-cities-and-places-for-woocommerce'),
     ),
     // Edirne
-    'EDI' => array(
+    'TR22' => array(
         __('Enez', 'states-cities-and-places-for-woocommerce'),
         __('Havsa', 'states-cities-and-places-for-woocommerce'),
         __('İpsala', 'states-cities-and-places-for-woocommerce'),
@@ -426,7 +426,7 @@ $places['TR'] = array(
         __('Uzunköprü', 'states-cities-and-places-for-woocommerce'),
     ),
     // Elazığ
-    'ELA' => array(
+    'TR23' => array(
         __('Ağın', 'states-cities-and-places-for-woocommerce'),
         __('Alacakaya', 'states-cities-and-places-for-woocommerce'),
         __('Arıcak', 'states-cities-and-places-for-woocommerce'),
@@ -440,7 +440,7 @@ $places['TR'] = array(
         __('Sivrice', 'states-cities-and-places-for-woocommerce'),
     ),
     // Erzincan
-    'ERZI' => array(
+    'TR24' => array(
         __('Çayırlı', 'states-cities-and-places-for-woocommerce'),
         __('İliç', 'states-cities-and-places-for-woocommerce'),
         __('Kemah', 'states-cities-and-places-for-woocommerce'),
@@ -452,7 +452,7 @@ $places['TR'] = array(
         __('Üzümlü', 'states-cities-and-places-for-woocommerce'),
     ),
     // Erzurum
-    'ERZU' => array(
+    'TR25' => array(
         __('Aşkale', 'states-cities-and-places-for-woocommerce'),
         __('Aziziye', 'states-cities-and-places-for-woocommerce'),
         __('Çat', 'states-cities-and-places-for-woocommerce'),
@@ -475,7 +475,7 @@ $places['TR'] = array(
         __('Yakutiye', 'states-cities-and-places-for-woocommerce'),
     ),
     // Eskişehir
-    'ESK' => array(
+    'TR26' => array(
         __('Alpu', 'states-cities-and-places-for-woocommerce'),
         __('Beylikova', 'states-cities-and-places-for-woocommerce'),
         __('Çifteler', 'states-cities-and-places-for-woocommerce'),
@@ -492,7 +492,7 @@ $places['TR'] = array(
         __('Tepebaşı', 'states-cities-and-places-for-woocommerce'),
     ),
     // Gaziantep
-    'GAZ' => array(
+    'TR27' => array(
         __('Araban', 'states-cities-and-places-for-woocommerce'),
         __('İslahiye', 'states-cities-and-places-for-woocommerce'),
         __('Karkamış', 'states-cities-and-places-for-woocommerce'),
@@ -504,7 +504,7 @@ $places['TR'] = array(
         __('Yavuzeli', 'states-cities-and-places-for-woocommerce'),
     ),
     // Giresun
-    'GIR' => array(
+    'TR28' => array(
         __('Alucra', 'states-cities-and-places-for-woocommerce'),
         __('Bulancak', 'states-cities-and-places-for-woocommerce'),
         __('Çamoluk', 'states-cities-and-places-for-woocommerce'),
@@ -523,7 +523,7 @@ $places['TR'] = array(
         __('Yağlıdere', 'states-cities-and-places-for-woocommerce'),
     ),
     // Gümüşhane
-    'GUM' => array(
+    'TR29' => array(
         __('Kelkit', 'states-cities-and-places-for-woocommerce'),
         __('Köse', 'states-cities-and-places-for-woocommerce'),
         __('Kürtün', 'states-cities-and-places-for-woocommerce'),
@@ -532,7 +532,7 @@ $places['TR'] = array(
         __('Torul', 'states-cities-and-places-for-woocommerce'),
     ),
     // Hakkari
-    'HAK' => array(
+    'TR30' => array(
         __('Çukurca', 'states-cities-and-places-for-woocommerce'),
         __('Derecik', 'states-cities-and-places-for-woocommerce'),
         __('Merkez', 'states-cities-and-places-for-woocommerce'),
@@ -540,7 +540,7 @@ $places['TR'] = array(
         __('Yüksekova', 'states-cities-and-places-for-woocommerce'),
     ),
     // Hatay
-    'HAT' => array(
+    'TR31' => array(
         __('Altınözü', 'states-cities-and-places-for-woocommerce'),
         __('Antakya', 'states-cities-and-places-for-woocommerce'),
         __('Arsuz', 'states-cities-and-places-for-woocommerce'),
@@ -558,14 +558,14 @@ $places['TR'] = array(
         __('Yayladağı', 'states-cities-and-places-for-woocommerce'),
     ),
     // Iğdır
-    'IGD' => array(
+    'TR76' => array(
         __('Aralık', 'states-cities-and-places-for-woocommerce'),
         __('Karakoyunlu', 'states-cities-and-places-for-woocommerce'),
         __('Merkez', 'states-cities-and-places-for-woocommerce'),
         __('Tuzluca', 'states-cities-and-places-for-woocommerce'),
     ),
     // Isparta
-    'ISP' => array(
+    'TR32' => array(
         __('Aksu', 'states-cities-and-places-for-woocommerce'),
         __('Atabey', 'states-cities-and-places-for-woocommerce'),
         __('Eğirdir', 'states-cities-and-places-for-woocommerce'),
@@ -581,7 +581,7 @@ $places['TR'] = array(
         __('Yenişarbademli', 'states-cities-and-places-for-woocommerce'),
     ),
     // İstanbul
-    'IST' => array(
+    'TR34' => array(
         __('Adalar', 'states-cities-and-places-for-woocommerce'),
         __('Arnavutköy', 'states-cities-and-places-for-woocommerce'),
         __('Ataşehir', 'states-cities-and-places-for-woocommerce'),
@@ -623,7 +623,7 @@ $places['TR'] = array(
         __('Zeytinburnu', 'states-cities-and-places-for-woocommerce'),
     ),
     // İzmir
-    'IZM' => array(
+    'TR35' => array(
         __('Aliağa', 'states-cities-and-places-for-woocommerce'),
         __('Balçova', 'states-cities-and-places-for-woocommerce'),
         __('Bayındır', 'states-cities-and-places-for-woocommerce'),
@@ -656,7 +656,7 @@ $places['TR'] = array(
         __('Urla', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kahramanmaraş
-    'KAH' => array(
+    'TR46' => array(
         __('Afşin', 'states-cities-and-places-for-woocommerce'),
         __('Andırın', 'states-cities-and-places-for-woocommerce'),
         __('Çağlayancerit', 'states-cities-and-places-for-woocommerce'),
@@ -670,7 +670,7 @@ $places['TR'] = array(
         __('Türkoğlu', 'states-cities-and-places-for-woocommerce'),
     ),
     // Karabük
-    'KARAB' => array(
+    'TR78' => array(
         __('Eflani', 'states-cities-and-places-for-woocommerce'),
         __('Eskipazar', 'states-cities-and-places-for-woocommerce'),
         __('Merkez', 'states-cities-and-places-for-woocommerce'),
@@ -679,7 +679,7 @@ $places['TR'] = array(
         __('Yenice', 'states-cities-and-places-for-woocommerce'),
     ),
     // Karaman
-    'KARAM' => array(
+    'TR70' => array(
         __('Ayrancı', 'states-cities-and-places-for-woocommerce'),
         __('Başyayla', 'states-cities-and-places-for-woocommerce'),
         __('Ermenek', 'states-cities-and-places-for-woocommerce'),
@@ -688,7 +688,7 @@ $places['TR'] = array(
         __('Sarıveliler', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kars
-    'KAR' => array(
+    'TR36' => array(
         __('Akyaka', 'states-cities-and-places-for-woocommerce'),
         __('Arpaçay', 'states-cities-and-places-for-woocommerce'),
         __('Digor', 'states-cities-and-places-for-woocommerce'),
@@ -699,7 +699,7 @@ $places['TR'] = array(
         __('Susuz', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kastamonu
-    'KAS' => array(
+    'TR37' => array(
         __('Abana', 'states-cities-and-places-for-woocommerce'),
         __('Ağlı', 'states-cities-and-places-for-woocommerce'),
         __('Araç', 'states-cities-and-places-for-woocommerce'),
@@ -722,7 +722,7 @@ $places['TR'] = array(
         __('Tosya', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kayseri
-    'KAY' => array(
+    'TR38' => array(
         __('Akkışla', 'states-cities-and-places-for-woocommerce'),
         __('Bünyan', 'states-cities-and-places-for-woocommerce'),
         __('Develi', 'states-cities-and-places-for-woocommerce'),
@@ -741,7 +741,7 @@ $places['TR'] = array(
         __('Yeşilhisar', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kırıkkale
-    'KIRIK' => array(
+    'TR71' => array(
         __('Bahşılı', 'states-cities-and-places-for-woocommerce'),
         __('Balışeyh', 'states-cities-and-places-for-woocommerce'),
         __('Çelebi', 'states-cities-and-places-for-woocommerce'),
@@ -753,7 +753,7 @@ $places['TR'] = array(
         __('Yahşihan', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kırklareli
-    'KIRK' => array(
+    'TR39' => array(
         __('Babaeski', 'states-cities-and-places-for-woocommerce'),
         __('Demirköy', 'states-cities-and-places-for-woocommerce'),
         __('Kofçaz', 'states-cities-and-places-for-woocommerce'),
@@ -764,7 +764,7 @@ $places['TR'] = array(
         __('Vize', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kırşehir
-    'KIRS' => array(
+    'TR40' => array(
         __('Akçakent', 'states-cities-and-places-for-woocommerce'),
         __('Akpınar', 'states-cities-and-places-for-woocommerce'),
         __('Boztepe', 'states-cities-and-places-for-woocommerce'),
@@ -774,14 +774,14 @@ $places['TR'] = array(
         __('Mucur', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kilis
-    'KIL' => array(
+    'TR79' => array(
         __('Elbeyli', 'states-cities-and-places-for-woocommerce'),
         __('Merkez', 'states-cities-and-places-for-woocommerce'),
         __('Musabeyli', 'states-cities-and-places-for-woocommerce'),
         __('Polateli', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kocaeli
-    'KOC' => array(
+    'TR41' => array(
         __('Başiskele', 'states-cities-and-places-for-woocommerce'),
         __('Çayırova', 'states-cities-and-places-for-woocommerce'),
         __('Darıca', 'states-cities-and-places-for-woocommerce'),
@@ -796,7 +796,7 @@ $places['TR'] = array(
         __('Körfez', 'states-cities-and-places-for-woocommerce'),
     ),
     // Konya
-    'KON' => array(
+    'TR42' => array(
         __('Ahırlı', 'states-cities-and-places-for-woocommerce'),
         __('Akören', 'states-cities-and-places-for-woocommerce'),
         __('Akşehir', 'states-cities-and-places-for-woocommerce'),
@@ -830,7 +830,7 @@ $places['TR'] = array(
         __('Yunak', 'states-cities-and-places-for-woocommerce'),
     ),
     // Kütahya
-    'KUT' => array(
+    'TR43' => array(
         __('Altıntaş', 'states-cities-and-places-for-woocommerce'),
         __('Aslanapa', 'states-cities-and-places-for-woocommerce'),
         __('Çavdarhisar', 'states-cities-and-places-for-woocommerce'),
@@ -846,7 +846,7 @@ $places['TR'] = array(
         __('Tavşanlı', 'states-cities-and-places-for-woocommerce'),
     ),
     // Malatya
-    'MAL' => array(
+    'TR44' => array(
         __('Akçadağ', 'states-cities-and-places-for-woocommerce'),
         __('Arapgir', 'states-cities-and-places-for-woocommerce'),
         __('Arguvan', 'states-cities-and-places-for-woocommerce'),
@@ -862,7 +862,7 @@ $places['TR'] = array(
         __('Yeşilyurt', 'states-cities-and-places-for-woocommerce'),
     ),
     // Manisa
-    'MAN' => array(
+    'TR45' => array(
         __('Ahmetli', 'states-cities-and-places-for-woocommerce'),
         __('Akhisar', 'states-cities-and-places-for-woocommerce'),
         __('Alaşehir', 'states-cities-and-places-for-woocommerce'),
@@ -882,7 +882,7 @@ $places['TR'] = array(
         __('Yunusemre', 'states-cities-and-places-for-woocommerce'),
     ),
     // Mardin
-    'MAR' => array(
+    'TR47' => array(
         __('Artuklu', 'states-cities-and-places-for-woocommerce'),
         __('Dargeçit', 'states-cities-and-places-for-woocommerce'),
         __('Derik', 'states-cities-and-places-for-woocommerce'),
@@ -895,7 +895,7 @@ $places['TR'] = array(
         __('Yeşilli', 'states-cities-and-places-for-woocommerce'),
     ),
     // Mersin
-    'MER' => array(
+    'TR33' => array(
         __('Akdeniz', 'states-cities-and-places-for-woocommerce'),
         __('Anamur', 'states-cities-and-places-for-woocommerce'),
         __('Aydıncık', 'states-cities-and-places-for-woocommerce'),
@@ -911,7 +911,7 @@ $places['TR'] = array(
         __('Yenişehir', 'states-cities-and-places-for-woocommerce'),
     ),
     // Muğla
-    'MUG' => array(
+    'TR48' => array(
         __('Bodrum', 'states-cities-and-places-for-woocommerce'),
         __('Dalaman', 'states-cities-and-places-for-woocommerce'),
         __('Datça', 'states-cities-and-places-for-woocommerce'),
@@ -927,7 +927,7 @@ $places['TR'] = array(
         __('Yatağan', 'states-cities-and-places-for-woocommerce'),
     ),
     // Muş
-    'MUS' => array(
+    'TR49' => array(
         __('Bulanık', 'states-cities-and-places-for-woocommerce'),
         __('Hasköy', 'states-cities-and-places-for-woocommerce'),
         __('Korkut', 'states-cities-and-places-for-woocommerce'),
@@ -936,7 +936,7 @@ $places['TR'] = array(
         __('Varto', 'states-cities-and-places-for-woocommerce'),
     ),
     // Nevşehir
-    'NEV' => array(
+    'TR50' => array(
         __('Acıgöl', 'states-cities-and-places-for-woocommerce'),
         __('Avanos', 'states-cities-and-places-for-woocommerce'),
         __('Derinkuyu', 'states-cities-and-places-for-woocommerce'),
@@ -947,7 +947,7 @@ $places['TR'] = array(
         __('Ürgüp', 'states-cities-and-places-for-woocommerce'),
     ),
     // Niğde
-    'NIG' => array(
+    'TR51' => array(
         __('Altunhisar', 'states-cities-and-places-for-woocommerce'),
         __('Bor', 'states-cities-and-places-for-woocommerce'),
         __('Çamardı', 'states-cities-and-places-for-woocommerce'),
@@ -956,7 +956,7 @@ $places['TR'] = array(
         __('Ulukışla', 'states-cities-and-places-for-woocommerce'),
     ),
     // Ordu
-    'ORD' => array(
+    'TR52' => array(
         __('Akkuş', 'states-cities-and-places-for-woocommerce'),
         __('Altınordu', 'states-cities-and-places-for-woocommerce'),
         __('Aybastı', 'states-cities-and-places-for-woocommerce'),
@@ -978,7 +978,7 @@ $places['TR'] = array(
         __('Ünye', 'states-cities-and-places-for-woocommerce'),
     ),
     // Osmaniye
-    'OSM' => array(
+    'TR80' => array(
         __('Bahçe', 'states-cities-and-places-for-woocommerce'),
         __('Düziçi', 'states-cities-and-places-for-woocommerce'),
         __('Hasanbeyli', 'states-cities-and-places-for-woocommerce'),
@@ -988,7 +988,7 @@ $places['TR'] = array(
         __('Toprakkale', 'states-cities-and-places-for-woocommerce'),
     ),
     // Rize
-    'RIZ' => array(
+    'TR53' => array(
         __('Ardeşen', 'states-cities-and-places-for-woocommerce'),
         __('Çamlıhemşin', 'states-cities-and-places-for-woocommerce'),
         __('Çayeli', 'states-cities-and-places-for-woocommerce'),
@@ -1003,7 +1003,7 @@ $places['TR'] = array(
         __('Pazar', 'states-cities-and-places-for-woocommerce'),
     ),
     // Sakarya
-    'SAK' => array(
+    'TR54' => array(
         __('Adapazarı', 'states-cities-and-places-for-woocommerce'),
         __('Akyazı', 'states-cities-and-places-for-woocommerce'),
         __('Arifiye', 'states-cities-and-places-for-woocommerce'),
@@ -1022,7 +1022,7 @@ $places['TR'] = array(
         __('Taraklı', 'states-cities-and-places-for-woocommerce'),
     ),
     // Samsun
-    'SAM' => array(
+    'TR55' => array(
         __('19 Mayıs', 'states-cities-and-places-for-woocommerce'),
         __('Alaçam', 'states-cities-and-places-for-woocommerce'),
         __('Asarcık', 'states-cities-and-places-for-woocommerce'),
@@ -1042,7 +1042,7 @@ $places['TR'] = array(
         __('Yakakent', 'states-cities-and-places-for-woocommerce'),
     ),
     // Siirt
-    'SII' => array(
+    'TR56' => array(
         __('Baykan', 'states-cities-and-places-for-woocommerce'),
         __('Eruh', 'states-cities-and-places-for-woocommerce'),
         __('Kurtalan', 'states-cities-and-places-for-woocommerce'),
@@ -1052,7 +1052,7 @@ $places['TR'] = array(
         __('Tillo', 'states-cities-and-places-for-woocommerce'),
     ),
     // Sinop
-    'SIN' => array(
+    'TR57' => array(
         __('Ayancık', 'states-cities-and-places-for-woocommerce'),
         __('Boyabat', 'states-cities-and-places-for-woocommerce'),
         __('Dikmen', 'states-cities-and-places-for-woocommerce'),
@@ -1064,7 +1064,7 @@ $places['TR'] = array(
         __('Türkeli', 'states-cities-and-places-for-woocommerce'),
     ),
     // Sivas
-    'SIV' => array(
+    'TR58' => array(
         __('Akıncılar', 'states-cities-and-places-for-woocommerce'),
         __('Altınyayla', 'states-cities-and-places-for-woocommerce'),
         __('Divriği', 'states-cities-and-places-for-woocommerce'),
@@ -1084,7 +1084,7 @@ $places['TR'] = array(
         __('Zara', 'states-cities-and-places-for-woocommerce'),
     ),
     // Şanlıurfa
-    'SAN' => array(
+    'TR63' => array(
         __('Akçakale', 'states-cities-and-places-for-woocommerce'),
         __('Birecik', 'states-cities-and-places-for-woocommerce'),
         __('Bozova', 'states-cities-and-places-for-woocommerce'),
@@ -1100,7 +1100,7 @@ $places['TR'] = array(
         __('Viranşehir', 'states-cities-and-places-for-woocommerce'),
     ),
     // Şırnak
-    'SIR' => array(
+    'TR73' => array(
         __('Beytüşşebap', 'states-cities-and-places-for-woocommerce'),
         __('Cizre', 'states-cities-and-places-for-woocommerce'),
         __('Güçlükonak', 'states-cities-and-places-for-woocommerce'),
@@ -1110,7 +1110,7 @@ $places['TR'] = array(
         __('Uludere', 'states-cities-and-places-for-woocommerce'),
     ),
     // Tekirdağ
-    'TEK' => array(
+    'TR59' => array(
         __('Çerkezköy', 'states-cities-and-places-for-woocommerce'),
         __('Çorlu', 'states-cities-and-places-for-woocommerce'),
         __('Ergene', 'states-cities-and-places-for-woocommerce'),
@@ -1124,7 +1124,7 @@ $places['TR'] = array(
         __('Şarköy', 'states-cities-and-places-for-woocommerce'),
     ),
     // Tokat
-    'TOK' => array(
+    'TR60' => array(
         __('Almus', 'states-cities-and-places-for-woocommerce'),
         __('Artova', 'states-cities-and-places-for-woocommerce'),
         __('Başçiftlik', 'states-cities-and-places-for-woocommerce'),
@@ -1139,7 +1139,7 @@ $places['TR'] = array(
         __('Zile', 'states-cities-and-places-for-woocommerce'),
     ),
     // Trabzon
-    'TRA' => array(
+    'TR61' => array(
         __('Akçaabat', 'states-cities-and-places-for-woocommerce'),
         __('Araklı', 'states-cities-and-places-for-woocommerce'),
         __('Arsin', 'states-cities-and-places-for-woocommerce'),
@@ -1160,7 +1160,7 @@ $places['TR'] = array(
         __('Yomra', 'states-cities-and-places-for-woocommerce'),
     ),
     // Tunceli
-    'TUN' => array(
+    'TR62' => array(
         __('Çemişgezek', 'states-cities-and-places-for-woocommerce'),
         __('Hozat', 'states-cities-and-places-for-woocommerce'),
         __('Mazgirt', 'states-cities-and-places-for-woocommerce'),
@@ -1171,7 +1171,7 @@ $places['TR'] = array(
         __('Pülümür', 'states-cities-and-places-for-woocommerce'),
     ),
     // Uşak
-    'USA' => array(
+    'TR64' => array(
         __('Banaz', 'states-cities-and-places-for-woocommerce'),
         __('Eşme', 'states-cities-and-places-for-woocommerce'),
         __('Karahallı', 'states-cities-and-places-for-woocommerce'),
@@ -1180,7 +1180,7 @@ $places['TR'] = array(
         __('Ulubey', 'states-cities-and-places-for-woocommerce'),
     ),
     // Van
-    'VAN' => array(
+    'TR65' => array(
         __('Bahçesaray', 'states-cities-and-places-for-woocommerce'),
         __('Başkale', 'states-cities-and-places-for-woocommerce'),
         __('Çaldıran', 'states-cities-and-places-for-woocommerce'),
@@ -1196,7 +1196,7 @@ $places['TR'] = array(
         __('Tuşba', 'states-cities-and-places-for-woocommerce'),
     ),
     // Yalova
-    'YAL' => array(
+    'TR77' => array(
         __('Altınova', 'states-cities-and-places-for-woocommerce'),
         __('Armutlu', 'states-cities-and-places-for-woocommerce'),
         __('Çınarcık', 'states-cities-and-places-for-woocommerce'),
@@ -1205,7 +1205,7 @@ $places['TR'] = array(
         __('Termal', 'states-cities-and-places-for-woocommerce'),
     ),
     // Yozgat
-    'YOZ' => array(
+    'TR66' => array(
         __('Akdağmadeni', 'states-cities-and-places-for-woocommerce'),
         __('Aydıncık', 'states-cities-and-places-for-woocommerce'),
         __('Boğazlıyan', 'states-cities-and-places-for-woocommerce'),
@@ -1222,7 +1222,7 @@ $places['TR'] = array(
         __('Yerköy', 'states-cities-and-places-for-woocommerce'),
     ),
     // Zonguldak
-    'ZON' => array(
+    'TR67' => array(
         __('Alaplı', 'states-cities-and-places-for-woocommerce'),
         __('Çaycuma', 'states-cities-and-places-for-woocommerce'),
         __('Devrek', 'states-cities-and-places-for-woocommerce'),
