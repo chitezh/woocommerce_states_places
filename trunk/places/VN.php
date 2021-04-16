@@ -8,7 +8,7 @@
  * - https://en.wikipedia.org/wiki/Subdivisions_of_Vietnam
  *
  * @author  Nguyen Le <nguyenlt@adnsg.com> | http://adnsg.com/
- * @version 1.0.0
+ * @version 1.0.1
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
 
@@ -17,14 +17,14 @@ global $places;
 $places['VN'] = array(
 	'HOCHIMINH' => array(
 		'Quận 1',
-		'Quận 2',
+		'Quận 2 (TP. Thủ Đức)',
 		'Quận 3',
 		'Quận 4',
 		'Quận 5',
 		'Quận 6',
 		'Quận 7',
 		'Quận 8',
-		'Quận 9',
+		'Quận 9 (TP. Thủ Đức)',
 		'Quận 10',
 		'Quận 11',
 		'Quận 12',
@@ -34,7 +34,7 @@ $places['VN'] = array(
 		'Quận Phú Nhuận',
 		'Quận Tân Bình',
 		'Quận Tân Phú',
-		'Quận Thủ Đức',
+		'Quận Thủ Đức (TP. Thủ Đức)',
 		'Huyện Bình Chánh',
 		'Huyện Cần Giờ',
 		'Huyện Củ Chi',

@@ -8,7 +8,7 @@
  * - https://en.wikipedia.org/wiki/Provinces_of_Vietnam
  *
  * @author  Nguyen Le <nguyenlt@adnsg.com> | http://adnsg.com/
- * @version 1.0.0
+ * @version 1.0.1
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
 
