@@ -851,4 +851,3 @@ $places['VN'] = array(
 
 // Use this filter to handle the Districts of Vietnam
 $places['VN'] = apply_filters('scpwoo_custom_places_vn', $places['VN']);
-;
