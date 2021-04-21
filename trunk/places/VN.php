@@ -2,13 +2,13 @@
 
 /**
  * Districts of Vietnam
- * - 713 disctrics
+ * - 705 disctrics
  *
  * Sources:
  * - https://en.wikipedia.org/wiki/Subdivisions_of_Vietnam
  *
- * @author  Nguyen Le <nguyenlt@adnsg.com> | http://adnsg.com/
- * @version 1.0.1
+ * @author  Nguyen Le <nguyen@bluecoral.vn> | http://bluecoral.vn
+ * @version 1.1
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
  */
 
