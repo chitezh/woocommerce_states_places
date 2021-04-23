@@ -15,7 +15,7 @@
 global $places;
 
 $places['VN'] = array(
-
+	// An Giang
 	'03-89' => array(		
 		'Thành phố Long Xuyên',
 		'Thành phố Châu Đốc',
@@ -29,6 +29,7 @@ $places['VN'] = array(
 		'Huyện Chợ Mới',
 		'Huyện Thoại Sơn',
 	),
+	// Bà Rịa - Vũng tàu
 	'04-77' => array(
 		'Thành phố Vũng Tàu',
 		'Thành phố Bà Rịa',
@@ -39,6 +40,7 @@ $places['VN'] = array(
 		'Thị xã Phú Mỹ',
 		'Huyện Côn Đảo',
 	),
+	// Bắc Giang
 	'05-24' => array(
 		'Thành phố Bắc Giang',
 		'Huyện Yên Thế',
@@ -51,6 +53,7 @@ $places['VN'] = array(
 		'Huyện Việt Yên',
 		'Huyện Hiệp Hòa',
 	),
+	// Bắc Kạn
 	'06-06' => array(
 		'Thành Phố Bắc Kạn',
 		'Huyện Pác Nặm',
@@ -61,6 +64,7 @@ $places['VN'] = array(
 		'Huyện Chợ Mới',
 		'Huyện Na Rì',
 	),
+	// Bạc Liêu
 	'07-95' => array(
 		'Thành phố Bạc Liêu',
 		'Huyện Hồng Dân',
@@ -70,6 +74,7 @@ $places['VN'] = array(
 		'Huyện Đông Hải',
 		'Huyện Hoà Bình',
 	),
+	// Bắc Ninh
 	'08-27' => array(
 		'Thành phố Bắc Ninh',
 		'Huyện Yên Phong',
@@ -80,6 +85,7 @@ $places['VN'] = array(
 		'Huyện Gia Bình',
 		'Huyện Lương Tài',
 	),
+	// Bến Tre
 	'09-83' => array(
 		'Thành phố Bến Tre',
 		'Huyện Châu Thành',
@@ -91,6 +97,7 @@ $places['VN'] = array(
 		'Huyện Thạnh Phú',
 		'Huyện Mỏ Cày Bắc',
 	),
+	// Bình Định
 	'10-52' => array(
 		'Thành phố Quy Nhơn',
 		'Huyện An Lão',
@@ -104,6 +111,7 @@ $places['VN'] = array(
 		'Huyện Tuy Phước',
 		'Huyện Vân Canh',
 	),
+	// Bình Dương
 	'11-74' => array(
 		'Thành phố Thủ Dầu Một',
 		'Huyện Bàu Bàng',
@@ -115,7 +123,8 @@ $places['VN'] = array(
 		'Thành phố Thuận An',
 		'Huyện Bắc Tân Uyên',
 	),
-	'12-74' => array(
+	// Bình Phước
+	'12-70' => array(
 		'Thị xã Phước Long',
 		'Thành phố Đồng Xoài',
 		'Thị xã Bình Long',
@@ -128,6 +137,7 @@ $places['VN'] = array(
 		'Huyện Chơn Thành',
 		'Huyện Phú Riềng',
 	),
+	// Bình Thuận
 	'13-60' => array(
 		'Thành phố Phan Thiết',
 		'Thị xã La Gi',
@@ -140,6 +150,7 @@ $places['VN'] = array(
 		'Huyện Hàm Tân',
 		'Huyện Phú Quí',
 	),
+	// Cà Mau
 	'14-96' => array(
 		'Thành phố Cà Mau',
 		'Huyện U Minh',
@@ -151,7 +162,8 @@ $places['VN'] = array(
 		'Huyện Phú Tân',
 		'Huyện Ngọc Hiển',
 	),
-	'1-592' => array(
+	// Cần Thơ
+	'15-92' => array(
 		'Quận Ninh Kiều',
 		'Quận Ô Môn',
 		'Quận Bình Thuỷ',
@@ -162,6 +174,7 @@ $places['VN'] = array(
 		'Huyện Phong Điền',
 		'Huyện Thới Lai',
 	),
+	// Cao Bằng
 	'16-04' => array(
 		'Thành phố Cao Bằng',
 		'Huyện Bảo Lâm',
@@ -174,6 +187,7 @@ $places['VN'] = array(
 		'Huyện Nguyên Bình',
 		'Huyện Thạch An',
 	),
+	// Đà Nẵng
 	'17-48' => array(
 		'Quận Liên Chiểu',
 		'Quận Thanh Khê',
@@ -184,6 +198,7 @@ $places['VN'] = array(
 		'Huyện Hòa Vang',
 		'Huyện Hoàng Sa',
 	),
+	// Đắk Lắk
 	'18-66' => array(
 		'Thành phố Buôn Ma Thuột',
 		'Thị xã Buôn Hồ',
@@ -201,6 +216,7 @@ $places['VN'] = array(
 		'Huyện Lắk',
 		'Huyện Cư Kuin',
 	),
+	// Đắk Nông
 	'19-67' => array(
 		'Thành phố Gia Nghĩa',
 		'Huyện Đăk Glong',
@@ -211,6 +227,7 @@ $places['VN'] = array(
 		"Huyện Đắk R'Lấp",
 		'Huyện Tuy Đức',
 	),
+	// Điện Biên
 	'20-11' => array(
 		'Thành phố Điện Biên Phủ',
 		'Thị xã Mường Lay',
@@ -223,6 +240,7 @@ $places['VN'] = array(
 		'Huyện Mường Ảng',
 		'Huyện Nậm Pồ',
 	),
+	// Đồng Nai
 	'21-75' => array(
 		'Thành phố Biên Hòa',
 		'Thành phố Long Khánh',
@@ -236,6 +254,7 @@ $places['VN'] = array(
 		'Huyện Xuân Lộc',
 		'Huyện Nhơn Trạch',
 	),
+	// Đồng Tháp
 	'22-87' => array(
 		'Thành phố Cao Lãnh',
 		'Thành phố Sa Đéc',
@@ -250,6 +269,7 @@ $places['VN'] = array(
 		'Huyện Lai Vung',
 		'Huyện Châu Thành',
 	),
+	// Gia lai
 	'23-64' => array(
 		'Thành phố Pleiku',
 		'Thị xã An Khê',
@@ -269,6 +289,7 @@ $places['VN'] = array(
 		'Huyện Phú Thiện',
 		'Huyện Chư Pưh',
 	),
+	// Hà Giang
 	'24-02' => array(
 		'Thành phố Hà Giang',
 		'Huyện Đồng Văn',
@@ -282,6 +303,7 @@ $places['VN'] = array(
 		'Huyện Bắc Quang',
 		'Huyện Quang Bình',
 	),
+	// Hà Nam
 	'25-35' => array(
 		'Thành phố Phủ Lý',
 		'Thị xã Duy Tiên',
@@ -290,6 +312,7 @@ $places['VN'] = array(
 		'Huyện Bình Lục',
 		'Huyện Lý Nhân',
 	),
+	// Hà Nội
 	'02-01' => array(
 		'Quận Ba Đình',
 		'Quận Hoàn Kiếm',
@@ -322,6 +345,7 @@ $places['VN'] = array(
 		'Huyện Ứng Hòa',
 		'Huyện Mỹ Đức',
 	),
+	// Hà Tỉnh
 	'26-42' => array(
 		'Thành phố Hà Tĩnh',
 		'Thị xã Hồng Lĩnh',
@@ -337,6 +361,7 @@ $places['VN'] = array(
 		'Huyện Lộc Hà',
 		'Thị xã Kỳ Anh',
 	),
+	// Hải Dương
 	'27-30' => array(
 		'Thành phố Hải Dương',
 		'Thành phố Chí Linh',
@@ -351,6 +376,8 @@ $places['VN'] = array(
 		'Huyện Ninh Giang',
 		'Huyện Thanh Miện',
 	),
+
+	// Hải Phòng
 	'28-31' => array(
 		'Quận Hồng Bàng',
 		'Quận Ngô Quyền',
@@ -368,6 +395,7 @@ $places['VN'] = array(
 		'Huyện Cát Hải',
 		'Huyện Bạch Long Vĩ',
 	),
+	// Hậu Giang
 	'29-93' => array(
 		'Thành phố Vị Thanh',
 		'Thành phố Ngã Bảy',
@@ -378,6 +406,7 @@ $places['VN'] = array(
 		'Huyện Long Mỹ',
 		'Thị xã Long Mỹ',
 	),
+	// Hòa Bình
 	'30-17' => array(
 		'Thành phố Hòa Bình',
 		'Huyện Đà Bắc',
@@ -390,6 +419,7 @@ $places['VN'] = array(
 		'Huyện Yên Thủy',
 		'Huyện Lạc Thủy',
 	),
+	// Hồ Chí Minh 
 	'01-79' => array(
 		'Quận 1',
 		'Quận 3',
@@ -414,6 +444,7 @@ $places['VN'] = array(
 		'Huyện Nhà Bè',
 		'Huyện Cần Giờ',
 	),
+	// Hưng Yên
 	'31-33' => array(
 		'Thành phố Hưng Yên',
 		'Huyện Văn Lâm',
@@ -426,6 +457,7 @@ $places['VN'] = array(
 		'Huyện Tiên Lữ',
 		'Huyện Phù Cừ',
 	),
+	// Khánh Hòa
 	'32-56' => array(
 		'Thành phố Nha Trang',
 		'Thành phố Cam Ranh',
@@ -437,6 +469,7 @@ $places['VN'] = array(
 		'Huyện Khánh Sơn',
 		'Huyện Trường Sa',
 	),
+	// Kiên Giang
 	'33-91' => array(
 		'Thành phố Rạch Giá',
 		'Thành phố Hà Tiên',
@@ -454,6 +487,7 @@ $places['VN'] = array(
 		'Huyện U Minh Thượng',
 		'Huyện Giang Thành',
 	),
+	// Kon Tum
 	'34-62' => array(
 		'Thành phố Kon Tum',
 		'Huyện Đắk Glei',
@@ -466,6 +500,7 @@ $places['VN'] = array(
 		'Huyện Tu Mơ Rông',
 		"Huyện Ia H Drai",
 	),
+	// Lai Châu
 	'35-12' => array(
 		'Thành phố Lai Châu',
 		'Huyện Tam Đường',
@@ -476,6 +511,7 @@ $places['VN'] = array(
 		'Huyện Tân Uyên',
 		'Huyện Nậm Nhùn',
 	),
+	// Lâm Đồng
 	'36-68' => array(
 		'Thành phố Đà Lạt',
 		'Thành phố Bảo Lộc',
@@ -490,6 +526,7 @@ $places['VN'] = array(
 		'Huyện Đạ Tẻh',
 		'Huyện Cát Tiên',
 	),
+	// Lạng Sơn
 	'37-20' => array(
 		'Thành phố Lạng Sơn',
 		'Huyện Tràng Định',
@@ -503,7 +540,8 @@ $places['VN'] = array(
 		'Huyện Lộc Bình',
 		'Huyện Đình Lập',
 	),
-	'28-10' => array(
+	// Lào Cai
+	'38-10' => array(
 		'Thành phố Lào Cai',
 		'Huyện Bát Xát',
 		'Huyện Mường Khương',
@@ -514,6 +552,7 @@ $places['VN'] = array(
 		'Thị xã Sa Pa',
 		'Huyện Văn Bàn',
 	),
+	// Long An
 	'39-80' => array(
 		'Thành phố Tân An',
 		'Thị xã Kiến Tường',
@@ -531,6 +570,7 @@ $places['VN'] = array(
 		'Huyện Cần Giuộc',
 		'Huyện Châu Thành',
 	),
+	// Nam Định
 	'40-36' => array(
 		'Thành phố Nam Định',
 		'Huyện Mỹ Lộc',
@@ -543,6 +583,7 @@ $places['VN'] = array(
 		'Huyện Giao Thủy',
 		'Huyện Hải Hậu',
 	),
+	// Nghệ An
 	'41-40' => array(
 		'Thành phố Vinh',
 		'Thị xã Cửa Lò',
@@ -566,6 +607,7 @@ $places['VN'] = array(
 		'Huyện Hưng Nguyên',
 		'Thị xã Hoàng Mai',
 	),
+	// Ninh Bình
 	'42-37' => array(
 		'Thành phố Ninh Bình',
 		'Thành phố Tam Điệp',
@@ -576,6 +618,7 @@ $places['VN'] = array(
 		'Huyện Kim Sơn',
 		'Huyện Yên Mô',
 	),
+	// Ninh Thuận
 	'43-58' => array(
 		'Thành phố Phan Rang-Tháp Chàm',
 		'Huyện Bác Ái',
@@ -585,6 +628,7 @@ $places['VN'] = array(
 		'Huyện Thuận Bắc',
 		'Huyện Thuận Nam',
 	),
+	// Phú Thọ
 	'44-25' => array(
 		'Thành phố Việt Trì',
 		'Thị xã Phú Thọ',
@@ -600,6 +644,7 @@ $places['VN'] = array(
 		'Huyện Thanh Thuỷ',
 		'Huyện Tân Sơn',
 	),
+	// Phú Yên
 	'45-54' => array(
 		'Thành phố Tuy Hoà',
 		'Thị xã Sông Cầu',
@@ -611,6 +656,7 @@ $places['VN'] = array(
 		'Huyện Phú Hoà',
 		'Thị xã Đông Hòa',
 	),
+	// Quảng Bình
 	'46-44' => array(
 		'Thành Phố Đồng Hới',
 		'Huyện Minh Hóa',
@@ -621,6 +667,7 @@ $places['VN'] = array(
 		'Huyện Lệ Thủy',
 		'Thị xã Ba Đồn',
 	),
+	// Quảng Nam
 	'47-49' => array(
 		'Thành phố Tam Kỳ',
 		'Thành phố Hội An',
@@ -641,6 +688,7 @@ $places['VN'] = array(
 		'Huyện Phú Ninh',
 		'Huyện Nông Sơn',
 	),
+	// Quảng Ngãi
 	'48-51' => array(
 		'Thành phố Quảng Ngãi',
 		'Huyện Bình Sơn',
@@ -656,6 +704,7 @@ $places['VN'] = array(
 		'Huyện Ba Tơ',
 		'Huyện Lý Sơn',
 	),
+	// Quảng Ninh
 	'49-22' => array(
 		'Thành phố Hạ Long',
 		'Thành phố Móng Cái',
@@ -671,6 +720,7 @@ $places['VN'] = array(
 		'Thị xã Quảng Yên',
 		'Huyện Cô Tô',
 	),
+	// Quảng Trị
 	'50-45' => array(
 		'Thành phố Đông Hà',
 		'Thị xã Quảng Trị',
@@ -683,6 +733,7 @@ $places['VN'] = array(
 		'Huyện Hải Lăng',
 		'Huyện Cồn Cỏ',
 	),
+	// Sóc Trăng
 	'51-94' => array(
 		'Thành phố Sóc Trăng',
 		'Huyện Châu Thành',
@@ -696,6 +747,7 @@ $places['VN'] = array(
 		'Thị xã Vĩnh Châu',
 		'Huyện Trần Đề',
 	),
+	// Sơn La
 	'52-14' => array(
 		'Thành phố Sơn La',
 		'Huyện Quỳnh Nhai',
@@ -710,6 +762,7 @@ $places['VN'] = array(
 		'Huyện Sốp Cộp',
 		'Huyện Vân Hồ',
 	),
+	// Tây Ninh
 	'53-72' => array(
 		'Thành phố Tây Ninh',
 		'Huyện Tân Biên',
@@ -721,6 +774,7 @@ $places['VN'] = array(
 		'Huyện Bến Cầu',
 		'Thị xã Trảng Bàng',
 	),
+	// Thái Bình
 	'54-34' => array(
 		'Thành phố Thái Bình',
 		'Huyện Quỳnh Phụ',
@@ -731,6 +785,7 @@ $places['VN'] = array(
 		'Huyện Kiến Xương',
 		'Huyện Vũ Thư',
 	),
+	// Thái Nguyên
 	'55-19' => array(
 		'Thành phố Thái Nguyên',
 		'Thành phố Sông Công',
@@ -742,6 +797,7 @@ $places['VN'] = array(
 		'Thị xã Phổ Yên',
 		'Huyện Phú Bình',
 	),
+	// Thanh Hóa
 	'56-38' => array(
 		'Thành phố Thanh Hóa',
 		'Thị xã Bỉm Sơn',
@@ -771,6 +827,7 @@ $places['VN'] = array(
 		'Huyện Quảng Xương',
 		'Thị xã Nghi Sơn',
 	),
+	// Thừa Thiên Huế
 	'57-46' => array(
 		'Thành phố Huế',
 		'Huyện Phong Điền',
@@ -782,6 +839,7 @@ $places['VN'] = array(
 		'Huyện Phú Lộc',
 		'Huyện Nam Đông',
 	),
+	// Tiền Giang
 	'58-82' => array(
 		'Thành phố Mỹ Tho',
 		'Thị xã Gò Công',
@@ -795,6 +853,7 @@ $places['VN'] = array(
 		'Huyện Gò Công Đông',
 		'Huyện Tân Phú Đông',
 	),
+	// Trà Vinh
 	'59-84' => array(
 		'Thành phố Trà Vinh',
 		'Huyện Càng Long',
@@ -806,6 +865,7 @@ $places['VN'] = array(
 		'Huyện Duyên Hải',
 		'Thị xã Duyên Hải',
 	),
+	// Tuyên Quang
 	'60-08' => array(
 		'Thành phố Tuyên Quang',
 		'Huyện Lâm Bình',
@@ -815,6 +875,7 @@ $places['VN'] = array(
 		'Huyện Yên Sơn',
 		'Huyện Sơn Dương',
 	),
+	// Vĩnh Long
 	'61-86' => array(
 		'Thành phố Vĩnh Long',
 		'Huyện Long Hồ',
@@ -825,6 +886,7 @@ $places['VN'] = array(
 		'Huyện Trà Ôn',
 		'Huyện Bình Tân',
 	),
+	// Vĩnh Phúc
 	'62-26' => array(
 		'Thành phố Vĩnh Yên',
 		'Thành phố Phúc Yên',
@@ -836,6 +898,7 @@ $places['VN'] = array(
 		'Huyện Vĩnh Tường',
 		'Huyện Sông Lô',
 	),
+	// Yên Bái
 	'63-15' => array(
 		'Thành phố Yên Bái',
 		'Thị xã Nghĩa Lộ',
