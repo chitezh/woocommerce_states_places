@@ -76,7 +76,7 @@ $states['US'] = array(
         'WY' => __('Wyoming', 'states-cities-and-places-for-woocommerce'),
         'AFA' => __('Armed Forces Americas', 'states-cities-and-places-for-woocommerce'),
         'AFE' => __('Armed Forces Europe', 'states-cities-and-places-for-woocommerce'),
-        'AFP' => __('Armed Forces Pacific' 'states-cities-and-places-for-woocommerce'),
+        'AFP' => __('Armed Forces Pacific', 'states-cities-and-places-for-woocommerce'),
     );
 
 
