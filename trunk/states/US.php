@@ -5,9 +5,9 @@
  * - $count states/provinces/regions
  * 
  * Source: 
- * - [Please add the source(s) link(s) to check the list of places]
+ * - https://en.wikipedia.org/wiki/U.S._state
  *
- * @author  Your Name Here <yourname@here.com> | https://yourwebsite.com
+ * @author  Muhammed Fayaz <mfayaz7@gmail.com> 
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
