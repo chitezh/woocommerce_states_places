@@ -1,0 +1,105 @@
+<?php
+
+/**
+ * Cities of South Korea
+ *
+ * Source:
+ * https://en.wikipedia.org/wiki/List_of_cities_in_South_Korea
+ *
+ * @author  Amr Ali <amr@brainwave.agency> | https://brainwave.agency
+ * @version 1.0.0
+ * @license http://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+global $places;
+
+$places['KR'] = array(
+	_x('Andong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Ansan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Anseong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Anyang', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Asan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Boryeong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Bucheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Busan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Changwon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Cheonan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Cheongju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Chuncheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Chungju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Daegu', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Daejeon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Dangjin', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Dongducheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Donghae', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gangneung', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Geoje', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gimcheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gimhae', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gimje', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gimpo', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gongju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Goyang', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gumi', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gunpo', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gunsan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Guri', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gwacheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gwangju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gwangju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gwangmyeong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gwangyang', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gyeongju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gyeongsan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Gyeryong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Hanam', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Hwaseong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Icheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Iksan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Incheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Jecheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Jeongeup', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Jeonju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Jeju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Jinju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Naju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Namyangju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Namwon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Nonsan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Miryang', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Mokpo', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Mungyeong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Osan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Paju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Pocheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Pohang', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Pyeongtaek', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Sacheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Sangju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Samcheok', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Sejong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Seogwipo', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Seongnam', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Seosan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Seoul', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Siheung', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Sokcho', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Suncheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Suwon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Taebaek', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Tongyeong', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Uijeongbu', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Uiwang', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Ulsan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Wonju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Yangju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Yangsan', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Yeoju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Yeongcheon', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Yeongju', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Yeosu', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+	_x('Yongin', 'City of South Korea', 'states-cities-and-places-for-woocommerce'),
+);
+
+// Use this filter to handle the Cities of South Korea
+$places['KR'] = apply_filters('scpwoo_custom_places_kr', $places['KR']);
