@@ -38,7 +38,7 @@ Additionally it adds the States to the **Shipping Zones** (Cities are not compat
  * 🇭🇳 Honduras
  * 🇮🇹 Italy
  * 🇰🇿 Kazakhstan
- * kr South Korea
+ * 🇰🇷 South Korea
  * 🇰🇼 Kuwait
  * 🇱🇧 Lebanon
  * 🇲🇾 Malaysia
