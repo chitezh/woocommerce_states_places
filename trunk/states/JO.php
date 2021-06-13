@@ -28,3 +28,6 @@ $states['JO'] = array(
 	'TA' => 'Tafilah',
 	'ZA' => 'Zarqa',
 );
+
+// Use this filter to handle the Governorates of Jordan
+$states['JO'] = apply_filters('scpwoo_custom_states_jo', $states['JO']);

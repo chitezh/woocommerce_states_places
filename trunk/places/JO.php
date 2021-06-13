@@ -102,3 +102,6 @@ $places['JO'] = array(
 		'Azraq Refugee Camp',
 	),
 );
+
+// Use this filter to handle the Cities of Jordan
+$places['JO'] = apply_filters('scpwoo_custom_places_jo', $places['JO']);
