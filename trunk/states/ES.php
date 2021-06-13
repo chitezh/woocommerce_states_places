@@ -60,7 +60,7 @@ $states['ES'] = array(
   'TO' => 'Toledo',
   'V'  => 'Valencia',
   'VA' => 'Valladolid',
-  'BI' => 'Biscay',
+  'BI' => 'Bizkaia',
   'ZA' => 'Zamora',
   'Z'  => 'Zaragoza',
 );
