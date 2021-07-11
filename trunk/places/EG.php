@@ -193,7 +193,7 @@ $places['EG'] = array(
     _x('Hawamdiyah', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
     _x('Kafr Ghati', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
     _x('Kerdasa', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
-    _x('Manshiyet Al Bakari', 'City of Egypt', 'states-cities-and-places-for-woocommerce'), #In Cairo
+    _x('Manshiyet Al Bakari', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
     _x('ManshiyetAl Qanater', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
     _x('Oaseem', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
     _x('Saf', 'City of Egypt', 'states-cities-and-places-for-woocommerce'),
