@@ -4,10 +4,10 @@ Donate link: https://github.com/chitezh
 Tags: woocommerce, locations, states, cities, provinces, regions, departments, municipalities, districs, governorates, counties, cantons
 Stable tag: 1.3.2
 Requires at least: 4.0
-Tested up to: 5.6
+Tested up to: 5.8
 Requires PHP: 7.0
 WC requires at least: 3.0.x
-WC tested up to: 4.8
+WC tested up to: 5.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -75,7 +75,7 @@ Additionally it adds the States to the **Shipping Zones** (Cities are not compat
 
 If you want to see the plugin in action, follow the steps below:
 
-1. Visit the **plugin demo site**: https://statesandcitieswc.ml/
+1. Visit the **plugin demo site**: https://wcstatesandcities.ml/
 2. Select a **sample product** from the list.
 3. Go to the **Checkout** to interact with available country locations.
 
