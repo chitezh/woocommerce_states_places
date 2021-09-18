@@ -18,8 +18,7 @@ global $places;
 // Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
 $places['MA'] = array(
   // Replace 'AA' code with the code of the State you want to mapping this places  
-  '06' => array(
-    // Add all the places of this State, one place per line
+  '06' => array( // Casablanca-Settat
     'Casablanca',
     'Mohammedia',
     'El Jadid',
@@ -45,7 +44,7 @@ $places['MA'] = array(
     'Douar Ouled Ayad',
     'Zawyat an Nwaçer'
   ),
-  '05' => array(
+  '05' => array( // Béni Mellal-Khénifra
     'Kouribga',
     'Béni Mellal',
     'Khénifra',
@@ -65,7 +64,7 @@ $places['MA'] = array(
     'Ouaoula',
     'Ayt Mohamed'
   ),
-  '08' => array(
+  '08' => array( // Drâa-Tafilalet
     'Errachidia',
     'Warzat',
     'Midalt',
@@ -73,5 +72,42 @@ $places['MA'] = array(
     'Zagora',
     'Arfoud',
     'Skoura'
+  ),
+  '03' => array( // Fès-Meknès
+    'Fès',
+    'Meknès',
+    'Taza',
+    'Sefrou',
+    'Azrou',
+    'Taounate',
+    'El Hajeb',
+    'Fritissa',
+    'Aïn Taoujdat',
+    'Tahla',
+    'Sabaa Aiyoun',
+    'Bourdoud',
+    'Missour',
+    'Ain Aicha',
+    'Oulad Tayeb',
+    'Douar ’Ayn Dfali',
+    'Bni Frassen'
+  ),
+  '10' => array( // Guelmim-Oued Noun
+    'Guelmim',
+    'Tan-Tan'
+  ),
+  '02' => array( // Oriental
+    'Oujda-Angad',
+    'Taourirt',
+    'Nador',
+    'Berkane',
+    'Guercif',
+    'Beni Enzar',
+    'Al Aaroui',
+    'Jerada',
+    'El Aïoun',
+    'Zaïo',
+    'Zeghanghane',
+    'Bou Arfa'
   ),
 );
