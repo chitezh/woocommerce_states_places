@@ -29,12 +29,12 @@ $states['MA'] = array(
   // https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations
   '05' => 'Béni Mellal-Khénifra',
   '06' => 'Casablanca-Settat',
-  '12' => 'Dakhla-Oued Ed-Dahab',
+  '12' => 'Dakhla-Oued Ed-Dahab', //TO BE ADDED
   '08' => 'Drâa-Tafilalet',
   '03' => 'Fès-Meknès',
   '10' => 'Guelmim-Oued Noun',
   '02' => "L'Oriental",
-  '11' => 'Laâyoune-Sakia El Hamra',
+  '11' => 'Laâyoune-Sakia El Hamra', //TO BE ADDED
   '07' => 'Marrakech-Safi',
   '04' => 'Rabat-Salé-Kénitra',
   '09' => 'Souss-Massa',
