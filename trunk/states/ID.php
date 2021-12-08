@@ -2,10 +2,12 @@
 
 /**
  * $country states/provinces/regions
- * - 32 states/provinces/regions
+ * - $count states/provinces/regions
+ * - 1/34/514
  * 
  * Source: 
  * - https://id.wikipedia.org/wiki/Provinsi_di_Indonesia
+ * - https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia
  *
  * @author  Ahnaf Fauzan <ahnaffauzanorg@gmail.com> | https://www.instagram.com/ahnaffauzanorg/
  * @version 1.0.0
