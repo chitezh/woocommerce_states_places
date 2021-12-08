@@ -3,23 +3,21 @@
 /**
  * $country places/cities/municipalities/districts
  * - $count places/cities/municipalities/districts
+ * - 1/34/514
  * 
  * Source: 
- * - [Please add the source(s) link(s) to check the list of places]
+ * - https://id.wikipedia.org/wiki/Provinsi_di_Indonesia
+ * - https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Indonesia
  * 
- * @author  Your Name Here <yourname@here.com> | https://yourwebsite.com
+ * @author  Ahnaf Fauzan <ahnaffauzanorg@gmail.com> | https://www.instagram.com/ahnaffauzanorg/
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 global $places;
 
-// Replace 'XX' code for your Country Code. E.g. 'NG' for Nigeria, 'CO' for Colombia, 'VE' for Venezuela, etc.
-// Please refer to WooCommerce country codes : https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
-$places['XX'] = array(
-  // Replace 'AA' code with the code of the State you want to mapping this places  
+$places['ID'] = array(
   'AA' => array(
-    // Add all the places of this State, one place per line
     'Location 1',
     'Location 2',
     'Location 3',
