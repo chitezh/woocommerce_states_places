@@ -601,3 +601,6 @@ $places['ID'] = array(
     'Kota Jayapura',
   ),
 );
+
+// Use this filter to handle the Districts of Indonesia
+$places['ID'] = apply_filters('scpwoo_custom_places_id', $places['ID']);
