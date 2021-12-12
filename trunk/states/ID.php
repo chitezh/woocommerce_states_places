@@ -52,3 +52,6 @@ $states['ID'] = array(
   'PB' => 'Papua Barat',
   'PA' => 'Papua',
 );
+
+// Use this filter to handle the Parishes of Indonesia
+$states['ID'] = apply_filters('scpwoo_custom_states_id', $states['ID']);
