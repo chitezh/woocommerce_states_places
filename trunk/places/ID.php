@@ -164,6 +164,7 @@ $places['ID'] = array(
     'Kota Pagar Alam',
     'Kota Palembang',
     'Kota Prabumulih',
+  ),
   'BB' => array(
     'Kabupaten Bangka',
     'Kabupaten Bangka Barat',
