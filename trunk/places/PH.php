@@ -101,27 +101,85 @@ $places['PH'] = array(
 
   // Albay
   'ALB' => array(
-    'Location 1',
+    'Bacacay',
+    'Camalig',
+    'Daraga',
+    'Guinobatan',
+    'Jovellar',
+    'Legazpi City (Capital)',
+    'Libon',
+    'Ligao City',
+    'Malilipot',
+    'Malinao',
+    'Manito',
+    'Oas',
+    'Pio Duran',
+    'Polangui',
+    'Rapu-Rapu',
+    'Santo Domingo',
+    'Tabaco City',
+    'Tiwi',
   ),
 
   // Antique
   'ANT' => array(
-    'Location 1',
+    'Anini-Y',
+    'Barbaza',
+    'Belison',
+    'Bugasong',
+    'Caluya',
+    'Culasi',
+    'Tobias Fornier',
+    'Hamtic',
+    'Laua-An',
+    'Libertad',
+    'Pandan',
+    'Patnongon',
+    'San Jose (Capital)',
+    'San Remigio',
+    'Sebaste',
+    'Sibalom',
+    'Tibiao',
+    'Valderrama',
   ),
 
   // Apayao
   'APA' => array(
-    'Location 1',
+    'Calanasan',
+    'Conner',
+    'Flora',
+    'Kabugao (Capital)',
+    'Luna',
+    'Pudtol',
+    'Santa Marcela',
   ),
 
   // Aurora
   'AUR' => array(
-    'Location 1',
+    'Baler (Capital)',
+    'Casiguran',
+    'Dilasag',
+    'Dinalungan',
+    'Dingalan',
+    'Dipaculao',
+    'Maria Aurora',
+    'San Luis',
   ),
 
   // Basilan
   'BAS' => array(
-    'Location 1',
+    'Lamitan City (Capital)',
+    'Lantawan',
+    'Maluso',
+    'Sumisip',
+    'Tipo-Tipo',
+    'Tuburan',
+    'Akbar',
+    'Al-Barka',
+    'Hadji Mohammad Ajul',
+    'Ungkaya Pukan',
+    'Hadji Muhtamad',
+    'Tabuan-Lasa',
   ),
 
   // Bataan
