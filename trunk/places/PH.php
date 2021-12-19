@@ -629,32 +629,94 @@ $places['PH'] = array(
 
   // Davao del Norte
   'DAV' => array(
-    'Location 1',
+    'Asuncion',
+    'Carmen',
+    'Island Garden City of Samal',
+    'Kapalong',
+    'New Corella',
+    'Panabo City',
+    'Santo Tomas',
+    'Tagum City (Capital)',
+    'Talaingod',
+    'Braulio E. Dujali',
+    'San Isidro',
   ),
 
   // Davao del Sur
   'DAS' => array(
-    'Location 1',
+    'Bansalan',
+    'Davao City',
+    'Digos City (Capital)',
+    'Hagonoy',
+    'Kiblawan',
+    'Magsaysay',
+    'Malalag',
+    'Matanao',
+    'Padada',
+    'Santa Cruz',
+    'Sulop',
   ),
 
   // Davao Occidental
   'DAC' => array(
-    'Location 1',
+    'Don Marcelino',
+    'Jose Abad Santos',
+    'Malita (Capital)',
+    'Santa Maria',
+    'Sarangani',
   ),
 
   // Davao Oriental
   'DAO' => array(
-    'Location 1',
+    'Baganga',
+    'Banaybanay',
+    'Boston',
+    'Caraga',
+    'Cateel',
+    'Governor Generoso',
+    'Lupon',
+    'Manay',
+    'Mati City (Capital)',
+    'San Isidro',
+    'Tarragona',
   ),
 
   // Dinagat Islands
   'DIN' => array(
-    'Location 1',
+    'Basilisa',
+    'Cagdianao',
+    'Dinagat',
+    'Libjo',
+    'Loreto',
+    'San Jose (Capital)',
+    'Tubajon',
   ),
 
   // Eastern Samar
   'EAS' => array(
-    'Location 1',
+    'Arteche',
+    'Balangiga',
+    'Balangkayan',
+    'Borongan City (Capital)',
+    'Can-Avid',
+    'Dolores',
+    'General Macarthur',
+    'Giporlos',
+    'Guiuan',
+    'Hernani',
+    'Jipapad',
+    'Lawaan',
+    'Llorente',
+    'Maslog',
+    'Maydolong',
+    'Mercedes',
+    'Oras',
+    'Quinapondan',
+    'Salcedo',
+    'San Julian',
+    'San Policarpo',
+    'Sulat',
+    'Taft',
   ),
 
   // Guimaras
