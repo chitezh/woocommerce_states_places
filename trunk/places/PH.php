@@ -1650,17 +1650,47 @@ $places['PH'] = array(
 
   // Siquijor
   'SIQ' => array(
-    'Location 1',
+    'Enrique Villanueva',
+    'Larena',
+    'Lazi',
+    'Maria',
+    'San Juan',
+    'Siquijor (Capital)',
   ),
 
   // Sorsogon
   'SOR' => array(
-    'Location 1',
+    'Barcelona',
+    'Bulan',
+    'Bulusan',
+    'Casiguran',
+    'Castilla',
+    'Donsol',
+    'Gubat',
+    'Irosin',
+    'Juban',
+    'Magallanes',
+    'Matnog',
+    'Pilar',
+    'Prieto Diaz',
+    'Santa Magdalena',
+    'Sorsogon City (Capital)',
   ),
 
   // South Cotabato
   'SCO' => array(
-    'Location 1',
+    'Banga',
+    'General Santos City',
+    'Koronadal City (Capital)',
+    'Lake Sebu',
+    'Norala',
+    'Polomolok',
+    'Santo Niño',
+    'Surallah',
+    'T\'Boli',
+    'Tampakan',
+    'Tantangan',
+    'Tupi',
   ),
 
   // Southern Leyte
