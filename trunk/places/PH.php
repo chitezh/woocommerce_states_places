@@ -7,7 +7,7 @@
  * Source:
  * - https://psa.gov.ph/classification/psgc/?q=psgc/provinces
  *
- * @author  David Webb Espiritu <webbteche@gmail.com> | https://yourwebsite.com
+ * @author  David Webb Espiritu <webbteche@gmail.com> | https://www.linkedin.com/in/webbteche
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
@@ -600,11 +600,6 @@ $places['PH'] = array(
     'Tudela',
   ),
 
-  // Compostela Valley
-  'COM' => array(
-    'Location 1',
-  ),
-
   // Cotabato
   'NCO' => array(
     'Alamada',
@@ -655,6 +650,21 @@ $places['PH'] = array(
     'Padada',
     'Santa Cruz',
     'Sulop',
+  ),
+
+  // Davao de Oro
+  'COM' => array(
+    'Compostela',
+    'Laak',
+    'Mabini',
+    'Maco',
+    'Maragusan',
+    'Mawab',
+    'Monkayo',
+    'Montevista',
+    'Nabunturan (Capital)',
+    'New Bataan',
+    'Pantukan',
   ),
 
   // Davao Occidental
