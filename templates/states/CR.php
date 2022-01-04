@@ -27,7 +27,11 @@ $states['XX'] = array(
   // You can use any standar like ISO, ANSI, etc. There is no an mandatory standar or system and you can use your own.
   // Please see the U.S. state abbreviations to see an example:
   // https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations
-  'AA' => 'State 1',
-  'BB' => 'State 2',
-  'CC' => 'State 3',
+  'SJ' => 'San José',
+  'AL' => 'Alajuela',
+  'CG' => 'Cartago',
+  'HD' => 'Heredia',
+  'GT' => 'Guanacaste',
+  'PT' => 'Puntarenas',
+  'LM' => 'Limón'
 );
