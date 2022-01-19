@@ -32,6 +32,7 @@ Additionally it adds the States to the **Shipping Zones** (Cities are not compat
  * 🇪🇨 Ecuador
  * 🇪🇬 Egypt
  * 🇸🇻 El Salvador
+ * 🇫🇷 France
  * 🇬🇭 Ghana
  * 🇬🇹 Guatemala
  * 🇭🇹 Haiti
