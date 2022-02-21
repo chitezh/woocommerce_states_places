@@ -4,7 +4,7 @@ Donate link: https://github.com/chitezh
 Tags: woocommerce, locations, states, cities, provinces, regions, departments, municipalities, districs, governorates, counties, cantons
 Stable tag: 1.3.2
 Requires at least: 4.0
-Tested up to: 5.6
+Tested up to: 5.9
 Requires PHP: 7.0
 WC requires at least: 3.0.x
 WC tested up to: 4.8
