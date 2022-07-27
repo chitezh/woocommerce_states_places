@@ -8,8 +8,8 @@
  * -https://www.directoriocubano.info/postales/
  * -https://www.ecured.cu/Municipios_de_Cuba
  *
- * @author   Ramiro Rodpa <www.rmr@gmail.com>
- * @version  1.0.0
+ * @author   Ramiro Rodpa <www.rmr@gmail.com>, Carlos Quesada <info@cquesada.es>
+ * @version  1.0.1
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
 global $places;
@@ -25,54 +25,53 @@ $places['CU'] = array(
 		'Cotorro',
 		'Guanabacoa',
 		'Habana del Este',
-		'Habana Vieja',
-		'La Lisa',
+		'La Habana Vieja',
 		'Marianao',
 		'Playa',
-		'Plaza de la Revolucion',
+		'Plaza de la Revolución',
 		'Regla',
-		'San Miguel del Padron'
+		'San Miguel del Padrón'
 	),
 	// Artemisa
 	'AR' => array(
-		'Alquizar',
+		'Alquízar',
 		'Artemisa',
-		'Bahia Honda',
+		'Bahía Honda',
 		'Bauta',
-		'Caimito',
+		'Caimito',	
 		'Candelaria',
-		'Guanajay',
-		'Guira de Melena',
-		'Mariel',
+		'Guanajay',	
+		'Güira de Melena',	
+		'Mariel',	
 		'San Antonio de los Baños',
-		'San Cristobal'
+		'San Cristóbal',
 	),
-	// Camaguey
+	// Camagüey
 	'CM' => array(
-		'Camaguey',
-		'Carlos Manuel de Cespedes',
+		'Camagüey',
+		'Carlos Manuel de Céspedes',
 		'Esmeralda',
 		'Florida',
-		'Guaimaro',
-		'Jimaguayu',
+		'Guáimaro',
+		'Jimaguayú',
 		'Minas',
 		'Najasa',
 		'Nuevitas',
 		'Santa Cruz del Sur',
-		'Sibanicu',
+		'Sibanicú',
 		'Sierra de Cubitas',
 		'Vertientes'
 	),
-	// Ciego de Avila
+	// Ciego de Ávila
 	'CA' => array(
-		'Baragua',
-		'Bolivia',
+		'Baraguá', 
+		'Bolivia', 
 		'Chambas',
-		'Ciego de Avila',
-		'Ciro Redondo',
-		'Florencia',
-		'Majagua',
-		'Moron',
+		'Ciego de Ávila', 
+		'Ciro Redondo', 
+		'Florencia', 
+		'Majagua', 
+		'Morón', 
 		'Primero de Enero',
 		'Venezuela'
 	),
@@ -83,54 +82,54 @@ $places['CU'] = array(
 		'Cienfuegos',
 		'Cruces',
 		'Cumanayagua',
+		'Lajas',
 		'Palmira',
-		'Rodas',
-		'Santa Isabel de las Lajas'
+		'Rodas'
 	),
 	// Granma
 	'GR' => array(
-		'Bartolome Maso',
-		'Bayamo',
-		'Buey Arriba',
-		'Campechuela',
-		'Cauto Cristo',
-		'Guisa',
-		'Jiguani',
+		'Bartolomé Masó',		
+		'Bayamo',	
+		'Buey Arriba',	
+		'Campechuela',	
+		'Cauto Cristo',	
+		'Guisa',	
+		'Jiguaní',		
 		'Manzanillo',
 		'Media Luna',
-		'Niquero',
-		'Pilon',
-		'Rio Cauto',
+		'Niquero',	
+		'Pilón',		
+		'Río Cauto',
 		'Yara'
 	),
-	// Guantanamo
+	// Guantánamo
 	'GU' => array(
 		'Baracoa',
 		'Caimanera',
 		'El Salvador',
-		'Guantanamo',
-		'Imias',
-		'Maisi',
+		'Guantánamo',
+		'Imías',
+		'Maisí',
 		'Manuel Tames',
-		'Niceto Perez',
+		'Niceto Pérez',
 		'San Antonio del Sur',
-		'Yateras'
+		'Yateras',
 	),
-	// Holguin
+	// Holguín
 	'HO' => array(
-		'Antilla',
-		'Baguanos',
-		'Banes',
-		'Cacocum',
-		'Calixto Garcia',
-		'Cueto',
-		'Fran Pais',
-		'Gibara',
-		'Holguin',
-		'Mayari',
-		'Moa',
-		'Rafael Freire',
-		'Sagua de Tanamo',
+		'Antilla'
+		'Báguanos'
+		'Banes'
+		'Cacocum'
+		'Calixto García'
+		'Cueto'
+		'Frank País'
+		'Gibara'
+		'Holguín'
+		'Mayarí'
+		'Moa'
+		'Rafael Freyre'
+		'Sagua de Tánamo'
 		'Urbano Noris'
 	),	
 	// Isla de la Juventud
@@ -141,92 +140,95 @@ $places['CU'] = array(
 	'LT' => array(
 		'Amancio',
 		'Colombia',
-		'Jesus Menendez',
+		'Jesús Menéndez',
 		'Jobabo',
 		'Las Tunas',
 		'Majibacoa',
-		'Manati',
+		'Manatí',
 		'Puerto Padre'
 	),
 	// Matanzas
 	'MA' => array(
 		'Calimete',
-		'Cardenas',
-		'Cienaga de Colon',
-		'Jaguey Grande',
+		'Cárdenas',
+		'Ciénaga de Zapata',
+		'Colón',
+		'Jagüey Grande', 
 		'Jovellanos',
 		'Limonar',
 		'Los Arabos',
-		'Marti',
+		'Martí',
 		'Matanzas',
 		'Pedro Betancourt',
 		'Perico',
-		'Union de Reyes'
+		'Unión de Reyes'
 	),
 	// Mayabeque
 	'MQ' => array(
-		'Batabano',
+		'Batabanó',
 		'Bejucal',
-		'Guines',
+		'Güines',	
 		'Jaruco',
 		'Madruga',
 		'Melena del Sur',
 		'Nueva Paz',
-		'Quivican',
-		'San Jose de las Lajas',
-		'San Nicolas',
+		'Quivicán',
+		'San José de las Lajas',
+		'San Nicolás de Bari',
 		'Santa Cruz del Norte'
 	),
-	// Pinar del Rio
+	// Pinar del Río
 	'PD'  => array(
-		'Consolacion del Sur',
+		'Consolación del Sur',
 		'Guane',
 		'La Palma',
 		'Los Palacios',
 		'Mantua',
 		'Minas de Matahambre',
-		'Pinar del Rio',
-		'Sandino',
-		'San Juan y Martinez',
+		'Pinar del Río',
+		'San Juan y Martínez',
 		'San Luis',
+		'Sandino',
 		'Viñales'
 	),
-	// Sancti Spiritus
+	// Sancti Spíritus
 	'SS' => array(
-		'Cabaiguan',
-		'Fomento',
-		'Jatibonico',
+		'Cabaiguán',	
+		'Fomento',	
+		'Jatibonico',	
 		'La Sierpe',
-		'Sancti Spiritus',
-		'Taguasco',
-		'Trinidad',
-		'Yaguajay'
+		'Sancti Spíritus', 
+		'Taguasco',	
+		'Trinidad',	
+		'Yaguajay'	
 	),
 	// Santiago de Cuba
 	'SC' => array(
 		'Contramaestre',
-		'Guama',
-		'Mella',
+		'Guamá',
+		'Mella',		
 		'Palma Soriano',
 		'San Luis',
 		'Santiago de Cuba',
 		'Segundo Frente',
-		'Songo-La Maya',
-		'Tercer Frente'
+		'Songo - La Maya',
+		'Tercer Frente Oriental'	
 	),
 	// Villa Clara
 	'VC' => array(
-		'Caibarien',
-		'Camajuani',
+		'Caibarién',
+		'Camajuaní',
 		'Cifuentes',
 		'Corralillo',
 		'Encrucijada',
 		'Manicaragua',
 		'Placetas',
-		'Quemado de Guines',
+		'Quemado de Güines',
 		'Ranchuelo',
+		'Remedios',
 		'Sagua la Grande',
-		'San Juan de los Remedios'
+		'Santa Clara',
+		'Santo Domingo'
 	),
 );
 
