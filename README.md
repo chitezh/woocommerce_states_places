@@ -70,7 +70,7 @@ Additionally it adds the States to the **Shipping Zones** (Cities are not compat
 
 If you want to see the plugin in action, follow the steps below:
 
-1. Visit the **plugin demo site**: https://wcstatesandcities.ml/
+1. Visit the **plugin demo site**: https://wcstatesandcities.yordansoar.es/
 2. Select a **sample product** from the list.
 3. Go to the **Checkout** to interact with available country locations.
 
