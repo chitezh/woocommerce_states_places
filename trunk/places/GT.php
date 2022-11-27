@@ -102,7 +102,8 @@ $places['GT'] = array(
 		'San Vicente Pacaya',
 		'Santa Lucía Cotzumalguapa',
 		'Sipacate',
-		'Siquinaláe',
+		'Siquinalá',
+		'Tiquisate',
 	),
 	'GT-GU' => array(
 		'Amatitlán',
