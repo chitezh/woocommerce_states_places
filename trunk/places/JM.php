@@ -300,3 +300,6 @@ $places['JM'] = array(
     'Troja',
   )
 );
+
+// Use this filter to handle the Cities of Jamaica
+$places['JM'] = apply_filters('scpwoo_custom_places_jm', $places['JM']);
