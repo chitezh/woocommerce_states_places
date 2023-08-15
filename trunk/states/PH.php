@@ -9,7 +9,7 @@
  * - https://github.com/woocommerce/woocommerce/blob/trunk/plugins/woocommerce/i18n/states.php
  * - https://psa.gov.ph/classification/psgc/?q=psgc/regions
  *
- * @author  David Webb Espiritu <webbteche@gmail.com> | https://www.linkedin.com/in/webbteche
+ * @author  David Webb Espiritu <davidwebbespiritu@gmail.com> | https://www.linkedin.com/in/davidwebbespiritu
  * @version 1.0.0
  * @license http://www.gnu.org/licenses/gpl-2.0.html
  */
