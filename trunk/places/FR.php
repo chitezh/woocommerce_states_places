@@ -19899,6 +19899,7 @@ $places['FR'] = array(
 	'Orveau',
 	'Palaiseau',
 	'Paray-Vieille-Poste',
+    'Paris',
 	'Pecqueuse',
 	'Plessis-Saint-Benoist',
 	'Prunay-sur-Essonne',
