@@ -1,0 +1,193 @@
+<?php
+
+/**
+ * Governorates of Qatar
+ * - 118 governorates
+ *
+ * Source:
+ * - https://en.wikipedia.org/wiki/List_of_cities_in_Qatar
+ *
+ * @author  Ahmed Safaa <ahmed@sz4h.com> | https://sz4h.com/
+ * @version 1.0.0
+ * @license http://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+global $places;
+
+$places['SA'] = array(
+// Al Shamal
+	'QA-1' => array(
+		_x('Abu Dhalouf', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Ain Sinan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fuwayrit', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Madinat ash Shamal', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Madinat Al Kaaban', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Ar Ru\'ays', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Zubarah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+	),
+// Al Rayyan
+	'QA-2' => array(
+		_x('Abu Hamour', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Rayyan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Aziziya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Baaya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Bani Hajer', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Bu Samra', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Bu Sidra', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Dukhan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Amir', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Asiri', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Murra', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Manaseer', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Soudan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Zaeem', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Gharrafat Al Rayyan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Gharrafa', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Izghawa(Al Rayyan)', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Lebday', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Lijmiliya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Luaib', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Luqta', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Mebaireek', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Mehairja', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Mesaimeer', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Muaither', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Muraikh', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Mamoura', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('new Al Rayyan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('new Fereej Al Ghanim', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('new Fereej Al Khulaifat', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Nasraniya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Old Al Rayyan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Rawdat Egdaim', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Rawdat Rashed', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Sawda Natheel', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Sailiya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Shagub', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al - Shahaniya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Themaid', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Umm Bab', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Utouriya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Waab', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Wajba', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Ain Khaled', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+	),
+// Doha
+	'QA-3' => array(
+		_x('Barahat Al Jufairi', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Bidda', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Dahl Al Hamam', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Doha International Airport', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Doha Port', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Duhail', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Dafna', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Ad Dawhah al Jadidah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Egla', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Abdel Aziz', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Bin Durham', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Bin Mahmoud', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Bin Omran', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Kulaib', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Mohammed Bin Jassim', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Asmakh', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Fereej Al Nasr', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Hamad Medical City', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Hazm Al Markhiya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Hilal', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Industrial Area', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Jabal Thuaileb', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Jelaiah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Jeryan Nejaima', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Jasrah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Kharayej', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Khulaifat', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Lejbailat', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Lekhwair', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Leqtaifiya(West Bay Lagoon)', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Madinat Khalifa North', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Madinat Khalifa South', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Messila', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Mushayrib', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Mansoura', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Markhiyah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Mearad', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Mirqab', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Najma', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('new Al Hitmi', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('new Al Mirqab', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('new Salata', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Nu`ayjah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Najada', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Old Airport', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Old Al Ghanim', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Old Al Hitmi', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Onaiza', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('The Pearl', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Qassar', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Ras Abu Aboud', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Rawdat Al Khail', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Rumeilah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Rufaa', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Sadd', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('As Salatah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Souq', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Seej', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Tarfa', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Thumama (Doha)', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Umm Ghuwailina', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Umm Lekhba', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Wadi Al Banat', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Wadi Al Sail', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+	),
+// Umm Salal
+	'QA-4' => array(
+		_x('Bu Fasseela', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Izghawa (Umm Salal)', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Kharaitiyat', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Umm Salal Ali', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Umm Salal Mohammed', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+	),
+// Al Daayen
+	'QA-5' => array(
+		_x('Al Daayen', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Ebb', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Jeryan Jenaihat', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Kheesa', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Leabaib', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Lusail', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Masrouhiya', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Rawdat Al Hamama', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Sakhama', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Umm Qarn', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Wadi Al Wasaah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Wadi Lusail', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+	),
+// Al Khor
+	'QA-6' => array(
+		_x('Al Ghuwariyah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Jeryan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Khor', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Ras Lafan', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Simaisma', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Thakhira', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Umm Birka', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+	),
+// Al Wakrah
+	'QA-7' => array(
+		_x('Khawr al Udayd', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Karaana', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Kharrara', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Mesaieed', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Mesaieed Industrial Area', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Mashaf', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Shagra', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Thumama (Al Wakrah)', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Wakrah', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+		_x('Al Wukair', 'Governorates of Qatar', 'states-cities-and-places-for-woocommerce'),
+	),
+
+);
+
+// Use this filter to handle the Governorates of Qatar
+$places['QA'] = apply_filters('scpwoo_custom_places_qa', $places['QA']);
+
