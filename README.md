@@ -45,6 +45,7 @@ Additionally it adds the States to the **Shipping Zones** (Cities are not compat
  * 🇲🇺 Mauritius
  * 🇲🇽 Mexico
  * 🇳🇮 Nicaragua
+ * 🇲🇲 Myanmar
  * 🇳🇪 Niger
  * 🇳🇬 Nigeria
  * 🇴🇲 Oman
