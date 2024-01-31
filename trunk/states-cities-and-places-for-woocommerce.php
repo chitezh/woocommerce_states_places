@@ -47,6 +47,7 @@ if ( (is_multisite() && array_key_exists('woocommerce/woocommerce.php', get_site
          * WC init
          */
         public function init() {
+            add_action( 'before_woocommerce_init', array( $this, 'woocommerce_hpos_compatible' ) );
             $this->init_textdomain();
             $this->init_fields();
             $this->init_states();
@@ -326,6 +327,17 @@ if ( (is_multisite() && array_key_exists('woocommerce/woocommerce.php', get_site
             }
 
             return $this->plugin_url = plugin_dir_url( __FILE__ );
+        }
+
+        /**
+         * Declares WooCommerce HPOS compatibility
+         *
+         * @return void
+         */
+        public function woocommerce_hpos_compatible() {
+            if ( class_exists( '\Automattic\WooCommerce\Utilities\FeaturesUtil' ) ) {
+                \Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', __FILE__, true );
+            }
         }
     }
     /**
