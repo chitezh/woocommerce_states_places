@@ -52,4 +52,4 @@ $states['IN'] = array(
 );
 
 // Use this filter to handle the States and union territories of India
-$places['IN'] = apply_filters('scpwoo_custom_places_in', $places['IN']);
+$states['IN'] = apply_filters('scpwoo_custom_places_in', $places['IN']);
