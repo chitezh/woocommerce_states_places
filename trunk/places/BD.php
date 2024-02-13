@@ -678,6 +678,7 @@ $places['BD'] = array(
 		__('Mirzaganj', 'states-cities-and-places-for-woocommerce'),
 		__('Patuakhali Sadar', 'states-cities-and-places-for-woocommerce'),
 		__('Rangabali', 'states-cities-and-places-for-woocommerce'),
+        __('Kuakata', 'states-cities-and-places-for-woocommerce'),
 	),
 	'pirojpur' => array(
 		__('Bhandaria', 'states-cities-and-places-for-woocommerce'),
